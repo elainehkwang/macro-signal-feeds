@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T05:49:37.824709+00:00",
+  "generated_at": "2026-07-10T06:44:46.554543+00:00",
   "source": "rss",
   "feeds_count": 17,
   "total_entries": 170,
@@ -14,65 +14,78 @@
           "title": "Federal Reserve announces the leadership and objectives of its task forces to advance the conduct of monetary policy",
           "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260709a.htm",
           "published": "Thu, 9 Jul 2026 19:00:00 GMT",
-          "description": "Federal Reserve announces the leadership and objectives of its task forces to advance the conduct of monetary policy"
+          "description": "Federal Reserve announces the leadership and objectives of its task forces to advance the conduct of monetary policy",
+          "relevant": true
         },
         {
           "title": "Minutes of the Federal Open Market Committee, June 16-17, 2026",
           "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260708a.htm",
           "published": "Wed, 8 Jul 2026 18:00:00 GMT",
-          "description": "Minutes of the Federal Open Market Committee, June 16-17, 2026"
+          "description": "Minutes of the Federal Open Market Committee, June 16-17, 2026",
+          "relevant": true
         },
         {
           "title": "Federal Reserve issues FOMC statement",
           "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260617a.htm",
           "published": "Wed, 17 Jun 2026 18:00:00 GMT",
-          "description": "Federal Reserve issues FOMC statement"
+          "description": "Federal Reserve issues FOMC statement",
+          "relevant": true
         },
         {
           "title": "Federal Reserve Board and Federal Open Market Committee release economic projections from the June 16-17 FOMC meeting",
           "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260617b.htm",
           "published": "Wed, 17 Jun 2026 18:00:00 GMT",
-          "description": "Federal Reserve Board and Federal Open Market Committee release economic projections from the June 16-17 FOMC meeting"
+          "description": "Federal Reserve Board and Federal Open Market Committee release economic projections from the June 16-17 FOMC meeting",
+          "relevant": true
         },
         {
           "title": "Minutes of the Board's discount rate meeting on April 20 and 29, 2026",
           "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260526a.htm",
           "published": "Tue, 26 May 2026 18:00:00 GMT",
-          "description": "Minutes of the Board&#39;s discount rate meeting on April 20 and 29, 2026"
+          "description": "Minutes of the Board&#39;s discount rate meeting on April 20 and 29, 2026",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
         },
         {
           "title": "Minutes of the Federal Open Market Committee, April 28-29, 2026",
           "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260520a.htm",
           "published": "Wed, 20 May 2026 18:00:00 GMT",
-          "description": "Minutes of the Federal Open Market Committee, April 28-29, 2026"
+          "description": "Minutes of the Federal Open Market Committee, April 28-29, 2026",
+          "relevant": true
         },
         {
           "title": "Federal Reserve issues FOMC statement",
           "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260429a.htm",
           "published": "Wed, 29 Apr 2026 18:00:00 GMT",
-          "description": "Federal Reserve issues FOMC statement"
+          "description": "Federal Reserve issues FOMC statement",
+          "relevant": true
         },
         {
           "title": "Minutes of the Board’s discount rate meetings on February 9 and March 18, 2026",
           "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260414a.htm",
           "published": "Tue, 14 Apr 2026 18:00:00 GMT",
-          "description": "Minutes of the Board’s discount rate meetings on February 9 and March 18, 2026"
+          "description": "Minutes of the Board’s discount rate meetings on February 9 and March 18, 2026",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
         },
         {
           "title": "Minutes of the Federal Open Market Committee, March 17–18, 2026",
           "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260408a.htm",
           "published": "Wed, 8 Apr 2026 18:00:00 GMT",
-          "description": "Minutes of the Federal Open Market Committee, March 17–18, 2026"
+          "description": "Minutes of the Federal Open Market Committee, March 17–18, 2026",
+          "relevant": true
         },
         {
           "title": "Federal Reserve issues FOMC statement",
           "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260318a.htm",
           "published": "Wed, 18 Mar 2026 18:00:00 GMT",
-          "description": "Federal Reserve issues FOMC statement"
+          "description": "Federal Reserve issues FOMC statement",
+          "relevant": true
         }
       ],
       "count": 10,
-      "domain": "US Fiscal"
+      "domain": "US Fiscal",
+      "relevant_count": 8
     },
     {
       "name": "TreasuryDirect — Auction Results",
@@ -84,65 +97,76 @@
           "title": "29-Year 10-Month Bond Treasury Auction Results",
           "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
           "published": "Thu, 09 Jul 2026 17:03:21 GMT",
-          "description": "CUSIP:  912810UU0  Term and Type:  29-Year 10-Month Bond  Series:  Bonds of May 2056  Reopening:  Yes  Interest Rate:  5.000%  High Yield:  5.058%  Price:  $99.097875  Allotted at High:  7.13%  Total Tendered:  $56,054,172,900  Total Accepted:  $24,287,893,700  Auction Date:  07/09/2026  Issue Date:  07/15/2026  Maturity Date:  05/15/2056  PDF  |  XML"
+          "description": "CUSIP:  912810UU0  Term and Type:  29-Year 10-Month Bond  Series:  Bonds of May 2056  Reopening:  Yes  Interest Rate:  5.000%  High Yield:  5.058%  Price:  $99.097875  Allotted at High:  7.13%  Total Tendered:  $56,054,172,900  Total Accepted:  $24,287,893,700  Auction Date:  07/09/2026  Issue Date:  07/15/2026  Maturity Date:  05/15/2056  PDF  |  XML",
+          "relevant": true
         },
         {
           "title": "8-Week Bill Treasury Auction Results",
           "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
           "published": "Thu, 09 Jul 2026 15:33:17 GMT",
-          "description": "CUSIP:  912797VB0  Term and Type:  8-Week Bill  CMB:  No  High Rate:  3.635%  Investment Rate:  3.706%  Price:  $99.434556  Allotted at High:  68.80%  Total Tendered:  $286,267,625,500  Total Accepted:  $100,877,305,500  Auction Date:  07/09/2026  Issue Date:  07/14/2026  Maturity Date:  09/08/2026  PDF  |  XML"
+          "description": "CUSIP:  912797VB0  Term and Type:  8-Week Bill  CMB:  No  High Rate:  3.635%  Investment Rate:  3.706%  Price:  $99.434556  Allotted at High:  68.80%  Total Tendered:  $286,267,625,500  Total Accepted:  $100,877,305,500  Auction Date:  07/09/2026  Issue Date:  07/14/2026  Maturity Date:  09/08/2026  PDF  |  XML",
+          "relevant": true
         },
         {
           "title": "4-Week Bill Treasury Auction Results",
           "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
           "published": "Thu, 09 Jul 2026 15:33:16 GMT",
-          "description": "CUSIP:  912797UT2  Term and Type:  4-Week Bill  CMB:  No  High Rate:  3.630%  Investment Rate:  3.691%  Price:  $99.717667  Allotted at High:  26.29%  Total Tendered:  $269,821,994,200  Total Accepted:  $106,186,739,200  Auction Date:  07/09/2026  Issue Date:  07/14/2026  Maturity Date:  08/11/2026  PDF  |  XML"
+          "description": "CUSIP:  912797UT2  Term and Type:  4-Week Bill  CMB:  No  High Rate:  3.630%  Investment Rate:  3.691%  Price:  $99.717667  Allotted at High:  26.29%  Total Tendered:  $269,821,994,200  Total Accepted:  $106,186,739,200  Auction Date:  07/09/2026  Issue Date:  07/14/2026  Maturity Date:  08/11/2026  PDF  |  XML",
+          "relevant": true
         },
         {
           "title": "9-Year 10-Month Note Treasury Auction Results",
           "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
           "published": "Wed, 08 Jul 2026 17:03:19 GMT",
-          "description": "CUSIP:  91282CQQ7  Term and Type:  9-Year 10-Month Note  Series:  C-2036  Reopening:  Yes  Interest Rate:  4.375%  High Yield:  4.580%  Price:  $98.380297  Allotted at High:  40.29%  Total Tendered:  $105,180,648,500  Total Accepted:  $43,055,875,200  Auction Date:  07/08/2026  Issue Date:  07/15/2026  Maturity Date:  05/15/2036  PDF  |  XML"
+          "description": "CUSIP:  91282CQQ7  Term and Type:  9-Year 10-Month Note  Series:  C-2036  Reopening:  Yes  Interest Rate:  4.375%  High Yield:  4.580%  Price:  $98.380297  Allotted at High:  40.29%  Total Tendered:  $105,180,648,500  Total Accepted:  $43,055,875,200  Auction Date:  07/08/2026  Issue Date:  07/15/2026  Maturity Date:  05/15/2036  PDF  |  XML",
+          "relevant": true
         },
         {
           "title": "17-Week Bill Treasury Auction Results",
           "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
           "published": "Wed, 08 Jul 2026 15:33:14 GMT",
-          "description": "CUSIP:  912797VW4  Term and Type:  17-Week Bill  CMB:  No  High Rate:  3.790%  Investment Rate:  3.891%  Price:  $98.747194  Allotted at High:  80.43%  Total Tendered:  $249,729,712,600  Total Accepted:  $76,455,152,500  Auction Date:  07/08/2026  Issue Date:  07/14/2026  Maturity Date:  11/10/2026  PDF  |  XML"
+          "description": "CUSIP:  912797VW4  Term and Type:  17-Week Bill  CMB:  No  High Rate:  3.790%  Investment Rate:  3.891%  Price:  $98.747194  Allotted at High:  80.43%  Total Tendered:  $249,729,712,600  Total Accepted:  $76,455,152,500  Auction Date:  07/08/2026  Issue Date:  07/14/2026  Maturity Date:  11/10/2026  PDF  |  XML",
+          "relevant": true
         },
         {
           "title": "3-Year Note Treasury Auction Results",
           "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
           "published": "Tue, 07 Jul 2026 17:03:18 GMT",
-          "description": "CUSIP:  91282CQZ7  Term and Type:  3-Year Note  Series:  AQ-2029  Reopening:  No  Interest Rate:  4.125%  High Yield:  4.179%  Price:  $99.849217  Allotted at High:  2.17%  Total Tendered:  $156,840,966,800  Total Accepted:  $64,031,643,800  Auction Date:  07/07/2026  Issue Date:  07/15/2026  Maturity Date:  07/15/2029  PDF  |  XML"
+          "description": "CUSIP:  91282CQZ7  Term and Type:  3-Year Note  Series:  AQ-2029  Reopening:  No  Interest Rate:  4.125%  High Yield:  4.179%  Price:  $99.849217  Allotted at High:  2.17%  Total Tendered:  $156,840,966,800  Total Accepted:  $64,031,643,800  Auction Date:  07/07/2026  Issue Date:  07/15/2026  Maturity Date:  07/15/2029  PDF  |  XML",
+          "relevant": true
         },
         {
           "title": "6-Week Bill Treasury Auction Results",
           "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
           "published": "Tue, 07 Jul 2026 15:33:22 GMT",
-          "description": "CUSIP:  912797TX5  Term and Type:  6-Week Bill  CMB:  No  High Rate:  3.635%  Investment Rate:  3.701%  Price:  $99.575917  Allotted at High:  86.48%  Total Tendered:  $251,716,182,600  Total Accepted:  $94,778,482,600  Auction Date:  07/07/2026  Issue Date:  07/09/2026  Maturity Date:  08/20/2026  PDF  |  XML"
+          "description": "CUSIP:  912797TX5  Term and Type:  6-Week Bill  CMB:  No  High Rate:  3.635%  Investment Rate:  3.701%  Price:  $99.575917  Allotted at High:  86.48%  Total Tendered:  $251,716,182,600  Total Accepted:  $94,778,482,600  Auction Date:  07/07/2026  Issue Date:  07/09/2026  Maturity Date:  08/20/2026  PDF  |  XML",
+          "relevant": true
         },
         {
           "title": "52-Week Bill Treasury Auction Results",
           "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
           "published": "Tue, 07 Jul 2026 15:33:21 GMT",
-          "description": "CUSIP:  912797VQ7  Term and Type:  52-Week Bill  CMB:  No  High Rate:  3.860%  Investment Rate:  4.032%  Price:  $96.097111  Allotted at High:  17.61%  Total Tendered:  $165,997,906,000  Total Accepted:  $54,761,048,000  Auction Date:  07/07/2026  Issue Date:  07/09/2026  Maturity Date:  07/08/2027  PDF  |  XML"
+          "description": "CUSIP:  912797VQ7  Term and Type:  52-Week Bill  CMB:  No  High Rate:  3.860%  Investment Rate:  4.032%  Price:  $96.097111  Allotted at High:  17.61%  Total Tendered:  $165,997,906,000  Total Accepted:  $54,761,048,000  Auction Date:  07/07/2026  Issue Date:  07/09/2026  Maturity Date:  07/08/2027  PDF  |  XML",
+          "relevant": true
         },
         {
           "title": "26-Week Bill Treasury Auction Results",
           "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
           "published": "Mon, 06 Jul 2026 15:33:11 GMT",
-          "description": "CUSIP:  912797VS3  Term and Type:  26-Week Bill  CMB:  No  High Rate:  3.830%  Investment Rate:  3.960%  Price:  $98.063722  Allotted at High:  0.86%  Total Tendered:  $244,759,016,600  Total Accepted:  $83,195,026,000  Auction Date:  07/06/2026  Issue Date:  07/09/2026  Maturity Date:  01/07/2027  PDF  |  XML"
+          "description": "CUSIP:  912797VS3  Term and Type:  26-Week Bill  CMB:  No  High Rate:  3.830%  Investment Rate:  3.960%  Price:  $98.063722  Allotted at High:  0.86%  Total Tendered:  $244,759,016,600  Total Accepted:  $83,195,026,000  Auction Date:  07/06/2026  Issue Date:  07/09/2026  Maturity Date:  01/07/2027  PDF  |  XML",
+          "relevant": true
         },
         {
           "title": "13-Week Bill Treasury Auction Results",
           "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
           "published": "Mon, 06 Jul 2026 15:33:10 GMT",
-          "description": "CUSIP:  912797UJ4  Term and Type:  13-Week Bill  CMB:  No  High Rate:  3.735%  Investment Rate:  3.823%  Price:  $99.055875  Allotted at High:  93.49%  Total Tendered:  $242,066,881,300  Total Accepted:  $96,884,618,800  Auction Date:  07/06/2026  Issue Date:  07/09/2026  Maturity Date:  10/08/2026  PDF  |  XML"
+          "description": "CUSIP:  912797UJ4  Term and Type:  13-Week Bill  CMB:  No  High Rate:  3.735%  Investment Rate:  3.823%  Price:  $99.055875  Allotted at High:  93.49%  Total Tendered:  $242,066,881,300  Total Accepted:  $96,884,618,800  Auction Date:  07/06/2026  Issue Date:  07/09/2026  Maturity Date:  10/08/2026  PDF  |  XML",
+          "relevant": true
         }
       ],
       "count": 10,
-      "domain": "US Fiscal"
+      "domain": "US Fiscal",
+      "relevant_count": 10
     },
     {
       "name": "ECB — Press Releases",
@@ -154,65 +178,81 @@
           "title": "Meeting of 10-11 June 2026",
           "link": "https://www.ecb.europa.eu//press/accounts/2026/html/ecb.mg260709~0e7f8241c9.en.html",
           "published": "Thu, 09 Jul 2026 13:30:00 +0200",
-          "description": ""
+          "description": "",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
         },
         {
           "title": "Philip R. Lane: AI and monetary policy",
           "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260706~b81aa4e329.en.html",
           "published": "Mon, 06 Jul 2026 20:30:00 +0200",
-          "description": ""
+          "description": "",
+          "relevant": true
         },
         {
           "title": "Christine Lagarde: Interview with Les Échos",
           "link": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260702~c56db179c3.en.html",
           "published": "Thu, 02 Jul 2026 23:00:00 +0200",
-          "description": ""
+          "description": "",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
         },
         {
           "title": "Piero Cipollone: The digital transformation of money, payments and finance",
           "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260702_1~c58dcd8150.en.pdf",
           "published": "Thu, 02 Jul 2026 19:55:00 +0200",
-          "description": ""
+          "description": "",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
         },
         {
           "title": "Frank Elderson: The green transition – benefits and barriers",
           "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260702~49c4f8e9a6.en.html",
           "published": "Thu, 02 Jul 2026 12:00:00 +0200",
-          "description": ""
+          "description": "",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
         },
         {
           "title": "ECB publishes indicative operational calendars for 2028",
           "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260630_1~ff55b9e99a.en.html",
           "published": "Tue, 30 Jun 2026 10:00:00 +0200",
-          "description": ""
+          "description": "",
+          "relevant": true
         },
         {
           "title": "ECB publishes indicative operational calendars for 2027",
           "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260630~9f54a0a4fb.en.html",
           "published": "Tue, 30 Jun 2026 10:00:00 +0200",
-          "description": ""
+          "description": "",
+          "relevant": true
         },
         {
           "title": "Christine Lagarde: Back to basics in an uncertain environment",
           "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260629~cb5a2e2168.en.html",
           "published": "Mon, 29 Jun 2026 21:00:00 +0200",
-          "description": ""
+          "description": "",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
         },
         {
           "title": "Isabel Schnabel: Is inflation back?",
           "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260627~3807c2766e.en.pdf",
           "published": "Sat, 27 Jun 2026 15:45:00 +0200",
-          "description": ""
+          "description": "",
+          "relevant": true
         },
         {
           "title": "ECB Consumer Expectations Survey results – May 2026",
           "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260626_1~60a21704a8.en.html",
           "published": "Fri, 26 Jun 2026 10:00:00 +0200",
-          "description": ""
+          "description": "",
+          "relevant": true
         }
       ],
       "count": 10,
-      "domain": "Europe"
+      "domain": "Europe",
+      "relevant_count": 5
     },
     {
       "name": "BOJ — Monetary Policy Statements",
@@ -224,65 +264,82 @@
           "title": "Corporate Goods Price Index (June)",
           "link": "http://www.boj.or.jp/en/statistics/pi/cgpi_release/cgpi2606.pdf",
           "published": "Fri, 10 Jul 2026 08:50:00 +0900",
-          "description": ""
+          "description": "",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
         },
         {
           "title": "Regional Economic Report (Summary) (July 2026)",
           "link": "http://www.boj.or.jp/en/research/brp/rer/rer260709.htm",
           "published": "Thu, 09 Jul 2026 14:00:00 +0900",
-          "description": ""
+          "description": "",
+          "relevant": true
         },
         {
           "title": "Money Stock (June)",
           "link": "http://www.boj.or.jp/en/statistics/money/ms/ms2606.pdf",
           "published": "Thu, 09 Jul 2026 08:50:00 +0900",
-          "description": ""
+          "description": "",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
         },
         {
           "title": "Loans, Debt Securities, and Deposits by Maturity (End of September 2025)",
           "link": "http://www.boj.or.jp/en/statistics/sj/sjmatu.xlsx",
           "published": "Wed, 08 Jul 2026 10:00:00 +0900",
-          "description": ""
+          "description": "",
+          "relevant": true
         },
         {
           "title": "Principal Figures of Financial Institutions (June)",
           "link": "http://www.boj.or.jp/en/statistics/dl/depo/kashi/kasi2606.pdf",
           "published": "Wed, 08 Jul 2026 08:50:00 +0900",
-          "description": ""
+          "description": "",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
         },
         {
           "title": "Direct Investment by Region and Industry (1st quarter 2026)",
           "link": "http://www.boj.or.jp/en/statistics/br/bop_06/bpdata/diiqcy.htm",
           "published": "Wed, 08 Jul 2026 08:50:00 +0900",
-          "description": ""
+          "description": "",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
         },
         {
           "title": "Amounts Outstanding in the Call Money Market (June)",
           "link": "http://www.boj.or.jp/en/statistics/market/short/call/call.xlsx",
           "published": "Tue, 07 Jul 2026 15:00:00 +0900",
-          "description": ""
+          "description": "",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
         },
         {
           "title": "Consumption Activity Index",
           "link": "http://www.boj.or.jp/en/research/research_data/cai/index.htm",
           "published": "Tue, 07 Jul 2026 14:00:00 +0900",
-          "description": ""
+          "description": "",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
         },
         {
           "title": "Monetary Base and the Bank of Japan's Transactions (June)",
           "link": "http://www.boj.or.jp/en/statistics/boj/other/mbt/mbt2606.pdf",
           "published": "Tue, 07 Jul 2026 08:50:00 +0900",
-          "description": ""
+          "description": "",
+          "relevant": true
         },
         {
           "title": "Bank of Japan's Transactions with the Government (June)",
           "link": "http://www.boj.or.jp/en/statistics/boj/other/tseifu/release/2026/seifu2606.pdf",
           "published": "Tue, 07 Jul 2026 08:50:00 +0900",
-          "description": ""
+          "description": "",
+          "relevant": true
         }
       ],
       "count": 10,
-      "domain": "Japan"
+      "domain": "Japan",
+      "relevant_count": 4
     },
     {
       "name": "BOE — News & MPC Minutes",
@@ -294,65 +351,76 @@
           "title": "Minutes of the UK Money Markets Code Sub-Committee – June 2026",
           "link": "https://www.bankofengland.co.uk/minutes/2026/june/money-markets-committee-minutes-june-2026",
           "published": "Wed, 08 Jul 2026 15:52:13 +0100",
-          "description": "The Money Markets Committee is a forum for market participants and authorities to discuss the UK unsecured deposits and funding market and securities lending and repo markets."
+          "description": "The Money Markets Committee is a forum for market participants and authorities to discuss the UK unsecured deposits and funding market and securities lending and repo markets.",
+          "relevant": true
         },
         {
           "title": "Letter from the Governor to Joe Powell MP",
           "link": "https://www.bankofengland.co.uk/letter/2026/letter-from-the-governor-to-joe-powell",
           "published": "Wed, 08 Jul 2026 15:00:00 +0100",
-          "description": "Letter from the Governor"
+          "description": "Letter from the Governor",
+          "relevant": true
         },
         {
           "title": "Statistical Notice 2026/07 -  Bank of England Levy: Notification Document Levy Year 2026/27",
           "link": "https://www.bankofengland.co.uk/statistics/notice/2026/statistical-notice-2026-07",
           "published": "Wed, 08 Jul 2026 11:09:46 +0100",
-          "description": "Statistical Notices update the definitions and guidance contained in the Banking Statistics Yellow Folder"
+          "description": "Statistical Notices update the definitions and guidance contained in the Banking Statistics Yellow Folder",
+          "relevant": true
         },
         {
           "title": "Financial Policy Committee Record – July 2026",
           "link": "https://www.bankofengland.co.uk/financial-policy-committee-record/2026/july-2026",
           "published": "Tue, 07 Jul 2026 10:30:00 +0100",
-          "description": "Our Financial Policy Committee (FPC) meets to identify risks to financial stability and agree policy actions aimed at safeguarding the resilience of the UK financial system."
+          "description": "Our Financial Policy Committee (FPC) meets to identify risks to financial stability and agree policy actions aimed at safeguarding the resilience of the UK financial system.",
+          "relevant": true
         },
         {
           "title": "Bank of England appoints Rhys Phillips as the new Chief Cashier",
           "link": "https://www.bankofengland.co.uk/news/2026/july/boe-appoints-rhys-phillips-as-the-new-chief-cashier",
           "published": "Mon, 06 Jul 2026 10:00:00 +0100",
-          "description": "The Governor of the Bank of England, Andrew Bailey, has announced that Rhys Phillips will be the next Chief Cashier and Director of Notes. He will take up the role on 19 October 2026."
-        },
-        {
-          "title": "Minutes of the London FXJSC Main Committee Meeting – 26 March 2026",
-          "link": "https://www.bankofengland.co.uk/minutes/2026/march/fxjsc-main-committee-meeting-26-march-2026",
-          "published": "Thu, 02 Jul 2026 10:26:00 +0100",
-          "description": "The Bank of England chairs the London Foreign Exchange Joint Standing Committee (FXJSC), which is a forum for discussion of the wholesale foreign exchange market. The FXJSC is made up of market participants, infrastructure providers and the UK financial regulators."
+          "description": "The Governor of the Bank of England, Andrew Bailey, has announced that Rhys Phillips will be the next Chief Cashier and Director of Notes. He will take up the role on 19 October 2026.",
+          "relevant": true
         },
         {
           "title": "Minutes of the London FXJSC Legal Sub Committee Meeting – 17 March 2026",
           "link": "https://www.bankofengland.co.uk/minutes/2026/march/fxjsc-legal-sub-committee-meeting-17-march-2026",
           "published": "Thu, 02 Jul 2026 10:26:00 +0100",
-          "description": "The Bank of England chairs the London Foreign Exchange Joint Standing Committee (FXJSC) Legal Sub-Committee. The FXJSC is made up of market participants, infrastructure providers and the UK financial regulators."
+          "description": "The Bank of England chairs the London Foreign Exchange Joint Standing Committee (FXJSC) Legal Sub-Committee. The FXJSC is made up of market participants, infrastructure providers and the UK financial regulators.",
+          "relevant": true
+        },
+        {
+          "title": "Minutes of the London FXJSC Main Committee Meeting – 26 March 2026",
+          "link": "https://www.bankofengland.co.uk/minutes/2026/march/fxjsc-main-committee-meeting-26-march-2026",
+          "published": "Thu, 02 Jul 2026 10:26:00 +0100",
+          "description": "The Bank of England chairs the London Foreign Exchange Joint Standing Committee (FXJSC), which is a forum for discussion of the wholesale foreign exchange market. The FXJSC is made up of market participants, infrastructure providers and the UK financial regulators.",
+          "relevant": true
         },
         {
           "title": "Minutes of the London FXJSC Operations Sub-Committee Meeting – 18 March 2026",
           "link": "https://www.bankofengland.co.uk/minutes/2026/march/fxjsc-operations-sub-committee-meeting-18-march-2026",
           "published": "Thu, 02 Jul 2026 09:48:44 +0100",
-          "description": "The Bank of England chairs the London Foreign Exchange Joint Standing Committee (FXJSC) Operations and Legal Sub-Committees. The FXJSC is made up of market participants, infrastructure providers and the UK financial regulators."
+          "description": "The Bank of England chairs the London Foreign Exchange Joint Standing Committee (FXJSC) Operations and Legal Sub-Committees. The FXJSC is made up of market participants, infrastructure providers and the UK financial regulators.",
+          "relevant": true
         },
         {
           "title": "Statistical Notice 2026/06 - Form PL - updates to definitions",
           "link": "https://www.bankofengland.co.uk/statistics/notice/2026/statistical-notice-2026-06",
           "published": "Tue, 30 Jun 2026 09:00:00 +0100",
-          "description": "Statistical Notices update the definitions and guidance contained in the Banking Statistics Yellow Folder"
+          "description": "Statistical Notices update the definitions and guidance contained in the Banking Statistics Yellow Folder",
+          "relevant": true
         },
         {
           "title": "The Retail Payments Infrastructure Board launches consultation on the next generation UK payments infrastructure",
           "link": "https://www.bankofengland.co.uk/news/2026/june/rpib-launches-consultation-on-next-generation-uk-payments-infrastructure",
           "published": "Thu, 25 Jun 2026 10:00:00 +0100",
-          "description": "Today marks a major milestone in the modernisation of the UK's payments landscape, with the Retail Payments Infrastructure Board (RPIB) launching a consultation on the future design of the UK's next-generation retail payments infrastructure."
+          "description": "Today marks a major milestone in the modernisation of the UK's payments landscape, with the Retail Payments Infrastructure Board (RPIB) launching a consultation on the future design of the UK's next-generation retail payments infrastructure.",
+          "relevant": true
         }
       ],
       "count": 10,
-      "domain": "Europe"
+      "domain": "Europe",
+      "relevant_count": 10
     },
     {
       "name": "CBO — Budget & Economic Outlook",
@@ -364,65 +432,77 @@
           "title": "Monthly Budget Review: June 2026",
           "link": "https://www.cbo.gov/publication/61982",
           "published": "Thu, 09 Jul 2026 14:00:00 -0400",
-          "description": "The federal budget deficit totaled $1.4 trillion in the first nine months of fiscal year 2026, CBO estimates. That amount is $35 billion more than the deficit recorded during the same period last fiscal year."
+          "description": "The federal budget deficit totaled $1.4 trillion in the first nine months of fiscal year 2026, CBO estimates. That amount is $35 billion more than the deficit recorded during the same period last fiscal year.",
+          "relevant": true
         },
         {
           "title": "Options to Counter Small Unmanned Aircraft Systems",
           "link": "https://www.cbo.gov/publication/62262",
           "published": "Thu, 09 Jul 2026 14:00:00 -0400",
-          "description": "CBO describes current methods to detect and counter small unmanned aircraft systems and estimates it would cost about $74 million to outfit a typical military installation with a layered defense and at least $5 million a year to support it."
+          "description": "CBO describes current methods to detect and counter small unmanned aircraft systems and estimates it would cost about $74 million to outfit a typical military installation with a layered defense and at least $5 million a year to support it.",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
         },
         {
           "title": "Estimated Effects of Selected Provisions of H.R. 8870, the BUILD America 250 Act",
           "link": "https://www.cbo.gov/publication/62562",
           "published": "Thu, 09 Jul 2026 13:44:00 -0400",
-          "description": "As ordered reported by the House Committee on Transportation and Infrastructure on May 22, 2026"
+          "description": "As ordered reported by the House Committee on Transportation and Infrastructure on May 22, 2026",
+          "relevant": true
         },
         {
           "title": "S. 1868, Critical Access for Veterans Care Act",
           "link": "https://www.cbo.gov/publication/62548",
           "published": "Thu, 09 Jul 2026 13:04:00 -0400",
-          "description": "As ordered reported by the Senate Committee on Veterans’ Affairs on March 18, 2026"
+          "description": "As ordered reported by the Senate Committee on Veterans’ Affairs on March 18, 2026",
+          "relevant": true
         },
         {
           "title": "Legislation considered under suspension of the Rules of the House of Representatives during the week of July 13, 2026",
           "link": "https://www.cbo.gov/publication/62533",
           "published": "Thu, 09 Jul 2026 10:14:00 -0400",
-          "description": "The Majority Leader of the House of Representatives announces bills that will be considered under suspension of the rules in that chamber. CBO estimates the effects of those bills on direct spending and revenues."
+          "description": "The Majority Leader of the House of Representatives announces bills that will be considered under suspension of the rules in that chamber. CBO estimates the effects of those bills on direct spending and revenues.",
+          "relevant": true
         },
         {
           "title": "S. 933, NASA Authorization Act of 2026",
           "link": "https://www.cbo.gov/publication/62561",
           "published": "Wed, 08 Jul 2026 16:35:00 -0400",
-          "description": "As ordered reported by the Senate Committee on Commerce, Science, and Transportation on March 4, 2026"
+          "description": "As ordered reported by the Senate Committee on Commerce, Science, and Transportation on March 4, 2026",
+          "relevant": true
         },
         {
           "title": "S. 3468, National Programmable Cloud Laboratories Network Act of 2025",
           "link": "https://www.cbo.gov/publication/62560",
           "published": "Wed, 08 Jul 2026 15:29:00 -0400",
-          "description": "As ordered reported by the Senate Committee on Commerce, Science, and Transportation on February 12, 2026"
+          "description": "As ordered reported by the Senate Committee on Commerce, Science, and Transportation on February 12, 2026",
+          "relevant": true
         },
         {
           "title": "H.R. 3535, Stop Foreign Funds in Elections Act",
           "link": "https://www.cbo.gov/publication/62557",
           "published": "Wed, 08 Jul 2026 13:29:00 -0400",
-          "description": "As ordered reported by the House Committee on House Administration on May 14, 2026"
+          "description": "As ordered reported by the House Committee on House Administration on May 14, 2026",
+          "relevant": true
         },
         {
           "title": "H.R. 8738, FEC Administrative Improvements Act",
           "link": "https://www.cbo.gov/publication/62558",
           "published": "Wed, 08 Jul 2026 13:29:00 -0400",
-          "description": "As ordered reported by the House Committee on House Administration on May 14, 2026"
+          "description": "As ordered reported by the House Committee on House Administration on May 14, 2026",
+          "relevant": true
         },
         {
           "title": "Estimating the Economic Effects of Federally Funded R&D: Working Paper 2026-08",
           "link": "https://www.cbo.gov/publication/62387",
           "published": "Tue, 07 Jul 2026 14:00:00 -0400",
-          "description": "CBO describes its current analytical framework for modeling the economic effects of changes in federal funding for R&amp;D, focusing on two approaches that CBO has developed: an R&amp;D capital stock approach and an R&amp;D components approach."
+          "description": "CBO describes its current analytical framework for modeling the economic effects of changes in federal funding for R&amp;D, focusing on two approaches that CBO has developed: an R&amp;D capital stock approach and an R&amp;D components approach.",
+          "relevant": true
         }
       ],
       "count": 10,
-      "domain": "US Fiscal"
+      "domain": "US Fiscal",
+      "relevant_count": 9
     },
     {
       "name": "BIS — All Publications",
@@ -434,65 +514,76 @@
           "title": "Assessing the effects of recent provisioning rules on consumer credit allocation in Colombia",
           "link": "https://www.bis.org/publ/work1366.htm",
           "published": "2026-07-09T07:50:00Z",
-          "description": "by Diego Cuesta-Mora, Fredy Gamboa, Camilo Sanchez-Quinto Colombia's post-pandemic recovery in 2021&#8211;2022 was marked by rapid consumer credit growth, followed by deteriorating credit quality indicators amid tightening financial conditions. In January 2023, the Superintendence of Finance of Colombia (SFC) introduced higher provisioning requirements for long-term consumer loans to enhance financial resilience against credit risk materialization and to help moderate the rapid expansion of consumer credit observed prior to the reform. From the perspective of credit institutions (CIs), increased provisions imply higher expenses and potential profitability pressures, which could lead to adjustments in lending strategies."
+          "description": "by Diego Cuesta-Mora, Fredy Gamboa, Camilo Sanchez-Quinto Colombia's post-pandemic recovery in 2021&#8211;2022 was marked by rapid consumer credit growth, followed by deteriorating credit quality indicators amid tightening financial conditions. In January 2023, the Superintendence of Finance of Colombia (SFC) introduced higher provisioning requirements for long-term consumer loans to enhance financial resilience against credit risk materialization and to help moderate the rapid expansion of consumer credit observed prior to the reform. From the perspective of credit institutions (CIs), increased provisions imply higher expenses and potential profitability pressures, which could lead to adjustments in lending strategies.",
+          "relevant": true
         },
         {
           "title": "Project Insight: uncovering the complexities of global value chains",
           "link": "https://www.bis.org/publ/othp112.htm",
           "published": "2026-07-08T13:24:00Z",
-          "description": "Project Insight developed a proof-of-concept dashboard to enhance policymakers' understanding and monitoring of global supply chain developments. By unifying detailed firm-level datasets, macroeconomic information and advanced analytics within a collaborative platform, the project demonstrated how granular and complex GVC dependencies can be studied more effectively."
+          "description": "Project Insight developed a proof-of-concept dashboard to enhance policymakers' understanding and monitoring of global supply chain developments. By unifying detailed firm-level datasets, macroeconomic information and advanced analytics within a collaborative platform, the project demonstrated how granular and complex GVC dependencies can be studied more effectively.",
+          "relevant": true
         },
         {
           "title": "On the comparison of capital requirements for global systemically important banks",
           "link": "https://www.bis.org/fsi/publ/insights76.htm",
           "published": "2026-07-08T11:15:00Z",
-          "description": "Basel III introduced a comprehensive package of capital reforms to bolster the resilience of the global banking system. While the standard supports regulatory convergence across jurisdictions by establishing a common minimum set of requirements for internationally active banks, it also gives national authorities flexibility to exceed the minimum standards. Heterogeneous applications of Basel III across jurisdictions have fuelled perceptions of an uneven playing field and have become central to current debates on how regulation may influence banks' competitiveness."
+          "description": "Basel III introduced a comprehensive package of capital reforms to bolster the resilience of the global banking system. While the standard supports regulatory convergence across jurisdictions by establishing a common minimum set of requirements for internationally active banks, it also gives national authorities flexibility to exceed the minimum standards. Heterogeneous applications of Basel III across jurisdictions have fuelled perceptions of an uneven playing field and have become central to current debates on how regulation may influence banks' competitiveness.",
+          "relevant": true
         },
         {
           "title": "Blockchain consensus mechanisms and fragmentation",
           "link": "https://www.bis.org/publ/bisbull126.htm",
           "published": "2026-07-06T10:00:00Z",
-          "description": "by Daniel Eidan, Jon Frost, Rudraksh Kansal, Ulf Lewrick, Sang Hyuk Lim, Tomasz Rybarczyk While all permissionless blockchains use token-based incentives to sustain honest validation, differences in how validator rewards, coordination and participation are structured lead to distinct equilibria and trade-offs between decentralisation, security and scalability. These trade-offs underpin the emergence of multiple layer 1 networks and the expansion of layer 2 solutions, resulting in fragmentation of infrastructure, liquidity and assets across and within chains. Tools to mitigate fragmentation &#8211; eg bridges and native multi-chain issuance &#8211; can reduce frictions, but they reintroduce new dependencies on trust, governance and operational resilience."
+          "description": "by Daniel Eidan, Jon Frost, Rudraksh Kansal, Ulf Lewrick, Sang Hyuk Lim, Tomasz Rybarczyk While all permissionless blockchains use token-based incentives to sustain honest validation, differences in how validator rewards, coordination and participation are structured lead to distinct equilibria and trade-offs between decentralisation, security and scalability. These trade-offs underpin the emergence of multiple layer 1 networks and the expansion of layer 2 solutions, resulting in fragmentation of infrastructure, liquidity and assets across and within chains. Tools to mitigate fragmentation &#8211; eg bridges and native multi-chain issuance &#8211; can reduce frictions, but they reintroduce new dependencies on trust, governance and operational resilience.",
+          "relevant": true
         },
         {
           "title": "What makes money, money? Ensuring trust in the next generation financial ecosystem",
           "link": "https://www.bis.org/speeches/sp260624.htm",
           "published": "2026-07-02T10:05:00Z",
-          "description": "Remarks by Ms Andréa M Maechler, Deputy General Manager, Bank for International Settlements (BIS), at the Point Zero Forum, Zurich, 24 June 2026."
+          "description": "Remarks by Ms Andréa M Maechler, Deputy General Manager, Bank for International Settlements (BIS), at the Point Zero Forum, Zurich, 24 June 2026.",
+          "relevant": true
         },
         {
           "title": "Timur M Suleimenov: Statement - base rate of the National Bank of Kazakhstan",
           "link": "https://www.bis.org/review/r260701i.htm",
           "published": "2026-07-01T13:31:00Z",
-          "description": "Statement by Mr Timur M Suleimenov, Governor of the National Bank of Kazakhstan, on the base rate of the National Bank of Kazakhstan, Astana, 5 June 2026."
+          "description": "Statement by Mr Timur M Suleimenov, Governor of the National Bank of Kazakhstan, on the base rate of the National Bank of Kazakhstan, Astana, 5 June 2026.",
+          "relevant": true
         },
         {
           "title": "Zhu Hexin: New landscape of global capital flows and China's high-level opening-up",
           "link": "https://www.bis.org/review/r260701e.htm",
           "published": "2026-07-01T13:01:00Z",
-          "description": "Keynote speech by Mr Zhu Hexin, Deputy Governor of the People's Bank of China and SAFE Administrator, at the 2026 Lujiazui Forum, Shanghai, 17 June 2026."
+          "description": "Keynote speech by Mr Zhu Hexin, Deputy Governor of the People's Bank of China and SAFE Administrator, at the 2026 Lujiazui Forum, Shanghai, 17 June 2026.",
+          "relevant": true
         },
         {
           "title": "Andrew Hauser: \"The straight line belongs to man, the curved line belongs to God\"",
           "link": "https://www.bis.org/review/r260701d.htm",
           "published": "2026-07-01T12:56:00Z",
-          "description": "Text of the Sir Douglas Copland Memorial Lecture to the Economic Society of Australia (Victoria) by Mr Andrew Hauser, Deputy Governor of the Reserve Bank of Australia, Melbourne, 24 June 2026."
+          "description": "Text of the Sir Douglas Copland Memorial Lecture to the Economic Society of Australia (Victoria) by Mr Andrew Hauser, Deputy Governor of the Reserve Bank of Australia, Melbourne, 24 June 2026.",
+          "relevant": true
         },
         {
           "title": "Naoki Tamura: Economic activity, prices and monetary policy in Japan",
           "link": "https://www.bis.org/review/r260701c.htm",
           "published": "2026-07-01T12:50:00Z",
-          "description": "Speech by Mr Naoki Tamura, Member of the Policy Board of the Bank of Japan, at a meeting with local leaders, Hyogo, 25 June 2026."
+          "description": "Speech by Mr Naoki Tamura, Member of the Policy Board of the Bank of Japan, at a meeting with local leaders, Hyogo, 25 June 2026.",
+          "relevant": true
         },
         {
           "title": "Lisa D Cook: Welcome remarks - State of Small Business Symposium",
           "link": "https://www.bis.org/review/r260701b.htm",
           "published": "2026-07-01T12:47:00Z",
-          "description": "Welcome remarks (via pre-recorded video) by Ms Lisa D Cook, Member of the Board of Governors of the Federal Reserve System, at the State of Small Business Symposium, hosted by the Federal Reserve Bank of Cleveland, 24 June 2026."
+          "description": "Welcome remarks (via pre-recorded video) by Ms Lisa D Cook, Member of the Board of Governors of the Federal Reserve System, at the State of Small Business Symposium, hosted by the Federal Reserve Bank of Cleveland, 24 June 2026.",
+          "relevant": true
         }
       ],
       "count": 10,
-      "domain": "Global Liquidity"
+      "domain": "Global Liquidity",
+      "relevant_count": 10
     },
     {
       "name": "BIS — Research Papers",
@@ -504,65 +595,77 @@
           "title": "Assessing the effects of recent provisioning rules on consumer credit allocation in Colombia",
           "link": "https://www.bis.org/publ/work1366.htm",
           "published": "2026-07-09T07:50:00Z",
-          "description": "by Diego Cuesta-Mora, Fredy Gamboa, Camilo Sanchez-Quinto Colombia's post-pandemic recovery in 2021&#8211;2022 was marked by rapid consumer credit growth, followed by deteriorating credit quality indicators amid tightening financial conditions. In January 2023, the Superintendence of Finance of Colombia (SFC) introduced higher provisioning requirements for long-term consumer loans to enhance financial resilience against credit risk materialization and to help moderate the rapid expansion of consumer credit observed prior to the reform. From the perspective of credit institutions (CIs), increased provisions imply higher expenses and potential profitability pressures, which could lead to adjustments in lending strategies."
+          "description": "by Diego Cuesta-Mora, Fredy Gamboa, Camilo Sanchez-Quinto Colombia's post-pandemic recovery in 2021&#8211;2022 was marked by rapid consumer credit growth, followed by deteriorating credit quality indicators amid tightening financial conditions. In January 2023, the Superintendence of Finance of Colombia (SFC) introduced higher provisioning requirements for long-term consumer loans to enhance financial resilience against credit risk materialization and to help moderate the rapid expansion of consumer credit observed prior to the reform. From the perspective of credit institutions (CIs), increased provisions imply higher expenses and potential profitability pressures, which could lead to adjustments in lending strategies.",
+          "relevant": true
         },
         {
           "title": "On the comparison of capital requirements for global systemically important banks",
           "link": "https://www.bis.org/fsi/publ/insights76.htm",
           "published": "2026-07-08T11:15:00Z",
-          "description": "Basel III introduced a comprehensive package of capital reforms to bolster the resilience of the global banking system. While the standard supports regulatory convergence across jurisdictions by establishing a common minimum set of requirements for internationally active banks, it also gives national authorities flexibility to exceed the minimum standards. Heterogeneous applications of Basel III across jurisdictions have fuelled perceptions of an uneven playing field and have become central to current debates on how regulation may influence banks' competitiveness."
+          "description": "Basel III introduced a comprehensive package of capital reforms to bolster the resilience of the global banking system. While the standard supports regulatory convergence across jurisdictions by establishing a common minimum set of requirements for internationally active banks, it also gives national authorities flexibility to exceed the minimum standards. Heterogeneous applications of Basel III across jurisdictions have fuelled perceptions of an uneven playing field and have become central to current debates on how regulation may influence banks' competitiveness.",
+          "relevant": true
         },
         {
           "title": "Blockchain consensus mechanisms and fragmentation",
           "link": "https://www.bis.org/publ/bisbull126.htm",
           "published": "2026-07-06T10:00:00Z",
-          "description": "by Daniel Eidan, Jon Frost, Rudraksh Kansal, Ulf Lewrick, Sang Hyuk Lim, Tomasz Rybarczyk While all permissionless blockchains use token-based incentives to sustain honest validation, differences in how validator rewards, coordination and participation are structured lead to distinct equilibria and trade-offs between decentralisation, security and scalability. These trade-offs underpin the emergence of multiple layer 1 networks and the expansion of layer 2 solutions, resulting in fragmentation of infrastructure, liquidity and assets across and within chains. Tools to mitigate fragmentation &#8211; eg bridges and native multi-chain issuance &#8211; can reduce frictions, but they reintroduce new dependencies on trust, governance and operational resilience."
+          "description": "by Daniel Eidan, Jon Frost, Rudraksh Kansal, Ulf Lewrick, Sang Hyuk Lim, Tomasz Rybarczyk While all permissionless blockchains use token-based incentives to sustain honest validation, differences in how validator rewards, coordination and participation are structured lead to distinct equilibria and trade-offs between decentralisation, security and scalability. These trade-offs underpin the emergence of multiple layer 1 networks and the expansion of layer 2 solutions, resulting in fragmentation of infrastructure, liquidity and assets across and within chains. Tools to mitigate fragmentation &#8211; eg bridges and native multi-chain issuance &#8211; can reduce frictions, but they reintroduce new dependencies on trust, governance and operational resilience.",
+          "relevant": true
         },
         {
           "title": "Annual Economic Report 2026",
           "link": "https://www.bis.org/publ/arpdf/ar2026e.htm",
           "published": "2026-06-28T12:09:00Z",
-          "description": "This year's Annual Economic Report examines how the global economy is faring as progress meets rising perils &#8211; including a new fiscal-financial stability nexus and shifting inflation dynamics."
+          "description": "This year's Annual Economic Report examines how the global economy is faring as progress meets rising perils &#8211; including a new fiscal-financial stability nexus and shifting inflation dynamics.",
+          "relevant": true
         },
         {
           "title": "Public debt and monetary policy transmission: evidence from advanced and emerging Europe",
           "link": "https://www.bis.org/publ/work1365.htm",
           "published": "2026-06-28T10:13:00Z",
-          "description": "by Christopher Johns, Aaron Mehrotra, Fabrizio Zampolli Using high-frequency euro area monetary policy shocks and panel local projections for the period 2001-2020, this paper examines how macroeconomic variables respond based on the level and the maturity structure of public debt. The results show that public debt plays a significant role in influencing monetary policy transmission."
+          "description": "by Christopher Johns, Aaron Mehrotra, Fabrizio Zampolli Using high-frequency euro area monetary policy shocks and panel local projections for the period 2001-2020, this paper examines how macroeconomic variables respond based on the level and the maturity structure of public debt. The results show that public debt plays a significant role in influencing monetary policy transmission.",
+          "relevant": true
         },
         {
           "title": "Financial and real effects of fiscal risk",
           "link": "https://www.bis.org/publ/work1364.htm",
           "published": "2026-06-28T09:31:00Z",
-          "description": "by Denis Gorea, Ding Xuan Ng, Fabrizio Zampolli This paper estimates the macroeconomic and financial effects of fiscal risk shocks using a novel identification from bond yields. We first recover country-specific fiscal risk shocks from a daily Bayesian VAR model in sovereign and safe corporate bond yields, identified via contemporaneous sign restrictions that capture portfolio rebalancing away from government debt toward private safe assets."
+          "description": "by Denis Gorea, Ding Xuan Ng, Fabrizio Zampolli This paper estimates the macroeconomic and financial effects of fiscal risk shocks using a novel identification from bond yields. We first recover country-specific fiscal risk shocks from a daily Bayesian VAR model in sovereign and safe corporate bond yields, identified via contemporaneous sign restrictions that capture portfolio rebalancing away from government debt toward private safe assets.",
+          "relevant": false,
+          "_skip_reason": "non_macro_pattern"
         },
         {
           "title": "Annual Report 2025/26",
           "link": "https://www.bis.org/about/areport/areport2026.htm",
           "published": "2026-06-28T09:00:00Z",
-          "description": "The Annual Report introduces the BIS's new strategy and shows how the BIS has supported stakeholders throughout the year."
+          "description": "The Annual Report introduces the BIS's new strategy and shows how the BIS has supported stakeholders throughout the year.",
+          "relevant": true
         },
         {
           "title": "Implementation of global regulatory framework for cryptoassets and stablecoins - Executive Summary",
           "link": "https://www.bis.org/fsi/fsisummaries/exsum_24901.htm",
           "published": "2026-06-25T13:18:00Z",
-          "description": "The rapid growth of cryptoasset markets and the increasing integration of stablecoins into financial systems have prompted the Financial Stability Board (FSB) to take action. In July 2023, the FSB published its global regulatory framework for cryptoasset activities (FSB Crypto Framework), consisting of high-level recommendations for cryptoasset activities and markets (CA recommendations) and revised recommendations for global stablecoin arrangements (GSC recommendations), based on the principle of \"same activity, same risk, same regulation\"."
+          "description": "The rapid growth of cryptoasset markets and the increasing integration of stablecoins into financial systems have prompted the Financial Stability Board (FSB) to take action. In July 2023, the FSB published its global regulatory framework for cryptoasset activities (FSB Crypto Framework), consisting of high-level recommendations for cryptoasset activities and markets (CA recommendations) and revised recommendations for global stablecoin arrangements (GSC recommendations), based on the principle of \"same activity, same risk, same regulation\".",
+          "relevant": true
         },
         {
           "title": "The macroeconomics of stablecoins",
           "link": "https://www.bis.org/publ/work1363.htm",
           "published": "2026-06-23T07:44:00Z",
-          "description": "by Boris Hofmann, Matthias Kaldorf, Matthias Rottner We analyse the macroeconomic impact of stablecoins using a quantitative macroeconomic model. Stablecoins influence the economy through two opposing channels: (i) a bank lending channel, as household demand for stablecoins raises deposit rates, increases bank funding costs, and reduces loan supply; and (ii) a fiscal space channel, as stablecoin issuers' demand for Treasury bills lowers sovereign borrowing costs, expands fiscal space for tax reductions or higher spending."
+          "description": "by Boris Hofmann, Matthias Kaldorf, Matthias Rottner We analyse the macroeconomic impact of stablecoins using a quantitative macroeconomic model. Stablecoins influence the economy through two opposing channels: (i) a bank lending channel, as household demand for stablecoins raises deposit rates, increases bank funding costs, and reduces loan supply; and (ii) a fiscal space channel, as stablecoin issuers' demand for Treasury bills lowers sovereign borrowing costs, expands fiscal space for tax reductions or higher spending.",
+          "relevant": true
         },
         {
           "title": "Stablecoin remuneration on centralised exchanges",
           "link": "https://www.bis.org/publ/bisbull125.htm",
           "published": "2026-06-19T08:25:00Z",
-          "description": "by Wenqian Huang, Nikola Tarashev, Xinyi Wang Centralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future."
+          "description": "by Wenqian Huang, Nikola Tarashev, Xinyi Wang Centralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
+          "relevant": true
         }
       ],
       "count": 10,
-      "domain": "Global Liquidity"
+      "domain": "Global Liquidity",
+      "relevant_count": 9
     },
     {
       "name": "Lyn Alden",
@@ -574,65 +677,80 @@
           "title": "New Book: The Stolguard Incident",
           "link": "https://www.lynalden.com/the-stolguard-incident/",
           "published": "Fri, 13 Mar 2026 13:29:44 +0000",
-          "description": "My new sci fi thriller, The Stolguard Incident, is now available! It can be purchased in print, ebook, or audio versions on Amazon here. You can also find the print version on Barnes &#38; Noble here, or you may be able to ask your local bookstore to order it for you. Premise: In the late [&#8230;] \n The post  New Book: The Stolguard Incident  appeared first on  Lyn Alden ."
+          "description": "My new sci fi thriller, The Stolguard Incident, is now available! It can be purchased in print, ebook, or audio versions on Amazon here. You can also find the print version on Barnes &#38; Noble here, or you may be able to ask your local bookstore to order it for you. Premise: In the late [&#8230;] \n The post  New Book: The Stolguard Incident  appeared first on  Lyn Alden .",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
         },
         {
           "title": "Fractional Reserve Banking 101",
           "link": "https://www.lynalden.com/fractional-reserve-banking/",
           "published": "Wed, 11 Mar 2026 23:04:33 +0000",
-          "description": "Banks work in ways that are unintuitive for a lot of people. And yet, understanding the banking system as a whole is really helpful for investing, because having a grasp of how the banking system is functioning helps you determine whether you should expect monetary inflation or disinflation, and whether the risks of widespread financial [&#8230;] \n The post  Fractional Reserve Banking 101  appeared first on  Lyn Alden ."
+          "description": "Banks work in ways that are unintuitive for a lot of people. And yet, understanding the banking system as a whole is really helpful for investing, because having a grasp of how the banking system is functioning helps you determine whether you should expect monetary inflation or disinflation, and whether the risks of widespread financial [&#8230;] \n The post  Fractional Reserve Banking 101  appeared first on  Lyn Alden .",
+          "relevant": true
         },
         {
           "title": "Why Most Cryptocurrencies Won’t Accrue Value",
           "link": "https://www.lynalden.com/why-most-cryptocurrencies-wont-accrue-value/",
           "published": "Mon, 01 Dec 2025 17:45:10 +0000",
-          "description": "December 2025 For many years now, I&#8217;ve been bullish on bitcoin, and continue to be, but have not extended that view toward any other cryptocurrency. That decision continues to hold up well. Since I first recommended it in April 2020, it has gone from $6,900 to $126,000, and is currently back down to around $85,000. [&#8230;] \n The post  Why Most Cryptocurrencies Won&#8217;t Accrue Value  appeared first on  Lyn Alden ."
+          "description": "December 2025 For many years now, I&#8217;ve been bullish on bitcoin, and continue to be, but have not extended that view toward any other cryptocurrency. That decision continues to hold up well. Since I first recommended it in April 2020, it has gone from $6,900 to $126,000, and is currently back down to around $85,000. [&#8230;] \n The post  Why Most Cryptocurrencies Won&#8217;t Accrue Value  appeared first on  Lyn Alden .",
+          "relevant": true
         },
         {
           "title": "The Rise of Bitcoin Stocks and Bonds",
           "link": "https://www.lynalden.com/bitcoin-stocks-and-bonds/",
           "published": "Sun, 06 Jul 2025 14:03:34 +0000",
-          "description": "Originally published: July 2025 During the past year or so, the Bitcoin ecosystem has largely been led by the rise of corporate bitcoin treasury strategies. Although Strategy (MSTR) pioneered the trend back in 2020, the follow-on adoption by others was slow. However, after yet another cycle of bear market and bull market activity, as well [&#8230;] \n The post  The Rise of Bitcoin Stocks and Bonds  appeared first on  Lyn Alden ."
+          "description": "Originally published: July 2025 During the past year or so, the Bitcoin ecosystem has largely been led by the rise of corporate bitcoin treasury strategies. Although Strategy (MSTR) pioneered the trend back in 2020, the follow-on adoption by others was slow. However, after yet another cycle of bear market and bull market activity, as well [&#8230;] \n The post  The Rise of Bitcoin Stocks and Bonds  appeared first on  Lyn Alden .",
+          "relevant": true
         },
         {
           "title": "Twitter/X Restored",
           "link": "https://www.lynalden.com/twitter-compromised/",
           "published": "Thu, 27 Feb 2025 23:16:32 +0000",
-          "description": "My Twitter/X account was compromised from February 26th to March 3rd, but I confirm that I&#8217;ve regained control of it now. Thank you to everyone who helped make it happen. Fortunately, I still had access to Nostr during that time (e.g. primal.net/lyn), which is decentralized social media. Eight months ago, at the Oslo Freedom Forum, [&#8230;] \n The post  Twitter/X Restored  appeared first on  Lyn Alden ."
+          "description": "My Twitter/X account was compromised from February 26th to March 3rd, but I confirm that I&#8217;ve regained control of it now. Thank you to everyone who helped make it happen. Fortunately, I still had access to Nostr during that time (e.g. primal.net/lyn), which is decentralized social media. Eight months ago, at the Oslo Freedom Forum, [&#8230;] \n The post  Twitter/X Restored  appeared first on  Lyn Alden .",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
         },
         {
           "title": "Full Steam Ahead: All Aboard Fiscal Dominance",
           "link": "https://www.lynalden.com/full-steam-ahead-all-aboard-fiscal-dominance/",
           "published": "Wed, 08 Jan 2025 12:51:03 +0000",
-          "description": "This research piece on fiscal dominance in the United States was compiled and written by Sam Callahan, and commissioned and advised by Lyn Alden. Published: January 2025 Executive Summary • Structural fiscal deficits have surpassed private sector lending and monetary policy as the primary drivers of economic activity and inflation, marking a fundamental shift in [&#8230;] \n The post  Full Steam Ahead: All Aboard Fiscal Dominance  appeared first on  Lyn Alden ."
+          "description": "This research piece on fiscal dominance in the United States was compiled and written by Sam Callahan, and commissioned and advised by Lyn Alden. Published: January 2025 Executive Summary • Structural fiscal deficits have surpassed private sector lending and monetary policy as the primary drivers of economic activity and inflation, marking a fundamental shift in [&#8230;] \n The post  Full Steam Ahead: All Aboard Fiscal Dominance  appeared first on  Lyn Alden .",
+          "relevant": true
         },
         {
           "title": "Bitcoin: A Global Liquidity Barometer",
           "link": "https://www.lynalden.com/bitcoin-a-global-liquidity-barometer/",
           "published": "Tue, 24 Sep 2024 17:59:32 +0000",
-          "description": "This research piece on the correlation between measures of liquidity and the price of Bitcoin was compiled and written by Sam Callahan, and commissioned and advised by Lyn Alden. Published: September 2024 Executive Summary Bitcoin moves in the direction of global liquidity 83% of the time in any given 12-month period, which is higher than [&#8230;] \n The post  Bitcoin: A Global Liquidity Barometer  appeared first on  Lyn Alden ."
+          "description": "This research piece on the correlation between measures of liquidity and the price of Bitcoin was compiled and written by Sam Callahan, and commissioned and advised by Lyn Alden. Published: September 2024 Executive Summary Bitcoin moves in the direction of global liquidity 83% of the time in any given 12-month period, which is higher than [&#8230;] \n The post  Bitcoin: A Global Liquidity Barometer  appeared first on  Lyn Alden .",
+          "relevant": true
         },
         {
           "title": "A New Look at Corporate Treasury Strategy",
           "link": "https://www.lynalden.com/a-new-look-at-corporate-treasury-strategy/",
           "published": "Sun, 04 Aug 2024 16:08:13 +0000",
-          "description": "Published: August 2024 In the modern era of corporate finance, the balance sheet of a corporation has trended toward being less important relative to the income statement. Back during Benjamin Graham&#8217;s quintessential value investing days, he looked at balance sheet valuation metrics almost as much as he did income-related valuation metrics. But in modern times, [&#8230;] \n The post  A New Look at Corporate Treasury Strategy  appeared first on  Lyn Alden ."
+          "description": "Published: August 2024 In the modern era of corporate finance, the balance sheet of a corporation has trended toward being less important relative to the income statement. Back during Benjamin Graham&#8217;s quintessential value investing days, he looked at balance sheet valuation metrics almost as much as he did income-related valuation metrics. But in modern times, [&#8230;] \n The post  A New Look at Corporate Treasury Strategy  appeared first on  Lyn Alden .",
+          "relevant": true
         },
         {
           "title": "The Power of Nostr: Decentralized Social Media and More",
           "link": "https://www.lynalden.com/the-power-of-nostr/",
           "published": "Sat, 20 Jul 2024 19:48:33 +0000",
-          "description": "Published: July 2024 It would be powerful if you could bring your digital identity, content, and followers from one social ecosystem, such as Twitter, LinkedIn, Instagram, or Substack, to another. Imagine if you could publish content and send messages in any of those types of ecosystems, with one continuous digital identity rather than separate accounts. [&#8230;] \n The post  The Power of Nostr: Decentralized Social Media and More  appeared first on  Lyn Alden ."
+          "description": "Published: July 2024 It would be powerful if you could bring your digital identity, content, and followers from one social ecosystem, such as Twitter, LinkedIn, Instagram, or Substack, to another. Imagine if you could publish content and send messages in any of those types of ecosystems, with one continuous digital identity rather than separate accounts. [&#8230;] \n The post  The Power of Nostr: Decentralized Social Media and More  appeared first on  Lyn Alden .",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
         },
         {
           "title": "Broken Money Explainer Video",
           "link": "https://www.lynalden.com/broken-money-explainer-video/",
           "published": "Mon, 29 Apr 2024 20:09:40 +0000",
-          "description": "In my book Broken Money, I wrote about the past, present, and future of money through the lens of technology. And importantly, I put a lot of focus on connecting some of those technological or quantitative elements to the human impact that they have had. I have now written, narrated, and produced a 30-minute explainer [&#8230;] \n The post  Broken Money Explainer Video  appeared first on  Lyn Alden ."
+          "description": "In my book Broken Money, I wrote about the past, present, and future of money through the lens of technology. And importantly, I put a lot of focus on connecting some of those technological or quantitative elements to the human impact that they have had. I have now written, narrated, and produced a 30-minute explainer [&#8230;] \n The post  Broken Money Explainer Video  appeared first on  Lyn Alden .",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
         }
       ],
       "count": 10,
-      "domain": "US Fiscal"
+      "domain": "US Fiscal",
+      "relevant_count": 6
     },
     {
       "name": "Doomberg — Substack",
@@ -644,65 +762,79 @@
           "title": "Blue Chips",
           "link": "https://newsletter.doomberg.com/p/blue-chips",
           "published": "Tue, 07 Jul 2026 09:01:38 GMT",
-          "description": "Will the highest-pedigreed off-grid gas-to-data project in the world get built?"
+          "description": "Will the highest-pedigreed off-grid gas-to-data project in the world get built?",
+          "relevant": true
         },
         {
           "title": "Treatment Resistant",
           "link": "https://newsletter.doomberg.com/p/treatment-resistant",
           "published": "Fri, 03 Jul 2026 09:00:41 GMT",
-          "description": "Even when they &#8220;work,&#8221; sanctions eventually backfire."
+          "description": "Even when they &#8220;work,&#8221; sanctions eventually backfire.",
+          "relevant": true
         },
         {
           "title": "Peak “Not Oil”",
           "link": "https://newsletter.doomberg.com/p/peak-not-oil",
           "published": "Tue, 30 Jun 2026 09:00:32 GMT",
-          "description": "Natural gas liquids and the war in Iran."
+          "description": "Natural gas liquids and the war in Iran.",
+          "relevant": true
         },
         {
           "title": "Fused Objectives",
           "link": "https://newsletter.doomberg.com/p/fused-objectives",
           "published": "Thu, 25 Jun 2026 09:02:04 GMT",
-          "description": "Has the real purpose of fusion hype been revealed?"
+          "description": "Has the real purpose of fusion hype been revealed?",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
         },
         {
           "title": "Sacred Cow",
           "link": "https://newsletter.doomberg.com/p/sacred-cow",
           "published": "Mon, 22 Jun 2026 14:22:09 GMT",
-          "description": "Pro Tier: June 2026 Doom Zoom"
+          "description": "Pro Tier: June 2026 Doom Zoom",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
         },
         {
           "title": "Stealth Financial Repression",
           "link": "https://newsletter.doomberg.com/p/stealth-financial-suppression",
           "published": "Thu, 18 Jun 2026 09:02:16 GMT",
-          "description": "A mental model for trillion-dollar IPOs."
+          "description": "A mental model for trillion-dollar IPOs.",
+          "relevant": true
         },
         {
           "title": "Flex Capacitor",
           "link": "https://newsletter.doomberg.com/p/flex-capacitor",
           "published": "Tue, 16 Jun 2026 09:01:47 GMT",
-          "description": "While nobody was looking, China harmonized global hydrocarbon fungibility."
+          "description": "While nobody was looking, China harmonized global hydrocarbon fungibility.",
+          "relevant": true
         },
         {
           "title": "Awkward Truths",
           "link": "https://newsletter.doomberg.com/p/awkward-truths",
           "published": "Fri, 12 Jun 2026 09:01:36 GMT",
-          "description": "The media can&#8217;t seem to explain the collapse in China&#8217;s domestic solar installations."
+          "description": "The media can&#8217;t seem to explain the collapse in China&#8217;s domestic solar installations.",
+          "relevant": true
         },
         {
           "title": "Party Pooper",
           "link": "https://newsletter.doomberg.com/p/party-pooper",
           "published": "Mon, 08 Jun 2026 09:02:31 GMT",
-          "description": "The balloons are always the first to go."
+          "description": "The balloons are always the first to go.",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
         },
         {
           "title": "New Found Gas",
           "link": "https://newsletter.doomberg.com/p/new-found-gas",
           "published": "Thu, 04 Jun 2026 09:01:26 GMT",
-          "description": "Will Canadian hydrocarbon development displace Europe&#8217;s reliance on the US?"
+          "description": "Will Canadian hydrocarbon development displace Europe&#8217;s reliance on the US?",
+          "relevant": true
         }
       ],
       "count": 10,
-      "domain": "Energy"
+      "domain": "Energy",
+      "relevant_count": 7
     },
     {
       "name": "Michael Howell — Capital Wars",
@@ -714,65 +846,76 @@
           "title": "Global Liquidity Watch: Weekly Update",
           "link": "https://capitalwars.substack.com/p/global-liquidity-watch-weekly-update-8e4",
           "published": "Tue, 07 Jul 2026 11:00:59 GMT",
-          "description": "Levelling Off?"
+          "description": "Levelling Off?",
+          "relevant": true
         },
         {
           "title": "Hubble, Bubble: Why Liquidity Matters More Than Valuation",
           "link": "https://capitalwars.substack.com/p/hubble-bubble-why-liquidity-matters",
           "published": "Sun, 05 Jul 2026 22:25:26 GMT",
-          "description": "A Global Liquidity framework for assessing market risk, funding stress and asset allocation"
+          "description": "A Global Liquidity framework for assessing market risk, funding stress and asset allocation",
+          "relevant": true
         },
         {
           "title": "Capital Wars 1.0, Not China Shock 2.0",
           "link": "https://capitalwars.substack.com/p/capital-wars-10-not-china-shock-20",
           "published": "Fri, 03 Jul 2026 15:21:36 GMT",
-          "description": "Gold, US Treasuries and China&#8217;s Paper Yuan"
+          "description": "Gold, US Treasuries and China&#8217;s Paper Yuan",
+          "relevant": true
         },
         {
           "title": "Global Liquidity Watch: Weekly Update",
           "link": "https://capitalwars.substack.com/p/global-liquidity-watch-weekly-update-64f",
           "published": "Tue, 30 Jun 2026 13:21:13 GMT",
-          "description": "PBoC Boost Lifts Global Liquidity But Constraints Remain"
+          "description": "PBoC Boost Lifts Global Liquidity But Constraints Remain",
+          "relevant": true
         },
         {
           "title": "Bitcoin, Gold and Fed Liquidity",
           "link": "https://capitalwars.substack.com/p/bitcoin-gold-and-fed-liquidity",
           "published": "Sun, 28 Jun 2026 11:31:08 GMT",
-          "description": "Reassessing the Great Debasement Trade"
+          "description": "Reassessing the Great Debasement Trade",
+          "relevant": true
         },
         {
           "title": "Could US$3,700/oz Mark Gold’s Floor?",
           "link": "https://capitalwars.substack.com/p/could-us3700oz-mark-golds-floor",
           "published": "Thu, 25 Jun 2026 13:41:44 GMT",
-          "description": "China, Gold and the People&#8217;s Bank"
+          "description": "China, Gold and the People&#8217;s Bank",
+          "relevant": true
         },
         {
           "title": "Global Liquidity Watch: Weekly Update",
           "link": "https://capitalwars.substack.com/p/global-liquidity-watch-weekly-update-ca4",
           "published": "Tue, 23 Jun 2026 14:30:56 GMT",
-          "description": "PBoC Liquidity Injections Drive Latest Rise"
+          "description": "PBoC Liquidity Injections Drive Latest Rise",
+          "relevant": true
         },
         {
           "title": "Additional Charts: Requested",
           "link": "https://capitalwars.substack.com/p/additional-charts-requested",
           "published": "Mon, 22 Jun 2026 14:24:10 GMT",
-          "description": "Central Bank Heat Map And Cryptocurrency Charts"
+          "description": "Central Bank Heat Map And Cryptocurrency Charts",
+          "relevant": true
         },
         {
           "title": "Let The Markets Tighten",
           "link": "https://capitalwars.substack.com/p/let-the-markets-tighten",
           "published": "Mon, 22 Jun 2026 12:38:08 GMT",
-          "description": "Chair Warsh May Welcome A Stronger US Dollar"
+          "description": "Chair Warsh May Welcome A Stronger US Dollar",
+          "relevant": true
         },
         {
           "title": "A New Fed Chair: The Name’s ‘Bond’",
           "link": "https://capitalwars.substack.com/p/a-new-fed-chair-the-names-bond",
           "published": "Thu, 18 Jun 2026 15:48:37 GMT",
-          "description": "The Looming Spectre Shadowing Wall Street"
+          "description": "The Looming Spectre Shadowing Wall Street",
+          "relevant": true
         }
       ],
       "count": 10,
-      "domain": "Global Liquidity"
+      "domain": "Global Liquidity",
+      "relevant_count": 10
     },
     {
       "name": "Adam Tooze — Substack",
@@ -784,65 +927,80 @@
           "title": "Top Links 1157 Data centers and \"industrial resolve\". Cannibalizing Lululemon. African urbanization & Foucault's secret Canadian file.",
           "link": "https://adamtooze.substack.com/p/top-links-1157-data-centers-and-industrial",
           "published": "Thu, 09 Jul 2026 10:39:03 GMT",
-          "description": "Great links, images, and reading from Chartbook Newsletter by Adam Tooze"
+          "description": "Great links, images, and reading from Chartbook Newsletter by Adam Tooze",
+          "relevant": true
         },
         {
           "title": "Top Links 1156 Pricey BBQ. Exaggerating Huawei. The US in 1930. Ukraine striking back.",
           "link": "https://adamtooze.substack.com/p/top-links-1156-pricey-bbq-exaggerating",
           "published": "Wed, 08 Jul 2026 18:59:16 GMT",
-          "description": "Great links, images, and reading from Chartbook Newsletter by Adam Tooze"
+          "description": "Great links, images, and reading from Chartbook Newsletter by Adam Tooze",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
         },
         {
           "title": "Chartbook 457: The metamorphoses of the dollar",
           "link": "https://adamtooze.substack.com/p/chartbook-457-the-metamorphoses-of",
           "published": "Wed, 08 Jul 2026 14:34:45 GMT",
-          "description": "The general question I find myself preoccupied with right now is how we think - or fail to think - radical economic change."
+          "description": "The general question I find myself preoccupied with right now is how we think - or fail to think - radical economic change.",
+          "relevant": true
         },
         {
           "title": "Top Links 1155 MAGA's economic self-harm. A snapshot of the food system. Grossman's \"music of destruction\" & Adorno on the paradoxes of historiography.",
           "link": "https://adamtooze.substack.com/p/top-links-1155-magas-economic-self",
           "published": "Tue, 07 Jul 2026 10:45:19 GMT",
-          "description": "Great links, images, and reading from Chartbook Newsletter by Adam Tooze"
+          "description": "Great links, images, and reading from Chartbook Newsletter by Adam Tooze",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
         },
         {
           "title": "Top Links 1154 Exxon - not like other oil majors. Polycrisis as supply shock. The mapmaker of Wounded Knee.",
           "link": "https://adamtooze.substack.com/p/top-links-1154-exxon-not-like-other",
           "published": "Mon, 06 Jul 2026 10:45:35 GMT",
-          "description": "Great links, images, and reading from Chartbook Newsletter by Adam Tooze"
+          "description": "Great links, images, and reading from Chartbook Newsletter by Adam Tooze",
+          "relevant": true
         },
         {
           "title": "Top Links 1153 Trump's money. Canada's pipeline to Asia. Russia is losing the space race & China's generals.",
           "link": "https://adamtooze.substack.com/p/top-links-1153-trumps-money-canadas",
           "published": "Sun, 05 Jul 2026 10:18:03 GMT",
-          "description": "Great links, images, and reading from Chartbook Newsletter by Adam Tooze"
+          "description": "Great links, images, and reading from Chartbook Newsletter by Adam Tooze",
+          "relevant": true
         },
         {
           "title": "Chartbook 456 Alien v. Predator or MAGA meets AI - a \"crossover\" monument to the USA at 250.",
           "link": "https://adamtooze.substack.com/p/chartbook-456-alien-v-predator-or",
           "published": "Sun, 05 Jul 2026 02:40:50 GMT",
-          "description": "We live in a world of divergent, incongruent but overlapping shocks."
+          "description": "We live in a world of divergent, incongruent but overlapping shocks.",
+          "relevant": true
         },
         {
           "title": "Top Links 1152 Anchovies & fishflation. Innovating in steel. The \"Presbyterian Rebellion\" & the ample hips of the stock market.",
           "link": "https://adamtooze.substack.com/p/top-links-1152-anchovies-and-fishflation",
           "published": "Sat, 04 Jul 2026 14:46:24 GMT",
-          "description": "Great links, images, and reading from Chartbook Newsletter by Adam Tooze"
+          "description": "Great links, images, and reading from Chartbook Newsletter by Adam Tooze",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
         },
         {
           "title": "Top Links 1151 No more visas. The distributed solar boom. The triumph of Excel & \"a bride married to amazement\".",
           "link": "https://adamtooze.substack.com/p/top-links-1151-no-more-visas-the",
           "published": "Fri, 03 Jul 2026 10:45:52 GMT",
-          "description": "Great links, images, and reading from Chartbook Newsletter by Adam Tooze"
+          "description": "Great links, images, and reading from Chartbook Newsletter by Adam Tooze",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
         },
         {
           "title": "Top Links 1150 Has the debasement trade run out of steam? China and tungsten. Rebuilding missile stocks & 52-year-old soup.",
           "link": "https://adamtooze.substack.com/p/top-links-1150-has-the-debasement",
           "published": "Thu, 02 Jul 2026 10:45:43 GMT",
-          "description": "Great links, images, and reading from Chartbook Newsletter by Adam Tooze"
+          "description": "Great links, images, and reading from Chartbook Newsletter by Adam Tooze",
+          "relevant": true
         }
       ],
       "count": 10,
-      "domain": "US Fiscal"
+      "domain": "US Fiscal",
+      "relevant_count": 6
     },
     {
       "name": "SemiAnalysis",
@@ -854,65 +1012,80 @@
           "title": "The Future of Meta Superintelligence: A 1 Year Progress Update",
           "link": "https://newsletter.semianalysis.com/p/the-future-of-meta-superintelligence",
           "published": "Thu, 09 Jul 2026 19:16:14 GMT",
-          "description": "A top tier RL environment startup spawns out of thin air, the most aggressive compute ramp we've ever seen, 2000km+ scale-across, and some advice for Google DeepMind"
+          "description": "A top tier RL environment startup spawns out of thin air, the most aggressive compute ramp we've ever seen, 2000km+ scale-across, and some advice for Google DeepMind",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
         },
         {
           "title": "Anthropic 3Q26 Profit Over $1B: The Anthropic IPO Financials Sneak Peak",
           "link": "https://newsletter.semianalysis.com/p/anthropic-3q26-profit-over-1b-the",
           "published": "Wed, 08 Jul 2026 06:04:28 GMT",
-          "description": "Anthropic&#8217;s Opportunity is Theirs to Lose"
+          "description": "Anthropic&#8217;s Opportunity is Theirs to Lose",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
         },
         {
           "title": "Nvidia GPU Debt Backstop Unleashes the AI Project Trinity: Capital, Offtake and Datacenters",
           "link": "https://newsletter.semianalysis.com/p/nvidia-gpu-debt-backstop-unleashes",
           "published": "Mon, 06 Jul 2026 21:53:44 GMT",
-          "description": "Over 7T AI debt by 2029, There can be no Neoclouds without the Trinity. Nvidia's Backstop Economics Explained. AI Debt Needs Quantified. Nvidia's Objective is to Broaden Compute Access, Develop AI Financing, Grow Neoclouds."
+          "description": "Over 7T AI debt by 2029, There can be no Neoclouds without the Trinity. Nvidia's Backstop Economics Explained. AI Debt Needs Quantified. Nvidia's Objective is to Broaden Compute Access, Develop AI Financing, Grow Neoclouds.",
+          "relevant": true
         },
         {
           "title": "Meta Compute: Everyone Wants To Be A Neocloud",
           "link": "https://newsletter.semianalysis.com/p/meta-compute-everyone-wants-to-be",
           "published": "Thu, 02 Jul 2026 22:18:08 GMT",
-          "description": "Zuck Takes Plan B? SpaceX 2.0, Bedrock 2.0, MSL Isn't Giving Up, Scaling RecSys by 10x... ClusterMAX ranking coming soon?"
+          "description": "Zuck Takes Plan B? SpaceX 2.0, Bedrock 2.0, MSL Isn't Giving Up, Scaling RecSys by 10x... ClusterMAX ranking coming soon?",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
         },
         {
           "title": "EMIB-T Roadmap, Custom HBM, HBM4 Packaging Challenges, Microfluidic Cooling, Photonic Interconnects, and More",
           "link": "https://newsletter.semianalysis.com/p/ectc2026",
           "published": "Thu, 02 Jul 2026 17:25:38 GMT",
-          "description": "ECTC 2026 Roundup, Intel, TSMC, SK Hynix, Samsung, Micron, Marvell, Lightmatter, Microsoft"
+          "description": "ECTC 2026 Roundup, Intel, TSMC, SK Hynix, Samsung, Micron, Marvell, Lightmatter, Microsoft",
+          "relevant": true
         },
         {
           "title": "TokenBudgeting: Our Conversations with Enterprises on Token Spend",
           "link": "https://newsletter.semianalysis.com/p/tokenbudgeting-our-conversations",
           "published": "Tue, 30 Jun 2026 18:32:39 GMT",
-          "description": "Was Widespread TokenMaxxing Ever Really Here?"
+          "description": "Was Widespread TokenMaxxing Ever Really Here?",
+          "relevant": true
         },
         {
           "title": "US Grid Constraints: Towards 40GW+ of Behind-The-Meter Datacenter by 2028?",
           "link": "https://newsletter.semianalysis.com/p/us-grid-constraints-towards-40gw",
           "published": "Thu, 25 Jun 2026 19:48:39 GMT",
-          "description": "Why the Grid Can't Keep Up, and Why that Drives Behind-The-Meter 50%+ of DCs/Year By 2028"
+          "description": "Why the Grid Can't Keep Up, and Why that Drives Behind-The-Meter 50%+ of DCs/Year By 2028",
+          "relevant": true
         },
         {
           "title": "China’s CXMT Is Set to Challenge DRAM Incumbents",
           "link": "https://newsletter.semianalysis.com/p/chinas-cxmt-is-set-to-challenge-dram",
           "published": "Tue, 23 Jun 2026 14:51:53 GMT",
-          "description": "CXMT IPO, SKHynix, Micron, Samsung Competition, Process Node Deficit, China HBM, Wafer Adds, Memory LTAs"
+          "description": "CXMT IPO, SKHynix, Micron, Samsung Competition, Process Node Deficit, China HBM, Wafer Adds, Memory LTAs",
+          "relevant": true
         },
         {
           "title": "Stop Saying Half of 2026 US Datacenter Capacity Is Canceled",
           "link": "https://newsletter.semianalysis.com/p/stop-saying-half-of-2026-us-datacenter",
           "published": "Thu, 18 Jun 2026 15:54:24 GMT",
-          "description": "Don't Believe The Vibecoded Estimates, Go Through Every Individual Filing Instead"
+          "description": "Don't Believe The Vibecoded Estimates, Go Through Every Individual Filing Instead",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
         },
         {
           "title": "RL Systems Mind the Gap: Matching Trainer and Generator Throughput",
           "link": "https://newsletter.semianalysis.com/p/rl-systems-mind-the-gap-matching",
           "published": "Tue, 16 Jun 2026 17:32:07 GMT",
-          "description": "RL Training Infrastructure, GRPO, PipelineRL, Async RL, Policy Staleness, RL Sandbox Infra, CPU Requirements, TCO Analysis, Thinking Machines Tinker"
+          "description": "RL Training Infrastructure, GRPO, PipelineRL, Async RL, Policy Staleness, RL Sandbox Infra, CPU Requirements, TCO Analysis, Thinking Machines Tinker",
+          "relevant": true
         }
       ],
       "count": 10,
-      "domain": "AI CAPEX"
+      "domain": "AI CAPEX",
+      "relevant_count": 6
     },
     {
       "name": "Commodity Context",
@@ -924,65 +1097,78 @@
           "title": "Context Call: July 2026 (Video)",
           "link": "https://www.commoditycontext.com/p/context-call-july-2026",
           "published": "Thu, 09 Jul 2026 16:38:31 GMT",
-          "description": "Post-MOU status of shipping flows through the Strait of Hormuz, the ongoing depression in China&#8217;s crude import appetite, and the emergence of the &#8220;mini-glut&#8221; currently being digested by oil markets."
+          "description": "Post-MOU status of shipping flows through the Strait of Hormuz, the ongoing depression in China&#8217;s crude import appetite, and the emergence of the &#8220;mini-glut&#8221; currently being digested by oil markets.",
+          "relevant": true
         },
         {
           "title": "[FREE] Is Big Oil ‘Price Gouging’?",
           "link": "https://www.commoditycontext.com/p/is-big-oil-price-gouging",
           "published": "Thu, 09 Jul 2026 13:11:41 GMT",
-          "description": "Reduced global refinery capacity, not corporate greed, is keeping pump prices high."
+          "description": "Reduced global refinery capacity, not corporate greed, is keeping pump prices high.",
+          "relevant": true
         },
         {
           "title": "North American Oil Data Deck (July 2026)",
           "link": "https://www.commoditycontext.com/p/north-american-oil-data-deck-july",
           "published": "Wed, 08 Jul 2026 11:45:22 GMT",
-          "description": "Continental petroleum production jumped back to near all-time highs in April on the back of the reacceleration of previously slowing upstream growth in both the US and Canada."
+          "description": "Continental petroleum production jumped back to near all-time highs in April on the back of the reacceleration of previously slowing upstream growth in both the US and Canada.",
+          "relevant": true
         },
         {
           "title": "REMINDER: Context Call Tomorrow",
           "link": "https://www.commoditycontext.com/p/reminder-context-call-tomorrow-bcf",
           "published": "Tue, 07 Jul 2026 18:21:14 GMT",
-          "description": "Subscribe for details and registration link; paid subscribers will find link below paywall"
+          "description": "Subscribe for details and registration link; paid subscribers will find link below paywall",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
         },
         {
           "title": "Oil Context Weekly (W27)",
           "link": "https://www.commoditycontext.com/p/ocw27w26",
           "published": "Fri, 03 Jul 2026 20:23:29 GMT",
-          "description": "Crude prices were effectively flat this week amidst a comparatively-quiet stretch of summer headlines, with all eyes on the optimistic-but-lurching resumption of Middle Eastern shipping activity."
+          "description": "Crude prices were effectively flat this week amidst a comparatively-quiet stretch of summer headlines, with all eyes on the optimistic-but-lurching resumption of Middle Eastern shipping activity.",
+          "relevant": true
         },
         {
           "title": "Getting Our Bearings Strait",
           "link": "https://www.commoditycontext.com/p/getting-our-bearings-strait",
           "published": "Thu, 02 Jul 2026 16:27:30 GMT",
-          "description": "Assessing the pace and sustainability of the faster-than-expected post-MOU recovery in oil flows&#8212;both ways&#8212;through the Strait of Hormuz and the still-lagging pace of fresh Gulf loadings."
+          "description": "Assessing the pace and sustainability of the faster-than-expected post-MOU recovery in oil flows&#8212;both ways&#8212;through the Strait of Hormuz and the still-lagging pace of fresh Gulf loadings.",
+          "relevant": true
         },
         {
           "title": "Oil Context Weekly (W26)",
           "link": "https://www.commoditycontext.com/p/ocw26w26",
           "published": "Fri, 26 Jun 2026 20:55:06 GMT",
-          "description": "Crude fell another $8.50/bbl and Brent slipped into prompt contango for the first since February as the surge of exiting Hormuz barrels hit a still weak Asian import market with China on the sidelines"
+          "description": "Crude fell another $8.50/bbl and Brent slipped into prompt contango for the first since February as the surge of exiting Hormuz barrels hit a still weak Asian import market with China on the sidelines",
+          "relevant": true
         },
         {
           "title": "Global Oil Data Deck (June 2026)",
           "link": "https://www.commoditycontext.com/p/global-oil-data-deck-june-2026",
           "published": "Thu, 25 Jun 2026 21:38:09 GMT",
-          "description": "Oil markets remained in deep supply deficit through April as the ongoing Middle Eastern production shut-ins were only partially offset by the pullback in Asian petrochemical feedstock demand."
+          "description": "Oil markets remained in deep supply deficit through April as the ongoing Middle Eastern production shut-ins were only partially offset by the pullback in Asian petrochemical feedstock demand.",
+          "relevant": true
         },
         {
           "title": "Oil & Iran War Context Weekly (W25)",
           "link": "https://www.commoditycontext.com/p/ocw25w26",
           "published": "Fri, 19 Jun 2026 20:14:05 GMT",
-          "description": "Crude plunged and curves flirted with prompt contango on the back of massive speculative short-selling following the announcement and signing of the US-Iran MOU to end the Iran War and reopen Hormuz."
+          "description": "Crude plunged and curves flirted with prompt contango on the back of massive speculative short-selling following the announcement and signing of the US-Iran MOU to end the Iran War and reopen Hormuz.",
+          "relevant": false,
+          "_skip_reason": "non_macro_pattern"
         },
         {
           "title": "OPEC+ Data Deck (June 2026)",
           "link": "https://www.commoditycontext.com/p/opec-data-deck-june-2026",
           "published": "Mon, 15 Jun 2026 13:49:36 GMT",
-          "description": "Middle Eastern crude production inches higher as Gulf producers gained on incremental Hormuz Crisis logistical improvements; the Emiratis have left the building after 59 years as a member of the group"
+          "description": "Middle Eastern crude production inches higher as Gulf producers gained on incremental Hormuz Crisis logistical improvements; the Emiratis have left the building after 59 years as a member of the group",
+          "relevant": true
         }
       ],
       "count": 10,
-      "domain": "Energy"
+      "domain": "Energy",
+      "relevant_count": 8
     },
     {
       "name": "Bruegel — Research",
@@ -994,65 +1180,81 @@
           "title": "Lunch",
           "link": "https://www.bruegel.org/node/12382",
           "published": "Fri, 03 Jul 2026 09:24:08 +0000",
-          "description": "Lunch \nAnastasiia Zaitseva\nFri, 07/03/2026 - 11:24"
+          "description": "Lunch \nAnastasiia Zaitseva\nFri, 07/03/2026 - 11:24",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
         },
         {
           "title": "Session 2b: Global monetary issues",
           "link": "https://www.bruegel.org/node/12381",
           "published": "Fri, 03 Jul 2026 09:23:49 +0000",
-          "description": "Session 2b: Global monetary issues\nAnastasiia Zaitseva\nFri, 07/03/2026 - 11:23"
+          "description": "Session 2b: Global monetary issues\nAnastasiia Zaitseva\nFri, 07/03/2026 - 11:23",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
         },
         {
           "title": "Session 2a: What would make the European Economy secure in 2030?",
           "link": "https://www.bruegel.org/node/12380",
           "published": "Fri, 03 Jul 2026 09:22:32 +0000",
-          "description": "Session 2a: What would make the European Economy secure in 2030? \nAnastasiia Zaitseva\nFri, 07/03/2026 - 11:22"
+          "description": "Session 2a: What would make the European Economy secure in 2030? \nAnastasiia Zaitseva\nFri, 07/03/2026 - 11:22",
+          "relevant": true
         },
         {
           "title": "Coffee break",
           "link": "https://www.bruegel.org/node/12379",
           "published": "Fri, 03 Jul 2026 09:21:33 +0000",
-          "description": "Coffee break\nAnastasiia Zaitseva\nFri, 07/03/2026 - 11:21"
+          "description": "Coffee break\nAnastasiia Zaitseva\nFri, 07/03/2026 - 11:21",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
         },
         {
           "title": "Session 1a: Europe's digital sovereignty: lessons from China's AI quest",
           "link": "https://www.bruegel.org/node/12377",
           "published": "Fri, 03 Jul 2026 09:19:55 +0000",
-          "description": "Session 1a: Europe's digital sovereignty: lessons from China's AI quest \nAnastasiia Zaitseva\nFri, 07/03/2026 - 11:19"
+          "description": "Session 1a: Europe's digital sovereignty: lessons from China's AI quest \nAnastasiia Zaitseva\nFri, 07/03/2026 - 11:19",
+          "relevant": true
         },
         {
           "title": "Session 6b: Can Europe become more “Schumpeterian” and how?",
           "link": "https://www.bruegel.org/node/12376",
           "published": "Fri, 03 Jul 2026 09:15:28 +0000",
-          "description": "Session 6b: Can Europe become more “Schumpeterian” and how? \nAnastasiia Zaitseva\nFri, 07/03/2026 - 11:15"
+          "description": "Session 6b: Can Europe become more “Schumpeterian” and how? \nAnastasiia Zaitseva\nFri, 07/03/2026 - 11:15",
+          "relevant": true
         },
         {
           "title": "Session 6a: European trade policy beyond FTAs: what is feasible without the US and China?",
           "link": "https://www.bruegel.org/node/12375",
           "published": "Fri, 03 Jul 2026 09:14:28 +0000",
-          "description": "Session 6a: European trade policy beyond FTAs: what is feasible without the US and China?\nAnastasiia Zaitseva\nFri, 07/03/2026 - 11:14"
+          "description": "Session 6a: European trade policy beyond FTAs: what is feasible without the US and China?\nAnastasiia Zaitseva\nFri, 07/03/2026 - 11:14",
+          "relevant": true
         },
         {
           "title": "Coffee break",
           "link": "https://www.bruegel.org/node/12374",
           "published": "Fri, 03 Jul 2026 09:13:11 +0000",
-          "description": "Coffee break\nAnastasiia Zaitseva\nFri, 07/03/2026 - 11:13"
+          "description": "Coffee break\nAnastasiia Zaitseva\nFri, 07/03/2026 - 11:13",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
         },
         {
           "title": "Session 5b: Fireside chat",
           "link": "https://www.bruegel.org/node/12373",
           "published": "Fri, 03 Jul 2026 09:12:44 +0000",
-          "description": "Session 5b: Fireside chat\nAnastasiia Zaitseva\nFri, 07/03/2026 - 11:12"
+          "description": "Session 5b: Fireside chat\nAnastasiia Zaitseva\nFri, 07/03/2026 - 11:12",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
         },
         {
           "title": "Session 5a: Future-proofing European banking",
           "link": "https://www.bruegel.org/node/12372",
           "published": "Fri, 03 Jul 2026 09:12:11 +0000",
-          "description": "Session 5a: Future-proofing European banking \nAnastasiia Zaitseva\nFri, 07/03/2026 - 11:12"
+          "description": "Session 5a: Future-proofing European banking \nAnastasiia Zaitseva\nFri, 07/03/2026 - 11:12",
+          "relevant": true
         }
       ],
       "count": 10,
-      "domain": "Europe"
+      "domain": "Europe",
+      "relevant_count": 5
     },
     {
       "name": "CSIS — Center for Strategic Studies",
@@ -1064,65 +1266,77 @@
           "title": "The Bio-Pharma Industry and Society",
           "link": "https://www.csis.org/events/bio-pharma-industry-and-society",
           "published": "Thu, 03 Mar 2016 20:36:33 +0000",
-          "description": "The Bio-Pharma Industry and Society \n\n   \n     Listing Summary \n                Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, and innovation. \n \n           \n  Drupal Admin  \n  Thu, 03/03/2016 - 15:36 \n \n\n   \n     Featured Image \n                \n  \n  \n        \n   \n     Image \n                  \n\n\n \n           \n\n\n           \n \n           \n\n   \n     Contributors \n           \n                J. Stephen Morrison  \n               \n       \n\n   \n     Downloads \n           \n                \n  \n      \n             Download Transcript Here \n      \n   \n     Document \n                 160317_The_Bio-Pha"
+          "description": "The Bio-Pharma Industry and Society \n\n   \n     Listing Summary \n                Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, and innovation. \n \n           \n  Drupal Admin  \n  Thu, 03/03/2016 - 15:36 \n \n\n   \n     Featured Image \n                \n  \n  \n        \n   \n     Image \n                  \n\n\n \n           \n\n\n           \n \n           \n\n   \n     Contributors \n           \n                J. Stephen Morrison  \n               \n       \n\n   \n     Downloads \n           \n                \n  \n      \n             Download Transcript Here \n      \n   \n     Document \n                 160317_The_Bio-Pha",
+          "relevant": true
         },
         {
           "title": "The FY2017 Defense Budget and Strategic Outlook",
           "link": "https://www.csis.org/events/fy2017-defense-budget-and-strategic-outlook",
           "published": "Mon, 29 Feb 2016 18:48:29 +0000",
-          "description": "The FY2017 Defense Budget and Strategic Outlook \n\n   \n     Listing Summary \n                Please join the CSIS International Security Program for a half-day Defense360 conference on the recently released FY2017 defense budget request and strategic priorities. \n \n           \n  Drupal Admin  \n  Mon, 02/29/2016 - 13:48 \n \n\n   \n     Featured Image \n                \n  \n  \n        \n   \n     Image \n                  \n\n\n \n           \n\n\n           \n \n           \n\n   \n     Contributors \n           \n                John J. Hamre  \n           Tina W. Jonas \n            Mark F. Cancian  \n           Todd Harrison \n           Andrew Philip Hunter \n               \n       \n\n   \n     Programs &amp; Projects \n           \n                \n\n  \n       \n        International Security Program"
+          "description": "The FY2017 Defense Budget and Strategic Outlook \n\n   \n     Listing Summary \n                Please join the CSIS International Security Program for a half-day Defense360 conference on the recently released FY2017 defense budget request and strategic priorities. \n \n           \n  Drupal Admin  \n  Mon, 02/29/2016 - 13:48 \n \n\n   \n     Featured Image \n                \n  \n  \n        \n   \n     Image \n                  \n\n\n \n           \n\n\n           \n \n           \n\n   \n     Contributors \n           \n                John J. Hamre  \n           Tina W. Jonas \n            Mark F. Cancian  \n           Todd Harrison \n           Andrew Philip Hunter \n               \n       \n\n   \n     Programs &amp; Projects \n           \n                \n\n  \n       \n        International Security Program",
+          "relevant": true
         },
         {
           "title": "2016 U.S.-Japan Security Seminar",
           "link": "https://www.csis.org/events/2016-us-japan-security-seminar",
           "published": "Fri, 26 Feb 2016 17:54:32 +0000",
-          "description": "2016 U.S.-Japan Security Seminar \n\n   \n     Listing Summary \n                Michael J. Green interviews JIIA President Yoshiji Nogami \n \n           \n  Drupal Admin  \n  Fri, 02/26/2016 - 12:54 \n \n\n   \n     Featured Image \n                \n  \n  \n        \n   \n     Image \n                  \n\n\n \n           \n\n\n           \n \n           \n\n   \n     Contributors \n           \n                Michael J. Green  \n               \n       \n\n   \n     Programs &amp; Projects \n           \n                \n\n  \n       \n        Japan Chair \n \n     \n    \n\n  \n   \n    \n   \n     Parent \n                Geopolitics and Foreign Policy  \n           \n\n   \n     Featured Image \n               AdobeStock_179685887.jpeg \n           \n\n   \n     Listing Summary \n                The mission of the CSIS Japan Chair is to be the"
+          "description": "2016 U.S.-Japan Security Seminar \n\n   \n     Listing Summary \n                Michael J. Green interviews JIIA President Yoshiji Nogami \n \n           \n  Drupal Admin  \n  Fri, 02/26/2016 - 12:54 \n \n\n   \n     Featured Image \n                \n  \n  \n        \n   \n     Image \n                  \n\n\n \n           \n\n\n           \n \n           \n\n   \n     Contributors \n           \n                Michael J. Green  \n               \n       \n\n   \n     Programs &amp; Projects \n           \n                \n\n  \n       \n        Japan Chair \n \n     \n    \n\n  \n   \n    \n   \n     Parent \n                Geopolitics and Foreign Policy  \n           \n\n   \n     Featured Image \n               AdobeStock_179685887.jpeg \n           \n\n   \n     Listing Summary \n                The mission of the CSIS Japan Chair is to be the",
+          "relevant": true
         },
         {
           "title": "The Future of the Grid—A View from ARPA-E",
           "link": "https://www.csis.org/events/future-grid-view-arpa-e",
           "published": "Thu, 25 Feb 2016 19:15:03 +0000",
-          "description": "The Future of the Grid—A View from ARPA-E \n\n   \n     Listing Summary \n                The CSIS Energy and National Security Program is pleased to invite you to a discussion with Ellen Williams, Director of ARPA-E, the Advanced Research Projects Agency-Energy. \n \n           \n  Drupal Admin  \n  Thu, 02/25/2016 - 14:15 \n \n\n   \n     Featured Image \n                \n  \n  \n        \n   \n     Image \n                  \n\n\n \n           \n\n\n           \n \n           \n\n   \n     Contributors \n           \n               Sarah Ladislaw \n           Francis O'Sullivan \n               \n       \n\n   \n     Downloads \n           \n                \n  \n      \n             03102016_Williams.pdf \n      \n   \n     Document \n                 03102016_Williams.pdf  \n \n           \n\n   \n \n               \n       \n\n   \n     Pr"
+          "description": "The Future of the Grid—A View from ARPA-E \n\n   \n     Listing Summary \n                The CSIS Energy and National Security Program is pleased to invite you to a discussion with Ellen Williams, Director of ARPA-E, the Advanced Research Projects Agency-Energy. \n \n           \n  Drupal Admin  \n  Thu, 02/25/2016 - 14:15 \n \n\n   \n     Featured Image \n                \n  \n  \n        \n   \n     Image \n                  \n\n\n \n           \n\n\n           \n \n           \n\n   \n     Contributors \n           \n               Sarah Ladislaw \n           Francis O'Sullivan \n               \n       \n\n   \n     Downloads \n           \n                \n  \n      \n             03102016_Williams.pdf \n      \n   \n     Document \n                 03102016_Williams.pdf  \n \n           \n\n   \n \n               \n       \n\n   \n     Pr",
+          "relevant": true
         },
         {
           "title": "Statesmen's Forum: Wang Yi, Minister of Foreign Affairs, PRC",
           "link": "https://www.csis.org/events/statesmens-forum-wang-yi-minister-foreign-affairs-prc",
           "published": "Fri, 19 Feb 2016 22:13:26 +0000",
-          "description": "Statesmen's Forum: Wang Yi, Minister of Foreign Affairs, PRC \n\n   \n     Listing Summary \n                Please watch the live webcast of a discussion on Chinese foreign policy and US-China Relations \n \n           \n  Drupal Admin  \n  Fri, 02/19/2016 - 17:13 \n \n\n   \n     Featured Image \n                \n  \n  \n        \n   \n     Image \n                  \n\n\n \n           \n\n\n           \n \n           \n\n   \n     Contributors \n           \n                John J. Hamre  \n           Christopher K. Johnson \n               \n       \n\n   \n     Downloads \n           \n                \n  \n      \n             Download Transcript Here \n      \n   \n     Document \n                 160225_statesmen_forum_wang_yi.pdf  \n \n           \n\n   \n \n               \n       \n\n   \n     Programs &amp; Projects"
+          "description": "Statesmen's Forum: Wang Yi, Minister of Foreign Affairs, PRC \n\n   \n     Listing Summary \n                Please watch the live webcast of a discussion on Chinese foreign policy and US-China Relations \n \n           \n  Drupal Admin  \n  Fri, 02/19/2016 - 17:13 \n \n\n   \n     Featured Image \n                \n  \n  \n        \n   \n     Image \n                  \n\n\n \n           \n\n\n           \n \n           \n\n   \n     Contributors \n           \n                John J. Hamre  \n           Christopher K. Johnson \n               \n       \n\n   \n     Downloads \n           \n                \n  \n      \n             Download Transcript Here \n      \n   \n     Document \n                 160225_statesmen_forum_wang_yi.pdf  \n \n           \n\n   \n \n               \n       \n\n   \n     Programs &amp; Projects",
+          "relevant": true
         },
         {
           "title": "China Reality Check: China's \"Internet Sovereignty\" Initiative: Origins and Consequences",
           "link": "https://www.csis.org/events/china-reality-check-chinas-internet-sovereignty-initiative-origins-and-consequences",
           "published": "Tue, 16 Feb 2016 16:49:43 +0000",
-          "description": "China Reality Check: China's \"Internet Sovereignty\" Initiative: Origins and Consequences  \n\n   \n     Listing Summary \n                Please join us for a discussion on China’s initiative to promote Internet sovereignty as a key governing concept of the global Internet. \n \n           \n  Drupal Admin  \n  Tue, 02/16/2016 - 11:49 \n \n\n   \n     Featured Image \n                \n  \n  \n        \n   \n     Image \n                  \n\n\n \n           \n\n\n           \n \n           \n\n   \n     Contributors \n           \n                Scott Kennedy  \n               \n       \n\n   \n     Programs &amp; Projects \n           \n                \n\n  \n       \n        Chinese Business and Economics \n \n     \n    \n\n  \n   \n    \n   \n     Parent \n                Economic Security and Technology  \n           \n\n   \n     Feature"
+          "description": "China Reality Check: China's \"Internet Sovereignty\" Initiative: Origins and Consequences  \n\n   \n     Listing Summary \n                Please join us for a discussion on China’s initiative to promote Internet sovereignty as a key governing concept of the global Internet. \n \n           \n  Drupal Admin  \n  Tue, 02/16/2016 - 11:49 \n \n\n   \n     Featured Image \n                \n  \n  \n        \n   \n     Image \n                  \n\n\n \n           \n\n\n           \n \n           \n\n   \n     Contributors \n           \n                Scott Kennedy  \n               \n       \n\n   \n     Programs &amp; Projects \n           \n                \n\n  \n       \n        Chinese Business and Economics \n \n     \n    \n\n  \n   \n    \n   \n     Parent \n                Economic Security and Technology  \n           \n\n   \n     Feature",
+          "relevant": true
         },
         {
           "title": "Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United Kingdom",
           "link": "https://www.csis.org/events/statesmens-forum-right-honourable-theresa-may-mp-home-secretary-united-kingdom",
           "published": "Fri, 12 Feb 2016 21:08:04 +0000",
-          "description": "Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United Kingdom \n\n   \n     Listing Summary \n                Please join the CSIS International Security Program for a discussion with UK Home Secretary Theresa May on counter-terrorism policy. \n \n           \n  Drupal Admin  \n  Fri, 02/12/2016 - 16:08 \n \n\n   \n     Featured Image \n                \n  \n  \n        \n   \n     Image \n                  \n\n\n \n           \n\n\n           \n \n           \n\n   \n     Contributors \n           \n               Kathleen H. Hicks \n               \n       \n\n   \n     Programs &amp; Projects \n           \n                \n\n  \n       \n        International Security Program \n \n     \n    \n\n  \n   \n    \n   \n     Parent \n                Former Programs  \n           \n\n   \n     Featured Image"
+          "description": "Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United Kingdom \n\n   \n     Listing Summary \n                Please join the CSIS International Security Program for a discussion with UK Home Secretary Theresa May on counter-terrorism policy. \n \n           \n  Drupal Admin  \n  Fri, 02/12/2016 - 16:08 \n \n\n   \n     Featured Image \n                \n  \n  \n        \n   \n     Image \n                  \n\n\n \n           \n\n\n           \n \n           \n\n   \n     Contributors \n           \n               Kathleen H. Hicks \n               \n       \n\n   \n     Programs &amp; Projects \n           \n                \n\n  \n       \n        International Security Program \n \n     \n    \n\n  \n   \n    \n   \n     Parent \n                Former Programs  \n           \n\n   \n     Featured Image",
+          "relevant": true
         },
         {
           "title": "Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris",
           "link": "https://www.csis.org/events/strategic-opportunities-indo-asia-pacific-admiral-harry-b-harris",
           "published": "Tue, 26 Jan 2016 16:20:53 +0000",
-          "description": "Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris \n\n   \n     Listing Summary \n                Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. \n \n           \n  Drupal Admin  \n  Tue, 01/26/2016 - 11:20 \n \n\n   \n     Featured Image \n                \n  \n  \n        \n   \n     Image \n                  \n\n\n \n           \n\n\n           \n \n           \n\n   \n     Contributors \n           \n               Kathleen H. Hicks \n            John J. Hamre  \n               \n       \n\n   \n     Programs &amp; Projects \n           \n                \n\n  \n       \n        International Security Program \n \n     \n    \n\n  \n   \n    \n   \n     Parent \n                Former Programs"
+          "description": "Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris \n\n   \n     Listing Summary \n                Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. \n \n           \n  Drupal Admin  \n  Tue, 01/26/2016 - 11:20 \n \n\n   \n     Featured Image \n                \n  \n  \n        \n   \n     Image \n                  \n\n\n \n           \n\n\n           \n \n           \n\n   \n     Contributors \n           \n               Kathleen H. Hicks \n            John J. Hamre  \n               \n       \n\n   \n     Programs &amp; Projects \n           \n                \n\n  \n       \n        International Security Program \n \n     \n    \n\n  \n   \n    \n   \n     Parent \n                Former Programs",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
         },
         {
           "title": "Schieffer Series: A Discussion on Terrorism",
           "link": "https://www.csis.org/events/schieffer-series-discussion-terrorism",
           "published": "Thu, 21 Jan 2016 18:20:39 +0000",
-          "description": "Schieffer Series: A Discussion on Terrorism \n\n   \n     Listing Summary \n                The TCU Bob Schieffer College of Communication and CSIS cohost a monthly series of dialogues hosted by award-winning journalist Bob Schieffer to discuss the most pressing foreign and domestic issues of the day. \n \n           \n  Drupal Admin  \n  Thu, 01/21/2016 - 13:20 \n \n\n   \n     Featured Image \n                \n  \n  \n        \n   \n     Image \n                  \n\n\n \n           \n\n\n           \n \n           \n\n   \n     Contributors \n           \n                Bob Schieffer  \n            Frances F. Townsend  \n            Juan C. Zarate   \n               \n       \n\n   \n     Topics \n           \n                Defense and Security  \n            Counterterrorism and Homeland Security  \n            Geopolitics a"
+          "description": "Schieffer Series: A Discussion on Terrorism \n\n   \n     Listing Summary \n                The TCU Bob Schieffer College of Communication and CSIS cohost a monthly series of dialogues hosted by award-winning journalist Bob Schieffer to discuss the most pressing foreign and domestic issues of the day. \n \n           \n  Drupal Admin  \n  Thu, 01/21/2016 - 13:20 \n \n\n   \n     Featured Image \n                \n  \n  \n        \n   \n     Image \n                  \n\n\n \n           \n\n\n           \n \n           \n\n   \n     Contributors \n           \n                Bob Schieffer  \n            Frances F. Townsend  \n            Juan C. Zarate   \n               \n       \n\n   \n     Topics \n           \n                Defense and Security  \n            Counterterrorism and Homeland Security  \n            Geopolitics a",
+          "relevant": true
         },
         {
           "title": "Defense Outlook: A CSIS Series on Strategy, Budget, Forces, and Acquisition",
           "link": "https://www.csis.org/events/defense-outlook-csis-series-strategy-budget-forces-and-acquisition",
           "published": "Fri, 15 Jan 2016 20:33:17 +0000",
-          "description": "Defense Outlook: A CSIS Series on Strategy, Budget, Forces, and Acquisition \n\n   \n     Listing Summary \n                In January of 2016, CSIS launched a new International Security Program initiative examining the dynamics and interlinkages of strategy, budget, forces, and acquisition on the current and future state of the U.S. Armed Forces. \n \n           \n  Drupal Admin  \n  Fri, 01/15/2016 - 15:33 \n \n\n   \n     Featured Image \n                \n  \n  \n        \n   \n     Image \n                  \n\n\n \n           \n\n\n           \n \n           \n\n   \n     Contributors \n           \n                John J. Hamre  \n           Todd Harrison \n            Mark F. Cancian  \n           Andrew Philip Hunter \n           Kathleen H. Hicks \n               \n       \n\n   \n     Downloads"
+          "description": "Defense Outlook: A CSIS Series on Strategy, Budget, Forces, and Acquisition \n\n   \n     Listing Summary \n                In January of 2016, CSIS launched a new International Security Program initiative examining the dynamics and interlinkages of strategy, budget, forces, and acquisition on the current and future state of the U.S. Armed Forces. \n \n           \n  Drupal Admin  \n  Fri, 01/15/2016 - 15:33 \n \n\n   \n     Featured Image \n                \n  \n  \n        \n   \n     Image \n                  \n\n\n \n           \n\n\n           \n \n           \n\n   \n     Contributors \n           \n                John J. Hamre  \n           Todd Harrison \n            Mark F. Cancian  \n           Andrew Philip Hunter \n           Kathleen H. Hicks \n               \n       \n\n   \n     Downloads",
+          "relevant": true
         }
       ],
       "count": 10,
-      "domain": "Deglobalization"
+      "domain": "Deglobalization",
+      "relevant_count": 9
     },
     {
       "name": "CSET — Georgetown AI Policy",
@@ -1134,65 +1348,77 @@
           "title": "Anthropic Thinks Its Own Success Is Key to Making AI Safe",
           "link": "https://cset.georgetown.edu/article/anthropic-thinks-its-own-success-is-key-to-making-ai-safe/",
           "published": "Mon, 06 Jul 2026 15:20:08 +0000",
-          "description": "CSET’s Helen Toner shared her expert insight in an article published by WIRED. The article explores Anthropic’s philosophy of advancing cutting-edge AI while simultaneously positioning itself as a leader in AI safety. \n The post  Anthropic Thinks Its Own Success Is Key to Making AI Safe  appeared first on  Center for Security and Emerging Technology ."
+          "description": "CSET’s Helen Toner shared her expert insight in an article published by WIRED. The article explores Anthropic’s philosophy of advancing cutting-edge AI while simultaneously positioning itself as a leader in AI safety. \n The post  Anthropic Thinks Its Own Success Is Key to Making AI Safe  appeared first on  Center for Security and Emerging Technology .",
+          "relevant": true
         },
         {
           "title": "A major online safety bill for kids just passed the House. Here’s what experts say parents need to know",
           "link": "https://cset.georgetown.edu/article/a-major-online-safety-bill-for-kids-just-passed-the-house-heres-what-experts-say-parents-need-to-know/",
           "published": "Thu, 02 Jul 2026 21:00:00 +0000",
-          "description": "CSET’s Jessica Ji shared her expert insight in an article published by CNBC. The article examines the House passage of the Kids Internet and Digital Safety (KIDS) Act, a bill aimed at strengthening protections for minors online through age verification, content restrictions, and parental oversight tools. \n The post  A major online safety bill for kids just passed the House. Here’s what experts say parents need to know  appeared first on  Center for Security and Emerging Technology ."
+          "description": "CSET’s Jessica Ji shared her expert insight in an article published by CNBC. The article examines the House passage of the Kids Internet and Digital Safety (KIDS) Act, a bill aimed at strengthening protections for minors online through age verification, content restrictions, and parental oversight tools. \n The post  A major online safety bill for kids just passed the House. Here’s what experts say parents need to know  appeared first on  Center for Security and Emerging Technology .",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
         },
         {
           "title": "You Can Now Sound the Alarm on AI Behaving Badly",
           "link": "https://cset.georgetown.edu/article/you-can-now-sound-the-alarm-on-ai-behaving-badly/",
           "published": "Wed, 01 Jul 2026 21:00:00 +0000",
-          "description": "CSET’s Jessica Ji shared her expert insight in an article published by WIRED. The article examines the launch of FLARE-AI, a new crowdsourced platform designed to improve transparency and accountability by creating a centralized system for reporting harmful AI behavior and model flaws. \n The post  You Can Now Sound the Alarm on AI Behaving Badly  appeared first on  Center for Security and Emerging Technology ."
+          "description": "CSET’s Jessica Ji shared her expert insight in an article published by WIRED. The article examines the launch of FLARE-AI, a new crowdsourced platform designed to improve transparency and accountability by creating a centralized system for reporting harmful AI behavior and model flaws. \n The post  You Can Now Sound the Alarm on AI Behaving Badly  appeared first on  Center for Security and Emerging Technology .",
+          "relevant": true
         },
         {
           "title": "When cheap AI becomes a secret weapon",
           "link": "https://cset.georgetown.edu/article/when-cheap-ai-becomes-a-secret-weapon/",
           "published": "Tue, 30 Jun 2026 21:00:00 +0000",
-          "description": "CSET’s Sam Bresnick shared his expert insight in a newsletter segment published by Politico. The article examines the evolving U.S.–China AI competition, focusing on how cost-efficient Chinese AI models are beginning to gain traction globally and what that could mean for the long-term balance of technological and economic power in artificial intelligence. \n The post  When cheap AI becomes a secret weapon  appeared first on  Center for Security and Emerging Technology ."
+          "description": "CSET’s Sam Bresnick shared his expert insight in a newsletter segment published by Politico. The article examines the evolving U.S.–China AI competition, focusing on how cost-efficient Chinese AI models are beginning to gain traction globally and what that could mean for the long-term balance of technological and economic power in artificial intelligence. \n The post  When cheap AI becomes a secret weapon  appeared first on  Center for Security and Emerging Technology .",
+          "relevant": true
         },
         {
           "title": "Trump administration’s AI crackdown opens door for China to close gap",
           "link": "https://cset.georgetown.edu/article/trump-administrations-ai-crackdown-opens-door-for-china-to-close-gap/",
           "published": "Tue, 30 Jun 2026 21:00:00 +0000",
-          "description": "CSET’s Sam Bresnick shared his expert insight in an article published by CNBC. The article examines U.S. AI restrictions and China’s rapid progress in closing the gap with leading American models. \n The post  Trump administration’s AI crackdown opens door for China to close gap  appeared first on  Center for Security and Emerging Technology ."
+          "description": "CSET’s Sam Bresnick shared his expert insight in an article published by CNBC. The article examines U.S. AI restrictions and China’s rapid progress in closing the gap with leading American models. \n The post  Trump administration’s AI crackdown opens door for China to close gap  appeared first on  Center for Security and Emerging Technology .",
+          "relevant": true
         },
         {
           "title": "The Long Arm of the Chinese Academy of Sciences",
           "link": "https://cset.georgetown.edu/article/the-long-arm-of-the-chinese-academy-of-sciences/",
           "published": "Sun, 21 Jun 2026 21:00:00 +0000",
-          "description": "CSET’s Hanna Dohmen shared her expert insight in an article published by The Wire China. The article examines how the Chinese Academy of Sciences maintains long-term relationships with companies it supports, extending beyond initial investment or spinouts into ongoing collaboration across research, talent development, and shared resources.  \n The post  The Long Arm of the Chinese Academy of Sciences  appeared first on  Center for Security and Emerging Technology ."
+          "description": "CSET’s Hanna Dohmen shared her expert insight in an article published by The Wire China. The article examines how the Chinese Academy of Sciences maintains long-term relationships with companies it supports, extending beyond initial investment or spinouts into ongoing collaboration across research, talent development, and shared resources.  \n The post  The Long Arm of the Chinese Academy of Sciences  appeared first on  Center for Security and Emerging Technology .",
+          "relevant": true
         },
         {
           "title": "Anthropic got hit by export rules nobody understands",
           "link": "https://cset.georgetown.edu/article/anthropic-got-hit-by-export-rules-nobody-understands/",
           "published": "Wed, 17 Jun 2026 21:00:00 +0000",
-          "description": "CSET’s Hanna Dohmen shared her expert insight in an article published by The Verge. The piece examines the U.S. government’s unprecedented use of export controls to restrict access to Anthropic’s AI models. \n The post  Anthropic got hit by export rules nobody understands  appeared first on  Center for Security and Emerging Technology ."
+          "description": "CSET’s Hanna Dohmen shared her expert insight in an article published by The Verge. The piece examines the U.S. government’s unprecedented use of export controls to restrict access to Anthropic’s AI models. \n The post  Anthropic got hit by export rules nobody understands  appeared first on  Center for Security and Emerging Technology .",
+          "relevant": true
         },
         {
           "title": "Anthropic-U.S. battle highlights AI power struggle",
           "link": "https://cset.georgetown.edu/article/anthropic-u-s-battle-highlights-ai-power-struggle/",
           "published": "Wed, 17 Jun 2026 21:00:00 +0000",
-          "description": "CSET’s Helen Toner shared her expert insight in an article published by Axios. The article examines the U.S. government’s intervention involving Anthropic’s AI models and the broader debate over how frontier AI systems should be regulated and overseen. \n The post  Anthropic-U.S. battle highlights AI power struggle  appeared first on  Center for Security and Emerging Technology ."
+          "description": "CSET’s Helen Toner shared her expert insight in an article published by Axios. The article examines the U.S. government’s intervention involving Anthropic’s AI models and the broader debate over how frontier AI systems should be regulated and overseen. \n The post  Anthropic-U.S. battle highlights AI power struggle  appeared first on  Center for Security and Emerging Technology .",
+          "relevant": true
         },
         {
           "title": "U.S. Semiconductors and China’s AI Military Ambitions",
           "link": "https://cset.georgetown.edu/article/u-s-semiconductors-and-chinas-ai-military-ambitions/",
           "published": "Mon, 15 Jun 2026 21:00:00 +0000",
-          "description": "CSET’s Sam Bresnick shared his expert perspective in an op-ed published by Perry World House. In his piece, he argues that relaxing U.S. restrictions on advanced AI semiconductor exports to China would undermine long-term U.S. technological advantage. \n The post  U.S. Semiconductors and China’s AI Military Ambitions  appeared first on  Center for Security and Emerging Technology ."
+          "description": "CSET’s Sam Bresnick shared his expert perspective in an op-ed published by Perry World House. In his piece, he argues that relaxing U.S. restrictions on advanced AI semiconductor exports to China would undermine long-term U.S. technological advantage. \n The post  U.S. Semiconductors and China’s AI Military Ambitions  appeared first on  Center for Security and Emerging Technology .",
+          "relevant": true
         },
         {
           "title": "What Do AI Standards Mean for Small and Medium Enterprises?",
           "link": "https://cset.georgetown.edu/article/what-do-ai-standards-mean-for-small-and-medium-enterprises/",
           "published": "Tue, 09 Jun 2026 16:22:35 +0000",
-          "description": "While AI standards and best practices provide valuable guidance to practitioners, they often are geared toward integrating AI into the structure and practices of large, well-resourced organizations. Yet small and medium enterprises (SMEs) stand to benefit greatly from AI adoption as well. This blog examines the implications of AI standards for smaller organizations and proposes several achievable initial steps that practitioners can take to further responsible AI deployment under resource constraints. \n The post  What Do AI Standards Mean for Small and Medium Enterprises?  appeared first on  Center for Security and Emerging Technology ."
+          "description": "While AI standards and best practices provide valuable guidance to practitioners, they often are geared toward integrating AI into the structure and practices of large, well-resourced organizations. Yet small and medium enterprises (SMEs) stand to benefit greatly from AI adoption as well. This blog examines the implications of AI standards for smaller organizations and proposes several achievable initial steps that practitioners can take to further responsible AI deployment under resource constraints. \n The post  What Do AI Standards Mean for Small and Medium Enterprises?  appeared first on  Center for Security and Emerging Technology .",
+          "relevant": true
         }
       ],
       "count": 10,
-      "domain": "AI CAPEX"
+      "domain": "AI CAPEX",
+      "relevant_count": 9
     }
   ]
 }

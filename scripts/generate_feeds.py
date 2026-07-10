@@ -47,8 +47,61 @@ HEADERS = {
 }
 
 
+# Macro-relevance keywords for title/description filtering.
+# An entry must match at least one keyword to be tagged relevant=true.
+# Entries tagged false are still included in feeds but can be skipped by Agent.
+MACRO_KEYWORDS = [
+    "inflation", "deflation", "cpi", "pce", "ppi",
+    "fed", "fomc", "federal reserve", "powell", "ecb", "boj", "boe", "pboc",
+    "rate hike", "rate cut", "interest rate", "monetary policy", "tightening", "easing",
+    "gdp", "recession", "growth", "employment", "unemployment", "payroll", "nfo",
+    "fiscal", "deficit", "debt", "treasury", "auction", "tga", "budget",
+    "bond", "yield", "spread", "credit", "oas", "ig ", "hy ",
+    "dollar", "dxy", "fx", "currency", "yen", "euro", "rmb", "cny",
+    "oil", "crude", "energy", "gas", "petroleum", "eia", "opec",
+    "gold", "copper", "commodity", "supply chain", "inventory",
+    "china", "chinese", "beijing", "xi ",
+    "japan", "japanese", "tokyo",
+    "europe", "european", "eu ", "brussels",
+    "trade", "tariff", "sanction", "export control",
+    "geopolitic", "war", "conflict", "houthi", "hormuz", "taiwan",
+    "liquidity", "balance sheet", "qt", "qe", "repo", "sofr",
+    "semiconductor", "chip", "tsmc", "nvidia", "capex",
+    "ai ", "artificial intelligence", "data center", "infrastructure",
+    "housing", "real estate", "property",
+    "carry trade", "volatility", "vix",
+    "regulation", "policy", "legislation",
+    "bank", "financial stability", "systemic",
+]
+NON_MACRO_PATTERNS = [
+    r"(?i)\b(fiction|novel|book review|movie|film|sci-fi|science fiction)\b",
+    r"(?i)\b(personal update|life update|announcement|podcast episode)\b",
+    r"(?i)\b(sponsor|sponsored|advertisement|promo)\b",
+]
+
+
 def strip_html(text):
     return re.sub(r"<[^>]+>", " ", text or "").strip()
+
+
+def tag_relevance(entries):
+    """Tag each entry with relevant=true/false based on title+description keyword match.
+    Also removes entries that match NON_MACRO_PATTERNS (false positives)."""
+    for entry in entries:
+        text = f"{entry.get('title', '')} {entry.get('description', '')}".lower()
+
+        # Check non-macro patterns first (exclusion)
+        for pattern in NON_MACRO_PATTERNS:
+            if re.search(pattern, text):
+                entry["relevant"] = False
+                entry["_skip_reason"] = "non_macro_pattern"
+                break
+        else:
+            # Check macro keywords (inclusion)
+            entry["relevant"] = any(kw in text for kw in MACRO_KEYWORDS)
+            if not entry["relevant"]:
+                entry["_skip_reason"] = "no_macro_keyword"
+    return entries
 
 
 def parse_feed(xml_text, feed_type="rss"):
@@ -149,6 +202,8 @@ def main():
     for feed in rss_feeds:
         result = fetch_feed(feed["name"], feed["url"], "rss")
         result["domain"] = feed.get("domain", "")
+        result["entries"] = tag_relevance(result["entries"])
+        result["relevant_count"] = sum(1 for e in result["entries"] if e.get("relevant"))
         rss_results.append(result)
         status = f"{result['count']} entries" if result["count"] > 0 else f"error: {result.get('_error', 'unknown')}"
         print(f"  RSS {feed['name']}: {status}")
