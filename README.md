@@ -11,7 +11,8 @@ sources.json              — Curated RSS + podcast source list
   ↓
 GitHub Action             — Daily 22:00 UTC (6 AM HKT)
   ↓
-scripts/generate_feeds.py — One script, RSS + podcasts
+| `scripts/generate_feeds.py` | One script, RSS + podcasts |
+| `scripts/transcribe_podcasts.py` | OpenAI Whisper transcription (disabled by default) |
   ↓
 feeds/feed-*.json         — Public JSON (committed to repo)
   ↓

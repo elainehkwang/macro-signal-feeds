@@ -31,6 +31,20 @@
     {"name": "Macro Voices",               "url": "https://macropodcasts.com/?feed=podcast",                   "domain": "US Fiscal"}
   ],
 
+  "transcription": {
+    "enabled": false,
+    "default_limit": 1,
+    "poll_interval_seconds": 15,
+    "max_wait_seconds": 3600,
+    "relevance_keywords": [
+      "macro", "inflation", "fed", "fiscal", "liquidity",
+      "oil", "energy", "china", "japan", "europe", "trade",
+      "tariff", "geopolitics", "commodity", "gold", "treasury",
+      "bond", "yield", "credit", "recession", "growth",
+      "ai", "semiconductor", "capex", "infrastructure"
+    ]
+  },
+
   "_removed": [
     {"reason": "Gavekal — commercial research, RSS 404. Free feed no longer available."},
     {"reason": "CFR Brad Setser — CFR removed RSS. Now primarily on X/Twitter."},
