@@ -1,19 +1,23 @@
 {
-  "generated_at": "2026-07-10T05:17:40.957704+00:00",
+  "generated_at": "2026-07-10T05:25:22.011571+00:00",
+  "source": "rss",
   "feeds_count": 10,
   "total_entries": 60,
   "feeds": [
     {
       "name": "Lyn Alden — Substack",
       "url": "https://lynalden.substack.com/feed",
-      "domain": "US Fiscal",
+      "channel": "Lyn Alden — Substack",
       "entries": [],
-      "count": 0
+      "count": 0,
+      "_error": "Client error '400 Bad Request' for url 'https://lynalden.substack.com/feed'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "domain": "US Fiscal"
     },
     {
       "name": "Doomberg — Substack",
       "url": "https://doomberg.substack.com/feed",
-      "domain": "Energy",
+      "channel": "Doomberg",
+      "description": "A lateral-thinking approach to energy, finance, and geopolitics | Subscribe below for free previews of new articles  | Click through to our About page for pricing and FAQ.",
       "entries": [
         {
           "title": "Blue Chips",
@@ -76,26 +80,32 @@
           "description": "Will Canadian hydrocarbon development displace Europe&#8217;s reliance on the US?"
         }
       ],
-      "count": 10
+      "count": 10,
+      "domain": "Energy"
     },
     {
       "name": "Gavekal Research",
       "url": "https://gavekal.com/research/feed/",
-      "domain": "China Delever",
+      "channel": "Gavekal Research",
       "entries": [],
-      "count": 0
+      "count": 0,
+      "_error": "Client error '404 Not Found' for url 'https://gavekal.com/research/feed/'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "domain": "China Delever"
     },
     {
       "name": "BIS Working Papers",
       "url": "https://www.bis.org/doclist/rss_working_papers.rss",
-      "domain": "Global Liquidity",
+      "channel": "BIS Working Papers",
       "entries": [],
-      "count": 0
+      "count": 0,
+      "_error": "Client error '404 Not Found' for url 'https://www.bis.org/doclist/rss_working_papers.rss'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "domain": "Global Liquidity"
     },
     {
       "name": "BIS All Publications",
       "url": "https://www.bis.org/doclist/rss_all_categories.rss",
-      "domain": "Global Liquidity",
+      "channel": "BIS All Publications",
+      "description": "",
       "entries": [
         {
           "title": "Assessing the effects of recent provisioning rules on consumer credit allocation in Colombia",
@@ -158,19 +168,23 @@
           "description": "Welcome remarks (via pre-recorded video) by Ms Lisa D Cook, Member of the Board of Governors of the Federal Reserve System, at the State of Small Business Symposium, hosted by the Federal Reserve Bank of Cleveland, 24 June 2026."
         }
       ],
-      "count": 10
+      "count": 10,
+      "domain": "Global Liquidity"
     },
     {
       "name": "CFR — Brad Setser",
       "url": "https://www.cfr.org/bio/brad-w-setser/feed",
-      "domain": "Global Liquidity",
+      "channel": "CFR — Brad Setser",
       "entries": [],
-      "count": 0
+      "count": 0,
+      "_error": "Client error '404 Not Found' for url 'https://www.cfr.org/bios/brad-w-setser/feed'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "domain": "Global Liquidity"
     },
     {
       "name": "Michael Howell — Capital Wars",
       "url": "https://capitalwars.substack.com/feed",
-      "domain": "Global Liquidity",
+      "channel": "Capital Wars",
+      "description": "Global Liquidity Insights",
       "entries": [
         {
           "title": "Global Liquidity Watch: Weekly Update",
@@ -233,12 +247,14 @@
           "description": "The Looming Spectre Shadowing Wall Street"
         }
       ],
-      "count": 10
+      "count": 10,
+      "domain": "Global Liquidity"
     },
     {
       "name": "Adam Tooze — Substack",
       "url": "https://adamtooze.substack.com/feed",
-      "domain": "US Fiscal",
+      "channel": "Chartbook",
+      "description": "A newsletter on economics, geopolitics and history from Adam Tooze. More substantial than the twitter feed. More freewheeling than what you might read from me in FT, Foreign Policy, New Statesman.",
       "entries": [
         {
           "title": "Top Links 1157 Data centers and \"industrial resolve\". Cannibalizing Lululemon. African urbanization & Foucault's secret Canadian file.",
@@ -301,12 +317,14 @@
           "description": "Great links, images, and reading from Chartbook Newsletter by Adam Tooze"
         }
       ],
-      "count": 10
+      "count": 10,
+      "domain": "US Fiscal"
     },
     {
       "name": "SemiAnalysis",
       "url": "https://semianalysis.substack.com/feed",
-      "domain": "AI CAPEX",
+      "channel": "SemiAnalysis",
+      "description": "Bridging the gap between the world's most important industry, semiconductors, and business.",
       "entries": [
         {
           "title": "The Future of Meta Superintelligence: A 1 Year Progress Update",
@@ -369,12 +387,14 @@
           "description": "RL Training Infrastructure, GRPO, PipelineRL, Async RL, Policy Staleness, RL Sandbox Infra, CPU Requirements, TCO Analysis, Thinking Machines Tinker"
         }
       ],
-      "count": 10
+      "count": 10,
+      "domain": "AI CAPEX"
     },
     {
       "name": "Commodity Context",
       "url": "https://commoditycontext.substack.com/feed",
-      "domain": "Energy",
+      "channel": "Commodity Context",
+      "description": "Data-centric, visualization-forward oil market research | Thematic deep-dives, monthly data reports, and a weekly market wrap-up every Friday",
       "entries": [
         {
           "title": "Context Call: July 2026 (Video)",
@@ -437,7 +457,8 @@
           "description": "Middle Eastern crude production inches higher as Gulf producers gained on incremental Hormuz Crisis logistical improvements; the Emiratis have left the building after 59 years as a member of the group"
         }
       ],
-      "count": 10
+      "count": 10,
+      "domain": "Energy"
     }
   ]
 }

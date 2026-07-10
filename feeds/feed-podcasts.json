@@ -1,88 +1,124 @@
 {
-  "generated_at": "2026-07-10T05:17:47.792723+00:00",
+  "generated_at": "2026-07-10T05:25:22.011571+00:00",
+  "source": "podcast_rss",
   "feeds_count": 5,
-  "total_episodes": 5,
+  "total_episodes": 10,
   "podcasts": [
     {
       "feed_name": "Macro Voices",
       "channel": "Macro Voices",
       "domain": "US Fiscal",
-      "episodes": [],
-      "_error": "[Errno 8] nodename nor servname provided, or not known"
+      "description": "",
+      "episodes": []
     },
     {
       "feed_name": "Capital Allocators",
       "channel": "Capital Allocators",
       "domain": "US Fiscal",
-      "episodes": [],
-      "_error": "Client error '404 Not Found' for url 'https://feeds.libsyn.com/139453/rss'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+      "description": "",
+      "episodes": []
     },
     {
       "feed_name": "Invest Like the Best",
       "channel": "Invest Like the Best",
       "domain": "US Fiscal",
-      "episodes": [],
-      "_error": "Client error '404 Not Found' for url 'https://feeds.megaphone.fm/ILTB'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+      "description": "",
+      "episodes": []
     },
     {
+      "feed_name": "Macro Musings",
       "channel": "Macro Musings with David Beckworth",
+      "domain": "US Fiscal",
       "description": "Hosted by David Beckworth of the Mercatus Center, Macro Musings pulls back the curtain on the important macroeconomic issues of the past, present, and future.",
       "episodes": [
         {
           "title": "Barry Eichengreen on the History of Global Currencies",
           "link": "https://macromusings.libsyn.com/barry-eichengreen-on-the-history-of-global-currencies",
-          "guid": "d8146f89-dbb5-42d3-b9a6-d5c568c6bd99",
-          "pub_date": "Mon, 06 Jul 2026 09:00:00 +0000",
-          "description": "Barry Eichengreen is well known author, economist, and economic historian from the University of California, Berkeley. In Barry's first appearance on the show he discusses a career in untangling the world's monetary history, the origins of his new book  Money Beyond Borders: Global Currencies from Croesus to Crypto , the first uses on currencies in the 7 th  Century BC, the unexpected start of the dollar, how we landed on the central bank model, the dollar's rise to global reserve currency, which if any currencies as poised to take on the dollar, and much more.       Watch  the full length video  on our new YouTube Channel!     Check out the  transcript  for this week's episode, now with links.   Recorded on May 27th, 2026   Subscribe to David's Substack:  Macroeconomic Policy Nexus    Follow David on X:  @DavidBeckworth    Follow Barry on X:  @B_Eichengreen    Follow the show on X:  @Macro_Musings    Check out our Macro Musings  merch!    Timestamps   00:00:00 - Intro   00:01:17 - Bar",
-          "duration": "57:09",
-          "audio_url": "https://traffic.libsyn.com/secure/macromusings/MM-550-BarryEichengreen-Audio-Final.mp3?dest-id=865793"
+          "published": "Mon, 06 Jul 2026 09:00:00 +0000",
+          "description": "Barry Eichengreen is well known author, economist, and economic historian from the University of California, Berkeley. In Barry's first appearance on the show he discusses a career in untangling the world's monetary history, the origins of his new book  Money Beyond Borders: Global Currencies from Croesus to Crypto , the first uses on currencies in the 7 th  Century BC, the unexpected start of the dollar, how we landed on the central bank model, the dollar's rise to global reserve currency, which if any currencies as poised to take on the dollar, and much more.       Watch  the full length video  on our new YouTube Channel!     Check out the  transcript  for this week's episode, now with links.   Recorded on May 27th, 2026   Subscribe to David's Substack:  Macroeconomic Policy Nexus    Fol",
+          "audio_url": "https://traffic.libsyn.com/secure/macromusings/MM-550-BarryEichengreen-Audio-Final.mp3?dest-id=865793",
+          "duration": "57:09"
         },
         {
           "title": "Yesha Yadav, Chris Odinet, and Andrea Tosato on the Moneyness of Stablecoins",
           "link": "https://macromusings.libsyn.com/yesha-yadav-chris-odinet-and-andrea-tosato-on-the-moneyness-of-stablecoins",
-          "guid": "cf679038-5568-486d-9d41-d083486d42ce",
-          "pub_date": "Mon, 29 Jun 2026 09:00:00 +0000",
-          "description": "Yesha Yadav is a professor of law, the Milton R. Underwood Chair, the Associate Dean & Robert Belton Director of Culture & Community, and the Co-Faculty Director, Master of Laws (LL.M) Program at the Vanderbilt University Law School. Chris Odinet is a professor of law, Mosbacher Research Fellow, and Affiliate Professor of Finance at Texas A&M University School of Law. Andrea Tosato is professor of law at the Southern Methodist University Dedman School of Law. Yesha, Chris, and Andrea join the show to discuss their avenues into stablecoin regulation, their four-part definition of moneyness (nature of the claim, safety, discharge capacity, and negotiability), how Tether and Circle stack up to these definitions, the stablecoin bankruptcy conundrum, the progress the GENIUS Act made on closing legal loopholes, their prescriptions for policymakers, and much more.           Watch  the full length video  on our new YouTube Channel!     Check out the  transcript  for this week's episode, now wi",
-          "duration": "01:11:31",
-          "audio_url": "https://traffic.libsyn.com/secure/macromusings/MM-549-YeshaChrisAndrea-AudioFinal.mp3?dest-id=865793"
+          "published": "Mon, 29 Jun 2026 09:00:00 +0000",
+          "description": "Yesha Yadav is a professor of law, the Milton R. Underwood Chair, the Associate Dean & Robert Belton Director of Culture & Community, and the Co-Faculty Director, Master of Laws (LL.M) Program at the Vanderbilt University Law School. Chris Odinet is a professor of law, Mosbacher Research Fellow, and Affiliate Professor of Finance at Texas A&M University School of Law. Andrea Tosato is professor of law at the Southern Methodist University Dedman School of Law. Yesha, Chris, and Andrea join the show to discuss their avenues into stablecoin regulation, their four-part definition of moneyness (nature of the claim, safety, discharge capacity, and negotiability), how Tether and Circle stack up to these definitions, the stablecoin bankruptcy conundrum, the progress the GENIUS Act made on closing",
+          "audio_url": "https://traffic.libsyn.com/secure/macromusings/MM-549-YeshaChrisAndrea-AudioFinal.mp3?dest-id=865793",
+          "duration": "01:11:31"
         },
         {
           "title": "Jeffrey Lacker on What a New Fed Treasury Accord Might Look Like",
           "link": "https://macromusings.libsyn.com/jeffery-lacker-on-what-a-new-fed-treasury-accord-might-look-like",
-          "guid": "72a7fc70-8b3e-480f-9f23-2f826dab12e4",
-          "pub_date": "Mon, 22 Jun 2026 10:30:00 +0000",
-          "description": "Jeffrey Lacker is the former president of the Richmond Federal Reserve Bank and is a senior affiliated scholar at the Mercatus Center. Jeff returns to the show to discuss the history of the Fed Treasury Accord, the state of fiscal dominance, his five proposals for a new Fed Treasury Accord, his calls for reform around the discount window, a memorial to his friend and colleague Charlie Plosser, and much more.       Watch  the full length video  on our new YouTube Channel!     Check out the  transcript  for this week's episode, now with links.   Recorded on May 20th, 2026   Subscribe to David's Substack:  Macroeconomic Policy Nexus    Follow David on X:  @DavidBeckworth    Follow the show on X:  @Macro_Musings    Check out our Macro Musings  merch!    Timestamps   00:00:00 - Intro   00:00:56 - Fed Treasury Accord   00:18:26 - Fiscal Dominance   00:22:05 - Jeff's Five Proposals   00:49:05 - Charlie Plosser   00:55:49 - Outro",
-          "duration": "56:30",
-          "audio_url": "https://traffic.libsyn.com/secure/macromusings/MM-548-JeffLacker-Audio-Final.mp3?dest-id=865793"
+          "published": "Mon, 22 Jun 2026 10:30:00 +0000",
+          "description": "Jeffrey Lacker is the former president of the Richmond Federal Reserve Bank and is a senior affiliated scholar at the Mercatus Center. Jeff returns to the show to discuss the history of the Fed Treasury Accord, the state of fiscal dominance, his five proposals for a new Fed Treasury Accord, his calls for reform around the discount window, a memorial to his friend and colleague Charlie Plosser, and much more.       Watch  the full length video  on our new YouTube Channel!     Check out the  transcript  for this week's episode, now with links.   Recorded on May 20th, 2026   Subscribe to David's Substack:  Macroeconomic Policy Nexus    Follow David on X:  @DavidBeckworth    Follow the show on X:  @Macro_Musings    Check out our Macro Musings  merch!    Timestamps   00:00:00 - Intro   00:00:56",
+          "audio_url": "https://traffic.libsyn.com/secure/macromusings/MM-548-JeffLacker-Audio-Final.mp3?dest-id=865793",
+          "duration": "56:30"
         },
         {
           "title": "Nik Bhatia on Bitcoin and the Case for Using Stablecoins for Statecraft",
           "link": "https://macromusings.libsyn.com/nik-bhatia-on-bitcoin-and-the-case-for-using-stablecoins-for-statecraft",
-          "guid": "c6d8f34f-8855-45cd-aff2-b690f225f237",
-          "pub_date": "Mon, 15 Jun 2026 13:00:00 +0000",
-          "description": "Nik Bhatia is an author of two economics books, a visiting fellow at the Bitcoin Policy Institute and the founder of The Bitcoin Layer. In Nik's first appearance on the podcast, he discusses his niche in the Bitcoin community, the role of Bitcoin as a transaction asset, the threat or lack thereof of quantum computing on Bitcoin, his issues with the current eurodollar market, his new proposal to use stablecoins as statecraft, and much more.       Watch  the full length video  on our new YouTube Channel!     Check out the  transcript  for this week's episode, now with links.   Recorded on May 5th, 2026   Subscribe to David's Substack:  Macroeconomic Policy Nexus    Follow David on X:  @DavidBeckworth    Follow Nik X:  @Timevalueofbtc    Follow the show on X:  @Macro_Musings    Check out our Macro Musings  merch!    Timestamps   00:00:00 - Intro   00:01:49 - Nik's Career and Background   00:12:32 - Crypto Assets for Transactions   00:18:28 - Quantum Computing and Bitcoin   00:24:08 - Stab",
-          "duration": "59:16",
-          "audio_url": "https://traffic.libsyn.com/secure/macromusings/MM-547-NikBhatia-Audio-Final.mp3?dest-id=865793"
+          "published": "Mon, 15 Jun 2026 13:00:00 +0000",
+          "description": "Nik Bhatia is an author of two economics books, a visiting fellow at the Bitcoin Policy Institute and the founder of The Bitcoin Layer. In Nik's first appearance on the podcast, he discusses his niche in the Bitcoin community, the role of Bitcoin as a transaction asset, the threat or lack thereof of quantum computing on Bitcoin, his issues with the current eurodollar market, his new proposal to use stablecoins as statecraft, and much more.       Watch  the full length video  on our new YouTube Channel!     Check out the  transcript  for this week's episode, now with links.   Recorded on May 5th, 2026   Subscribe to David's Substack:  Macroeconomic Policy Nexus    Follow David on X:  @DavidBeckworth    Follow Nik X:  @Timevalueofbtc    Follow the show on X:  @Macro_Musings    Check out our",
+          "audio_url": "https://traffic.libsyn.com/secure/macromusings/MM-547-NikBhatia-Audio-Final.mp3?dest-id=865793",
+          "duration": "59:16"
         },
         {
           "title": "Bryan Cutsinger, Peter Ireland, and Will Luther on Lessons Learned from the Fed Framework Review",
           "link": "https://macromusings.libsyn.com/bryan-cutsinger-peter-ireland-and-will-luther-on-lessons-learned-from-the-fed-framework-review",
-          "guid": "c0f20a12-248d-43bf-a8dc-f48bfb1a0e95",
-          "pub_date": "Mon, 08 Jun 2026 11:30:00 +0000",
-          "description": "Bryan Cutsinger is an assistant professor of economics at the College of Business at Florida Atlantic University. Peter Ireland is a professor of Economics at Boston College. Will Luther is an associate professor of economics at the College of Business at Florida Atlantic University and is the director of the American Institute for Economic Research's Sound Money Project. Bryan, Peter, and Will return to the show to discuss the big takeaways from the 2025 Fed framework review, the flip flopping of FIT to FAIT back to FIT, the biggest lessons from the 2020 Fed framework review, the case for NGDP targeting at the Fed, hope for future reviews, and much more.       Watch  the full length video  on our new YouTube Channel!     Check out the  transcript  for this week's episode, now with links.   Recorded on May 6th, 2026   Subscribe to David's Substack:  Macroeconomic Policy Nexus    Follow David on X:  @DavidBeckworth    Follow Bryan X:  @BryanPCutsinger    Follow Peter X:  @PIrelandecon",
-          "duration": "01:03:46",
-          "audio_url": "https://traffic.libsyn.com/secure/macromusings/MM-546-WillBryanPeter-Audio-Final-V2.mp3?dest-id=865793"
+          "published": "Mon, 08 Jun 2026 11:30:00 +0000",
+          "description": "Bryan Cutsinger is an assistant professor of economics at the College of Business at Florida Atlantic University. Peter Ireland is a professor of Economics at Boston College. Will Luther is an associate professor of economics at the College of Business at Florida Atlantic University and is the director of the American Institute for Economic Research's Sound Money Project. Bryan, Peter, and Will return to the show to discuss the big takeaways from the 2025 Fed framework review, the flip flopping of FIT to FAIT back to FIT, the biggest lessons from the 2020 Fed framework review, the case for NGDP targeting at the Fed, hope for future reviews, and much more.       Watch  the full length video  on our new YouTube Channel!     Check out the  transcript  for this week's episode, now with links.",
+          "audio_url": "https://traffic.libsyn.com/secure/macromusings/MM-546-WillBryanPeter-Audio-Final-V2.mp3?dest-id=865793",
+          "duration": "01:03:46"
+        },
+        {
+          "title": "Brendan Greeley on the 500 Year History of the Dollar",
+          "link": "https://macromusings.libsyn.com/brendan-greeley-on-the-500-year-history-of-the-dollar",
+          "published": "Mon, 01 Jun 2026 12:00:00 +0000",
+          "description": "Brendan Greeley is a veteran journalist from the Financial Times and current PhD student at Princeton studying monetary history. In Brendan's first appearance on the show, he discusses why he went for a PhD after being a journalist for 20 years, why the dollar's history goes far beyond America's founding, when America actually achieved a currency union, the untold origins of the dollar, how Herbert and Lou Hoover's date nights played a role in the history of the dollar, the crucial importance of Milton Friedman and Anna Schwartz in understanding the dollar's history, the happy accident of Eurodollars, what the future of dollars looks like, and much more.       Watch  the full length video  on our new YouTube Channel!     Check out the  transcript  for this week's episode, now with links.",
+          "audio_url": "https://traffic.libsyn.com/secure/macromusings/MM-545-BrendanGreeley-Audio-Final.mp3?dest-id=865793",
+          "duration": "01:02:40"
+        },
+        {
+          "title": "David Zaring on Skinny Charters and the Future of Banking",
+          "link": "https://macromusings.libsyn.com/david-zaring-on-skinny-charters-and-the-future-of-banking",
+          "published": "Mon, 25 May 2026 12:00:00 +0000",
+          "description": "David Zaring is legal scholar and professor at the University of Pennsylvania. In David's first appearance on the show, he discusses the role the Great Financial Crisis played in FinReg scholarship, how he came up with the term \"skinny\" in the new skinny Fed master accounts, the tumultuous road of Custodia vs. the Fed, a reimagined way to look at federal bank charters, whether commerce and banking are actually still separate, Fed independence and how it functions in a more corporatist model, and much more.       Watch  the full length video  on our new YouTube Channel!     Check out the  transcript  for this week's episode, now with links.   Recorded on April 24th, 2026   Subscribe to David's Substack:  Macroeconomic Policy Nexus    Follow David Beckworth on X:  @DavidBeckworth    Follow D",
+          "audio_url": "https://traffic.libsyn.com/secure/macromusings/MM-544-DavidZaring-Audio-Final.mp3?dest-id=865793",
+          "duration": "55:50"
+        },
+        {
+          "title": "Bill Beach on the Future of United States' Economic Statistics and Fiscal Position",
+          "link": "https://macromusings.libsyn.com/bill-beach-on-the-future-of-united-states-economic-statistics-and-fiscal-position",
+          "published": "Mon, 18 May 2026 11:30:00 +0000",
+          "description": "Bill Beach is the former commissioner of the US Bureau of Labor Statistics and the current executive director of the Fiscal Lab on Capitol Hill. In Bill's first appearance on the show he discusses a career in and around public service, the important niche his new organization fills, the frightening fiscal outlook of the United States, exactly how long we have before Social Security runs out, why he believes it will take lots of small changes instead of a big one to fix our fiscal outlook, the important role of the BLS, why our statistical methods needs reform, the most underrated economic statistical indicators, and much more.       Watch  the full length video  on our new YouTube Channel!     Check out the  transcript  for this week's episode, now with links.   Recorded on April 15th, 202",
+          "audio_url": "https://traffic.libsyn.com/secure/macromusings/MM-543-BillBeach-Audio-Final.mp3?dest-id=865793",
+          "duration": "52:53"
+        },
+        {
+          "title": "Tyler Goodspeed on Challenging the Way Economists Look at Recessions",
+          "link": "https://macromusings.libsyn.com/tyler-goodspeed-on-challenging-the-way-economists-look-at-recessions",
+          "published": "Mon, 11 May 2026 11:30:00 +0000",
+          "description": "Tyler Goodspeed is the former chairman of the Council of Economic Advisors and is currently a chief economist in the private sector. In Tyler's first appearance on the podcast he discusses his new book highlighting a different way of looking at recessions, the challenge of breaking away from the human inclination of ascribing patterns to random phenomena, whether recessions are more Dorian Gray or Peter Pan, what history and stories like Jay Cooke tell us about recessions, how to evaluate supply side shocks and the 2008 Financial Crisis, why Milton Friedman's Plucking model might be the best we have at modeling recessions, and much more.       Watch  the full length video  on our new YouTube Channel!     Check out the  transcript  for this week's episode, now with links.   Recorded on Apri",
+          "audio_url": "https://traffic.libsyn.com/secure/macromusings/MM-542-TylerGoodspeed-Audio-Final_mixdown.mp3?dest-id=865793",
+          "duration": "01:01:06"
+        },
+        {
+          "title": "Peter Conti-Brown and David Beckworth on All Things Financial Regulation",
+          "link": "https://macromusings.libsyn.com/peter-conti-brown-and-david-beckworth-on-all-things-financial-regulation",
+          "published": "Mon, 04 May 2026 11:30:00 +0000",
+          "description": "Recorded live in front of the Wharton Financial Regulation Conference, former guest Peter Conti-Brown joins David Beckworth as a Macro Musings co-host on this week's episode. Peter and David discuss the inflection point of 2008 in FinReg scholarship, how Macro Musings has become just as much a show about financial regulation as about macro, what to make of the Trump administrations changes to bank supervision, whether we should be enthusiastic about the GENIUS Act and digital assets, the true identity of Satoshi Nakamoto, the crisis that could become Claude Mythos, why networks and Substacks are becoming more important, and much more.       Watch  the full length video  on our new YouTube Channel!     Check out the  transcript  for this week's episode, now with links.   Recorded on April 1",
+          "audio_url": "https://traffic.libsyn.com/secure/macromusings/MM-541-PeterContiBrown-Audio-Final.mp3?dest-id=865793",
+          "duration": "54:56"
         }
-      ],
-      "feed_name": "Macro Musings",
-      "domain": "US Fiscal"
+      ]
     },
     {
       "feed_name": "Goldman Sachs Exchanges",
       "channel": "Goldman Sachs Exchanges",
       "domain": "US Fiscal",
-      "episodes": [],
-      "_error": "Client error '404 Not Found' for url 'https://feeds.megaphone.fm/goldman-sachs-exchanges'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+      "description": "",
+      "episodes": []
     }
   ]
 }

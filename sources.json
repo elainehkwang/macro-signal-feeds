@@ -1,26 +1,7 @@
 {
-  "description": "Macro Signal Tier 2 source list — curated analysts, investors, and researchers with skin in the game",
-  "version": "1.0.0",
+  "description": "Macro Signal Tier 2 source list — curated RSS/Substack feeds and podcasts from analysts with skin in the game",
+  "version": "1.1.0",
   "last_updated": "2026-07-10",
-
-  "x_accounts": [
-    {"handle": "LukeGromen",    "name": "Luke Gromen",      "domain": "US Fiscal",     "note": "FFTT创始人，财政主导论"},
-    {"handle": "LynAldenContact","name": "Lyn Alden",        "domain": "US Fiscal",     "note": "宏观投资者，全球流动性"},
-    {"handle": "michaelxpettis", "name": "Michael Pettis",   "domain": "China Delever", "note": "Carnegie/北大，中国债务"},
-    {"handle": "Brad_Setser",    "name": "Brad Setser",      "domain": "Global Liquidity","note": "CFR，全球资本流"},
-    {"handle": "jesperkoll",     "name": "Jesper Koll",      "domain": "Japan",         "note": "Monex Group，日本经济"},
-    {"handle": "RichardKatz",    "name": "Richard Katz",     "domain": "Japan",         "note": "日本政治经济"},
-    {"handle": "dylan522p",      "name": "Dylan Patel",      "domain": "AI CAPEX",      "note": "SemiAnalysis创始人"},
-    {"handle": "pferragu",       "name": "Pierre Ferragu",   "domain": "AI CAPEX",      "note": "New Street Research"},
-    {"handle": "Rory_Johnston",  "name": "Rory Johnston",    "domain": "Energy",         "note": "Commodity Context"},
-    {"handle": "ArjunMurti",     "name": "Arjun Murti",      "domain": "Energy",         "note": "前GS能源分析师"},
-    {"handle": "Josh_Young_1",   "name": "Josh Young",       "domain": "Energy",         "note": "Bison Interests"},
-    {"handle": "crossbordercap", "name": "Michael Howell",   "domain": "Global Liquidity","note": "CrossBorder Capital"},
-    {"handle": "DoombergTweets", "name": "Doomberg",          "domain": "Energy",         "note": "能源/大宗商品"},
-    {"handle": "AdamOttesen",    "name": "Adam Wolfe",       "domain": "China Delever",  "note": "Absolute Strategy Research"},
-    {"handle": "ErikNielsen_",   "name": "Erik Nielsen",     "domain": "Europe",         "note": "前UniCredit首席经济学家"},
-    {"handle": "RobinBrooksIIF", "name": "Robin Brooks",     "domain": "US Fiscal",      "note": "IIF首席经济学家"}
-  ],
 
   "rss_feeds": [
     {"name": "Lyn Alden — Substack",            "url": "https://lynalden.substack.com/feed",            "domain": "US Fiscal"},
@@ -43,9 +24,5 @@
     {"name": "Goldman Sachs Exchanges","url": "https://feeds.megaphone.fm/goldman-sachs-exchanges",  "domain": "US Fiscal"}
   ],
 
-  "nitter_instances": [
-    "https://nitter.net",
-    "https://nitter.poast.org",
-    "https://nitter.privacydev.net"
-  ]
+  "_x_accounts_disabled": "Nitter instances are all down. X/Twitter tracking requires X API v2 ($100/mo Basic). 16 accounts configured but not fetched — add 'x_accounts' array when API key is available."
 }
