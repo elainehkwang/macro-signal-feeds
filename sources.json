@@ -17,7 +17,10 @@
     {"name": "Michael Howell — Capital Wars",       "url": "https://capitalwars.substack.com/feed",             "domain": "Global Liquidity",  "tier": 2},
     {"name": "Adam Tooze — Substack",               "url": "https://adamtooze.substack.com/feed",                "domain": "US Fiscal",         "tier": 2},
     {"name": "SemiAnalysis",                        "url": "https://semianalysis.substack.com/feed",             "domain": "AI CAPEX",          "tier": 2},
-    {"name": "Commodity Context",                   "url": "https://commoditycontext.substack.com/feed",         "domain": "Energy",            "tier": 2}
+    {"name": "Commodity Context",                   "url": "https://commoditycontext.substack.com/feed",         "domain": "Energy",            "tier": 2},
+    {"name": "Bruegel — Research",                 "url": "https://www.bruegel.org/rss.xml",                     "domain": "Europe",            "tier": 2},
+    {"name": "CSIS — Center for Strategic Studies", "url": "https://www.csis.org/rss.xml",                       "domain": "Deglobalization",   "tier": 2},
+    {"name": "CSET — Georgetown AI Policy",        "url": "https://cset.georgetown.edu/feed/",                   "domain": "AI CAPEX",          "tier": 2}
   ],
 
   "podcast_feeds": [
@@ -31,6 +34,7 @@
   "_removed": [
     {"reason": "Gavekal — commercial research, RSS 404. Free feed no longer available."},
     {"reason": "CFR Brad Setser — CFR removed RSS. Now primarily on X/Twitter."},
-    {"reason": "Lyn Alden Substack — 400. Switched to lynalden.com/feed (WordPress RSS)."}
+    {"reason": "Lyn Alden Substack — 400. Switched to lynalden.com/feed (WordPress RSS)."},
+    {"reason": "PIIE / Chatham House / IISS — 403 blocked. Cloudflare/WAF prevents automated RSS access. Agent can use web_extract."}
   ]
 }

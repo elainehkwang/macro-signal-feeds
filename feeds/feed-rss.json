@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-10T05:38:49.301333+00:00",
+  "generated_at": "2026-07-10T05:47:52.898077+00:00",
   "source": "rss",
-  "feeds_count": 14,
-  "total_entries": 140,
+  "feeds_count": 17,
+  "total_entries": 170,
   "feeds": [
     {
       "name": "Fed FOMC — Monetary Policy",
@@ -321,16 +321,16 @@
           "description": "The Governor of the Bank of England, Andrew Bailey, has announced that Rhys Phillips will be the next Chief Cashier and Director of Notes. He will take up the role on 19 October 2026."
         },
         {
-          "title": "Minutes of the London FXJSC Main Committee Meeting – 26 March 2026",
-          "link": "https://www.bankofengland.co.uk/minutes/2026/march/fxjsc-main-committee-meeting-26-march-2026",
-          "published": "Thu, 02 Jul 2026 10:26:00 +0100",
-          "description": "The Bank of England chairs the London Foreign Exchange Joint Standing Committee (FXJSC), which is a forum for discussion of the wholesale foreign exchange market. The FXJSC is made up of market participants, infrastructure providers and the UK financial regulators."
-        },
-        {
           "title": "Minutes of the London FXJSC Legal Sub Committee Meeting – 17 March 2026",
           "link": "https://www.bankofengland.co.uk/minutes/2026/march/fxjsc-legal-sub-committee-meeting-17-march-2026",
           "published": "Thu, 02 Jul 2026 10:26:00 +0100",
           "description": "The Bank of England chairs the London Foreign Exchange Joint Standing Committee (FXJSC) Legal Sub-Committee. The FXJSC is made up of market participants, infrastructure providers and the UK financial regulators."
+        },
+        {
+          "title": "Minutes of the London FXJSC Main Committee Meeting – 26 March 2026",
+          "link": "https://www.bankofengland.co.uk/minutes/2026/march/fxjsc-main-committee-meeting-26-march-2026",
+          "published": "Thu, 02 Jul 2026 10:26:00 +0100",
+          "description": "The Bank of England chairs the London Foreign Exchange Joint Standing Committee (FXJSC), which is a forum for discussion of the wholesale foreign exchange market. The FXJSC is made up of market participants, infrastructure providers and the UK financial regulators."
         },
         {
           "title": "Minutes of the London FXJSC Operations Sub-Committee Meeting – 18 March 2026",
@@ -983,6 +983,216 @@
       ],
       "count": 10,
       "domain": "Energy"
+    },
+    {
+      "name": "Bruegel — Research",
+      "url": "https://www.bruegel.org/rss.xml",
+      "channel": "Bruegel | The Brussels-based economic think tank",
+      "description": "",
+      "entries": [
+        {
+          "title": "Lunch",
+          "link": "https://www.bruegel.org/node/12382",
+          "published": "Fri, 03 Jul 2026 09:24:08 +0000",
+          "description": "Lunch \nAnastasiia Zaitseva\nFri, 07/03/2026 - 11:24"
+        },
+        {
+          "title": "Session 2b: Global monetary issues",
+          "link": "https://www.bruegel.org/node/12381",
+          "published": "Fri, 03 Jul 2026 09:23:49 +0000",
+          "description": "Session 2b: Global monetary issues\nAnastasiia Zaitseva\nFri, 07/03/2026 - 11:23"
+        },
+        {
+          "title": "Session 2a: What would make the European Economy secure in 2030?",
+          "link": "https://www.bruegel.org/node/12380",
+          "published": "Fri, 03 Jul 2026 09:22:32 +0000",
+          "description": "Session 2a: What would make the European Economy secure in 2030? \nAnastasiia Zaitseva\nFri, 07/03/2026 - 11:22"
+        },
+        {
+          "title": "Coffee break",
+          "link": "https://www.bruegel.org/node/12379",
+          "published": "Fri, 03 Jul 2026 09:21:33 +0000",
+          "description": "Coffee break\nAnastasiia Zaitseva\nFri, 07/03/2026 - 11:21"
+        },
+        {
+          "title": "Session 1a: Europe's digital sovereignty: lessons from China's AI quest",
+          "link": "https://www.bruegel.org/node/12377",
+          "published": "Fri, 03 Jul 2026 09:19:55 +0000",
+          "description": "Session 1a: Europe's digital sovereignty: lessons from China's AI quest \nAnastasiia Zaitseva\nFri, 07/03/2026 - 11:19"
+        },
+        {
+          "title": "Session 6b: Can Europe become more “Schumpeterian” and how?",
+          "link": "https://www.bruegel.org/node/12376",
+          "published": "Fri, 03 Jul 2026 09:15:28 +0000",
+          "description": "Session 6b: Can Europe become more “Schumpeterian” and how? \nAnastasiia Zaitseva\nFri, 07/03/2026 - 11:15"
+        },
+        {
+          "title": "Session 6a: European trade policy beyond FTAs: what is feasible without the US and China?",
+          "link": "https://www.bruegel.org/node/12375",
+          "published": "Fri, 03 Jul 2026 09:14:28 +0000",
+          "description": "Session 6a: European trade policy beyond FTAs: what is feasible without the US and China?\nAnastasiia Zaitseva\nFri, 07/03/2026 - 11:14"
+        },
+        {
+          "title": "Coffee break",
+          "link": "https://www.bruegel.org/node/12374",
+          "published": "Fri, 03 Jul 2026 09:13:11 +0000",
+          "description": "Coffee break\nAnastasiia Zaitseva\nFri, 07/03/2026 - 11:13"
+        },
+        {
+          "title": "Session 5b: Fireside chat",
+          "link": "https://www.bruegel.org/node/12373",
+          "published": "Fri, 03 Jul 2026 09:12:44 +0000",
+          "description": "Session 5b: Fireside chat\nAnastasiia Zaitseva\nFri, 07/03/2026 - 11:12"
+        },
+        {
+          "title": "Session 5a: Future-proofing European banking",
+          "link": "https://www.bruegel.org/node/12372",
+          "published": "Fri, 03 Jul 2026 09:12:11 +0000",
+          "description": "Session 5a: Future-proofing European banking \nAnastasiia Zaitseva\nFri, 07/03/2026 - 11:12"
+        }
+      ],
+      "count": 10,
+      "domain": "Europe"
+    },
+    {
+      "name": "CSIS — Center for Strategic Studies",
+      "url": "https://www.csis.org/rss.xml",
+      "channel": "CSIS",
+      "description": "",
+      "entries": [
+        {
+          "title": "The Bio-Pharma Industry and Society",
+          "link": "https://www.csis.org/events/bio-pharma-industry-and-society",
+          "published": "Thu, 03 Mar 2016 20:36:33 +0000",
+          "description": "The Bio-Pharma Industry and Society \n\n   \n     Listing Summary \n                Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, and innovation. \n \n           \n  Drupal Admin  \n  Thu, 03/03/2016 - 15:36 \n \n\n   \n     Featured Image \n                \n  \n  \n        \n   \n     Image \n                  \n\n\n \n           \n\n\n           \n \n           \n\n   \n     Contributors \n           \n                J. Stephen Morrison  \n               \n       \n\n   \n     Downloads \n           \n                \n  \n      \n             Download Transcript Here \n      \n   \n     Document \n                 160317_The_Bio-Pha"
+        },
+        {
+          "title": "The FY2017 Defense Budget and Strategic Outlook",
+          "link": "https://www.csis.org/events/fy2017-defense-budget-and-strategic-outlook",
+          "published": "Mon, 29 Feb 2016 18:48:29 +0000",
+          "description": "The FY2017 Defense Budget and Strategic Outlook \n\n   \n     Listing Summary \n                Please join the CSIS International Security Program for a half-day Defense360 conference on the recently released FY2017 defense budget request and strategic priorities. \n \n           \n  Drupal Admin  \n  Mon, 02/29/2016 - 13:48 \n \n\n   \n     Featured Image \n                \n  \n  \n        \n   \n     Image \n                  \n\n\n \n           \n\n\n           \n \n           \n\n   \n     Contributors \n           \n                John J. Hamre  \n           Tina W. Jonas \n            Mark F. Cancian  \n           Todd Harrison \n           Andrew Philip Hunter \n               \n       \n\n   \n     Programs &amp; Projects \n           \n                \n\n  \n       \n        International Security Program"
+        },
+        {
+          "title": "2016 U.S.-Japan Security Seminar",
+          "link": "https://www.csis.org/events/2016-us-japan-security-seminar",
+          "published": "Fri, 26 Feb 2016 17:54:32 +0000",
+          "description": "2016 U.S.-Japan Security Seminar \n\n   \n     Listing Summary \n                Michael J. Green interviews JIIA President Yoshiji Nogami \n \n           \n  Drupal Admin  \n  Fri, 02/26/2016 - 12:54 \n \n\n   \n     Featured Image \n                \n  \n  \n        \n   \n     Image \n                  \n\n\n \n           \n\n\n           \n \n           \n\n   \n     Contributors \n           \n                Michael J. Green  \n               \n       \n\n   \n     Programs &amp; Projects \n           \n                \n\n  \n       \n        Japan Chair \n \n     \n    \n\n  \n   \n    \n   \n     Parent \n                Geopolitics and Foreign Policy  \n           \n\n   \n     Featured Image \n               AdobeStock_179685887.jpeg \n           \n\n   \n     Listing Summary \n                The mission of the CSIS Japan Chair is to be the"
+        },
+        {
+          "title": "The Future of the Grid—A View from ARPA-E",
+          "link": "https://www.csis.org/events/future-grid-view-arpa-e",
+          "published": "Thu, 25 Feb 2016 19:15:03 +0000",
+          "description": "The Future of the Grid—A View from ARPA-E \n\n   \n     Listing Summary \n                The CSIS Energy and National Security Program is pleased to invite you to a discussion with Ellen Williams, Director of ARPA-E, the Advanced Research Projects Agency-Energy. \n \n           \n  Drupal Admin  \n  Thu, 02/25/2016 - 14:15 \n \n\n   \n     Featured Image \n                \n  \n  \n        \n   \n     Image \n                  \n\n\n \n           \n\n\n           \n \n           \n\n   \n     Contributors \n           \n               Sarah Ladislaw \n           Francis O'Sullivan \n               \n       \n\n   \n     Downloads \n           \n                \n  \n      \n             03102016_Williams.pdf \n      \n   \n     Document \n                 03102016_Williams.pdf  \n \n           \n\n   \n \n               \n       \n\n   \n     Pr"
+        },
+        {
+          "title": "Statesmen's Forum: Wang Yi, Minister of Foreign Affairs, PRC",
+          "link": "https://www.csis.org/events/statesmens-forum-wang-yi-minister-foreign-affairs-prc",
+          "published": "Fri, 19 Feb 2016 22:13:26 +0000",
+          "description": "Statesmen's Forum: Wang Yi, Minister of Foreign Affairs, PRC \n\n   \n     Listing Summary \n                Please watch the live webcast of a discussion on Chinese foreign policy and US-China Relations \n \n           \n  Drupal Admin  \n  Fri, 02/19/2016 - 17:13 \n \n\n   \n     Featured Image \n                \n  \n  \n        \n   \n     Image \n                  \n\n\n \n           \n\n\n           \n \n           \n\n   \n     Contributors \n           \n                John J. Hamre  \n           Christopher K. Johnson \n               \n       \n\n   \n     Downloads \n           \n                \n  \n      \n             Download Transcript Here \n      \n   \n     Document \n                 160225_statesmen_forum_wang_yi.pdf  \n \n           \n\n   \n \n               \n       \n\n   \n     Programs &amp; Projects"
+        },
+        {
+          "title": "China Reality Check: China's \"Internet Sovereignty\" Initiative: Origins and Consequences",
+          "link": "https://www.csis.org/events/china-reality-check-chinas-internet-sovereignty-initiative-origins-and-consequences",
+          "published": "Tue, 16 Feb 2016 16:49:43 +0000",
+          "description": "China Reality Check: China's \"Internet Sovereignty\" Initiative: Origins and Consequences  \n\n   \n     Listing Summary \n                Please join us for a discussion on China’s initiative to promote Internet sovereignty as a key governing concept of the global Internet. \n \n           \n  Drupal Admin  \n  Tue, 02/16/2016 - 11:49 \n \n\n   \n     Featured Image \n                \n  \n  \n        \n   \n     Image \n                  \n\n\n \n           \n\n\n           \n \n           \n\n   \n     Contributors \n           \n                Scott Kennedy  \n               \n       \n\n   \n     Programs &amp; Projects \n           \n                \n\n  \n       \n        Chinese Business and Economics \n \n     \n    \n\n  \n   \n    \n   \n     Parent \n                Economic Security and Technology  \n           \n\n   \n     Feature"
+        },
+        {
+          "title": "Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United Kingdom",
+          "link": "https://www.csis.org/events/statesmens-forum-right-honourable-theresa-may-mp-home-secretary-united-kingdom",
+          "published": "Fri, 12 Feb 2016 21:08:04 +0000",
+          "description": "Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United Kingdom \n\n   \n     Listing Summary \n                Please join the CSIS International Security Program for a discussion with UK Home Secretary Theresa May on counter-terrorism policy. \n \n           \n  Drupal Admin  \n  Fri, 02/12/2016 - 16:08 \n \n\n   \n     Featured Image \n                \n  \n  \n        \n   \n     Image \n                  \n\n\n \n           \n\n\n           \n \n           \n\n   \n     Contributors \n           \n               Kathleen H. Hicks \n               \n       \n\n   \n     Programs &amp; Projects \n           \n                \n\n  \n       \n        International Security Program \n \n     \n    \n\n  \n   \n    \n   \n     Parent \n                Former Programs  \n           \n\n   \n     Featured Image"
+        },
+        {
+          "title": "Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris",
+          "link": "https://www.csis.org/events/strategic-opportunities-indo-asia-pacific-admiral-harry-b-harris",
+          "published": "Tue, 26 Jan 2016 16:20:53 +0000",
+          "description": "Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris \n\n   \n     Listing Summary \n                Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. \n \n           \n  Drupal Admin  \n  Tue, 01/26/2016 - 11:20 \n \n\n   \n     Featured Image \n                \n  \n  \n        \n   \n     Image \n                  \n\n\n \n           \n\n\n           \n \n           \n\n   \n     Contributors \n           \n               Kathleen H. Hicks \n            John J. Hamre  \n               \n       \n\n   \n     Programs &amp; Projects \n           \n                \n\n  \n       \n        International Security Program \n \n     \n    \n\n  \n   \n    \n   \n     Parent \n                Former Programs"
+        },
+        {
+          "title": "Schieffer Series: A Discussion on Terrorism",
+          "link": "https://www.csis.org/events/schieffer-series-discussion-terrorism",
+          "published": "Thu, 21 Jan 2016 18:20:39 +0000",
+          "description": "Schieffer Series: A Discussion on Terrorism \n\n   \n     Listing Summary \n                The TCU Bob Schieffer College of Communication and CSIS cohost a monthly series of dialogues hosted by award-winning journalist Bob Schieffer to discuss the most pressing foreign and domestic issues of the day. \n \n           \n  Drupal Admin  \n  Thu, 01/21/2016 - 13:20 \n \n\n   \n     Featured Image \n                \n  \n  \n        \n   \n     Image \n                  \n\n\n \n           \n\n\n           \n \n           \n\n   \n     Contributors \n           \n                Bob Schieffer  \n            Frances F. Townsend  \n            Juan C. Zarate   \n               \n       \n\n   \n     Topics \n           \n                Defense and Security  \n            Counterterrorism and Homeland Security  \n            Geopolitics a"
+        },
+        {
+          "title": "Defense Outlook: A CSIS Series on Strategy, Budget, Forces, and Acquisition",
+          "link": "https://www.csis.org/events/defense-outlook-csis-series-strategy-budget-forces-and-acquisition",
+          "published": "Fri, 15 Jan 2016 20:33:17 +0000",
+          "description": "Defense Outlook: A CSIS Series on Strategy, Budget, Forces, and Acquisition \n\n   \n     Listing Summary \n                In January of 2016, CSIS launched a new International Security Program initiative examining the dynamics and interlinkages of strategy, budget, forces, and acquisition on the current and future state of the U.S. Armed Forces. \n \n           \n  Drupal Admin  \n  Fri, 01/15/2016 - 15:33 \n \n\n   \n     Featured Image \n                \n  \n  \n        \n   \n     Image \n                  \n\n\n \n           \n\n\n           \n \n           \n\n   \n     Contributors \n           \n                John J. Hamre  \n           Todd Harrison \n            Mark F. Cancian  \n           Andrew Philip Hunter \n           Kathleen H. Hicks \n               \n       \n\n   \n     Downloads"
+        }
+      ],
+      "count": 10,
+      "domain": "Deglobalization"
+    },
+    {
+      "name": "CSET — Georgetown AI Policy",
+      "url": "https://cset.georgetown.edu/feed/",
+      "channel": "Center for Security and Emerging Technology",
+      "description": "The place to find CSET's publications, reports, and people",
+      "entries": [
+        {
+          "title": "Anthropic Thinks Its Own Success Is Key to Making AI Safe",
+          "link": "https://cset.georgetown.edu/article/anthropic-thinks-its-own-success-is-key-to-making-ai-safe/",
+          "published": "Mon, 06 Jul 2026 15:20:08 +0000",
+          "description": "CSET’s Helen Toner shared her expert insight in an article published by WIRED. The article explores Anthropic’s philosophy of advancing cutting-edge AI while simultaneously positioning itself as a leader in AI safety. \n The post  Anthropic Thinks Its Own Success Is Key to Making AI Safe  appeared first on  Center for Security and Emerging Technology ."
+        },
+        {
+          "title": "A major online safety bill for kids just passed the House. Here’s what experts say parents need to know",
+          "link": "https://cset.georgetown.edu/article/a-major-online-safety-bill-for-kids-just-passed-the-house-heres-what-experts-say-parents-need-to-know/",
+          "published": "Thu, 02 Jul 2026 21:00:00 +0000",
+          "description": "CSET’s Jessica Ji shared her expert insight in an article published by CNBC. The article examines the House passage of the Kids Internet and Digital Safety (KIDS) Act, a bill aimed at strengthening protections for minors online through age verification, content restrictions, and parental oversight tools. \n The post  A major online safety bill for kids just passed the House. Here’s what experts say parents need to know  appeared first on  Center for Security and Emerging Technology ."
+        },
+        {
+          "title": "You Can Now Sound the Alarm on AI Behaving Badly",
+          "link": "https://cset.georgetown.edu/article/you-can-now-sound-the-alarm-on-ai-behaving-badly/",
+          "published": "Wed, 01 Jul 2026 21:00:00 +0000",
+          "description": "CSET’s Jessica Ji shared her expert insight in an article published by WIRED. The article examines the launch of FLARE-AI, a new crowdsourced platform designed to improve transparency and accountability by creating a centralized system for reporting harmful AI behavior and model flaws. \n The post  You Can Now Sound the Alarm on AI Behaving Badly  appeared first on  Center for Security and Emerging Technology ."
+        },
+        {
+          "title": "When cheap AI becomes a secret weapon",
+          "link": "https://cset.georgetown.edu/article/when-cheap-ai-becomes-a-secret-weapon/",
+          "published": "Tue, 30 Jun 2026 21:00:00 +0000",
+          "description": "CSET’s Sam Bresnick shared his expert insight in a newsletter segment published by Politico. The article examines the evolving U.S.–China AI competition, focusing on how cost-efficient Chinese AI models are beginning to gain traction globally and what that could mean for the long-term balance of technological and economic power in artificial intelligence. \n The post  When cheap AI becomes a secret weapon  appeared first on  Center for Security and Emerging Technology ."
+        },
+        {
+          "title": "Trump administration’s AI crackdown opens door for China to close gap",
+          "link": "https://cset.georgetown.edu/article/trump-administrations-ai-crackdown-opens-door-for-china-to-close-gap/",
+          "published": "Tue, 30 Jun 2026 21:00:00 +0000",
+          "description": "CSET’s Sam Bresnick shared his expert insight in an article published by CNBC. The article examines U.S. AI restrictions and China’s rapid progress in closing the gap with leading American models. \n The post  Trump administration’s AI crackdown opens door for China to close gap  appeared first on  Center for Security and Emerging Technology ."
+        },
+        {
+          "title": "The Long Arm of the Chinese Academy of Sciences",
+          "link": "https://cset.georgetown.edu/article/the-long-arm-of-the-chinese-academy-of-sciences/",
+          "published": "Sun, 21 Jun 2026 21:00:00 +0000",
+          "description": "CSET’s Hanna Dohmen shared her expert insight in an article published by The Wire China. The article examines how the Chinese Academy of Sciences maintains long-term relationships with companies it supports, extending beyond initial investment or spinouts into ongoing collaboration across research, talent development, and shared resources.  \n The post  The Long Arm of the Chinese Academy of Sciences  appeared first on  Center for Security and Emerging Technology ."
+        },
+        {
+          "title": "Anthropic got hit by export rules nobody understands",
+          "link": "https://cset.georgetown.edu/article/anthropic-got-hit-by-export-rules-nobody-understands/",
+          "published": "Wed, 17 Jun 2026 21:00:00 +0000",
+          "description": "CSET’s Hanna Dohmen shared her expert insight in an article published by The Verge. The piece examines the U.S. government’s unprecedented use of export controls to restrict access to Anthropic’s AI models. \n The post  Anthropic got hit by export rules nobody understands  appeared first on  Center for Security and Emerging Technology ."
+        },
+        {
+          "title": "Anthropic-U.S. battle highlights AI power struggle",
+          "link": "https://cset.georgetown.edu/article/anthropic-u-s-battle-highlights-ai-power-struggle/",
+          "published": "Wed, 17 Jun 2026 21:00:00 +0000",
+          "description": "CSET’s Helen Toner shared her expert insight in an article published by Axios. The article examines the U.S. government’s intervention involving Anthropic’s AI models and the broader debate over how frontier AI systems should be regulated and overseen. \n The post  Anthropic-U.S. battle highlights AI power struggle  appeared first on  Center for Security and Emerging Technology ."
+        },
+        {
+          "title": "U.S. Semiconductors and China’s AI Military Ambitions",
+          "link": "https://cset.georgetown.edu/article/u-s-semiconductors-and-chinas-ai-military-ambitions/",
+          "published": "Mon, 15 Jun 2026 21:00:00 +0000",
+          "description": "CSET’s Sam Bresnick shared his expert perspective in an op-ed published by Perry World House. In his piece, he argues that relaxing U.S. restrictions on advanced AI semiconductor exports to China would undermine long-term U.S. technological advantage. \n The post  U.S. Semiconductors and China’s AI Military Ambitions  appeared first on  Center for Security and Emerging Technology ."
+        },
+        {
+          "title": "What Do AI Standards Mean for Small and Medium Enterprises?",
+          "link": "https://cset.georgetown.edu/article/what-do-ai-standards-mean-for-small-and-medium-enterprises/",
+          "published": "Tue, 09 Jun 2026 16:22:35 +0000",
+          "description": "While AI standards and best practices provide valuable guidance to practitioners, they often are geared toward integrating AI into the structure and practices of large, well-resourced organizations. Yet small and medium enterprises (SMEs) stand to benefit greatly from AI adoption as well. This blog examines the implications of AI standards for smaller organizations and proposes several achievable initial steps that practitioners can take to further responsible AI deployment under resource constraints. \n The post  What Do AI Standards Mean for Small and Medium Enterprises?  appeared first on  Center for Security and Emerging Technology ."
+        }
+      ],
+      "count": 10,
+      "domain": "AI CAPEX"
     }
   ]
 }
