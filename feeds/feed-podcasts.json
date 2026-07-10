@@ -1,29 +1,272 @@
 {
-  "generated_at": "2026-07-10T05:31:12.424799+00:00",
+  "generated_at": "2026-07-10T05:38:49.301333+00:00",
   "source": "podcast_rss",
   "feeds_count": 5,
-  "total_episodes": 10,
+  "total_episodes": 40,
   "podcasts": [
     {
-      "feed_name": "Macro Voices",
-      "channel": "Macro Voices",
+      "feed_name": "Capital Allocators",
+      "channel": "Capital Allocators – Inside the Institutional Investment Industry",
       "domain": "US Fiscal",
-      "description": "",
-      "episodes": []
+      "description": "Allocator and asset management expert, Ted Seides, conducts in-depth interviews with leaders in the institutional investing industry. Guests include Chief Investment Officers from leading allocators, asset managers, strategists, thought leaders, and many more. Our mission is to learn, share, and help implement the process of premier investors. Learn more and join our community at capitalallocators.com.",
+      "episodes": [
+        {
+          "title": "Moat Investing Nuances – Pat Dorsey (EP.509)",
+          "link": "https://tedseides.libsyn.com/moatsinvesting-nuances-pat-dorsey-ep509",
+          "published": "Mon, 06 Jul 2026 08:00:00 +0000",
+          "description": "Pat Dorsey is the Founder of Dorsey Asset Management, a $1.7 billion global public equity manager focused on companies with competitive advantages and long investment runways. Pat created Morningstar's moat research framework and led its equity research efforts for a dozen years before launching his firm in 2014.     Our conversation covers the nuances of investing in businesses with wide moats across quantitative analysis, switching costs, network effects, brands, management, alignment, capital allocation, and reinvestment runways. We then turn to Pat's application of moat analysis to his investing, including concentration, global scope, position sizing, decision making, and lessons learned.       Any leader should see for themselves the benefits of elite coaching. Try ALEX :   tryalex.ad",
+          "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/tedseides/CA_-_EP.509_Pat_Dorsey_-_AUDIO_V3.mp3?dest-id=482814",
+          "duration": "01:07:00"
+        },
+        {
+          "title": "Senior Decision Makers: Nicholas Csicsko, Trinity Wall Street (EP.508)",
+          "link": "https://tedseides.libsyn.com/senior-decision-makers-nicholas-csiscko-trinity-wall-street-ep508",
+          "published": "Mon, 29 Jun 2026 08:00:00 +0000",
+          "description": "Our first guest on the Senior Decision Makers mini-series is Nick Csicsko. Nick is a Managing Director at the Trinity Wall Street endowment, where he joined CIO Meredith Jenkins at the founding of the investment office in 2016 and has spent the last decade helping build a young endowment inside a 320-year-old institution. Today the endowment has grown to over $6 billion.       Nick's path into investing is a fascinating one. He studied composition and earned his Doctorate of Music at Juilliard. While there, he talked his way into an internship at Juilliard's endowment and never looked back.       Our conversation covers the lessons he carried from music into investing, his investment philosophy, and the details of his process. Manager selection sits at the heart of his work, and he articul",
+          "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/tedseides/CA_-_SDM_Nicholas_Csicsko_-_AUDIO_V2.mp3?dest-id=482814",
+          "duration": "58:18"
+        },
+        {
+          "title": "Homegrown CIO at Williams College - Abigail Wattley (EP.507)",
+          "link": "https://tedseides.libsyn.com/homegrown-cio-at-williams-college-abigail-wattley-ep507",
+          "published": "Mon, 22 Jun 2026 08:00:00 +0000",
+          "description": "Abigail Wattley is the Chief Investment Officer of Williams College, where she oversees the school's $4.5 billion endowment. She became CIO three years ago upon the retirement of Collette Chilton, whose past conversation is replayed in the feed.  Abigail has spent two decades in the Williams investment office, and her tenure manifests the benefits of duration and institutional knowledge in the seat.                           Our conversation traces Abigail's nearly twenty-year journey inside the Williams Investment Office, from joining as an early analyst to becoming the internal successor CIO. We discuss the consistent mandate throughout alongside Abigail's evolution from analyst to deputy to decision-maker, including the  knowledge retained as an internal candidate, the tension between r",
+          "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/tedseides/CA_-_EP.507_Abigail_Wattley_-_AUDIO_V1.mp3?dest-id=482814",
+          "duration": "47:24"
+        },
+        {
+          "title": "[REPLAY] Collette Chilton – Humility and Loyalty at Williams College (EP.174)",
+          "link": "https://tedseides.libsyn.com/replay-collette-chilton-humility-and-loyalty-at-williams-college-ep174",
+          "published": "Mon, 22 Jun 2026 07:45:00 +0000",
+          "description": "Collette Chilton is the CIO of Williams College where she has overseen its $3 billion since 2006. Collette is nothing short of a legend in the business. She has sat in a CIO seat since the early 1990s at the helm of public pension MassPrim and corporate pension Lucent before joining Williams. Institutional Investors bestowed its Lifetime Achievement Award on Collette in 2019, and Barron's named her one of the 100 Most Influential Women in Finance in 2020.       Our conversation covers Collette's career path and lessons learned before joining Williams. We then turn to her arrival at Williams in 2006 to a phone, a computer, and a legacy portfolio, Williams' governance structure leveraging alumni advisors, asset allocation, manager selection, manager monitoring, hedge funds, venture capital,",
+          "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/tedseides/REPLAY_-_EP.174_-_Collette_Chilton_FINAL.mp3?dest-id=482814",
+          "duration": "53:46"
+        },
+        {
+          "title": "WTT: AI: Fundamentals, Valuation, and the Next Allocator Dilemma",
+          "link": "https://tedseides.libsyn.com/wtt-ai-fundamentals-valuation-and-the-next-allocator-dilemma",
+          "published": "Wed, 17 Jun 2026 08:00:00 +0000",
+          "description": "This WTT, AI: Fundamentals, Valuation, and the Next Allocator Dilemma takes on a high-level assessment of AI companies as late-stage private winners prepare to go public, and the next big challenge allocators face as a result.    Read Ted's blog   here .    Editing and post-production work for this episode was provided by The Podcast Consultant (  ⁠  https://thepodcastconsultant.com  ⁠  )",
+          "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/tedseides/CA_-_WTT.AI_-_AUDIO_V2.mp3?dest-id=482814",
+          "duration": "08:17"
+        },
+        {
+          "title": "Hotel Investing at EOS – Jonathan Wang (EP.506)",
+          "link": "https://tedseides.libsyn.com/hotel-investing-at-eos-jonathan-wang-ep506",
+          "published": "Mon, 15 Jun 2026 08:00:00 +0000",
+          "description": "Jonathan Wang is the founder and CEO of EOS Investors, where he has built three real estate investment platforms totaling $2 billion  in assets under management across the hotel and residential sectors. Jonathan also  created a wholly owned hotel management company that  oversees 60 properties for the EOS funds and five core partners.            Our conversation covers Jonathan's path to hotel investing and EOS' hotel investment process across market selection, property type, underwriting, vertically integrated operations, and managing through cycles. We also discuss extensions into residential real estate, hotel credit, and opportunities and risks going forward.                              Editing and post-production work for this episode was provided by The Podcast Consultant (  ⁠  http",
+          "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/tedseides/CA_-_EP.506_Jonathan_Wang_-_AUDIO_V1.mp3?dest-id=482814",
+          "duration": "56:18"
+        },
+        {
+          "title": "Contrarian Quality at GQG Partners – Rajiv Jain (EP.505)",
+          "link": "https://tedseides.libsyn.com/contrarian-quality-at-gqg-partners-rajiv-jain-ep505",
+          "published": "Mon, 08 Jun 2026 08:00:00 +0000",
+          "description": "Rajiv Jain is the Chairman and CIO of GQG Partners, a global equity manager he founded in 2016 that has soared to $160 billion in assets, rebuffing the challenging decade for active managers.          Our conversation covers Rajiv's path from trading in India to his long tenure at Vontobel and founding of GQG. We discuss the periodic crisis lessons that shaped his approach, his definition of quality, team dynamics, and portfolio construction to avoid losses. We then turn to Rajiv's contrarian views, including current significant positions in energy, utilities, steel, tobacco, and emerging markets, avoidance of hyperscalers and semiconductors, and nimbleness to change his mind.                              Learn More   Follow Ted on Twitter at  @tseides  or  LinkedIn    Subscribe to the  ma",
+          "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/tedseides/CA_-_EP.509_Rajiv_Jain_-_AUDIO_V2.mp3?dest-id=482814",
+          "duration": "01:04:57"
+        },
+        {
+          "title": "Operator-Led Private Equity at Ethos - Erik Brooks (EP.504)",
+          "link": "https://tedseides.libsyn.com/operator-led-private-equity-at-ethos-erik-brooks-ep504",
+          "published": "Mon, 01 Jun 2026 08:00:00 +0000",
+          "description": "Erik Brooks is the Co-Founder and Managing Partner of Ethos Capital, a middle-market private equity firm built to bring seasoned C-Suite operators into every aspect of the investment process. Erik's experience prior to founding Ethos in 2019 spanned privatizations in Eastern Europe, value investing at Baupost, and twenty years at Abry Partners.     Our conversation covers Erik's path to private equity, lessons learned about risk, the importance of betting on people, and the evolution in his thinking that led to forming Ethos. We then cover Ethos' focus on durable business models, one-deal-a-year cadence, operating system to evaluate and improve companies, and an investment example that brings it all to life.      Learn More   Follow Ted on Twitter at  @tseides  or  LinkedIn   Subscribe to",
+          "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/tedseides/CA_-_EP.504_Erik_Brooks_-_AUDIO_V2.mp3?dest-id=482814",
+          "duration": "58:25"
+        },
+        {
+          "title": "Fundraising Mastery: The Tao of Kimmer – John Kim (EP.503)",
+          "link": "https://tedseides.libsyn.com/fundraising-mastery-the-tao-of-kimmer-john-kim-ep503",
+          "published": "Mon, 25 May 2026 08:00:00 +0000",
+          "description": "John Kim, or Kimmer, has raised more than $70 billion across his career for leading venture capital and private equity firms. Kimmer recently distilled three decades of lessons into The Tao of Fundraising, the best book I've ever read on fundraising for investment managers. Since then, Kimmer joined a General Catalyst portfolio company, Lila Sciences, as Chairman and President of Corporate Development.      Our conversation covers Kimmer's philosophy about raising capital, the sales process, art of persuasion, best practices in a meeting, frameworks determining fundraising success, taxonomy of institutional investors, ideal sales team structure and compensation, and the features he carried over from capital formation for funds to a new operating role.       Learn More   Follow Ted on Twitt",
+          "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/tedseides/CA_-_EP.503_John_Kim_-_AUDIO_V3.mp3?dest-id=482814",
+          "duration": "01:09:21"
+        },
+        {
+          "title": "Making Mistakes – Josh Steiner (EP.502)",
+          "link": "https://tedseides.libsyn.com/making-mistakes-josh-steiner-ep503",
+          "published": "Mon, 18 May 2026 08:00:00 +0000",
+          "description": "Josh Steiner is a polymath of the New York and D.C. power corridors across government, media, and finance, and co-author of From Mistakes to Meaning: Owning Your Past So It Doesn't Own You.     Josh rose to national prominence as the youngest-ever Chief of Staff at the U.S. Treasury in the Clinton administration, where he made a high-profile mistake he unpacks in the book. He pivoted to finance as a media investment banker  and co-founder of private equity firm Quadrangle Group in 2000, worked as an operator at Bloomberg in the 2010s, has served on Yale's Investment Committee for nearly a decade, and five years ago returned to private equity as co-founder of SSW Partners managing capital for a few families.     Our conversation focuses on mistakes, quite a contrast from other discussions o",
+          "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/tedseides/CA_-_EP.503_Josh_Steiner_-_AUDIO_V1.mp3?dest-id=482814",
+          "duration": "57:15"
+        }
+      ]
     },
     {
-      "feed_name": "Capital Allocators",
-      "channel": "Capital Allocators",
+      "feed_name": "Goldman Sachs Exchanges",
+      "channel": "The Markets",
       "domain": "US Fiscal",
-      "description": "",
-      "episodes": []
+      "description": "What’s driving this week’s market moves – and where are the biggest opportunities? Goldman Sachs traders discuss.",
+      "episodes": [
+        {
+          "title": "S&P to 8,000 This Year?",
+          "link": "",
+          "published": "Fri, 26 Jun 2026 04:00:00 -0000",
+          "description": "As US equities get more volatile, are the drivers of the rally still intact? John Flood, head of Americas Equities Execution Services in Goldman Sachs Global Banking & Markets, breaks down the market action, and explains why strong earnings and positive technicals could drive stocks higher, in this conversation with Chris Hussey.  \n\nRecorded on June 25, 2026. \n\nThe opinions and views expressed herein are as of the date of publication, subject to change without notice, and may not necessarily reflect the institutional views of Goldman Sachs or its affiliates. The material provided is intended for informational purposes only, and does not constitute investment advice, a recommendation from any Goldman Sachs entity to take any particular action, or an offer or solicitation to purchase or sell",
+          "audio_url": "https://traffic.megaphone.fm/GLD6774384043.mp3",
+          "duration": "628"
+        },
+        {
+          "title": "‘It’s a Generational Opportunity’",
+          "link": "",
+          "published": "Fri, 12 Jun 2026 13:00:00 -0000",
+          "description": "Despite recent wobbles in the US equity market, Muhammad Qubbaj, co-head of US Interest Rate Products in Goldman Sachs Global Banking & Markets, believes the rally is on firm footing. He discusses the outlook for stocks and bonds, and explains why he’s not yet concerned about the rising issuance of bonds by tech companies and the US government, in this conversation with Chris Hussey. \n\nRecorded on Jun 11, 2026.\n\nThe opinions and views expressed herein are as of the date of publication, subject to change without notice, and may not necessarily reflect the institutional views of Goldman Sachs or its affiliates. The material provided is intended for informational purposes only, and does not constitute investment advice, a recommendation from any Goldman Sachs entity to take any particular act",
+          "audio_url": "https://traffic.megaphone.fm/GLD6522269650.mp3",
+          "duration": "656"
+        },
+        {
+          "title": "Will Europe Outperform?",
+          "link": "",
+          "published": "Fri, 05 Jun 2026 04:00:00 -0000",
+          "description": "As US stocks surge, European equities are climbing as well. Could more gains be ahead, and are European stocks be poised to outperform? Sharon Bell, European portfolio strategist in Goldman Sachs Research, discusses with Chris Hussey. \n\nRecorded on June 4, 2026.\n\nThe opinions and views expressed herein are as of the date of publication, subject to change without notice, and may not necessarily reflect the institutional views of Goldman Sachs or its affiliates. The material provided is intended for informational purposes only, and does not constitute investment advice, a recommendation from any Goldman Sachs entity to take any particular action, or an offer or solicitation to purchase or sell any securities or financial products. This material may contain forward-looking statements. Past pe",
+          "audio_url": "https://traffic.megaphone.fm/GLD1657311784.mp3",
+          "duration": "609"
+        },
+        {
+          "title": "Can the Tech Surge Continue?",
+          "link": "",
+          "published": "Fri, 29 May 2026 04:00:00 -0000",
+          "description": "Tech stocks have surged in the past two months. What’s behind the move, and where are the opportunities for investors now? Peter Callahan, the US Technology, Media and Telecommunications sector specialist within Goldman Sachs Global Banking & Markets, discusses with Chris Hussey.\n\nRecorded on May 28, 2026.\n\nThe opinions and views expressed herein are as of the date of publication, subject to change without notice, and may not necessarily reflect the institutional views of Goldman Sachs or its affiliates. The material provided is intended for informational purposes only, and does not constitute investment advice, a recommendation from any Goldman Sachs entity to take any particular action, or an offer or solicitation to purchase or sell any securities or financial products. This material ma",
+          "audio_url": "https://traffic.megaphone.fm/GLD3066394451.mp3",
+          "duration": "486"
+        },
+        {
+          "title": "Why Rates Could Keep Rising",
+          "link": "",
+          "published": "Fri, 22 May 2026 04:00:00 -0000",
+          "description": "What’s driving the rise in US Treasury yields, and what could be ahead for the bond market? Phillip Lee, head of Real Money Rate Sales in Goldman Sachs Global Banking & Markets, shares his outlook with Chris Hussey.\n\nRecorded on May 21, 2026.\n\nThe opinions and views expressed herein are as of the date of publication, subject to change without notice, and may not necessarily reflect the institutional views of Goldman Sachs or its affiliates. The material provided is intended for informational purposes only, and does not constitute investment advice, a recommendation from any Goldman Sachs entity to take any particular action, or an offer or solicitation to purchase or sell any securities or financial products. This material may contain forward-looking statements. Past performance is not ind",
+          "audio_url": "https://traffic.megaphone.fm/GLD4248821293.mp3",
+          "duration": "691"
+        },
+        {
+          "title": "A Tale of Two Markets",
+          "link": "",
+          "published": "Fri, 15 May 2026 04:00:00 -0000",
+          "description": "As AI stocks drive the S&P 500 and Nasdaq to record highs, are fears of a bubble warranted? And what are the newest opportunities in the AI equipment trade?  Shawn Tuteja, who oversees ETF and custom baskets volatility trading within Goldman Sachs Global Banking & Markets, discusses with Chris Hussey.\n\nRecorded on May 13, 2026.\n\nThe opinions and views expressed herein are as of the date of publication, subject to change without notice, and may not necessarily reflect the institutional views of Goldman Sachs or its affiliates. The material provided is intended for informational purposes only, and does not constitute investment advice, a recommendation from any Goldman Sachs entity to take any particular action, or an offer or solicitation to purchase or sell any securities or financial prod",
+          "audio_url": "https://traffic.megaphone.fm/GLD3490730936.mp3",
+          "duration": "669"
+        },
+        {
+          "title": "How to Trade Oil Now",
+          "link": "",
+          "published": "Mon, 11 May 2026 20:29:00 -0000",
+          "description": "Oil prices have fallen thanks to investor optimism that the Iran conflict could soon be resolved. But the situation may be more complicated than it appears, cautions Jerome Dortmans, co-head of Global Oil and Products Trading in Goldman Sachs Global Banking & Markets. He discusses the drivers of the crude oil and refined product markets, as well as some potential trading opportunities, in this conversation with Chris Hussey.\n\nRecorded on May 7, 2026\n\nThe opinions and views expressed herein are as of the date of publication, subject to change without notice, and may not necessarily reflect the institutional views of Goldman Sachs or its affiliates. The material provided is intended for informational purposes only, and does not constitute investment advice, a recommendation from any Goldman",
+          "audio_url": "https://traffic.megaphone.fm/GLD4656548018.mp3?updated=1778531775",
+          "duration": "932"
+        },
+        {
+          "title": "Riding the AI Wave",
+          "link": "",
+          "published": "Fri, 01 May 2026 14:35:00 -0000",
+          "description": "After a divisive FOMC meeting, what policy shifts could lie ahead for the Fed? And what are tech giants’ earnings telling us about the AI trade? Anshul Sehgal, global co-head of Fixed Income, Currency and Commodities in Goldman Sachs Global Banking & Markets, discusses with Chris Hussey.\n\nRecorded on April 30, 2026.\n\nThe opinions and views expressed herein are as of the date of publication, subject to change without notice, and may not necessarily reflect the institutional views of Goldman Sachs or its affiliates. The material provided is intended for informational purposes only, and does not constitute investment advice, a recommendation from any Goldman Sachs entity to take any particular action, or an offer or solicitation to purchase or sell any securities or financial products. This m",
+          "audio_url": "https://traffic.megaphone.fm/GLD1537801897.mp3?updated=1777648924",
+          "duration": "930"
+        },
+        {
+          "title": "Big Opportunities in Small Cap Equities",
+          "link": "",
+          "published": "Fri, 24 Apr 2026 04:00:00 -0000",
+          "description": "After years of underperformance, small-cap equities may be poised for a sustained rally. Where should investors look for opportunities? And can this momentum withstand macro volatility? Greg Tuorto, head of the US Small and SMID Cap team in Goldman Sachs Asset Management, discusses with Chris Hussey.\n\nRecorded on April 23, 2026.\n\nThe opinions and views expressed herein are as of the date of publication, subject to change without notice, and may not necessarily reflect the institutional views of Goldman Sachs or its affiliates. The material provided is intended for informational purposes only, and does not constitute investment advice, a recommendation from any Goldman Sachs entity to take any particular action, or an offer or solicitation to purchase or sell any securities or financial pro",
+          "audio_url": "https://traffic.megaphone.fm/GLD1759629523.mp3",
+          "duration": "637"
+        },
+        {
+          "title": "Chase or Fade the Rally?",
+          "link": "",
+          "published": "Fri, 17 Apr 2026 04:00:00 -0000",
+          "description": "US equities have staged a powerful rebound, coming back from their late-March lows to hit all-time highs. Are more gains ahead, or should traders look to take profits? And what could earnings tell us about the state of the economy? Bobby Molavi, head of European Execution Services in Goldman Sachs Global Banking & Markets, discusses with Chris Hussey.\n\nRecorded on April 16, 2026.\n\nThe opinions and views expressed herein are as of the date of publication, subject to change without notice, and may not necessarily reflect the institutional views of Goldman Sachs or its affiliates. The material provided is intended for informational purposes only, and does not constitute investment advice, a recommendation from any Goldman Sachs entity to take any particular action, or an offer or solicitation",
+          "audio_url": "https://traffic.megaphone.fm/GLD8921187590.mp3",
+          "duration": "703"
+        }
+      ]
     },
     {
       "feed_name": "Invest Like the Best",
-      "channel": "Invest Like the Best",
+      "channel": "Invest Like the Best with Patrick O'Shaughnessy",
       "domain": "US Fiscal",
-      "description": "",
-      "episodes": []
+      "description": "Conversations with the best investors and business leaders in the world. We explore their ideas, methods, and stories to help you better invest your time and money. Hear stock market and boardroom insights you can't find anywhere else. If you're a professional investor, CEO, entrepreneur, or business strategist, this is for you. Explore all our episodes and learn more at https://www.colossus.com",
+      "episodes": [
+        {
+          "title": "Jeremy Giffon - The Billion Dollar PDF - [Invest Like the Best, EP.481]",
+          "link": "https://colossus.com/episode/posting-priests-private-markets/",
+          "published": "Tue, 07 Jul 2026 08:00:00 -0000",
+          "description": "My guest today is Jeremy Giffon.  Jeremy has been on the show before as one of our most popular guests, and this conversation is every bit as enjoyable as the first. \n\nOver the last 18 months, Jeremy has had hundreds of conversations with founders and with the capital behind their companies. I don't know many investors with such a high rep count in the most interesting corners of private markets, so I asked him what he has learned. \n\nWe talk about what those lessons mean for founders and investors, why everyone has become subservient to the poster class, the hidden intellectual history behind Silicon Valley and much more.\n\nPlease enjoy my conversation with my friend, Jeremy Giffon.\n\nFor the full show notes, transcript, and links to mentioned content, check out the episode page ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠",
+          "audio_url": "https://traffic.megaphone.fm/CLS7913917793.mp3",
+          "duration": "4519"
+        },
+        {
+          "title": "Etched - Building AI Hardware to Make Inference Faster and Cheaper - [Invest Like the Best, EP.480]",
+          "link": "https://colossus.com/episode/the-future-of-ai-hardware/",
+          "published": "Tue, 30 Jun 2026 15:00:00 -0000",
+          "description": "My guests today are Gavin Uberti and Rob Wachen, the founders of Etched. \n\nA few years ago, when they set out to build a better AI chip than the largest companies in the world, almost everyone I called told me it could not be done. They have since done it, taping out a working chip on their first attempt and becoming the first hardware company founded after ChatGPT to do so.\n\nThey already have more than a billion dollars of customer demand for their first product, and have raised eight hundred million dollars to build it. \n\nEtched builds chips and systems designed to run AI models faster and at lower cost. They started the company in 2023, and that product is a complete rack for inference, the chip along with the boards, the power delivery, the interconnects, and the manufacturing to produ",
+          "audio_url": "https://traffic.megaphone.fm/CLS8561569864.mp3",
+          "duration": "5241"
+        },
+        {
+          "title": "Vlad Barbalat - Investing $120 Billion in Permanent Capital - [Invest Like the Best, EP.479]",
+          "link": "https://colossus.com/episode/the-power-of-permanent-capital/",
+          "published": "Tue, 23 Jun 2026 08:00:00 -0000",
+          "description": "My guest today is Vlad Barbalat, the Chief Investment Officer of Liberty Mutual Investments, the $120 billion investment platform that sits within one of the largest insurance companies in the world. \n\nVlad grew up in Soviet Moldova, came to America in 1990, and built a career that eventually led him to one of the most distinctive capital allocator seats anywhere in finance. \n\nToday we talk about how the mutual insurance structure creates a unique investment platform, what Liberty looks for in a new deal or partner, and what it means to build a career and a life in a country that gave you opportunities you never would have had anywhere else. \n\nPlease enjoy my conversation with Vlad Barbalat.\n\nFor the full show notes, transcript, and links to mentioned content, check out the episode page ⁠⁠",
+          "audio_url": "https://traffic.megaphone.fm/CLS2722061524.mp3",
+          "duration": "4177"
+        },
+        {
+          "title": "Kareem Amin - The Unusual Approach to Company Building - [Invest Like the Best, EP.478]",
+          "link": "https://colossus.com/episode/courage-truth-justice/",
+          "published": "Tue, 16 Jun 2026 08:00:00 -0000",
+          "description": "My guest today is Kareem Amin, co-founder and CEO of Clay. Clay has become one of the fastest-growing software companies of the last few years, valued at over four billion dollars. It helps companies find their best customers and reach them at scale.\n\nBut this conversation is about a lot more than Clay. Kareem is one of the most original thinkers I know. \n\nWe talk about the statues he keeps at the center of how he runs Clay — truth, justice, and courage — and what those words demand of him in practice. We talk about risk, ambition, and what he learned about both on a ten-day silent meditation retreat. \n\nI've had a lot of conversations with Kareem over the years. This is one I'll remember. Please enjoy this unique conversation with Kareem Amin.\n\nFor the full show notes, transcript, and link",
+          "audio_url": "https://traffic.megaphone.fm/CLS8649460424.mp3",
+          "duration": "3401"
+        },
+        {
+          "title": "Alex Sacerdote - How to Invest Through Technology Cycles - [Invest Like the Best, EP.477]",
+          "link": "https://colossus.com/episode/investing-on-the-s-curve/",
+          "published": "Tue, 09 Jun 2026 08:00:00 -0000",
+          "description": "My guest today is Alex Sacerdote, founder of Whale Rock Capital Management. \n\nWhale Rock is a technology focused investment firm that manages more than $17 billion across hedge fund, long only, and hybrid strategies. Over the past three years it has been one of the best performing hedge funds, compounding at roughly 44 percent a year.\n\nAlex invests through a single lens that he has refined over twenty years. He looks for technology S-curves, durable competitive advantages, and underappreciated earnings power. \n\nThis conversation is a tour through how he applies that framework right now. We start with his highest conviction position, which is Anthropic, and use it to work through the entire AI stack from chips to models to applications. \n\nPlease enjoy my conversation with Alex Sacerdote.\n\nF",
+          "audio_url": "https://traffic.megaphone.fm/CLS6537493219.mp3",
+          "duration": "4247"
+        },
+        {
+          "title": "Dara Khosrowshahi - Uber's Bet on AVs, AI, and Building a Super-App - [Invest Like the Best, EP.476]",
+          "link": "https://colossus.com/episode/order-out-of-chaos/",
+          "published": "Wed, 03 Jun 2026 08:00:00 -0000",
+          "description": "My guest today is Dara Khosrowshahi, the CEO of Uber. Before Uber, Dara ran Expedia for thirteen years. We start with why he took this job in 2017, and a big part of that story is Daniel Ek, who told him that life is not about happiness, it is about impact.\n\nWe talk about what the chaos felt like on day one, and how his family leaving Iran when he was nine shaped the way he handles pressure today. \n\nWe spend most of our time on autonomous vehicles and Uber's role as the demand aggregator in a world of physical AI. Dara explains why Uber is a supply-led company, what it will take to win, and why he expects many winners in AVs rather than one. \n\nWe also discuss Uber's $10 billion in free cash flow, the push toward a single app for everything, and what he has learned from Allen & Co, Barry Di",
+          "audio_url": "https://traffic.megaphone.fm/CLS3105050568.mp3",
+          "duration": "4037"
+        },
+        {
+          "title": "Dan Loeb - Lessons from 30 Years of Investing - [Invest Like the Best, EP.475]",
+          "link": "https://colossus.com/episode/reminiscences-of-an-investor/",
+          "published": "Thu, 28 May 2026 08:00:00 -0000",
+          "description": "My guest today is Dan Loeb, the founder and CEO of Third Point. \n\nDan started Third Point in 1995 with a few million dollars, and today the firm manages over 24 billion across equities, corporate and structured credit, venture, and insurance. \n\nHe is best known for his activist work at companies like Sotheby's, Sony, and Yahoo, and for the public letters he has written to boards over the years.\n\nWhat I find most interesting about Dan is how much his approach has evolved across thirty years. \n\nHe came up as a credit and event-driven investor at Warburg Pincus and Jefferies, built Third Point, then layered in quality investing, thematic technology investing, and now a very large credit business that sits alongside the hedge fund.\n\nWe cover how he thinks about the AI stack and the companies i",
+          "audio_url": "https://traffic.megaphone.fm/CLS8547493168.mp3",
+          "duration": "3783"
+        },
+        {
+          "title": "Darren Farber on Iran, China, and the Rise of Neoprimes - [Invest Like the Best, EP.474]",
+          "link": "https://colossus.com/episode/the-new-rules-of-war/",
+          "published": "Tue, 26 May 2026 08:00:00 -0000",
+          "description": "My guest today is Darren Farber, and this is his second appearance on the show.\n\nDarren is a Managing Partner of Albion River, a defense-focused investment firm and he previously served as a special advisor to the Deputy Under Secretary of Defense.\n\nWe recorded this conversation in the middle of the Iranian contingency, and we spent most of our time on what winning actually means in a theater like Iran.\n\nWe discuss why magazine depth matters for the American industrial base, lessons from Ukraine, and what the rise of neo-prime defense companies will require from Congress.\n\nPlease enjoy my second conversation with Darren Farber.\n\nFor the full show notes, transcript, and links to mentioned content, check out the episode page ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠here⁠⁠⁠⁠⁠. \n\n-----\n\nBecome a Colossus member to get",
+          "audio_url": "https://traffic.megaphone.fm/CLS3936356790.mp3",
+          "duration": "2779"
+        },
+        {
+          "title": "Gavin Baker - Watts and Wafers - [Invest Like the Best, EP.473]",
+          "link": "https://colossus.com/episode/watts-and-wafers/",
+          "published": "Wed, 20 May 2026 08:00:00 -0000",
+          "description": "My guest today is Gavin Baker, founding partner and CIO of Atreides Management, and this is our sixth conversation.\n\nThe central theme is watts and wafers, the two physical constraints that in Gavin's view will dictate the next phase of AI.\n\nOn power, he thinks the near-term shortage starts to ease in 2027 and 2028 as new sources of energy come online, and that orbital compute solves it in the long term.\n\nOn wafers, he explains what is different this time from the dotcom bubble and why TSMC’s capacity decisions may be the single most important variable to watch.\n\nWe also discuss Elon’s Terrafab, the disaggregation of GPUs, the role of new chip companies, and whether the economic value of AI will keep accruing to frontier models.\n\nFor the full show notes, transcript, and links to mentioned",
+          "audio_url": "https://traffic.megaphone.fm/CLS8755474209.mp3?updated=1779241717",
+          "duration": "4611"
+        },
+        {
+          "title": "Krishna Rao - Anthropic's CFO on Compute, Scaling to $30B ARR, and the Returns to Frontier Intelligence - [Invest Like the Best, EP.472]",
+          "link": "https://colossus.com/episode/cone-of-uncertainty/",
+          "published": "Wed, 13 May 2026 08:00:00 -0000",
+          "description": "My guest today is Krishna Rao, the CFO of Anthropic. The center of our conversation is how he navigates the decision around procuring and allocating compute, which he describes as the canvas on which everything else gets built.\n\nWe talk about what he calls the cone of uncertainty, the three chip platforms Anthropic uses fungibly across Trainium, TPUs, and GPUs, and the daily meetings they run to allocate compute between model development, internal use, and serving customer demand.\n\nHe explains why the returns to frontier intelligence keep getting higher, especially in enterprise, and how Anthropic thinks about the line between platform and application and why they choose to build their own products like Claude Code.\n\nKrishna has such a unique seat watching one of the fastest growing busine",
+          "audio_url": "https://traffic.megaphone.fm/CLS3629415437.mp3?updated=1778621552",
+          "duration": "4567"
+        }
+      ]
     },
     {
       "feed_name": "Macro Musings",
@@ -114,8 +357,8 @@
       ]
     },
     {
-      "feed_name": "Goldman Sachs Exchanges",
-      "channel": "Goldman Sachs Exchanges",
+      "feed_name": "Macro Voices",
+      "channel": "Macro Voices",
       "domain": "US Fiscal",
       "description": "",
       "episodes": []
