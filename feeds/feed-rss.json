@@ -1,0 +1,443 @@
+{
+  "generated_at": "2026-07-10T05:17:40.957704+00:00",
+  "feeds_count": 10,
+  "total_entries": 60,
+  "feeds": [
+    {
+      "name": "Lyn Alden — Substack",
+      "url": "https://lynalden.substack.com/feed",
+      "domain": "US Fiscal",
+      "entries": [],
+      "count": 0
+    },
+    {
+      "name": "Doomberg — Substack",
+      "url": "https://doomberg.substack.com/feed",
+      "domain": "Energy",
+      "entries": [
+        {
+          "title": "Blue Chips",
+          "link": "https://newsletter.doomberg.com/p/blue-chips",
+          "published": "Tue, 07 Jul 2026 09:01:38 GMT",
+          "description": "Will the highest-pedigreed off-grid gas-to-data project in the world get built?"
+        },
+        {
+          "title": "Treatment Resistant",
+          "link": "https://newsletter.doomberg.com/p/treatment-resistant",
+          "published": "Fri, 03 Jul 2026 09:00:41 GMT",
+          "description": "Even when they &#8220;work,&#8221; sanctions eventually backfire."
+        },
+        {
+          "title": "Peak “Not Oil”",
+          "link": "https://newsletter.doomberg.com/p/peak-not-oil",
+          "published": "Tue, 30 Jun 2026 09:00:32 GMT",
+          "description": "Natural gas liquids and the war in Iran."
+        },
+        {
+          "title": "Fused Objectives",
+          "link": "https://newsletter.doomberg.com/p/fused-objectives",
+          "published": "Thu, 25 Jun 2026 09:02:04 GMT",
+          "description": "Has the real purpose of fusion hype been revealed?"
+        },
+        {
+          "title": "Sacred Cow",
+          "link": "https://newsletter.doomberg.com/p/sacred-cow",
+          "published": "Mon, 22 Jun 2026 14:22:09 GMT",
+          "description": "Pro Tier: June 2026 Doom Zoom"
+        },
+        {
+          "title": "Stealth Financial Repression",
+          "link": "https://newsletter.doomberg.com/p/stealth-financial-suppression",
+          "published": "Thu, 18 Jun 2026 09:02:16 GMT",
+          "description": "A mental model for trillion-dollar IPOs."
+        },
+        {
+          "title": "Flex Capacitor",
+          "link": "https://newsletter.doomberg.com/p/flex-capacitor",
+          "published": "Tue, 16 Jun 2026 09:01:47 GMT",
+          "description": "While nobody was looking, China harmonized global hydrocarbon fungibility."
+        },
+        {
+          "title": "Awkward Truths",
+          "link": "https://newsletter.doomberg.com/p/awkward-truths",
+          "published": "Fri, 12 Jun 2026 09:01:36 GMT",
+          "description": "The media can&#8217;t seem to explain the collapse in China&#8217;s domestic solar installations."
+        },
+        {
+          "title": "Party Pooper",
+          "link": "https://newsletter.doomberg.com/p/party-pooper",
+          "published": "Mon, 08 Jun 2026 09:02:31 GMT",
+          "description": "The balloons are always the first to go."
+        },
+        {
+          "title": "New Found Gas",
+          "link": "https://newsletter.doomberg.com/p/new-found-gas",
+          "published": "Thu, 04 Jun 2026 09:01:26 GMT",
+          "description": "Will Canadian hydrocarbon development displace Europe&#8217;s reliance on the US?"
+        }
+      ],
+      "count": 10
+    },
+    {
+      "name": "Gavekal Research",
+      "url": "https://gavekal.com/research/feed/",
+      "domain": "China Delever",
+      "entries": [],
+      "count": 0
+    },
+    {
+      "name": "BIS Working Papers",
+      "url": "https://www.bis.org/doclist/rss_working_papers.rss",
+      "domain": "Global Liquidity",
+      "entries": [],
+      "count": 0
+    },
+    {
+      "name": "BIS All Publications",
+      "url": "https://www.bis.org/doclist/rss_all_categories.rss",
+      "domain": "Global Liquidity",
+      "entries": [
+        {
+          "title": "Assessing the effects of recent provisioning rules on consumer credit allocation in Colombia",
+          "link": "https://www.bis.org/publ/work1366.htm",
+          "published": "2026-07-09T07:50:00Z",
+          "description": "by Diego Cuesta-Mora, Fredy Gamboa, Camilo Sanchez-Quinto Colombia's post-pandemic recovery in 2021&#8211;2022 was marked by rapid consumer credit growth, followed by deteriorating credit quality indicators amid tightening financial conditions. In January 2023, the Superintendence of Finance of Colombia (SFC) introduced higher provisioning requirements for long-term consumer loans to enhance financial resilience against credit risk materialization and to help moderate the rapid expansion of consumer credit observed prior to the reform. From the perspective of credit institutions (CIs), increased provisions imply higher expenses and potential profitability pressures, which could lead to adjustments in lending strategies."
+        },
+        {
+          "title": "Project Insight: uncovering the complexities of global value chains",
+          "link": "https://www.bis.org/publ/othp112.htm",
+          "published": "2026-07-08T13:24:00Z",
+          "description": "Project Insight developed a proof-of-concept dashboard to enhance policymakers' understanding and monitoring of global supply chain developments. By unifying detailed firm-level datasets, macroeconomic information and advanced analytics within a collaborative platform, the project demonstrated how granular and complex GVC dependencies can be studied more effectively."
+        },
+        {
+          "title": "On the comparison of capital requirements for global systemically important banks",
+          "link": "https://www.bis.org/fsi/publ/insights76.htm",
+          "published": "2026-07-08T11:15:00Z",
+          "description": "Basel III introduced a comprehensive package of capital reforms to bolster the resilience of the global banking system. While the standard supports regulatory convergence across jurisdictions by establishing a common minimum set of requirements for internationally active banks, it also gives national authorities flexibility to exceed the minimum standards. Heterogeneous applications of Basel III across jurisdictions have fuelled perceptions of an uneven playing field and have become central to current debates on how regulation may influence banks' competitiveness."
+        },
+        {
+          "title": "Blockchain consensus mechanisms and fragmentation",
+          "link": "https://www.bis.org/publ/bisbull126.htm",
+          "published": "2026-07-06T10:00:00Z",
+          "description": "by Daniel Eidan, Jon Frost, Rudraksh Kansal, Ulf Lewrick, Sang Hyuk Lim, Tomasz Rybarczyk While all permissionless blockchains use token-based incentives to sustain honest validation, differences in how validator rewards, coordination and participation are structured lead to distinct equilibria and trade-offs between decentralisation, security and scalability. These trade-offs underpin the emergence of multiple layer 1 networks and the expansion of layer 2 solutions, resulting in fragmentation of infrastructure, liquidity and assets across and within chains. Tools to mitigate fragmentation &#8211; eg bridges and native multi-chain issuance &#8211; can reduce frictions, but they reintroduce new dependencies on trust, governance and operational resilience."
+        },
+        {
+          "title": "What makes money, money? Ensuring trust in the next generation financial ecosystem",
+          "link": "https://www.bis.org/speeches/sp260624.htm",
+          "published": "2026-07-02T10:05:00Z",
+          "description": "Remarks by Ms Andréa M Maechler, Deputy General Manager, Bank for International Settlements (BIS), at the Point Zero Forum, Zurich, 24 June 2026."
+        },
+        {
+          "title": "Timur M Suleimenov: Statement - base rate of the National Bank of Kazakhstan",
+          "link": "https://www.bis.org/review/r260701i.htm",
+          "published": "2026-07-01T13:31:00Z",
+          "description": "Statement by Mr Timur M Suleimenov, Governor of the National Bank of Kazakhstan, on the base rate of the National Bank of Kazakhstan, Astana, 5 June 2026."
+        },
+        {
+          "title": "Zhu Hexin: New landscape of global capital flows and China's high-level opening-up",
+          "link": "https://www.bis.org/review/r260701e.htm",
+          "published": "2026-07-01T13:01:00Z",
+          "description": "Keynote speech by Mr Zhu Hexin, Deputy Governor of the People's Bank of China and SAFE Administrator, at the 2026 Lujiazui Forum, Shanghai, 17 June 2026."
+        },
+        {
+          "title": "Andrew Hauser: \"The straight line belongs to man, the curved line belongs to God\"",
+          "link": "https://www.bis.org/review/r260701d.htm",
+          "published": "2026-07-01T12:56:00Z",
+          "description": "Text of the Sir Douglas Copland Memorial Lecture to the Economic Society of Australia (Victoria) by Mr Andrew Hauser, Deputy Governor of the Reserve Bank of Australia, Melbourne, 24 June 2026."
+        },
+        {
+          "title": "Naoki Tamura: Economic activity, prices and monetary policy in Japan",
+          "link": "https://www.bis.org/review/r260701c.htm",
+          "published": "2026-07-01T12:50:00Z",
+          "description": "Speech by Mr Naoki Tamura, Member of the Policy Board of the Bank of Japan, at a meeting with local leaders, Hyogo, 25 June 2026."
+        },
+        {
+          "title": "Lisa D Cook: Welcome remarks - State of Small Business Symposium",
+          "link": "https://www.bis.org/review/r260701b.htm",
+          "published": "2026-07-01T12:47:00Z",
+          "description": "Welcome remarks (via pre-recorded video) by Ms Lisa D Cook, Member of the Board of Governors of the Federal Reserve System, at the State of Small Business Symposium, hosted by the Federal Reserve Bank of Cleveland, 24 June 2026."
+        }
+      ],
+      "count": 10
+    },
+    {
+      "name": "CFR — Brad Setser",
+      "url": "https://www.cfr.org/bio/brad-w-setser/feed",
+      "domain": "Global Liquidity",
+      "entries": [],
+      "count": 0
+    },
+    {
+      "name": "Michael Howell — Capital Wars",
+      "url": "https://capitalwars.substack.com/feed",
+      "domain": "Global Liquidity",
+      "entries": [
+        {
+          "title": "Global Liquidity Watch: Weekly Update",
+          "link": "https://capitalwars.substack.com/p/global-liquidity-watch-weekly-update-8e4",
+          "published": "Tue, 07 Jul 2026 11:00:59 GMT",
+          "description": "Levelling Off?"
+        },
+        {
+          "title": "Hubble, Bubble: Why Liquidity Matters More Than Valuation",
+          "link": "https://capitalwars.substack.com/p/hubble-bubble-why-liquidity-matters",
+          "published": "Sun, 05 Jul 2026 22:25:26 GMT",
+          "description": "A Global Liquidity framework for assessing market risk, funding stress and asset allocation"
+        },
+        {
+          "title": "Capital Wars 1.0, Not China Shock 2.0",
+          "link": "https://capitalwars.substack.com/p/capital-wars-10-not-china-shock-20",
+          "published": "Fri, 03 Jul 2026 15:21:36 GMT",
+          "description": "Gold, US Treasuries and China&#8217;s Paper Yuan"
+        },
+        {
+          "title": "Global Liquidity Watch: Weekly Update",
+          "link": "https://capitalwars.substack.com/p/global-liquidity-watch-weekly-update-64f",
+          "published": "Tue, 30 Jun 2026 13:21:13 GMT",
+          "description": "PBoC Boost Lifts Global Liquidity But Constraints Remain"
+        },
+        {
+          "title": "Bitcoin, Gold and Fed Liquidity",
+          "link": "https://capitalwars.substack.com/p/bitcoin-gold-and-fed-liquidity",
+          "published": "Sun, 28 Jun 2026 11:31:08 GMT",
+          "description": "Reassessing the Great Debasement Trade"
+        },
+        {
+          "title": "Could US$3,700/oz Mark Gold’s Floor?",
+          "link": "https://capitalwars.substack.com/p/could-us3700oz-mark-golds-floor",
+          "published": "Thu, 25 Jun 2026 13:41:44 GMT",
+          "description": "China, Gold and the People&#8217;s Bank"
+        },
+        {
+          "title": "Global Liquidity Watch: Weekly Update",
+          "link": "https://capitalwars.substack.com/p/global-liquidity-watch-weekly-update-ca4",
+          "published": "Tue, 23 Jun 2026 14:30:56 GMT",
+          "description": "PBoC Liquidity Injections Drive Latest Rise"
+        },
+        {
+          "title": "Additional Charts: Requested",
+          "link": "https://capitalwars.substack.com/p/additional-charts-requested",
+          "published": "Mon, 22 Jun 2026 14:24:10 GMT",
+          "description": "Central Bank Heat Map And Cryptocurrency Charts"
+        },
+        {
+          "title": "Let The Markets Tighten",
+          "link": "https://capitalwars.substack.com/p/let-the-markets-tighten",
+          "published": "Mon, 22 Jun 2026 12:38:08 GMT",
+          "description": "Chair Warsh May Welcome A Stronger US Dollar"
+        },
+        {
+          "title": "A New Fed Chair: The Name’s ‘Bond’",
+          "link": "https://capitalwars.substack.com/p/a-new-fed-chair-the-names-bond",
+          "published": "Thu, 18 Jun 2026 15:48:37 GMT",
+          "description": "The Looming Spectre Shadowing Wall Street"
+        }
+      ],
+      "count": 10
+    },
+    {
+      "name": "Adam Tooze — Substack",
+      "url": "https://adamtooze.substack.com/feed",
+      "domain": "US Fiscal",
+      "entries": [
+        {
+          "title": "Top Links 1157 Data centers and \"industrial resolve\". Cannibalizing Lululemon. African urbanization & Foucault's secret Canadian file.",
+          "link": "https://adamtooze.substack.com/p/top-links-1157-data-centers-and-industrial",
+          "published": "Thu, 09 Jul 2026 10:39:03 GMT",
+          "description": "Great links, images, and reading from Chartbook Newsletter by Adam Tooze"
+        },
+        {
+          "title": "Top Links 1156 Pricey BBQ. Exaggerating Huawei. The US in 1930. Ukraine striking back.",
+          "link": "https://adamtooze.substack.com/p/top-links-1156-pricey-bbq-exaggerating",
+          "published": "Wed, 08 Jul 2026 18:59:16 GMT",
+          "description": "Great links, images, and reading from Chartbook Newsletter by Adam Tooze"
+        },
+        {
+          "title": "Chartbook 457: The metamorphoses of the dollar",
+          "link": "https://adamtooze.substack.com/p/chartbook-457-the-metamorphoses-of",
+          "published": "Wed, 08 Jul 2026 14:34:45 GMT",
+          "description": "The general question I find myself preoccupied with right now is how we think - or fail to think - radical economic change."
+        },
+        {
+          "title": "Top Links 1155 MAGA's economic self-harm. A snapshot of the food system. Grossman's \"music of destruction\" & Adorno on the paradoxes of historiography.",
+          "link": "https://adamtooze.substack.com/p/top-links-1155-magas-economic-self",
+          "published": "Tue, 07 Jul 2026 10:45:19 GMT",
+          "description": "Great links, images, and reading from Chartbook Newsletter by Adam Tooze"
+        },
+        {
+          "title": "Top Links 1154 Exxon - not like other oil majors. Polycrisis as supply shock. The mapmaker of Wounded Knee.",
+          "link": "https://adamtooze.substack.com/p/top-links-1154-exxon-not-like-other",
+          "published": "Mon, 06 Jul 2026 10:45:35 GMT",
+          "description": "Great links, images, and reading from Chartbook Newsletter by Adam Tooze"
+        },
+        {
+          "title": "Top Links 1153 Trump's money. Canada's pipeline to Asia. Russia is losing the space race & China's generals.",
+          "link": "https://adamtooze.substack.com/p/top-links-1153-trumps-money-canadas",
+          "published": "Sun, 05 Jul 2026 10:18:03 GMT",
+          "description": "Great links, images, and reading from Chartbook Newsletter by Adam Tooze"
+        },
+        {
+          "title": "Chartbook 456 Alien v. Predator or MAGA meets AI - a \"crossover\" monument to the USA at 250.",
+          "link": "https://adamtooze.substack.com/p/chartbook-456-alien-v-predator-or",
+          "published": "Sun, 05 Jul 2026 02:40:50 GMT",
+          "description": "We live in a world of divergent, incongruent but overlapping shocks."
+        },
+        {
+          "title": "Top Links 1152 Anchovies & fishflation. Innovating in steel. The \"Presbyterian Rebellion\" & the ample hips of the stock market.",
+          "link": "https://adamtooze.substack.com/p/top-links-1152-anchovies-and-fishflation",
+          "published": "Sat, 04 Jul 2026 14:46:24 GMT",
+          "description": "Great links, images, and reading from Chartbook Newsletter by Adam Tooze"
+        },
+        {
+          "title": "Top Links 1151 No more visas. The distributed solar boom. The triumph of Excel & \"a bride married to amazement\".",
+          "link": "https://adamtooze.substack.com/p/top-links-1151-no-more-visas-the",
+          "published": "Fri, 03 Jul 2026 10:45:52 GMT",
+          "description": "Great links, images, and reading from Chartbook Newsletter by Adam Tooze"
+        },
+        {
+          "title": "Top Links 1150 Has the debasement trade run out of steam? China and tungsten. Rebuilding missile stocks & 52-year-old soup.",
+          "link": "https://adamtooze.substack.com/p/top-links-1150-has-the-debasement",
+          "published": "Thu, 02 Jul 2026 10:45:43 GMT",
+          "description": "Great links, images, and reading from Chartbook Newsletter by Adam Tooze"
+        }
+      ],
+      "count": 10
+    },
+    {
+      "name": "SemiAnalysis",
+      "url": "https://semianalysis.substack.com/feed",
+      "domain": "AI CAPEX",
+      "entries": [
+        {
+          "title": "The Future of Meta Superintelligence: A 1 Year Progress Update",
+          "link": "https://newsletter.semianalysis.com/p/the-future-of-meta-superintelligence",
+          "published": "Thu, 09 Jul 2026 19:16:14 GMT",
+          "description": "A top tier RL environment startup spawns out of thin air, the most aggressive compute ramp we've ever seen, 2000km+ scale-across, and some advice for Google DeepMind"
+        },
+        {
+          "title": "Anthropic 3Q26 Profit Over $1B: The Anthropic IPO Financials Sneak Peak",
+          "link": "https://newsletter.semianalysis.com/p/anthropic-3q26-profit-over-1b-the",
+          "published": "Wed, 08 Jul 2026 06:04:28 GMT",
+          "description": "Anthropic&#8217;s Opportunity is Theirs to Lose"
+        },
+        {
+          "title": "Nvidia GPU Debt Backstop Unleashes the AI Project Trinity: Capital, Offtake and Datacenters",
+          "link": "https://newsletter.semianalysis.com/p/nvidia-gpu-debt-backstop-unleashes",
+          "published": "Mon, 06 Jul 2026 21:53:44 GMT",
+          "description": "Over 7T AI debt by 2029, There can be no Neoclouds without the Trinity. Nvidia's Backstop Economics Explained. AI Debt Needs Quantified. Nvidia's Objective is to Broaden Compute Access, Develop AI Financing, Grow Neoclouds."
+        },
+        {
+          "title": "Meta Compute: Everyone Wants To Be A Neocloud",
+          "link": "https://newsletter.semianalysis.com/p/meta-compute-everyone-wants-to-be",
+          "published": "Thu, 02 Jul 2026 22:18:08 GMT",
+          "description": "Zuck Takes Plan B? SpaceX 2.0, Bedrock 2.0, MSL Isn't Giving Up, Scaling RecSys by 10x... ClusterMAX ranking coming soon?"
+        },
+        {
+          "title": "EMIB-T Roadmap, Custom HBM, HBM4 Packaging Challenges, Microfluidic Cooling, Photonic Interconnects, and More",
+          "link": "https://newsletter.semianalysis.com/p/ectc2026",
+          "published": "Thu, 02 Jul 2026 17:25:38 GMT",
+          "description": "ECTC 2026 Roundup, Intel, TSMC, SK Hynix, Samsung, Micron, Marvell, Lightmatter, Microsoft"
+        },
+        {
+          "title": "TokenBudgeting: Our Conversations with Enterprises on Token Spend",
+          "link": "https://newsletter.semianalysis.com/p/tokenbudgeting-our-conversations",
+          "published": "Tue, 30 Jun 2026 18:32:39 GMT",
+          "description": "Was Widespread TokenMaxxing Ever Really Here?"
+        },
+        {
+          "title": "US Grid Constraints: Towards 40GW+ of Behind-The-Meter Datacenter by 2028?",
+          "link": "https://newsletter.semianalysis.com/p/us-grid-constraints-towards-40gw",
+          "published": "Thu, 25 Jun 2026 19:48:39 GMT",
+          "description": "Why the Grid Can't Keep Up, and Why that Drives Behind-The-Meter 50%+ of DCs/Year By 2028"
+        },
+        {
+          "title": "China’s CXMT Is Set to Challenge DRAM Incumbents",
+          "link": "https://newsletter.semianalysis.com/p/chinas-cxmt-is-set-to-challenge-dram",
+          "published": "Tue, 23 Jun 2026 14:51:53 GMT",
+          "description": "CXMT IPO, SKHynix, Micron, Samsung Competition, Process Node Deficit, China HBM, Wafer Adds, Memory LTAs"
+        },
+        {
+          "title": "Stop Saying Half of 2026 US Datacenter Capacity Is Canceled",
+          "link": "https://newsletter.semianalysis.com/p/stop-saying-half-of-2026-us-datacenter",
+          "published": "Thu, 18 Jun 2026 15:54:24 GMT",
+          "description": "Don't Believe The Vibecoded Estimates, Go Through Every Individual Filing Instead"
+        },
+        {
+          "title": "RL Systems Mind the Gap: Matching Trainer and Generator Throughput",
+          "link": "https://newsletter.semianalysis.com/p/rl-systems-mind-the-gap-matching",
+          "published": "Tue, 16 Jun 2026 17:32:07 GMT",
+          "description": "RL Training Infrastructure, GRPO, PipelineRL, Async RL, Policy Staleness, RL Sandbox Infra, CPU Requirements, TCO Analysis, Thinking Machines Tinker"
+        }
+      ],
+      "count": 10
+    },
+    {
+      "name": "Commodity Context",
+      "url": "https://commoditycontext.substack.com/feed",
+      "domain": "Energy",
+      "entries": [
+        {
+          "title": "Context Call: July 2026 (Video)",
+          "link": "https://www.commoditycontext.com/p/context-call-july-2026",
+          "published": "Thu, 09 Jul 2026 16:38:31 GMT",
+          "description": "Post-MOU status of shipping flows through the Strait of Hormuz, the ongoing depression in China&#8217;s crude import appetite, and the emergence of the &#8220;mini-glut&#8221; currently being digested by oil markets."
+        },
+        {
+          "title": "[FREE] Is Big Oil ‘Price Gouging’?",
+          "link": "https://www.commoditycontext.com/p/is-big-oil-price-gouging",
+          "published": "Thu, 09 Jul 2026 13:11:41 GMT",
+          "description": "Reduced global refinery capacity, not corporate greed, is keeping pump prices high."
+        },
+        {
+          "title": "North American Oil Data Deck (July 2026)",
+          "link": "https://www.commoditycontext.com/p/north-american-oil-data-deck-july",
+          "published": "Wed, 08 Jul 2026 11:45:22 GMT",
+          "description": "Continental petroleum production jumped back to near all-time highs in April on the back of the reacceleration of previously slowing upstream growth in both the US and Canada."
+        },
+        {
+          "title": "REMINDER: Context Call Tomorrow",
+          "link": "https://www.commoditycontext.com/p/reminder-context-call-tomorrow-bcf",
+          "published": "Tue, 07 Jul 2026 18:21:14 GMT",
+          "description": "Subscribe for details and registration link; paid subscribers will find link below paywall"
+        },
+        {
+          "title": "Oil Context Weekly (W27)",
+          "link": "https://www.commoditycontext.com/p/ocw27w26",
+          "published": "Fri, 03 Jul 2026 20:23:29 GMT",
+          "description": "Crude prices were effectively flat this week amidst a comparatively-quiet stretch of summer headlines, with all eyes on the optimistic-but-lurching resumption of Middle Eastern shipping activity."
+        },
+        {
+          "title": "Getting Our Bearings Strait",
+          "link": "https://www.commoditycontext.com/p/getting-our-bearings-strait",
+          "published": "Thu, 02 Jul 2026 16:27:30 GMT",
+          "description": "Assessing the pace and sustainability of the faster-than-expected post-MOU recovery in oil flows&#8212;both ways&#8212;through the Strait of Hormuz and the still-lagging pace of fresh Gulf loadings."
+        },
+        {
+          "title": "Oil Context Weekly (W26)",
+          "link": "https://www.commoditycontext.com/p/ocw26w26",
+          "published": "Fri, 26 Jun 2026 20:55:06 GMT",
+          "description": "Crude fell another $8.50/bbl and Brent slipped into prompt contango for the first since February as the surge of exiting Hormuz barrels hit a still weak Asian import market with China on the sidelines"
+        },
+        {
+          "title": "Global Oil Data Deck (June 2026)",
+          "link": "https://www.commoditycontext.com/p/global-oil-data-deck-june-2026",
+          "published": "Thu, 25 Jun 2026 21:38:09 GMT",
+          "description": "Oil markets remained in deep supply deficit through April as the ongoing Middle Eastern production shut-ins were only partially offset by the pullback in Asian petrochemical feedstock demand."
+        },
+        {
+          "title": "Oil & Iran War Context Weekly (W25)",
+          "link": "https://www.commoditycontext.com/p/ocw25w26",
+          "published": "Fri, 19 Jun 2026 20:14:05 GMT",
+          "description": "Crude plunged and curves flirted with prompt contango on the back of massive speculative short-selling following the announcement and signing of the US-Iran MOU to end the Iran War and reopen Hormuz."
+        },
+        {
+          "title": "OPEC+ Data Deck (June 2026)",
+          "link": "https://www.commoditycontext.com/p/opec-data-deck-june-2026",
+          "published": "Mon, 15 Jun 2026 13:49:36 GMT",
+          "description": "Middle Eastern crude production inches higher as Gulf producers gained on incremental Hormuz Crisis logistical improvements; the Emiratis have left the building after 59 years as a member of the group"
+        }
+      ],
+      "count": 10
+    }
+  ]
+}
