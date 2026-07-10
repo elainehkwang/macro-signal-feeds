@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T06:44:46.554543+00:00",
+  "generated_at": "2026-07-10T22:51:56.118426+00:00",
   "source": "podcast_rss",
   "feeds_count": 5,
   "total_episodes": 40,
@@ -10,6 +10,14 @@
       "domain": "US Fiscal",
       "description": "Allocator and asset management expert, Ted Seides, conducts in-depth interviews with leaders in the institutional investing industry. Guests include Chief Investment Officers from leading allocators, asset managers, strategists, thought leaders, and many more. Our mission is to learn, share, and help implement the process of premier investors. Learn more and join our community at capitalallocators.com.",
       "episodes": [
+        {
+          "title": "WTT: 5.5 Lessons at 55.5",
+          "link": "https://tedseides.libsyn.com/wtt-55-lessons-at-55",
+          "published": "Fri, 10 Jul 2026 08:00:00 +0000",
+          "description": "This WTT, 5.5 Lessons at 55.5 reflects on what five-and-a-half decades of investing, podcasting, and mistakes have taught me about people, markets, and myself.     Read Ted's blog   here .        Editing and post-production work for this episode was provided by The Podcast Consultant (  ⁠  https://thepodcastconsultant.com  ⁠  )",
+          "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/tedseides/CA_-_WTT_-_5.5_at_55.5_-_AUDIO_V3.mp3?dest-id=482814",
+          "duration": "08:09"
+        },
         {
           "title": "Moat Investing Nuances – Pat Dorsey (EP.509)",
           "link": "https://tedseides.libsyn.com/moatsinvesting-nuances-pat-dorsey-ep509",
@@ -81,14 +89,6 @@
           "description": "John Kim, or Kimmer, has raised more than $70 billion across his career for leading venture capital and private equity firms. Kimmer recently distilled three decades of lessons into The Tao of Fundraising, the best book I've ever read on fundraising for investment managers. Since then, Kimmer joined a General Catalyst portfolio company, Lila Sciences, as Chairman and President of Corporate Development.      Our conversation covers Kimmer's philosophy about raising capital, the sales process, art of persuasion, best practices in a meeting, frameworks determining fundraising success, taxonomy of institutional investors, ideal sales team structure and compensation, and the features he carried over from capital formation for funds to a new operating role.       Learn More   Follow Ted on Twitt",
           "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/tedseides/CA_-_EP.503_John_Kim_-_AUDIO_V3.mp3?dest-id=482814",
           "duration": "01:09:21"
-        },
-        {
-          "title": "Making Mistakes – Josh Steiner (EP.502)",
-          "link": "https://tedseides.libsyn.com/making-mistakes-josh-steiner-ep503",
-          "published": "Mon, 18 May 2026 08:00:00 +0000",
-          "description": "Josh Steiner is a polymath of the New York and D.C. power corridors across government, media, and finance, and co-author of From Mistakes to Meaning: Owning Your Past So It Doesn't Own You.     Josh rose to national prominence as the youngest-ever Chief of Staff at the U.S. Treasury in the Clinton administration, where he made a high-profile mistake he unpacks in the book. He pivoted to finance as a media investment banker  and co-founder of private equity firm Quadrangle Group in 2000, worked as an operator at Bloomberg in the 2010s, has served on Yale's Investment Committee for nearly a decade, and five years ago returned to private equity as co-founder of SSW Partners managing capital for a few families.     Our conversation focuses on mistakes, quite a contrast from other discussions o",
-          "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/tedseides/CA_-_EP.503_Josh_Steiner_-_AUDIO_V1.mp3?dest-id=482814",
-          "duration": "57:15"
         }
       ]
     },
@@ -98,6 +98,14 @@
       "domain": "US Fiscal",
       "description": "What’s driving this week’s market moves – and where are the biggest opportunities? Goldman Sachs traders discuss.",
       "episodes": [
+        {
+          "title": "Bullish on the Dollar",
+          "link": "",
+          "published": "Fri, 10 Jul 2026 15:36:00 -0000",
+          "description": "Could the US dollar keep rising from here? Brian Dunne, head of Americas Foreign Exchange Options Trading in Goldman Sachs Global Banking & Markets, says that interest rates differential, Fed policy, and geopolitical factors could continue to boost the greenback. He also shares his views on how best to play the potential dollar momentum in this conversation with Chris Hussey. \n\nRecorded on July 9, 2026.\n\nThe opinions and views expressed herein are as of the date of publication, subject to change without notice, and may not necessarily reflect the institutional views of Goldman Sachs or its affiliates. The material provided is intended for informational purposes only, and does not constitute investment advice, a recommendation from any Goldman Sachs entity to take any particular action, or",
+          "audio_url": "https://traffic.megaphone.fm/GLD1065183560.mp3",
+          "duration": "638"
+        },
         {
           "title": "S&P to 8,000 This Year?",
           "link": "",
@@ -169,14 +177,6 @@
           "description": "After years of underperformance, small-cap equities may be poised for a sustained rally. Where should investors look for opportunities? And can this momentum withstand macro volatility? Greg Tuorto, head of the US Small and SMID Cap team in Goldman Sachs Asset Management, discusses with Chris Hussey.\n\nRecorded on April 23, 2026.\n\nThe opinions and views expressed herein are as of the date of publication, subject to change without notice, and may not necessarily reflect the institutional views of Goldman Sachs or its affiliates. The material provided is intended for informational purposes only, and does not constitute investment advice, a recommendation from any Goldman Sachs entity to take any particular action, or an offer or solicitation to purchase or sell any securities or financial pro",
           "audio_url": "https://traffic.megaphone.fm/GLD1759629523.mp3",
           "duration": "637"
-        },
-        {
-          "title": "Chase or Fade the Rally?",
-          "link": "",
-          "published": "Fri, 17 Apr 2026 04:00:00 -0000",
-          "description": "US equities have staged a powerful rebound, coming back from their late-March lows to hit all-time highs. Are more gains ahead, or should traders look to take profits? And what could earnings tell us about the state of the economy? Bobby Molavi, head of European Execution Services in Goldman Sachs Global Banking & Markets, discusses with Chris Hussey.\n\nRecorded on April 16, 2026.\n\nThe opinions and views expressed herein are as of the date of publication, subject to change without notice, and may not necessarily reflect the institutional views of Goldman Sachs or its affiliates. The material provided is intended for informational purposes only, and does not constitute investment advice, a recommendation from any Goldman Sachs entity to take any particular action, or an offer or solicitation",
-          "audio_url": "https://traffic.megaphone.fm/GLD8921187590.mp3",
-          "duration": "703"
         }
       ]
     },
