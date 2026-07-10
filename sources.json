@@ -1,28 +1,34 @@
 {
-  "description": "Macro Signal Tier 2 source list — curated RSS/Substack feeds and podcasts from analysts with skin in the game",
-  "version": "1.1.0",
+  "description": "Macro Signal unified RSS source list — Tier 1 official feeds + Tier 2 analyst feeds + podcasts",
+  "version": "2.0.0",
   "last_updated": "2026-07-10",
 
   "rss_feeds": [
-    {"name": "Lyn Alden — Substack",            "url": "https://lynalden.substack.com/feed",            "domain": "US Fiscal"},
-    {"name": "Doomberg — Substack",              "url": "https://doomberg.substack.com/feed",            "domain": "Energy"},
-    {"name": "Gavekal Research",                 "url": "https://gavekal.com/research/feed/",            "domain": "China Delever"},
-    {"name": "BIS Working Papers",               "url": "https://www.bis.org/doclist/rss_working_papers.rss", "domain": "Global Liquidity"},
-    {"name": "BIS All Publications",             "url": "https://www.bis.org/doclist/rss_all_categories.rss", "domain": "Global Liquidity"},
-    {"name": "CFR — Brad Setser",                "url": "https://www.cfr.org/bio/brad-w-setser/feed",   "domain": "Global Liquidity"},
-    {"name": "Michael Howell — Capital Wars",    "url": "https://capitalwars.substack.com/feed",        "domain": "Global Liquidity"},
-    {"name": "Adam Tooze — Substack",            "url": "https://adamtooze.substack.com/feed",           "domain": "US Fiscal"},
-    {"name": "SemiAnalysis",                     "url": "https://semianalysis.substack.com/feed",        "domain": "AI CAPEX"},
-    {"name": "Commodity Context",                "url": "https://commoditycontext.substack.com/feed",    "domain": "Energy"}
+    {"name": "Fed FOMC — Monetary Policy",         "url": "https://www.federalreserve.gov/feeds/press_monetary.xml","domain": "US Fiscal",         "tier": 1},
+    {"name": "TreasuryDirect — Auction Results",    "url": "https://www.treasurydirect.gov/TA_WS/securities/auctioned/rss","domain": "US Fiscal", "tier": 1},
+    {"name": "ECB — Press Releases",                "url": "https://www.ecb.europa.eu/rss/press.html",           "domain": "Europe",            "tier": 1},
+    {"name": "BOJ — Monetary Policy Statements",    "url": "https://www.boj.or.jp/en/rss/whatsnew.xml",          "domain": "Japan",             "tier": 1},
+    {"name": "BOE — News & MPC Minutes",            "url": "https://www.bankofengland.co.uk/rss/news",           "domain": "Europe",            "tier": 1},
+    {"name": "CBO — Budget & Economic Outlook",     "url": "https://www.cbo.gov/publications/all/rss.xml",      "domain": "US Fiscal",         "tier": 1},
+    {"name": "BIS — All Publications",              "url": "https://www.bis.org/doclist/rss_all_categories.rss",  "domain": "Global Liquidity",  "tier": 1},
+    {"name": "Lyn Alden — Substack",                "url": "https://lynalden.substack.com/feed",                 "domain": "US Fiscal",         "tier": 2},
+    {"name": "Doomberg — Substack",                 "url": "https://doomberg.substack.com/feed",                 "domain": "Energy",            "tier": 2},
+    {"name": "Gavekal Research",                    "url": "https://gavekal.com/research/feed/",                 "domain": "China Delever",     "tier": 2},
+    {"name": "BIS — Working Papers",                "url": "https://www.bis.org/doclist/rss_working_papers.rss", "domain": "Global Liquidity",  "tier": 2},
+    {"name": "CFR — Brad Setser",                   "url": "https://www.cfr.org/bio/brad-w-setser/feed",        "domain": "Global Liquidity",  "tier": 2},
+    {"name": "Michael Howell — Capital Wars",       "url": "https://capitalwars.substack.com/feed",             "domain": "Global Liquidity",  "tier": 2},
+    {"name": "Adam Tooze — Substack",               "url": "https://adamtooze.substack.com/feed",                "domain": "US Fiscal",         "tier": 2},
+    {"name": "SemiAnalysis",                        "url": "https://semianalysis.substack.com/feed",             "domain": "AI CAPEX",          "tier": 2},
+    {"name": "Commodity Context",                   "url": "https://commoditycontext.substack.com/feed",         "domain": "Energy",            "tier": 2}
   ],
 
   "podcast_feeds": [
-    {"name": "Macro Voices",         "url": "https://macropodcasts.com/?feed=podcast",             "domain": "US Fiscal"},
-    {"name": "Capital Allocators",   "url": "https://feeds.libsyn.com/139453/rss",                  "domain": "US Fiscal"},
-    {"name": "Invest Like the Best",  "url": "https://feeds.megaphone.fm/ILTB",                     "domain": "US Fiscal"},
-    {"name": "Macro Musings",         "url": "https://macromusings.libsyn.com/rss",                  "domain": "US Fiscal"},
-    {"name": "Goldman Sachs Exchanges","url": "https://feeds.megaphone.fm/goldman-sachs-exchanges",  "domain": "US Fiscal"}
+    {"name": "Macro Voices",             "url": "https://macropodcasts.com/?feed=podcast",             "domain": "US Fiscal"},
+    {"name": "Capital Allocators",       "url": "https://feeds.libsyn.com/139453/rss",                  "domain": "US Fiscal"},
+    {"name": "Invest Like the Best",      "url": "https://feeds.megaphone.fm/ILTB",                     "domain": "US Fiscal"},
+    {"name": "Macro Musings",             "url": "https://macromusings.libsyn.com/rss",                  "domain": "US Fiscal"},
+    {"name": "Goldman Sachs Exchanges",   "url": "https://feeds.megaphone.fm/goldman-sachs-exchanges",  "domain": "US Fiscal"}
   ],
 
-  "_x_accounts_disabled": "Nitter instances are all down. X/Twitter tracking requires X API v2 ($100/mo Basic). 16 accounts configured but not fetched — add 'x_accounts' array when API key is available."
+  "_x_accounts_disabled": "Nitter instances down. X API v2 ($100/mo) needed for 16 pre-configured macro accounts."
 }

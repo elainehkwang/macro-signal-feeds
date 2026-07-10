@@ -1,9 +1,499 @@
 {
-  "generated_at": "2026-07-10T05:25:22.011571+00:00",
+  "generated_at": "2026-07-10T05:31:12.424799+00:00",
   "source": "rss",
-  "feeds_count": 10,
-  "total_entries": 60,
+  "feeds_count": 16,
+  "total_entries": 120,
   "feeds": [
+    {
+      "name": "Fed FOMC — Monetary Policy",
+      "url": "https://www.federalreserve.gov/feeds/press_monetary.xml",
+      "channel": "FRB: Press Release - Monetary Policy",
+      "description": "Press releases about monetary policy from the Federal Reserve Board",
+      "entries": [
+        {
+          "title": "Federal Reserve announces the leadership and objectives of its task forces to advance the conduct of monetary policy",
+          "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260709a.htm",
+          "published": "Thu, 9 Jul 2026 19:00:00 GMT",
+          "description": "Federal Reserve announces the leadership and objectives of its task forces to advance the conduct of monetary policy"
+        },
+        {
+          "title": "Minutes of the Federal Open Market Committee, June 16-17, 2026",
+          "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260708a.htm",
+          "published": "Wed, 8 Jul 2026 18:00:00 GMT",
+          "description": "Minutes of the Federal Open Market Committee, June 16-17, 2026"
+        },
+        {
+          "title": "Federal Reserve issues FOMC statement",
+          "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260617a.htm",
+          "published": "Wed, 17 Jun 2026 18:00:00 GMT",
+          "description": "Federal Reserve issues FOMC statement"
+        },
+        {
+          "title": "Federal Reserve Board and Federal Open Market Committee release economic projections from the June 16-17 FOMC meeting",
+          "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260617b.htm",
+          "published": "Wed, 17 Jun 2026 18:00:00 GMT",
+          "description": "Federal Reserve Board and Federal Open Market Committee release economic projections from the June 16-17 FOMC meeting"
+        },
+        {
+          "title": "Minutes of the Board's discount rate meeting on April 20 and 29, 2026",
+          "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260526a.htm",
+          "published": "Tue, 26 May 2026 18:00:00 GMT",
+          "description": "Minutes of the Board&#39;s discount rate meeting on April 20 and 29, 2026"
+        },
+        {
+          "title": "Minutes of the Federal Open Market Committee, April 28-29, 2026",
+          "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260520a.htm",
+          "published": "Wed, 20 May 2026 18:00:00 GMT",
+          "description": "Minutes of the Federal Open Market Committee, April 28-29, 2026"
+        },
+        {
+          "title": "Federal Reserve issues FOMC statement",
+          "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260429a.htm",
+          "published": "Wed, 29 Apr 2026 18:00:00 GMT",
+          "description": "Federal Reserve issues FOMC statement"
+        },
+        {
+          "title": "Minutes of the Board’s discount rate meetings on February 9 and March 18, 2026",
+          "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260414a.htm",
+          "published": "Tue, 14 Apr 2026 18:00:00 GMT",
+          "description": "Minutes of the Board’s discount rate meetings on February 9 and March 18, 2026"
+        },
+        {
+          "title": "Minutes of the Federal Open Market Committee, March 17–18, 2026",
+          "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260408a.htm",
+          "published": "Wed, 8 Apr 2026 18:00:00 GMT",
+          "description": "Minutes of the Federal Open Market Committee, March 17–18, 2026"
+        },
+        {
+          "title": "Federal Reserve issues FOMC statement",
+          "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260318a.htm",
+          "published": "Wed, 18 Mar 2026 18:00:00 GMT",
+          "description": "Federal Reserve issues FOMC statement"
+        }
+      ],
+      "count": 10,
+      "domain": "US Fiscal"
+    },
+    {
+      "name": "TreasuryDirect — Auction Results",
+      "url": "https://www.treasurydirect.gov/TA_WS/securities/auctioned/rss",
+      "channel": "Treasury Offering Announcements",
+      "description": "Treasury Offering Announcements",
+      "entries": [
+        {
+          "title": "29-Year 10-Month Bond Treasury Auction Results",
+          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
+          "published": "Thu, 09 Jul 2026 17:03:21 GMT",
+          "description": "CUSIP:  912810UU0  Term and Type:  29-Year 10-Month Bond  Series:  Bonds of May 2056  Reopening:  Yes  Interest Rate:  5.000%  High Yield:  5.058%  Price:  $99.097875  Allotted at High:  7.13%  Total Tendered:  $56,054,172,900  Total Accepted:  $24,287,893,700  Auction Date:  07/09/2026  Issue Date:  07/15/2026  Maturity Date:  05/15/2056  PDF  |  XML"
+        },
+        {
+          "title": "8-Week Bill Treasury Auction Results",
+          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
+          "published": "Thu, 09 Jul 2026 15:33:17 GMT",
+          "description": "CUSIP:  912797VB0  Term and Type:  8-Week Bill  CMB:  No  High Rate:  3.635%  Investment Rate:  3.706%  Price:  $99.434556  Allotted at High:  68.80%  Total Tendered:  $286,267,625,500  Total Accepted:  $100,877,305,500  Auction Date:  07/09/2026  Issue Date:  07/14/2026  Maturity Date:  09/08/2026  PDF  |  XML"
+        },
+        {
+          "title": "4-Week Bill Treasury Auction Results",
+          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
+          "published": "Thu, 09 Jul 2026 15:33:16 GMT",
+          "description": "CUSIP:  912797UT2  Term and Type:  4-Week Bill  CMB:  No  High Rate:  3.630%  Investment Rate:  3.691%  Price:  $99.717667  Allotted at High:  26.29%  Total Tendered:  $269,821,994,200  Total Accepted:  $106,186,739,200  Auction Date:  07/09/2026  Issue Date:  07/14/2026  Maturity Date:  08/11/2026  PDF  |  XML"
+        },
+        {
+          "title": "9-Year 10-Month Note Treasury Auction Results",
+          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
+          "published": "Wed, 08 Jul 2026 17:03:19 GMT",
+          "description": "CUSIP:  91282CQQ7  Term and Type:  9-Year 10-Month Note  Series:  C-2036  Reopening:  Yes  Interest Rate:  4.375%  High Yield:  4.580%  Price:  $98.380297  Allotted at High:  40.29%  Total Tendered:  $105,180,648,500  Total Accepted:  $43,055,875,200  Auction Date:  07/08/2026  Issue Date:  07/15/2026  Maturity Date:  05/15/2036  PDF  |  XML"
+        },
+        {
+          "title": "17-Week Bill Treasury Auction Results",
+          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
+          "published": "Wed, 08 Jul 2026 15:33:14 GMT",
+          "description": "CUSIP:  912797VW4  Term and Type:  17-Week Bill  CMB:  No  High Rate:  3.790%  Investment Rate:  3.891%  Price:  $98.747194  Allotted at High:  80.43%  Total Tendered:  $249,729,712,600  Total Accepted:  $76,455,152,500  Auction Date:  07/08/2026  Issue Date:  07/14/2026  Maturity Date:  11/10/2026  PDF  |  XML"
+        },
+        {
+          "title": "3-Year Note Treasury Auction Results",
+          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
+          "published": "Tue, 07 Jul 2026 17:03:18 GMT",
+          "description": "CUSIP:  91282CQZ7  Term and Type:  3-Year Note  Series:  AQ-2029  Reopening:  No  Interest Rate:  4.125%  High Yield:  4.179%  Price:  $99.849217  Allotted at High:  2.17%  Total Tendered:  $156,840,966,800  Total Accepted:  $64,031,643,800  Auction Date:  07/07/2026  Issue Date:  07/15/2026  Maturity Date:  07/15/2029  PDF  |  XML"
+        },
+        {
+          "title": "6-Week Bill Treasury Auction Results",
+          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
+          "published": "Tue, 07 Jul 2026 15:33:22 GMT",
+          "description": "CUSIP:  912797TX5  Term and Type:  6-Week Bill  CMB:  No  High Rate:  3.635%  Investment Rate:  3.701%  Price:  $99.575917  Allotted at High:  86.48%  Total Tendered:  $251,716,182,600  Total Accepted:  $94,778,482,600  Auction Date:  07/07/2026  Issue Date:  07/09/2026  Maturity Date:  08/20/2026  PDF  |  XML"
+        },
+        {
+          "title": "52-Week Bill Treasury Auction Results",
+          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
+          "published": "Tue, 07 Jul 2026 15:33:21 GMT",
+          "description": "CUSIP:  912797VQ7  Term and Type:  52-Week Bill  CMB:  No  High Rate:  3.860%  Investment Rate:  4.032%  Price:  $96.097111  Allotted at High:  17.61%  Total Tendered:  $165,997,906,000  Total Accepted:  $54,761,048,000  Auction Date:  07/07/2026  Issue Date:  07/09/2026  Maturity Date:  07/08/2027  PDF  |  XML"
+        },
+        {
+          "title": "26-Week Bill Treasury Auction Results",
+          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
+          "published": "Mon, 06 Jul 2026 15:33:11 GMT",
+          "description": "CUSIP:  912797VS3  Term and Type:  26-Week Bill  CMB:  No  High Rate:  3.830%  Investment Rate:  3.960%  Price:  $98.063722  Allotted at High:  0.86%  Total Tendered:  $244,759,016,600  Total Accepted:  $83,195,026,000  Auction Date:  07/06/2026  Issue Date:  07/09/2026  Maturity Date:  01/07/2027  PDF  |  XML"
+        },
+        {
+          "title": "13-Week Bill Treasury Auction Results",
+          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
+          "published": "Mon, 06 Jul 2026 15:33:10 GMT",
+          "description": "CUSIP:  912797UJ4  Term and Type:  13-Week Bill  CMB:  No  High Rate:  3.735%  Investment Rate:  3.823%  Price:  $99.055875  Allotted at High:  93.49%  Total Tendered:  $242,066,881,300  Total Accepted:  $96,884,618,800  Auction Date:  07/06/2026  Issue Date:  07/09/2026  Maturity Date:  10/08/2026  PDF  |  XML"
+        }
+      ],
+      "count": 10,
+      "domain": "US Fiscal"
+    },
+    {
+      "name": "ECB — Press Releases",
+      "url": "https://www.ecb.europa.eu/rss/press.html",
+      "channel": "ECB - European Central Bank",
+      "description": "Latest releases on the ECB website - Press releases, speeches and interviews, press conferences.",
+      "entries": [
+        {
+          "title": "Meeting of 10-11 June 2026",
+          "link": "https://www.ecb.europa.eu//press/accounts/2026/html/ecb.mg260709~0e7f8241c9.en.html",
+          "published": "Thu, 09 Jul 2026 13:30:00 +0200",
+          "description": ""
+        },
+        {
+          "title": "Philip R. Lane: AI and monetary policy",
+          "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260706~b81aa4e329.en.html",
+          "published": "Mon, 06 Jul 2026 20:30:00 +0200",
+          "description": ""
+        },
+        {
+          "title": "Christine Lagarde: Interview with Les Échos",
+          "link": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260702~c56db179c3.en.html",
+          "published": "Thu, 02 Jul 2026 23:00:00 +0200",
+          "description": ""
+        },
+        {
+          "title": "Piero Cipollone: The digital transformation of money, payments and finance",
+          "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260702_1~c58dcd8150.en.pdf",
+          "published": "Thu, 02 Jul 2026 19:55:00 +0200",
+          "description": ""
+        },
+        {
+          "title": "Frank Elderson: The green transition – benefits and barriers",
+          "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260702~49c4f8e9a6.en.html",
+          "published": "Thu, 02 Jul 2026 12:00:00 +0200",
+          "description": ""
+        },
+        {
+          "title": "ECB publishes indicative operational calendars for 2028",
+          "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260630_1~ff55b9e99a.en.html",
+          "published": "Tue, 30 Jun 2026 10:00:00 +0200",
+          "description": ""
+        },
+        {
+          "title": "ECB publishes indicative operational calendars for 2027",
+          "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260630~9f54a0a4fb.en.html",
+          "published": "Tue, 30 Jun 2026 10:00:00 +0200",
+          "description": ""
+        },
+        {
+          "title": "Christine Lagarde: Back to basics in an uncertain environment",
+          "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260629~cb5a2e2168.en.html",
+          "published": "Mon, 29 Jun 2026 21:00:00 +0200",
+          "description": ""
+        },
+        {
+          "title": "Isabel Schnabel: Is inflation back?",
+          "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260627~3807c2766e.en.pdf",
+          "published": "Sat, 27 Jun 2026 15:45:00 +0200",
+          "description": ""
+        },
+        {
+          "title": "ECB Consumer Expectations Survey results – May 2026",
+          "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260626_1~60a21704a8.en.html",
+          "published": "Fri, 26 Jun 2026 10:00:00 +0200",
+          "description": ""
+        }
+      ],
+      "count": 10,
+      "domain": "Europe"
+    },
+    {
+      "name": "BOJ — Monetary Policy Statements",
+      "url": "https://www.boj.or.jp/en/rss/whatsnew.xml",
+      "channel": "Bank of Japan：RSS",
+      "description": "",
+      "entries": [
+        {
+          "title": "Corporate Goods Price Index (June)",
+          "link": "http://www.boj.or.jp/en/statistics/pi/cgpi_release/cgpi2606.pdf",
+          "published": "Fri, 10 Jul 2026 08:50:00 +0900",
+          "description": ""
+        },
+        {
+          "title": "Regional Economic Report (Summary) (July 2026)",
+          "link": "http://www.boj.or.jp/en/research/brp/rer/rer260709.htm",
+          "published": "Thu, 09 Jul 2026 14:00:00 +0900",
+          "description": ""
+        },
+        {
+          "title": "Money Stock (June)",
+          "link": "http://www.boj.or.jp/en/statistics/money/ms/ms2606.pdf",
+          "published": "Thu, 09 Jul 2026 08:50:00 +0900",
+          "description": ""
+        },
+        {
+          "title": "Loans, Debt Securities, and Deposits by Maturity (End of September 2025)",
+          "link": "http://www.boj.or.jp/en/statistics/sj/sjmatu.xlsx",
+          "published": "Wed, 08 Jul 2026 10:00:00 +0900",
+          "description": ""
+        },
+        {
+          "title": "Principal Figures of Financial Institutions (June)",
+          "link": "http://www.boj.or.jp/en/statistics/dl/depo/kashi/kasi2606.pdf",
+          "published": "Wed, 08 Jul 2026 08:50:00 +0900",
+          "description": ""
+        },
+        {
+          "title": "Direct Investment by Region and Industry (1st quarter 2026)",
+          "link": "http://www.boj.or.jp/en/statistics/br/bop_06/bpdata/diiqcy.htm",
+          "published": "Wed, 08 Jul 2026 08:50:00 +0900",
+          "description": ""
+        },
+        {
+          "title": "Amounts Outstanding in the Call Money Market (June)",
+          "link": "http://www.boj.or.jp/en/statistics/market/short/call/call.xlsx",
+          "published": "Tue, 07 Jul 2026 15:00:00 +0900",
+          "description": ""
+        },
+        {
+          "title": "Consumption Activity Index",
+          "link": "http://www.boj.or.jp/en/research/research_data/cai/index.htm",
+          "published": "Tue, 07 Jul 2026 14:00:00 +0900",
+          "description": ""
+        },
+        {
+          "title": "Monetary Base and the Bank of Japan's Transactions (June)",
+          "link": "http://www.boj.or.jp/en/statistics/boj/other/mbt/mbt2606.pdf",
+          "published": "Tue, 07 Jul 2026 08:50:00 +0900",
+          "description": ""
+        },
+        {
+          "title": "Bank of Japan's Transactions with the Government (June)",
+          "link": "http://www.boj.or.jp/en/statistics/boj/other/tseifu/release/2026/seifu2606.pdf",
+          "published": "Tue, 07 Jul 2026 08:50:00 +0900",
+          "description": ""
+        }
+      ],
+      "count": 10,
+      "domain": "Japan"
+    },
+    {
+      "name": "BOE — News & MPC Minutes",
+      "url": "https://www.bankofengland.co.uk/rss/news",
+      "channel": "News",
+      "description": "News",
+      "entries": [
+        {
+          "title": "Minutes of the UK Money Markets Code Sub-Committee – June 2026",
+          "link": "https://www.bankofengland.co.uk/minutes/2026/june/money-markets-committee-minutes-june-2026",
+          "published": "Wed, 08 Jul 2026 15:52:13 +0100",
+          "description": "The Money Markets Committee is a forum for market participants and authorities to discuss the UK unsecured deposits and funding market and securities lending and repo markets."
+        },
+        {
+          "title": "Letter from the Governor to Joe Powell MP",
+          "link": "https://www.bankofengland.co.uk/letter/2026/letter-from-the-governor-to-joe-powell",
+          "published": "Wed, 08 Jul 2026 15:00:00 +0100",
+          "description": "Letter from the Governor"
+        },
+        {
+          "title": "Statistical Notice 2026/07 -  Bank of England Levy: Notification Document Levy Year 2026/27",
+          "link": "https://www.bankofengland.co.uk/statistics/notice/2026/statistical-notice-2026-07",
+          "published": "Wed, 08 Jul 2026 11:09:46 +0100",
+          "description": "Statistical Notices update the definitions and guidance contained in the Banking Statistics Yellow Folder"
+        },
+        {
+          "title": "Financial Policy Committee Record – July 2026",
+          "link": "https://www.bankofengland.co.uk/financial-policy-committee-record/2026/july-2026",
+          "published": "Tue, 07 Jul 2026 10:30:00 +0100",
+          "description": "Our Financial Policy Committee (FPC) meets to identify risks to financial stability and agree policy actions aimed at safeguarding the resilience of the UK financial system."
+        },
+        {
+          "title": "Bank of England appoints Rhys Phillips as the new Chief Cashier",
+          "link": "https://www.bankofengland.co.uk/news/2026/july/boe-appoints-rhys-phillips-as-the-new-chief-cashier",
+          "published": "Mon, 06 Jul 2026 10:00:00 +0100",
+          "description": "The Governor of the Bank of England, Andrew Bailey, has announced that Rhys Phillips will be the next Chief Cashier and Director of Notes. He will take up the role on 19 October 2026."
+        },
+        {
+          "title": "Minutes of the London FXJSC Main Committee Meeting – 26 March 2026",
+          "link": "https://www.bankofengland.co.uk/minutes/2026/march/fxjsc-main-committee-meeting-26-march-2026",
+          "published": "Thu, 02 Jul 2026 10:26:00 +0100",
+          "description": "The Bank of England chairs the London Foreign Exchange Joint Standing Committee (FXJSC), which is a forum for discussion of the wholesale foreign exchange market. The FXJSC is made up of market participants, infrastructure providers and the UK financial regulators."
+        },
+        {
+          "title": "Minutes of the London FXJSC Legal Sub Committee Meeting – 17 March 2026",
+          "link": "https://www.bankofengland.co.uk/minutes/2026/march/fxjsc-legal-sub-committee-meeting-17-march-2026",
+          "published": "Thu, 02 Jul 2026 10:26:00 +0100",
+          "description": "The Bank of England chairs the London Foreign Exchange Joint Standing Committee (FXJSC) Legal Sub-Committee. The FXJSC is made up of market participants, infrastructure providers and the UK financial regulators."
+        },
+        {
+          "title": "Minutes of the London FXJSC Operations Sub-Committee Meeting – 18 March 2026",
+          "link": "https://www.bankofengland.co.uk/minutes/2026/march/fxjsc-operations-sub-committee-meeting-18-march-2026",
+          "published": "Thu, 02 Jul 2026 09:48:44 +0100",
+          "description": "The Bank of England chairs the London Foreign Exchange Joint Standing Committee (FXJSC) Operations and Legal Sub-Committees. The FXJSC is made up of market participants, infrastructure providers and the UK financial regulators."
+        },
+        {
+          "title": "Statistical Notice 2026/06 - Form PL - updates to definitions",
+          "link": "https://www.bankofengland.co.uk/statistics/notice/2026/statistical-notice-2026-06",
+          "published": "Tue, 30 Jun 2026 09:00:00 +0100",
+          "description": "Statistical Notices update the definitions and guidance contained in the Banking Statistics Yellow Folder"
+        },
+        {
+          "title": "The Retail Payments Infrastructure Board launches consultation on the next generation UK payments infrastructure",
+          "link": "https://www.bankofengland.co.uk/news/2026/june/rpib-launches-consultation-on-next-generation-uk-payments-infrastructure",
+          "published": "Thu, 25 Jun 2026 10:00:00 +0100",
+          "description": "Today marks a major milestone in the modernisation of the UK's payments landscape, with the Retail Payments Infrastructure Board (RPIB) launching a consultation on the future design of the UK's next-generation retail payments infrastructure."
+        }
+      ],
+      "count": 10,
+      "domain": "Europe"
+    },
+    {
+      "name": "CBO — Budget & Economic Outlook",
+      "url": "https://www.cbo.gov/publications/all/rss.xml",
+      "channel": "CBO Publications",
+      "description": "Nonpartisan budgetary and economic analysis for the U.S. Congress.",
+      "entries": [
+        {
+          "title": "Monthly Budget Review: June 2026",
+          "link": "https://www.cbo.gov/publication/61982",
+          "published": "Thu, 09 Jul 2026 14:00:00 -0400",
+          "description": "The federal budget deficit totaled $1.4 trillion in the first nine months of fiscal year 2026, CBO estimates. That amount is $35 billion more than the deficit recorded during the same period last fiscal year."
+        },
+        {
+          "title": "Options to Counter Small Unmanned Aircraft Systems",
+          "link": "https://www.cbo.gov/publication/62262",
+          "published": "Thu, 09 Jul 2026 14:00:00 -0400",
+          "description": "CBO describes current methods to detect and counter small unmanned aircraft systems and estimates it would cost about $74 million to outfit a typical military installation with a layered defense and at least $5 million a year to support it."
+        },
+        {
+          "title": "Estimated Effects of Selected Provisions of H.R. 8870, the BUILD America 250 Act",
+          "link": "https://www.cbo.gov/publication/62562",
+          "published": "Thu, 09 Jul 2026 13:44:00 -0400",
+          "description": "As ordered reported by the House Committee on Transportation and Infrastructure on May 22, 2026"
+        },
+        {
+          "title": "S. 1868, Critical Access for Veterans Care Act",
+          "link": "https://www.cbo.gov/publication/62548",
+          "published": "Thu, 09 Jul 2026 13:04:00 -0400",
+          "description": "As ordered reported by the Senate Committee on Veterans’ Affairs on March 18, 2026"
+        },
+        {
+          "title": "Legislation considered under suspension of the Rules of the House of Representatives during the week of July 13, 2026",
+          "link": "https://www.cbo.gov/publication/62533",
+          "published": "Thu, 09 Jul 2026 10:14:00 -0400",
+          "description": "The Majority Leader of the House of Representatives announces bills that will be considered under suspension of the rules in that chamber. CBO estimates the effects of those bills on direct spending and revenues."
+        },
+        {
+          "title": "S. 933, NASA Authorization Act of 2026",
+          "link": "https://www.cbo.gov/publication/62561",
+          "published": "Wed, 08 Jul 2026 16:35:00 -0400",
+          "description": "As ordered reported by the Senate Committee on Commerce, Science, and Transportation on March 4, 2026"
+        },
+        {
+          "title": "S. 3468, National Programmable Cloud Laboratories Network Act of 2025",
+          "link": "https://www.cbo.gov/publication/62560",
+          "published": "Wed, 08 Jul 2026 15:29:00 -0400",
+          "description": "As ordered reported by the Senate Committee on Commerce, Science, and Transportation on February 12, 2026"
+        },
+        {
+          "title": "H.R. 3535, Stop Foreign Funds in Elections Act",
+          "link": "https://www.cbo.gov/publication/62557",
+          "published": "Wed, 08 Jul 2026 13:29:00 -0400",
+          "description": "As ordered reported by the House Committee on House Administration on May 14, 2026"
+        },
+        {
+          "title": "H.R. 8738, FEC Administrative Improvements Act",
+          "link": "https://www.cbo.gov/publication/62558",
+          "published": "Wed, 08 Jul 2026 13:29:00 -0400",
+          "description": "As ordered reported by the House Committee on House Administration on May 14, 2026"
+        },
+        {
+          "title": "Estimating the Economic Effects of Federally Funded R&D: Working Paper 2026-08",
+          "link": "https://www.cbo.gov/publication/62387",
+          "published": "Tue, 07 Jul 2026 14:00:00 -0400",
+          "description": "CBO describes its current analytical framework for modeling the economic effects of changes in federal funding for R&amp;D, focusing on two approaches that CBO has developed: an R&amp;D capital stock approach and an R&amp;D components approach."
+        }
+      ],
+      "count": 10,
+      "domain": "US Fiscal"
+    },
+    {
+      "name": "BIS — All Publications",
+      "url": "https://www.bis.org/doclist/rss_all_categories.rss",
+      "channel": "BIS — All Publications",
+      "description": "",
+      "entries": [
+        {
+          "title": "Assessing the effects of recent provisioning rules on consumer credit allocation in Colombia",
+          "link": "https://www.bis.org/publ/work1366.htm",
+          "published": "2026-07-09T07:50:00Z",
+          "description": "by Diego Cuesta-Mora, Fredy Gamboa, Camilo Sanchez-Quinto Colombia's post-pandemic recovery in 2021&#8211;2022 was marked by rapid consumer credit growth, followed by deteriorating credit quality indicators amid tightening financial conditions. In January 2023, the Superintendence of Finance of Colombia (SFC) introduced higher provisioning requirements for long-term consumer loans to enhance financial resilience against credit risk materialization and to help moderate the rapid expansion of consumer credit observed prior to the reform. From the perspective of credit institutions (CIs), increased provisions imply higher expenses and potential profitability pressures, which could lead to adjustments in lending strategies."
+        },
+        {
+          "title": "Project Insight: uncovering the complexities of global value chains",
+          "link": "https://www.bis.org/publ/othp112.htm",
+          "published": "2026-07-08T13:24:00Z",
+          "description": "Project Insight developed a proof-of-concept dashboard to enhance policymakers' understanding and monitoring of global supply chain developments. By unifying detailed firm-level datasets, macroeconomic information and advanced analytics within a collaborative platform, the project demonstrated how granular and complex GVC dependencies can be studied more effectively."
+        },
+        {
+          "title": "On the comparison of capital requirements for global systemically important banks",
+          "link": "https://www.bis.org/fsi/publ/insights76.htm",
+          "published": "2026-07-08T11:15:00Z",
+          "description": "Basel III introduced a comprehensive package of capital reforms to bolster the resilience of the global banking system. While the standard supports regulatory convergence across jurisdictions by establishing a common minimum set of requirements for internationally active banks, it also gives national authorities flexibility to exceed the minimum standards. Heterogeneous applications of Basel III across jurisdictions have fuelled perceptions of an uneven playing field and have become central to current debates on how regulation may influence banks' competitiveness."
+        },
+        {
+          "title": "Blockchain consensus mechanisms and fragmentation",
+          "link": "https://www.bis.org/publ/bisbull126.htm",
+          "published": "2026-07-06T10:00:00Z",
+          "description": "by Daniel Eidan, Jon Frost, Rudraksh Kansal, Ulf Lewrick, Sang Hyuk Lim, Tomasz Rybarczyk While all permissionless blockchains use token-based incentives to sustain honest validation, differences in how validator rewards, coordination and participation are structured lead to distinct equilibria and trade-offs between decentralisation, security and scalability. These trade-offs underpin the emergence of multiple layer 1 networks and the expansion of layer 2 solutions, resulting in fragmentation of infrastructure, liquidity and assets across and within chains. Tools to mitigate fragmentation &#8211; eg bridges and native multi-chain issuance &#8211; can reduce frictions, but they reintroduce new dependencies on trust, governance and operational resilience."
+        },
+        {
+          "title": "What makes money, money? Ensuring trust in the next generation financial ecosystem",
+          "link": "https://www.bis.org/speeches/sp260624.htm",
+          "published": "2026-07-02T10:05:00Z",
+          "description": "Remarks by Ms Andréa M Maechler, Deputy General Manager, Bank for International Settlements (BIS), at the Point Zero Forum, Zurich, 24 June 2026."
+        },
+        {
+          "title": "Timur M Suleimenov: Statement - base rate of the National Bank of Kazakhstan",
+          "link": "https://www.bis.org/review/r260701i.htm",
+          "published": "2026-07-01T13:31:00Z",
+          "description": "Statement by Mr Timur M Suleimenov, Governor of the National Bank of Kazakhstan, on the base rate of the National Bank of Kazakhstan, Astana, 5 June 2026."
+        },
+        {
+          "title": "Zhu Hexin: New landscape of global capital flows and China's high-level opening-up",
+          "link": "https://www.bis.org/review/r260701e.htm",
+          "published": "2026-07-01T13:01:00Z",
+          "description": "Keynote speech by Mr Zhu Hexin, Deputy Governor of the People's Bank of China and SAFE Administrator, at the 2026 Lujiazui Forum, Shanghai, 17 June 2026."
+        },
+        {
+          "title": "Andrew Hauser: \"The straight line belongs to man, the curved line belongs to God\"",
+          "link": "https://www.bis.org/review/r260701d.htm",
+          "published": "2026-07-01T12:56:00Z",
+          "description": "Text of the Sir Douglas Copland Memorial Lecture to the Economic Society of Australia (Victoria) by Mr Andrew Hauser, Deputy Governor of the Reserve Bank of Australia, Melbourne, 24 June 2026."
+        },
+        {
+          "title": "Naoki Tamura: Economic activity, prices and monetary policy in Japan",
+          "link": "https://www.bis.org/review/r260701c.htm",
+          "published": "2026-07-01T12:50:00Z",
+          "description": "Speech by Mr Naoki Tamura, Member of the Policy Board of the Bank of Japan, at a meeting with local leaders, Hyogo, 25 June 2026."
+        },
+        {
+          "title": "Lisa D Cook: Welcome remarks - State of Small Business Symposium",
+          "link": "https://www.bis.org/review/r260701b.htm",
+          "published": "2026-07-01T12:47:00Z",
+          "description": "Welcome remarks (via pre-recorded video) by Ms Lisa D Cook, Member of the Board of Governors of the Federal Reserve System, at the State of Small Business Symposium, hosted by the Federal Reserve Bank of Cleveland, 24 June 2026."
+        }
+      ],
+      "count": 10,
+      "domain": "Global Liquidity"
+    },
     {
       "name": "Lyn Alden — Substack",
       "url": "https://lynalden.substack.com/feed",
@@ -93,82 +583,12 @@
       "domain": "China Delever"
     },
     {
-      "name": "BIS Working Papers",
+      "name": "BIS — Working Papers",
       "url": "https://www.bis.org/doclist/rss_working_papers.rss",
-      "channel": "BIS Working Papers",
+      "channel": "BIS — Working Papers",
       "entries": [],
       "count": 0,
       "_error": "Client error '404 Not Found' for url 'https://www.bis.org/doclist/rss_working_papers.rss'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
-      "domain": "Global Liquidity"
-    },
-    {
-      "name": "BIS All Publications",
-      "url": "https://www.bis.org/doclist/rss_all_categories.rss",
-      "channel": "BIS All Publications",
-      "description": "",
-      "entries": [
-        {
-          "title": "Assessing the effects of recent provisioning rules on consumer credit allocation in Colombia",
-          "link": "https://www.bis.org/publ/work1366.htm",
-          "published": "2026-07-09T07:50:00Z",
-          "description": "by Diego Cuesta-Mora, Fredy Gamboa, Camilo Sanchez-Quinto Colombia's post-pandemic recovery in 2021&#8211;2022 was marked by rapid consumer credit growth, followed by deteriorating credit quality indicators amid tightening financial conditions. In January 2023, the Superintendence of Finance of Colombia (SFC) introduced higher provisioning requirements for long-term consumer loans to enhance financial resilience against credit risk materialization and to help moderate the rapid expansion of consumer credit observed prior to the reform. From the perspective of credit institutions (CIs), increased provisions imply higher expenses and potential profitability pressures, which could lead to adjustments in lending strategies."
-        },
-        {
-          "title": "Project Insight: uncovering the complexities of global value chains",
-          "link": "https://www.bis.org/publ/othp112.htm",
-          "published": "2026-07-08T13:24:00Z",
-          "description": "Project Insight developed a proof-of-concept dashboard to enhance policymakers' understanding and monitoring of global supply chain developments. By unifying detailed firm-level datasets, macroeconomic information and advanced analytics within a collaborative platform, the project demonstrated how granular and complex GVC dependencies can be studied more effectively."
-        },
-        {
-          "title": "On the comparison of capital requirements for global systemically important banks",
-          "link": "https://www.bis.org/fsi/publ/insights76.htm",
-          "published": "2026-07-08T11:15:00Z",
-          "description": "Basel III introduced a comprehensive package of capital reforms to bolster the resilience of the global banking system. While the standard supports regulatory convergence across jurisdictions by establishing a common minimum set of requirements for internationally active banks, it also gives national authorities flexibility to exceed the minimum standards. Heterogeneous applications of Basel III across jurisdictions have fuelled perceptions of an uneven playing field and have become central to current debates on how regulation may influence banks' competitiveness."
-        },
-        {
-          "title": "Blockchain consensus mechanisms and fragmentation",
-          "link": "https://www.bis.org/publ/bisbull126.htm",
-          "published": "2026-07-06T10:00:00Z",
-          "description": "by Daniel Eidan, Jon Frost, Rudraksh Kansal, Ulf Lewrick, Sang Hyuk Lim, Tomasz Rybarczyk While all permissionless blockchains use token-based incentives to sustain honest validation, differences in how validator rewards, coordination and participation are structured lead to distinct equilibria and trade-offs between decentralisation, security and scalability. These trade-offs underpin the emergence of multiple layer 1 networks and the expansion of layer 2 solutions, resulting in fragmentation of infrastructure, liquidity and assets across and within chains. Tools to mitigate fragmentation &#8211; eg bridges and native multi-chain issuance &#8211; can reduce frictions, but they reintroduce new dependencies on trust, governance and operational resilience."
-        },
-        {
-          "title": "What makes money, money? Ensuring trust in the next generation financial ecosystem",
-          "link": "https://www.bis.org/speeches/sp260624.htm",
-          "published": "2026-07-02T10:05:00Z",
-          "description": "Remarks by Ms Andréa M Maechler, Deputy General Manager, Bank for International Settlements (BIS), at the Point Zero Forum, Zurich, 24 June 2026."
-        },
-        {
-          "title": "Timur M Suleimenov: Statement - base rate of the National Bank of Kazakhstan",
-          "link": "https://www.bis.org/review/r260701i.htm",
-          "published": "2026-07-01T13:31:00Z",
-          "description": "Statement by Mr Timur M Suleimenov, Governor of the National Bank of Kazakhstan, on the base rate of the National Bank of Kazakhstan, Astana, 5 June 2026."
-        },
-        {
-          "title": "Zhu Hexin: New landscape of global capital flows and China's high-level opening-up",
-          "link": "https://www.bis.org/review/r260701e.htm",
-          "published": "2026-07-01T13:01:00Z",
-          "description": "Keynote speech by Mr Zhu Hexin, Deputy Governor of the People's Bank of China and SAFE Administrator, at the 2026 Lujiazui Forum, Shanghai, 17 June 2026."
-        },
-        {
-          "title": "Andrew Hauser: \"The straight line belongs to man, the curved line belongs to God\"",
-          "link": "https://www.bis.org/review/r260701d.htm",
-          "published": "2026-07-01T12:56:00Z",
-          "description": "Text of the Sir Douglas Copland Memorial Lecture to the Economic Society of Australia (Victoria) by Mr Andrew Hauser, Deputy Governor of the Reserve Bank of Australia, Melbourne, 24 June 2026."
-        },
-        {
-          "title": "Naoki Tamura: Economic activity, prices and monetary policy in Japan",
-          "link": "https://www.bis.org/review/r260701c.htm",
-          "published": "2026-07-01T12:50:00Z",
-          "description": "Speech by Mr Naoki Tamura, Member of the Policy Board of the Bank of Japan, at a meeting with local leaders, Hyogo, 25 June 2026."
-        },
-        {
-          "title": "Lisa D Cook: Welcome remarks - State of Small Business Symposium",
-          "link": "https://www.bis.org/review/r260701b.htm",
-          "published": "2026-07-01T12:47:00Z",
-          "description": "Welcome remarks (via pre-recorded video) by Ms Lisa D Cook, Member of the Board of Governors of the Federal Reserve System, at the State of Small Business Symposium, hosted by the Federal Reserve Bank of Cleveland, 24 June 2026."
-        }
-      ],
-      "count": 10,
       "domain": "Global Liquidity"
     },
     {
