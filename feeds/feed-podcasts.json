@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T23:00:33.144911+00:00",
+  "generated_at": "2026-07-13T22:45:48.736636+00:00",
   "source": "podcast_rss",
   "feeds_count": 5,
   "total_episodes": 40,
@@ -10,6 +10,14 @@
       "domain": "US Fiscal",
       "description": "Allocator and asset management expert, Ted Seides, conducts in-depth interviews with leaders in the institutional investing industry. Guests include Chief Investment Officers from leading allocators, asset managers, strategists, thought leaders, and many more. Our mission is to learn, share, and help implement the process of premier investors. Learn more and join our community at capitalallocators.com.",
       "episodes": [
+        {
+          "title": "Economic Growth, Governance, and Capital Allocation – Dambisa Moyo (EP.410)",
+          "link": "https://tedseides.libsyn.com/economic-growth-governance-and-capital-allocation-dambisa-moyo-ep410",
+          "published": "Mon, 13 Jul 2026 08:00:00 +0000",
+          "description": "Baroness Dambisa Moyo is a global economist, author, board member, and investor who sits at the intersection of public policy, corporate governance, and capital allocation. Dambisa serves in the U.K. House of Lords, sits on the boards of Chevron, Starbucks, Condé Nast, and Oxford University's investment committee, is Chair of the Economic Club of New York, and oversees Altered Trajectory alongside her husband, Jared Smith, the family office formed after his sale of Qualtrics in 2018.     Our conversation traces Dambisa's journey from growing up in Zambia to becoming a leading voice on global economic development and governance. We discuss how her experiences across more than 80 countries and on the boards of four global companies shaped her judgment on economic growth, governance, and deci",
+          "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/tedseides/CA_-_EP.510_Dambisa_Moyo_-_AUDIO_V1.mp3?dest-id=482814",
+          "duration": "54:10"
+        },
         {
           "title": "WTT: 5.5 Lessons at 55.5",
           "link": "https://tedseides.libsyn.com/wtt-55-lessons-at-55",
@@ -81,14 +89,6 @@
           "description": "Erik Brooks is the Co-Founder and Managing Partner of Ethos Capital, a middle-market private equity firm built to bring seasoned C-Suite operators into every aspect of the investment process. Erik's experience prior to founding Ethos in 2019 spanned privatizations in Eastern Europe, value investing at Baupost, and twenty years at Abry Partners.     Our conversation covers Erik's path to private equity, lessons learned about risk, the importance of betting on people, and the evolution in his thinking that led to forming Ethos. We then cover Ethos' focus on durable business models, one-deal-a-year cadence, operating system to evaluate and improve companies, and an investment example that brings it all to life.      Learn More   Follow Ted on Twitter at  @tseides  or  LinkedIn   Subscribe to",
           "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/tedseides/CA_-_EP.504_Erik_Brooks_-_AUDIO_V2.mp3?dest-id=482814",
           "duration": "58:25"
-        },
-        {
-          "title": "Fundraising Mastery: The Tao of Kimmer – John Kim (EP.503)",
-          "link": "https://tedseides.libsyn.com/fundraising-mastery-the-tao-of-kimmer-john-kim-ep503",
-          "published": "Mon, 25 May 2026 08:00:00 +0000",
-          "description": "John Kim, or Kimmer, has raised more than $70 billion across his career for leading venture capital and private equity firms. Kimmer recently distilled three decades of lessons into The Tao of Fundraising, the best book I've ever read on fundraising for investment managers. Since then, Kimmer joined a General Catalyst portfolio company, Lila Sciences, as Chairman and President of Corporate Development.      Our conversation covers Kimmer's philosophy about raising capital, the sales process, art of persuasion, best practices in a meeting, frameworks determining fundraising success, taxonomy of institutional investors, ideal sales team structure and compensation, and the features he carried over from capital formation for funds to a new operating role.       Learn More   Follow Ted on Twitt",
-          "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/tedseides/CA_-_EP.503_John_Kim_-_AUDIO_V3.mp3?dest-id=482814",
-          "duration": "01:09:21"
         }
       ]
     },
@@ -275,6 +275,14 @@
       "description": "Hosted by David Beckworth of the Mercatus Center, Macro Musings pulls back the curtain on the important macroeconomic issues of the past, present, and future.",
       "episodes": [
         {
+          "title": "Stephan Luck on What History can Teach Us about Financial Stability",
+          "link": "https://macromusings.libsyn.com/stephan-luck-on-what-history-can-teach-us-about-financial-stability",
+          "published": "Mon, 13 Jul 2026 09:00:00 +0000",
+          "description": "Stephan Luck is a Financial Research Advisor at the Federal Reserve Bank of New York. In Stephan's first appearance on the show, he discusses how the 2008 Great Financial Crisis shaped his career, how he and his coauthors leverage LLMs to comb through massive amounts of historical data, what this data can teach us about responding to bank failures, what people get wrong when they try and make historical analogies to the GENIUS era, the lessons we can learn from the German hyperinflation, and much more.       Watch  the full length video  on our new YouTube Channel!     Check out the  transcript  for this week's episode, now with links.   Recorded on June 1st, 2026   Subscribe to David's Substack:  Macroeconomic Policy Nexus    Follow David on X:  @DavidBeckworth    Follow the show on X:  @",
+          "audio_url": "https://traffic.libsyn.com/secure/macromusings/MM-551-StephanLuck-Audio-Final.mp3?dest-id=865793",
+          "duration": "57:47"
+        },
+        {
           "title": "Barry Eichengreen on the History of Global Currencies",
           "link": "https://macromusings.libsyn.com/barry-eichengreen-on-the-history-of-global-currencies",
           "published": "Mon, 06 Jul 2026 09:00:00 +0000",
@@ -345,14 +353,6 @@
           "description": "Tyler Goodspeed is the former chairman of the Council of Economic Advisors and is currently a chief economist in the private sector. In Tyler's first appearance on the podcast he discusses his new book highlighting a different way of looking at recessions, the challenge of breaking away from the human inclination of ascribing patterns to random phenomena, whether recessions are more Dorian Gray or Peter Pan, what history and stories like Jay Cooke tell us about recessions, how to evaluate supply side shocks and the 2008 Financial Crisis, why Milton Friedman's Plucking model might be the best we have at modeling recessions, and much more.       Watch  the full length video  on our new YouTube Channel!     Check out the  transcript  for this week's episode, now with links.   Recorded on Apri",
           "audio_url": "https://traffic.libsyn.com/secure/macromusings/MM-542-TylerGoodspeed-Audio-Final_mixdown.mp3?dest-id=865793",
           "duration": "01:01:06"
-        },
-        {
-          "title": "Peter Conti-Brown and David Beckworth on All Things Financial Regulation",
-          "link": "https://macromusings.libsyn.com/peter-conti-brown-and-david-beckworth-on-all-things-financial-regulation",
-          "published": "Mon, 04 May 2026 11:30:00 +0000",
-          "description": "Recorded live in front of the Wharton Financial Regulation Conference, former guest Peter Conti-Brown joins David Beckworth as a Macro Musings co-host on this week's episode. Peter and David discuss the inflection point of 2008 in FinReg scholarship, how Macro Musings has become just as much a show about financial regulation as about macro, what to make of the Trump administrations changes to bank supervision, whether we should be enthusiastic about the GENIUS Act and digital assets, the true identity of Satoshi Nakamoto, the crisis that could become Claude Mythos, why networks and Substacks are becoming more important, and much more.       Watch  the full length video  on our new YouTube Channel!     Check out the  transcript  for this week's episode, now with links.   Recorded on April 1",
-          "audio_url": "https://traffic.libsyn.com/secure/macromusings/MM-541-PeterContiBrown-Audio-Final.mp3?dest-id=865793",
-          "duration": "54:56"
         }
       ]
     },
