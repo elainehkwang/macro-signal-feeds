@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T23:00:33.303949+00:00",
+  "generated_at": "2026-07-14T22:47:36.467009+00:00",
   "source": "podcast_rss",
   "feeds_count": 5,
   "total_episodes": 40,
@@ -187,6 +187,14 @@
       "description": "Conversations with the best investors and business leaders in the world. We explore their ideas, methods, and stories to help you better invest your time and money. Hear stock market and boardroom insights you can't find anywhere else. If you're a professional investor, CEO, entrepreneur, or business strategist, this is for you. Explore all our episodes and learn more at https://www.colossus.com",
       "episodes": [
         {
+          "title": "John Kim - How to Raise a Few Billion Dollars - [Invest Like the Best, EP.482]",
+          "link": "https://colossus.com/episode/how-to-raise-a-few-billion-dollars/",
+          "published": "Tue, 14 Jul 2026 08:00:00 -0000",
+          "description": "Today my guest is John Kim. John is one of the world's top and most prolific fundraisers.&nbsp;\n\nHe was chief client officer at General Catalyst, where he helped raise many of the firm's flagship funds. He is now chairman and president of corporate development at Lila Sciences, a company building scientific superintelligence, where he has helped raise several hundred million dollars.&nbsp;\n\nHe is also the author of The Tao of Fundraising.&nbsp;\n\nThis conversation is really a guide on how to raise money from someone who has done it at the highest level. We talk about why persuasion equals desire minus fear, the difference between belief and trust, the laws of fundraising, and how to build the consensus that moves big pools of capital.&nbsp;\n\nPlease enjoy my conversation with John Kim.\n\nFor",
+          "audio_url": "https://traffic.megaphone.fm/CLS8349497052.mp3",
+          "duration": "3020"
+        },
+        {
           "title": "Jeremy Giffon - The Billion Dollar PDF - [Invest Like the Best, EP.481]",
           "link": "https://colossus.com/episode/posting-priests-private-markets/",
           "published": "Tue, 07 Jul 2026 08:00:00 -0000",
@@ -257,14 +265,6 @@
           "description": "My guest today is Gavin Baker, founding partner and CIO of Atreides Management, and this is our sixth conversation.\n\nThe central theme is watts and wafers, the two physical constraints that in Gavin's view will dictate the next phase of AI.\n\nOn power, he thinks the near-term shortage starts to ease in 2027 and 2028 as new sources of energy come online, and that orbital compute solves it in the long term.\n\nOn wafers, he explains what is different this time from the dotcom bubble and why TSMC’s capacity decisions may be the single most important variable to watch.\n\nWe also discuss Elon’s Terrafab, the disaggregation of GPUs, the role of new chip companies, and whether the economic value of AI will keep accruing to frontier models.\n\nFor the full show notes, transcript, and links to mentioned",
           "audio_url": "https://traffic.megaphone.fm/CLS8755474209.mp3?updated=1779241717",
           "duration": "4611"
-        },
-        {
-          "title": "Krishna Rao - Anthropic's CFO on Compute, Scaling to $30B ARR, and the Returns to Frontier Intelligence - [Invest Like the Best, EP.472]",
-          "link": "https://colossus.com/episode/cone-of-uncertainty/",
-          "published": "Wed, 13 May 2026 08:00:00 -0000",
-          "description": "My guest today is Krishna Rao, the CFO of Anthropic. The center of our conversation is how he navigates the decision around procuring and allocating compute, which he describes as the canvas on which everything else gets built.\n\nWe talk about what he calls the cone of uncertainty, the three chip platforms Anthropic uses fungibly across Trainium, TPUs, and GPUs, and the daily meetings they run to allocate compute between model development, internal use, and serving customer demand.\n\nHe explains why the returns to frontier intelligence keep getting higher, especially in enterprise, and how Anthropic thinks about the line between platform and application and why they choose to build their own products like Claude Code.\n\nKrishna has such a unique seat watching one of the fastest growing busine",
-          "audio_url": "https://traffic.megaphone.fm/CLS3629415437.mp3?updated=1778621552",
-          "duration": "4567"
         }
       ]
     },
