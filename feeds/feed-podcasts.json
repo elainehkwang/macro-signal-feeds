@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T23:00:32.757246+00:00",
+  "generated_at": "2026-07-16T22:50:06.204249+00:00",
   "source": "podcast_rss",
   "feeds_count": 5,
   "total_episodes": 40,
@@ -10,6 +10,14 @@
       "domain": "US Fiscal",
       "description": "Allocator and asset management expert, Ted Seides, conducts in-depth interviews with leaders in the institutional investing industry. Guests include Chief Investment Officers from leading allocators, asset managers, strategists, thought leaders, and many more. Our mission is to learn, share, and help implement the process of premier investors. Learn more and join our community at capitalallocators.com.",
       "episodes": [
+        {
+          "title": "Roadmap for Private Credit from Australia – Frank Danieli of MA Financial Group (EP.511)",
+          "link": "https://tedseides.libsyn.com/roadmap-for-private-credit-from-australia-frank-danieli-of-ma-financial-group-ep511",
+          "published": "Thu, 16 Jul 2026 08:00:00 +0000",
+          "description": "Frank Danieli is Head of Global Credit Solutions at MA Financial Group, an ASX-listed alternative asset manager that oversees A$15 billion ($10 billion) across a broad range of private credit and lending strategies and A$179 billion ($125 billion) in a lending ecosystem platform. Frank began his career in restructurings, the self-described 'dark side of credit', and has used the lessons from special situations and distressed loans to build a performing credit platform across asset backed finance, direct asset lending and corporate private credit.     Our conversation discusses what global investors can learn from the model of private credit in Australia. We explore the evolution of private credit in Australia and why it developed differently from the sponsor-backed lending market in the U.",
+          "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/tedseides/CA_-_EP.511_Frank_Danieli_-_AUDIO_V2.mp3?dest-id=482814",
+          "duration": "52:18"
+        },
         {
           "title": "Economic Growth, Governance, and Capital Allocation – Dambisa Moyo (EP.410)",
           "link": "https://tedseides.libsyn.com/economic-growth-governance-and-capital-allocation-dambisa-moyo-ep410",
@@ -81,14 +89,6 @@
           "description": "Rajiv Jain is the Chairman and CIO of GQG Partners, a global equity manager he founded in 2016 that has soared to $160 billion in assets, rebuffing the challenging decade for active managers.          Our conversation covers Rajiv's path from trading in India to his long tenure at Vontobel and founding of GQG. We discuss the periodic crisis lessons that shaped his approach, his definition of quality, team dynamics, and portfolio construction to avoid losses. We then turn to Rajiv's contrarian views, including current significant positions in energy, utilities, steel, tobacco, and emerging markets, avoidance of hyperscalers and semiconductors, and nimbleness to change his mind.                              Learn More   Follow Ted on Twitter at  @tseides  or  LinkedIn    Subscribe to the  ma",
           "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/tedseides/CA_-_EP.509_Rajiv_Jain_-_AUDIO_V2.mp3?dest-id=482814",
           "duration": "01:04:57"
-        },
-        {
-          "title": "Operator-Led Private Equity at Ethos - Erik Brooks (EP.504)",
-          "link": "https://tedseides.libsyn.com/operator-led-private-equity-at-ethos-erik-brooks-ep504",
-          "published": "Mon, 01 Jun 2026 08:00:00 +0000",
-          "description": "Erik Brooks is the Co-Founder and Managing Partner of Ethos Capital, a middle-market private equity firm built to bring seasoned C-Suite operators into every aspect of the investment process. Erik's experience prior to founding Ethos in 2019 spanned privatizations in Eastern Europe, value investing at Baupost, and twenty years at Abry Partners.     Our conversation covers Erik's path to private equity, lessons learned about risk, the importance of betting on people, and the evolution in his thinking that led to forming Ethos. We then cover Ethos' focus on durable business models, one-deal-a-year cadence, operating system to evaluate and improve companies, and an investment example that brings it all to life.      Learn More   Follow Ted on Twitter at  @tseides  or  LinkedIn   Subscribe to",
-          "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/tedseides/CA_-_EP.504_Erik_Brooks_-_AUDIO_V2.mp3?dest-id=482814",
-          "duration": "58:25"
         }
       ]
     },
