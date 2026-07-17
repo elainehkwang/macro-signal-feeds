@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T23:00:31.614620+00:00",
+  "generated_at": "2026-07-17T22:39:45.604879+00:00",
   "source": "podcast_rss",
   "feeds_count": 5,
   "total_episodes": 40,
@@ -99,6 +99,14 @@
       "description": "What’s driving this week’s market moves – and where are the biggest opportunities? Goldman Sachs traders discuss.",
       "episodes": [
         {
+          "title": "The 'Market of Stocks' vs. the 'Stock Market'",
+          "link": "",
+          "published": "Fri, 17 Jul 2026 04:00:00 -0000",
+          "description": "As more US companies report earnings next week,&nbsp;the&nbsp;bar is&nbsp;“very&nbsp;high” from&nbsp;the perspective of&nbsp;analysts and option market&nbsp;makers,&nbsp;says Brian Garrett, head of equities&nbsp;on&nbsp;the Cross Asset Sales desk in&nbsp;FICC & Equities.&nbsp;In this conversation&nbsp;with Chris Hussey, he&nbsp;also&nbsp;discusses&nbsp;how debt issuance from&nbsp;hyperscalers&nbsp;to fund AI capex is filtering through fixed-income markets and the divergence between&nbsp;single&nbsp;stock volatility and equity index.\n\nThis episode was recorded in July 15, 2026.\n\nThe opinions and views expressed herein are as of the date of publication, subject to change without notice, and may not necessarily reflect the institutional views of Goldman Sachs or its affiliates. The material p",
+          "audio_url": "https://traffic.megaphone.fm/GLD1244006044.mp3",
+          "duration": "747"
+        },
+        {
           "title": "Bullish on the Dollar",
           "link": "",
           "published": "Fri, 10 Jul 2026 15:36:00 -0000",
@@ -169,14 +177,6 @@
           "description": "After a divisive FOMC meeting, what policy shifts could lie ahead for the Fed? And what are tech giants’ earnings telling us about the AI trade? Anshul Sehgal, global co-head of Fixed Income, Currency and Commodities in Goldman Sachs Global Banking & Markets, discusses with Chris Hussey.\n\nRecorded on April 30, 2026.\n\nThe opinions and views expressed herein are as of the date of publication, subject to change without notice, and may not necessarily reflect the institutional views of Goldman Sachs or its affiliates. The material provided is intended for informational purposes only, and does not constitute investment advice, a recommendation from any Goldman Sachs entity to take any particular action, or an offer or solicitation to purchase or sell any securities or financial products. This m",
           "audio_url": "https://traffic.megaphone.fm/GLD1537801897.mp3?updated=1777648924",
           "duration": "930"
-        },
-        {
-          "title": "Big Opportunities in Small Cap Equities",
-          "link": "",
-          "published": "Fri, 24 Apr 2026 04:00:00 -0000",
-          "description": "After years of underperformance, small-cap equities may be poised for a sustained rally. Where should investors look for opportunities? And can this momentum withstand macro volatility? Greg Tuorto, head of the US Small and SMID Cap team in Goldman Sachs Asset Management, discusses with Chris Hussey.\n\nRecorded on April 23, 2026.\n\nThe opinions and views expressed herein are as of the date of publication, subject to change without notice, and may not necessarily reflect the institutional views of Goldman Sachs or its affiliates. The material provided is intended for informational purposes only, and does not constitute investment advice, a recommendation from any Goldman Sachs entity to take any particular action, or an offer or solicitation to purchase or sell any securities or financial pro",
-          "audio_url": "https://traffic.megaphone.fm/GLD1759629523.mp3",
-          "duration": "637"
         }
       ]
     },
