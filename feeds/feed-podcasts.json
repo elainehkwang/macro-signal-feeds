@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T23:00:24.104208+00:00",
+  "generated_at": "2026-07-20T22:47:51.747615+00:00",
   "source": "podcast_rss",
   "feeds_count": 5,
   "total_episodes": 40,
@@ -11,6 +11,14 @@
       "description": "Allocator and asset management expert, Ted Seides, conducts in-depth interviews with leaders in the institutional investing industry. Guests include Chief Investment Officers from leading allocators, asset managers, strategists, thought leaders, and many more. Our mission is to learn, share, and help implement the process of premier investors. Learn more and join our community at capitalallocators.com.",
       "episodes": [
         {
+          "title": "Senior Decision Makers: Luis Laboy, Hewlett Foundation (EP.512)",
+          "link": "https://tedseides.libsyn.com/senior-decision-makers-luis-laboy-hewlett-foundation-ep512",
+          "published": "Mon, 20 Jul 2026 08:00:00 +0000",
+          "description": "Our next guest on the Senior Decision Makers series is Luis Laboy, Director of Public Equity at the Hewlett Foundation, where he's spent the last decade running the public equity book alongside CIO Ana Marshall — a mentor and colleague he first met nearly thirty years ago. The foundation's assets stand at roughly $14 billion today.     Luis spent fifteen years as a direct emerging markets investor at Everest Capital before crossing to the LP side, and our conversation digs into how he's leveraged that experience as an allocator. We discuss how the cadence and depth of decision-making changed when he went from a high-turnover book at Everest to a handful of high-conviction relationships at Hewlett, how his time split between portfolio construction and manager selection has evolved over, and",
+          "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/tedseides/CA_-_EP.512_SDM_Luis_Laboy_-_AUDIO_V2.mp3?dest-id=482814",
+          "duration": "47:04"
+        },
+        {
           "title": "Roadmap for Private Credit from Australia – Frank Danieli of MA Financial Group (EP.511)",
           "link": "https://tedseides.libsyn.com/roadmap-for-private-credit-from-australia-frank-danieli-of-ma-financial-group-ep511",
           "published": "Thu, 16 Jul 2026 08:00:00 +0000",
@@ -19,7 +27,7 @@
           "duration": "52:18"
         },
         {
-          "title": "Economic Growth, Governance, and Capital Allocation – Dambisa Moyo (EP.410)",
+          "title": "Economic Growth, Governance, and Capital Allocation – Dambisa Moyo (EP.510)",
           "link": "https://tedseides.libsyn.com/economic-growth-governance-and-capital-allocation-dambisa-moyo-ep410",
           "published": "Mon, 13 Jul 2026 08:00:00 +0000",
           "description": "Baroness Dambisa Moyo is a global economist, author, board member, and investor who sits at the intersection of public policy, corporate governance, and capital allocation. Dambisa serves in the U.K. House of Lords, sits on the boards of Chevron, Starbucks, Condé Nast, and Oxford University's investment committee, is Chair of the Economic Club of New York, and oversees Altered Trajectory alongside her husband, Jared Smith, the family office formed after his sale of Qualtrics in 2018.     Our conversation traces Dambisa's journey from growing up in Zambia to becoming a leading voice on global economic development and governance. We discuss how her experiences across more than 80 countries and on the boards of four global companies shaped her judgment on economic growth, governance, and deci",
@@ -81,14 +89,6 @@
           "description": "Jonathan Wang is the founder and CEO of EOS Investors, where he has built three real estate investment platforms totaling $2 billion  in assets under management across the hotel and residential sectors. Jonathan also  created a wholly owned hotel management company that  oversees 60 properties for the EOS funds and five core partners.            Our conversation covers Jonathan's path to hotel investing and EOS' hotel investment process across market selection, property type, underwriting, vertically integrated operations, and managing through cycles. We also discuss extensions into residential real estate, hotel credit, and opportunities and risks going forward.                              Editing and post-production work for this episode was provided by The Podcast Consultant (  ⁠  http",
           "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/tedseides/CA_-_EP.506_Jonathan_Wang_-_AUDIO_V1.mp3?dest-id=482814",
           "duration": "56:18"
-        },
-        {
-          "title": "Contrarian Quality at GQG Partners – Rajiv Jain (EP.505)",
-          "link": "https://tedseides.libsyn.com/contrarian-quality-at-gqg-partners-rajiv-jain-ep505",
-          "published": "Mon, 08 Jun 2026 08:00:00 +0000",
-          "description": "Rajiv Jain is the Chairman and CIO of GQG Partners, a global equity manager he founded in 2016 that has soared to $160 billion in assets, rebuffing the challenging decade for active managers.          Our conversation covers Rajiv's path from trading in India to his long tenure at Vontobel and founding of GQG. We discuss the periodic crisis lessons that shaped his approach, his definition of quality, team dynamics, and portfolio construction to avoid losses. We then turn to Rajiv's contrarian views, including current significant positions in energy, utilities, steel, tobacco, and emerging markets, avoidance of hyperscalers and semiconductors, and nimbleness to change his mind.                              Learn More   Follow Ted on Twitter at  @tseides  or  LinkedIn    Subscribe to the  ma",
-          "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/tedseides/CA_-_EP.509_Rajiv_Jain_-_AUDIO_V2.mp3?dest-id=482814",
-          "duration": "01:04:57"
         }
       ]
     },
@@ -275,6 +275,14 @@
       "description": "Hosted by David Beckworth of the Mercatus Center, Macro Musings pulls back the curtain on the important macroeconomic issues of the past, present, and future.",
       "episodes": [
         {
+          "title": "Sam Lyman on the Digital Payments Race Between the US and China",
+          "link": "https://macromusings.libsyn.com/sam-lyman-on-the-digital-payments-race-between-the-us-and-china",
+          "published": "Mon, 20 Jul 2026 09:00:00 +0000",
+          "description": "Sam Lyman is the head of research at the Bitcoin Policy Institute and formerly was a senior advisor and speechwriter for Treasury Secretary Bessent. In Sam's first appearance on the show, he discusses Secretary Bessent's secret skill, the competition in the digital payments space between the US and China, why the strategic Bitcoin reserve is important, what the future of Bitcoin holds, where things stand with the CLARITY Act, the Q Day conundrum, whether Satoshi Yakamoto is alive or dead, where Sam thinks the anti-AI sentiment is coming from, and much more.       Watch  the full length video  on our new YouTube Channel!     Check out the  transcript  for this week's episode, now with links.   Recorded on May 21st, 2026   Subscribe to David's Substack:  Macroeconomic Policy Nexus    Follow",
+          "audio_url": "https://traffic.libsyn.com/secure/macromusings/MM-552-SamLyman-Audio-Final.mp3?dest-id=865793",
+          "duration": "58:24"
+        },
+        {
           "title": "Stephan Luck on What History can Teach Us about Financial Stability",
           "link": "https://macromusings.libsyn.com/stephan-luck-on-what-history-can-teach-us-about-financial-stability",
           "published": "Mon, 13 Jul 2026 09:00:00 +0000",
@@ -345,14 +353,6 @@
           "description": "Bill Beach is the former commissioner of the US Bureau of Labor Statistics and the current executive director of the Fiscal Lab on Capitol Hill. In Bill's first appearance on the show he discusses a career in and around public service, the important niche his new organization fills, the frightening fiscal outlook of the United States, exactly how long we have before Social Security runs out, why he believes it will take lots of small changes instead of a big one to fix our fiscal outlook, the important role of the BLS, why our statistical methods needs reform, the most underrated economic statistical indicators, and much more.       Watch  the full length video  on our new YouTube Channel!     Check out the  transcript  for this week's episode, now with links.   Recorded on April 15th, 202",
           "audio_url": "https://traffic.libsyn.com/secure/macromusings/MM-543-BillBeach-Audio-Final.mp3?dest-id=865793",
           "duration": "52:53"
-        },
-        {
-          "title": "Tyler Goodspeed on Challenging the Way Economists Look at Recessions",
-          "link": "https://macromusings.libsyn.com/tyler-goodspeed-on-challenging-the-way-economists-look-at-recessions",
-          "published": "Mon, 11 May 2026 11:30:00 +0000",
-          "description": "Tyler Goodspeed is the former chairman of the Council of Economic Advisors and is currently a chief economist in the private sector. In Tyler's first appearance on the podcast he discusses his new book highlighting a different way of looking at recessions, the challenge of breaking away from the human inclination of ascribing patterns to random phenomena, whether recessions are more Dorian Gray or Peter Pan, what history and stories like Jay Cooke tell us about recessions, how to evaluate supply side shocks and the 2008 Financial Crisis, why Milton Friedman's Plucking model might be the best we have at modeling recessions, and much more.       Watch  the full length video  on our new YouTube Channel!     Check out the  transcript  for this week's episode, now with links.   Recorded on Apri",
-          "audio_url": "https://traffic.libsyn.com/secure/macromusings/MM-542-TylerGoodspeed-Audio-Final_mixdown.mp3?dest-id=865793",
-          "duration": "01:01:06"
         }
       ]
     },
