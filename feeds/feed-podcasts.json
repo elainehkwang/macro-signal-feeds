@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T23:00:20.438329+00:00",
+  "generated_at": "2026-07-21T22:45:48.087510+00:00",
   "source": "podcast_rss",
   "feeds_count": 5,
   "total_episodes": 40,
@@ -187,6 +187,14 @@
       "description": "Conversations with the best investors and business leaders in the world. We explore their ideas, methods, and stories to help you better invest your time and money. Hear stock market and boardroom insights you can't find anywhere else. If you're a professional investor, CEO, entrepreneur, or business strategist, this is for you. Explore all our episodes and learn more at https://www.colossus.com",
       "episodes": [
         {
+          "title": "Matthew Smith — Natural Gas: The Next Bottleneck - [Invest Like the Best, EP.483]",
+          "link": "https://colossus.com/episode/americas-next-energy-crisis/",
+          "published": "Tue, 21 Jul 2026 08:00:00 -0000",
+          "description": "My guest today is Matthew Smith. Matthew is the founder and CIO of Chronometer Partners, which invests in energy, industrials, materials, power and utilities, and related infrastructure.\n\nFor the last 18 months he and his team have modeled nearly every natural gas well, pipeline, and processing asset in the United States. He's reached a conclusion most of the market doesn't share.&nbsp;\n\nStarting in 2028, AI data centers and LNG exports will need more gas than the country can produce and deliver. By his math, the US could exhaust its working natural gas storage by 2030. In his words, the upside risk to prices becomes unbounded and convex.\n\nWe talk about why this was set in motion long before AI arrived, why the US can't just turn off exports, who wins and loses among producers, nuclear, so",
+          "audio_url": "https://traffic.megaphone.fm/CLS1352215254.mp3",
+          "duration": "3337"
+        },
+        {
           "title": "John Kim - How to Raise a Few Billion Dollars - [Invest Like the Best, EP.482]",
           "link": "https://colossus.com/episode/how-to-raise-a-few-billion-dollars/",
           "published": "Tue, 14 Jul 2026 08:00:00 -0000",
@@ -257,14 +265,6 @@
           "description": "My guest today is Darren Farber, and this is his second appearance on the show.\n\nDarren is a Managing Partner of Albion River, a defense-focused investment firm and he previously served as a special advisor to the Deputy Under Secretary of Defense.\n\nWe recorded this conversation in the middle of the Iranian contingency, and we spent most of our time on what winning actually means in a theater like Iran.\n\nWe discuss why magazine depth matters for the American industrial base, lessons from Ukraine, and what the rise of neo-prime defense companies will require from Congress.\n\nPlease enjoy my second conversation with Darren Farber.\n\nFor the full show notes, transcript, and links to mentioned content, check out the episode page ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠here⁠⁠⁠⁠⁠. \n\n-----\n\nBecome a Colossus member to get",
           "audio_url": "https://traffic.megaphone.fm/CLS3936356790.mp3",
           "duration": "2779"
-        },
-        {
-          "title": "Gavin Baker - Watts and Wafers - [Invest Like the Best, EP.473]",
-          "link": "https://colossus.com/episode/watts-and-wafers/",
-          "published": "Wed, 20 May 2026 08:00:00 -0000",
-          "description": "My guest today is Gavin Baker, founding partner and CIO of Atreides Management, and this is our sixth conversation.\n\nThe central theme is watts and wafers, the two physical constraints that in Gavin's view will dictate the next phase of AI.\n\nOn power, he thinks the near-term shortage starts to ease in 2027 and 2028 as new sources of energy come online, and that orbital compute solves it in the long term.\n\nOn wafers, he explains what is different this time from the dotcom bubble and why TSMC’s capacity decisions may be the single most important variable to watch.\n\nWe also discuss Elon’s Terrafab, the disaggregation of GPUs, the role of new chip companies, and whether the economic value of AI will keep accruing to frontier models.\n\nFor the full show notes, transcript, and links to mentioned",
-          "audio_url": "https://traffic.megaphone.fm/CLS8755474209.mp3?updated=1779241717",
-          "duration": "4611"
         }
       ]
     },
