@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-23T22:47:54.138012+00:00",
+  "generated_at": "2026-07-24T22:53:49.142006+00:00",
   "source": "rss",
   "feeds_count": 17,
-  "total_entries": 90,
+  "total_entries": 100,
   "feeds": [
     {
       "name": "Fed FOMC — Monetary Policy",
@@ -176,6 +176,55 @@
       "description": "Latest releases on the ECB website - Press releases, speeches and interviews, press conferences.",
       "entries": [
         {
+          "title": "Philip R. Lane: Outlook for the euro area economy",
+          "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260724~d484b483b9.en.pdf",
+          "published": "Fri, 24 Jul 2026 17:30:00 +0200",
+          "description": "",
+          "relevant": true
+        },
+        {
+          "title": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
+          "link": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc260724~eebbc30622.en.html",
+          "published": "Fri, 24 Jul 2026 15:00:00 +0200",
+          "description": "",
+          "relevant": true
+        },
+        {
+          "title": "ECB to extend use of climate factors in Eurosystem collateral framework to non-financial corporate credit claims",
+          "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260724_4~f082ce289d.en.html",
+          "published": "Fri, 24 Jul 2026 12:00:00 +0200",
+          "description": "",
+          "relevant": true
+        },
+        {
+          "title": "Results of the June 2026 survey on credit terms and conditions in euro-denominated securities financing and OTC derivatives markets (SESFOD)",
+          "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260724_3~c0b45e246f.en.html",
+          "published": "Fri, 24 Jul 2026 11:00:00 +0200",
+          "description": "",
+          "relevant": true
+        },
+        {
+          "title": "ECB to start implementing enhanced repo facility for central banks",
+          "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260724_2~d7d475d2f0.en.html",
+          "published": "Fri, 24 Jul 2026 10:30:00 +0200",
+          "description": "",
+          "relevant": true
+        },
+        {
+          "title": "Results of the ECB Survey of Professional Forecasters for the third quarter of 2026",
+          "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260724~a099353951.en.html",
+          "published": "Fri, 24 Jul 2026 10:00:00 +0200",
+          "description": "",
+          "relevant": true
+        },
+        {
+          "title": "ECB Consumer Expectations Survey results – June 2026",
+          "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260724_1~fa277eb6fe.en.html",
+          "published": "Fri, 24 Jul 2026 10:00:00 +0200",
+          "description": "",
+          "relevant": true
+        },
+        {
           "title": "ECB reveals shortlisted designs for new banknotes and launches public survey",
           "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260723~c2d43f9170.en.html",
           "published": "Thu, 23 Jul 2026 16:15:00 +0200",
@@ -195,63 +244,11 @@
           "published": "Thu, 23 Jul 2026 14:15:00 +0200",
           "description": "",
           "relevant": true
-        },
-        {
-          "title": "ECB appoints Boris Kisselevsky as Director General Secretariat",
-          "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260721_1~8c6ba4c5fb.en.html",
-          "published": "Tue, 21 Jul 2026 16:00:00 +0200",
-          "description": "",
-          "relevant": true
-        },
-        {
-          "title": "July 2026 euro area bank lending survey",
-          "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260721~44ee50f75c.en.html",
-          "published": "Tue, 21 Jul 2026 10:00:00 +0200",
-          "description": "",
-          "relevant": true
-        },
-        {
-          "title": "Survey on the Access to Finance of Enterprises: lending conditions tightened",
-          "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260720~cafc3874a7.en.html",
-          "published": "Mon, 20 Jul 2026 10:00:00 +0200",
-          "description": "",
-          "relevant": false,
-          "_skip_reason": "no_macro_keyword"
-        },
-        {
-          "title": "Piero Cipollone: The cooperative spirit at the heart of the digital euro",
-          "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260717~b6a156dc40.en.html",
-          "published": "Fri, 17 Jul 2026 12:00:00 +0200",
-          "description": "",
-          "relevant": true
-        },
-        {
-          "title": "Piero Cipollone: Interview with Ouest-France",
-          "link": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260715~ab95a43007.en.html",
-          "published": "Wed, 15 Jul 2026 08:00:00 +0200",
-          "description": "",
-          "relevant": false,
-          "_skip_reason": "no_macro_keyword"
-        },
-        {
-          "title": "ECB selects 36 payment service providers to join digital euro pilot",
-          "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260714~8cd07d9d45.en.html",
-          "published": "Tue, 14 Jul 2026 11:00:00 +0200",
-          "description": "",
-          "relevant": true
-        },
-        {
-          "title": "Piero Cipollone: Interview with Jornal de Negocios",
-          "link": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260713~d928475792.en.html",
-          "published": "Mon, 13 Jul 2026 19:00:00 +0200",
-          "description": "",
-          "relevant": false,
-          "_skip_reason": "no_macro_keyword"
         }
       ],
       "count": 10,
       "domain": "Europe",
-      "relevant_count": 7
+      "relevant_count": 10
     },
     {
       "name": "BOJ — Monetary Policy Statements",
@@ -428,6 +425,34 @@
       "description": "Nonpartisan budgetary and economic analysis for the U.S. Congress.",
       "entries": [
         {
+          "title": "S. 4443, Eastern Mediterranean Gateway Act",
+          "link": "https://www.cbo.gov/publication/62584",
+          "published": "Fri, 24 Jul 2026 17:30:34 -0400",
+          "description": "As ordered reported by the Senate Committee on Foreign Relations on June 17, 2026",
+          "relevant": true
+        },
+        {
+          "title": "S. 4680, Expanded Consular Fellows Act of 2026",
+          "link": "https://www.cbo.gov/publication/62577",
+          "published": "Fri, 24 Jul 2026 17:23:00 -0400",
+          "description": "As ordered reported by the Senate Committee on Foreign Relations on June 17, 2026",
+          "relevant": true
+        },
+        {
+          "title": "S. 3018, a bill to permit visiting dignitaries and service members from Taiwan to display the flag of the Republic of China",
+          "link": "https://www.cbo.gov/publication/62600",
+          "published": "Fri, 24 Jul 2026 15:22:00 -0400",
+          "description": "As ordered reported by the Senate Committee on Foreign Relations on June 17, 2026",
+          "relevant": true
+        },
+        {
+          "title": "S. 3733, a bill to amend the Passport Act of June 4, 1920, to authorize certain public libraries to collect and retain a fee for the execution of a passport application",
+          "link": "https://www.cbo.gov/publication/62593",
+          "published": "Fri, 24 Jul 2026 12:49:00 -0400",
+          "description": "As ordered reported by the Senate Committee on Foreign Relations on June 17, 2026",
+          "relevant": true
+        },
+        {
           "title": "H.R. 8096, Duplication Scoring Act of 2026",
           "link": "https://www.cbo.gov/publication/62599",
           "published": "Thu, 23 Jul 2026 14:11:00 -0400",
@@ -438,7 +463,7 @@
           "title": "Federal Subsidies for Health Insurance, 2026 to 2036",
           "link": "https://www.cbo.gov/publication/62539",
           "published": "Thu, 23 Jul 2026 14:00:00 -0400",
-          "description": "Federal subsidies for health insurance total $33.6 trillion over the 2026–2036 period in CBO and JCT’s projections. Those estimated subsidies grow from 7.4 percent of gross domestic product (GDP) in 2026 to 8.4 percent of GDP in 2036.",
+          "description": "Federal subsidies for health insurance total $33.6 trillion over the 2026–2036 period in CBO and JCT's projections. Those estimated subsidies grow from 7.4 percent of gross domestic product (GDP) in 2026 to 8.4 percent of GDP in 2036.",
           "relevant": true
         },
         {
@@ -467,34 +492,6 @@
           "link": "https://www.cbo.gov/publication/62592",
           "published": "Wed, 22 Jul 2026 08:01:00 -0400",
           "description": "As ordered reported by the House Committee on Foreign Affairs on May 13, 2026",
-          "relevant": true
-        },
-        {
-          "title": "S. 3303, Leveraging Integrated Networks in Communities for Veterans Act",
-          "link": "https://www.cbo.gov/publication/62572",
-          "published": "Mon, 20 Jul 2026 16:11:00 -0400",
-          "description": "As ordered reported by the Senate Committee on Veterans’ Affairs on March 18, 2026",
-          "relevant": true
-        },
-        {
-          "title": "S. 410, Love Lives On Act of 2025",
-          "link": "https://www.cbo.gov/publication/62582",
-          "published": "Fri, 17 Jul 2026 12:46:00 -0400",
-          "description": "As ordered reported by the Senate Committee on Veterans’ Affairs on March 18, 2026",
-          "relevant": true
-        },
-        {
-          "title": "H.R. 7003, BIS Strategic Talent Recruitment to Enhance National Guardrails for Technological Handling Act",
-          "link": "https://www.cbo.gov/publication/62583",
-          "published": "Fri, 17 Jul 2026 08:51:00 -0400",
-          "description": "As ordered reported by the House Committee on Foreign Affairs on April 22, 2026",
-          "relevant": true
-        },
-        {
-          "title": "H.R. 7127, Restoring the Secondary Trading Market Act",
-          "link": "https://www.cbo.gov/publication/62581",
-          "published": "Thu, 16 Jul 2026 14:35:00 -0400",
-          "description": "As reported by the House Committee on Financial Services on March 25, 2026",
           "relevant": true
         }
       ],
@@ -670,11 +667,85 @@
       "name": "Lyn Alden",
       "url": "https://www.lynalden.com/feed/",
       "channel": "Lyn Alden",
-      "entries": [],
-      "count": 0,
-      "_error": "not well-formed (invalid token): line 1, column 119",
+      "description": "Investment Strategy",
+      "entries": [
+        {
+          "title": "An Alternative to Private Equity: Introducing ORANGE JUICE",
+          "link": "https://www.lynalden.com/orange-juice/",
+          "published": "Wed, 15 Jul 2026 14:16:27 +0000",
+          "description": "July 15, 2026 The rest of the team at Ego Death Capital and I have partnered with Adrian Steckel and Ruben Zweiban to launch ORANGE JUICE. It&#8217;s a company that acquires, improves, and permanently holds cash-flowing businesses, backed by a bitcoin treasury. More specifically, ORANGE JUICE seeks to acquire profitable small and mid-sized businesses at [&#8230;] \n The post  An Alternative to Private Equity: Introducing ORANGE JUICE  appeared first on  Lyn Alden .",
+          "relevant": true
+        },
+        {
+          "title": "New Book: The Stolguard Incident",
+          "link": "https://www.lynalden.com/the-stolguard-incident/",
+          "published": "Fri, 13 Mar 2026 13:29:44 +0000",
+          "description": "My new sci fi thriller, The Stolguard Incident, is now available! It can be purchased in print, ebook, or audio versions on Amazon here. You can also find the print version on Barnes &#38; Noble here, or you may be able to ask your local bookstore to order it for you. Premise: In the late [&#8230;] \n The post  New Book: The Stolguard Incident  appeared first on  Lyn Alden .",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
+        },
+        {
+          "title": "Fractional Reserve Banking 101",
+          "link": "https://www.lynalden.com/fractional-reserve-banking/",
+          "published": "Wed, 11 Mar 2026 23:04:33 +0000",
+          "description": "Banks work in ways that are unintuitive for a lot of people. And yet, understanding the banking system as a whole is really helpful for investing, because having a grasp of how the banking system is functioning helps you determine whether you should expect monetary inflation or disinflation, and whether the risks of widespread financial [&#8230;] \n The post  Fractional Reserve Banking 101  appeared first on  Lyn Alden .",
+          "relevant": true
+        },
+        {
+          "title": "Why Most Cryptocurrencies Won’t Accrue Value",
+          "link": "https://www.lynalden.com/why-most-cryptocurrencies-wont-accrue-value/",
+          "published": "Mon, 01 Dec 2025 17:45:10 +0000",
+          "description": "December 2025 For many years now, I&#8217;ve been bullish on bitcoin, and continue to be, but have not extended that view toward any other cryptocurrency. That decision continues to hold up well. Since I first recommended it in April 2020, it has gone from $6,900 to $126,000, and is currently back down to around $85,000. [&#8230;] \n The post  Why Most Cryptocurrencies Won&#8217;t Accrue Value  appeared first on  Lyn Alden .",
+          "relevant": true
+        },
+        {
+          "title": "The Rise of Bitcoin Stocks and Bonds",
+          "link": "https://www.lynalden.com/bitcoin-stocks-and-bonds/",
+          "published": "Sun, 06 Jul 2025 14:03:34 +0000",
+          "description": "Originally published: July 2025 During the past year or so, the Bitcoin ecosystem has largely been led by the rise of corporate bitcoin treasury strategies. Although Strategy (MSTR) pioneered the trend back in 2020, the follow-on adoption by others was slow. However, after yet another cycle of bear market and bull market activity, as well [&#8230;] \n The post  The Rise of Bitcoin Stocks and Bonds  appeared first on  Lyn Alden .",
+          "relevant": true
+        },
+        {
+          "title": "Twitter/X Restored",
+          "link": "https://www.lynalden.com/twitter-compromised/",
+          "published": "Thu, 27 Feb 2025 23:16:32 +0000",
+          "description": "My Twitter/X account was compromised from February 26th to March 3rd, but I confirm that I&#8217;ve regained control of it now. Thank you to everyone who helped make it happen. Fortunately, I still had access to Nostr during that time (e.g. primal.net/lyn), which is decentralized social media. Eight months ago, at the Oslo Freedom Forum, [&#8230;] \n The post  Twitter/X Restored  appeared first on  Lyn Alden .",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
+        },
+        {
+          "title": "Full Steam Ahead: All Aboard Fiscal Dominance",
+          "link": "https://www.lynalden.com/full-steam-ahead-all-aboard-fiscal-dominance/",
+          "published": "Wed, 08 Jan 2025 12:51:03 +0000",
+          "description": "This research piece on fiscal dominance in the United States was compiled and written by Sam Callahan, and commissioned and advised by Lyn Alden. Published: January 2025 Executive Summary • Structural fiscal deficits have surpassed private sector lending and monetary policy as the primary drivers of economic activity and inflation, marking a fundamental shift in [&#8230;] \n The post  Full Steam Ahead: All Aboard Fiscal Dominance  appeared first on  Lyn Alden .",
+          "relevant": true
+        },
+        {
+          "title": "Bitcoin: A Global Liquidity Barometer",
+          "link": "https://www.lynalden.com/bitcoin-a-global-liquidity-barometer/",
+          "published": "Tue, 24 Sep 2024 17:59:32 +0000",
+          "description": "This research piece on the correlation between measures of liquidity and the price of Bitcoin was compiled and written by Sam Callahan, and commissioned and advised by Lyn Alden. Published: September 2024 Executive Summary Bitcoin moves in the direction of global liquidity 83% of the time in any given 12-month period, which is higher than [&#8230;] \n The post  Bitcoin: A Global Liquidity Barometer  appeared first on  Lyn Alden .",
+          "relevant": true
+        },
+        {
+          "title": "A New Look at Corporate Treasury Strategy",
+          "link": "https://www.lynalden.com/a-new-look-at-corporate-treasury-strategy/",
+          "published": "Sun, 04 Aug 2024 16:08:13 +0000",
+          "description": "Published: August 2024 In the modern era of corporate finance, the balance sheet of a corporation has trended toward being less important relative to the income statement. Back during Benjamin Graham&#8217;s quintessential value investing days, he looked at balance sheet valuation metrics almost as much as he did income-related valuation metrics. But in modern times, [&#8230;] \n The post  A New Look at Corporate Treasury Strategy  appeared first on  Lyn Alden .",
+          "relevant": true
+        },
+        {
+          "title": "The Power of Nostr: Decentralized Social Media and More",
+          "link": "https://www.lynalden.com/the-power-of-nostr/",
+          "published": "Sat, 20 Jul 2024 19:48:33 +0000",
+          "description": "Published: July 2024 It would be powerful if you could bring your digital identity, content, and followers from one social ecosystem, such as Twitter, LinkedIn, Instagram, or Substack, to another. Imagine if you could publish content and send messages in any of those types of ecosystems, with one continuous digital identity rather than separate accounts. [&#8230;] \n The post  The Power of Nostr: Decentralized Social Media and More  appeared first on  Lyn Alden .",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
+        }
+      ],
+      "count": 10,
       "domain": "US Fiscal",
-      "relevant_count": 0
+      "relevant_count": 7
     },
     {
       "name": "Doomberg — Substack",
