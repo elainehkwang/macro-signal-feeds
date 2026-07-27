@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T23:00:50.901773+00:00",
+  "generated_at": "2026-07-27T22:53:03.673669+00:00",
   "source": "podcast_rss",
   "feeds_count": 5,
   "total_episodes": 40,
@@ -10,6 +10,14 @@
       "domain": "US Fiscal",
       "description": "Allocator and asset management expert, Ted Seides, conducts in-depth interviews with leaders in the institutional investing industry. Guests include Chief Investment Officers from leading allocators, asset managers, strategists, thought leaders, and many more. Our mission is to learn, share, and help implement the process of premier investors. Learn more and join our community at capitalallocators.com.",
       "episodes": [
+        {
+          "title": "Rebuilding the NYU Endowment – Michelle Knudsen (EP.513)",
+          "link": "https://tedseides.libsyn.com/rebuilding-the-nyu-endowment-michelle-knudsen-ep513",
+          "published": "Mon, 27 Jul 2026 08:00:00 +0000",
+          "description": "Michelle Knudsen is Chief Investment Officer of NYU, where she oversees the university's $8 billion endowment. Michelle joined NYU two years ago, after fourteen years as an allocator at Partners Capital and the Mellon Foundation, with a mandate to build a best-in-class endowment from a clean sheet of paper.        Our conversation traces Michelle's lessons learned working at Goldman Sachs, a growing OCIO, and a foundation that shaped her investment philosophy and views on portfolio construction, risk management, and manager selection. We then turn to the transformation of NYU's investment office from the ground up across governance, portfolio strategy, investment process, and the team. Along the way, we discuss manager selection, emerging managers, venture capital, hedge funds, AI, stress",
+          "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/tedseides/CA_-_EP.513_Michelle_Knudsen_-_AUDIO_V1.mp3?dest-id=482814",
+          "duration": "01:10:45"
+        },
         {
           "title": "Senior Decision Makers: Luis Laboy, Hewlett Foundation (EP.512)",
           "link": "https://tedseides.libsyn.com/senior-decision-makers-luis-laboy-hewlett-foundation-ep512",
@@ -81,14 +89,6 @@
           "description": "This WTT, AI: Fundamentals, Valuation, and the Next Allocator Dilemma takes on a high-level assessment of AI companies as late-stage private winners prepare to go public, and the next big challenge allocators face as a result.    Read Ted's blog   here .    Editing and post-production work for this episode was provided by The Podcast Consultant (  ⁠  https://thepodcastconsultant.com  ⁠  )",
           "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/tedseides/CA_-_WTT.AI_-_AUDIO_V2.mp3?dest-id=482814",
           "duration": "08:17"
-        },
-        {
-          "title": "Hotel Investing at EOS – Jonathan Wang (EP.506)",
-          "link": "https://tedseides.libsyn.com/hotel-investing-at-eos-jonathan-wang-ep506",
-          "published": "Mon, 15 Jun 2026 08:00:00 +0000",
-          "description": "Jonathan Wang is the founder and CEO of EOS Investors, where he has built three real estate investment platforms totaling $2 billion  in assets under management across the hotel and residential sectors. Jonathan also  created a wholly owned hotel management company that  oversees 60 properties for the EOS funds and five core partners.            Our conversation covers Jonathan's path to hotel investing and EOS' hotel investment process across market selection, property type, underwriting, vertically integrated operations, and managing through cycles. We also discuss extensions into residential real estate, hotel credit, and opportunities and risks going forward.                              Editing and post-production work for this episode was provided by The Podcast Consultant (  ⁠  http",
-          "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/tedseides/CA_-_EP.506_Jonathan_Wang_-_AUDIO_V1.mp3?dest-id=482814",
-          "duration": "56:18"
         }
       ]
     },
@@ -275,6 +275,14 @@
       "description": "Hosted by David Beckworth of the Mercatus Center, Macro Musings pulls back the curtain on the important macroeconomic issues of the past, present, and future.",
       "episodes": [
         {
+          "title": "David Wessel on the Fed's Current Inflection Point",
+          "link": "https://macromusings.libsyn.com/david-wessel-on-the-feds-current-inflection-point",
+          "published": "Mon, 27 Jul 2026 09:00:00 +0000",
+          "description": "David Wessel is a senior fellow in economic studies at Brookings and is the director of the Hutchins Center on Fiscal and Monetary Policy. In David's first appearance on the show, he discusses stories of the Greenspan Fed, what is was like in Europe when the euro was adopted, the legacy of the Powell Fed, his thoughts on the great man theory, the outlook for the Kevin Warsh Fed, the ongoing challenge of Fed independence, and much more.       Watch  the full length video  on our new YouTube Channel!     Check out the   transcript  for this week's episode, now with links.   Recorded on June 15th, 2026   Subscribe to David's Substack:  Macroeconomic Policy Nexus    Follow David Beckworth on X:  @DavidBeckworth    Follow David Wessel on X:  @DavidMWessel    Follow the show on X:  @Macro_Musing",
+          "audio_url": "https://traffic.libsyn.com/secure/macromusings/MM-553-DavidWessel-Podcast-Final.mp3?dest-id=865793",
+          "duration": "55:54"
+        },
+        {
           "title": "Sam Lyman on the Digital Payments Race Between the US and China",
           "link": "https://macromusings.libsyn.com/sam-lyman-on-the-digital-payments-race-between-the-us-and-china",
           "published": "Mon, 20 Jul 2026 09:00:00 +0000",
@@ -345,14 +353,6 @@
           "description": "David Zaring is legal scholar and professor at the University of Pennsylvania. In David's first appearance on the show, he discusses the role the Great Financial Crisis played in FinReg scholarship, how he came up with the term \"skinny\" in the new skinny Fed master accounts, the tumultuous road of Custodia vs. the Fed, a reimagined way to look at federal bank charters, whether commerce and banking are actually still separate, Fed independence and how it functions in a more corporatist model, and much more.       Watch  the full length video  on our new YouTube Channel!     Check out the  transcript  for this week's episode, now with links.   Recorded on April 24th, 2026   Subscribe to David's Substack:  Macroeconomic Policy Nexus    Follow David Beckworth on X:  @DavidBeckworth    Follow D",
           "audio_url": "https://traffic.libsyn.com/secure/macromusings/MM-544-DavidZaring-Audio-Final.mp3?dest-id=865793",
           "duration": "55:50"
-        },
-        {
-          "title": "Bill Beach on the Future of United States' Economic Statistics and Fiscal Position",
-          "link": "https://macromusings.libsyn.com/bill-beach-on-the-future-of-united-states-economic-statistics-and-fiscal-position",
-          "published": "Mon, 18 May 2026 11:30:00 +0000",
-          "description": "Bill Beach is the former commissioner of the US Bureau of Labor Statistics and the current executive director of the Fiscal Lab on Capitol Hill. In Bill's first appearance on the show he discusses a career in and around public service, the important niche his new organization fills, the frightening fiscal outlook of the United States, exactly how long we have before Social Security runs out, why he believes it will take lots of small changes instead of a big one to fix our fiscal outlook, the important role of the BLS, why our statistical methods needs reform, the most underrated economic statistical indicators, and much more.       Watch  the full length video  on our new YouTube Channel!     Check out the  transcript  for this week's episode, now with links.   Recorded on April 15th, 202",
-          "audio_url": "https://traffic.libsyn.com/secure/macromusings/MM-543-BillBeach-Audio-Final.mp3?dest-id=865793",
-          "duration": "52:53"
         }
       ]
     },
