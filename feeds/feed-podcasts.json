@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T23:00:53.619095+00:00",
+  "generated_at": "2026-07-28T22:51:51.413071+00:00",
   "source": "podcast_rss",
   "feeds_count": 5,
   "total_episodes": 40,
@@ -187,6 +187,14 @@
       "description": "Conversations with the best investors and business leaders in the world. We explore their ideas, methods, and stories to help you better invest your time and money. Hear stock market and boardroom insights you can't find anywhere else. If you're a professional investor, CEO, entrepreneur, or business strategist, this is for you. Explore all our episodes and learn more at https://www.colossus.com",
       "episodes": [
         {
+          "title": "Sam Altman - How to Make an Abundant Future - [Invest Like the Best, EP.484]",
+          "link": "https://colossus.com/episode/how-to-make-an-abundant-future/",
+          "published": "Tue, 28 Jul 2026 08:00:00 -0000",
+          "description": "My guest today is Sam Altman, CEO of OpenAI.\n\nIt's a conversation spanning the history, present, and future of OpenAI, from the origin of ChatGPT through Codex, hardware, and their new Jalapeno chip.\n\nWe discuss the early decision to buy compute at a scale nobody thought was rational, and the plan to build a gigawatt of new capacity every week.&nbsp;\n\nWe talk about Kimi and distillation, the Hugging Face incident and what it means for the pace of AI development, and what it's like to raise kids who will grow up never knowing a world without abundant intelligence.&nbsp;\n\nPlease enjoy my conversation with Sam Altman.\n\nFor the full show notes, transcript, and links to mentioned content, check out the episode page ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠here⁠⁠⁠⁠⁠.&nbsp;\n\n-----\n\nBecome a Colossus member to get our quar",
+          "audio_url": "https://traffic.megaphone.fm/CLS4111343994.mp3",
+          "duration": "3213"
+        },
+        {
           "title": "Matthew Smith — Natural Gas: The Next Bottleneck - [Invest Like the Best, EP.483]",
           "link": "https://colossus.com/episode/americas-next-energy-crisis/",
           "published": "Tue, 21 Jul 2026 08:00:00 -0000",
@@ -257,14 +265,6 @@
           "description": "My guest today is Dan Loeb, the founder and CEO of Third Point. \n\nDan started Third Point in 1995 with a few million dollars, and today the firm manages over 24 billion across equities, corporate and structured credit, venture, and insurance. \n\nHe is best known for his activist work at companies like Sotheby's, Sony, and Yahoo, and for the public letters he has written to boards over the years.\n\nWhat I find most interesting about Dan is how much his approach has evolved across thirty years. \n\nHe came up as a credit and event-driven investor at Warburg Pincus and Jefferies, built Third Point, then layered in quality investing, thematic technology investing, and now a very large credit business that sits alongside the hedge fund.\n\nWe cover how he thinks about the AI stack and the companies i",
           "audio_url": "https://traffic.megaphone.fm/CLS8547493168.mp3",
           "duration": "3783"
-        },
-        {
-          "title": "Darren Farber on Iran, China, and the Rise of Neoprimes - [Invest Like the Best, EP.474]",
-          "link": "https://colossus.com/episode/the-new-rules-of-war/",
-          "published": "Tue, 26 May 2026 08:00:00 -0000",
-          "description": "My guest today is Darren Farber, and this is his second appearance on the show.\n\nDarren is a Managing Partner of Albion River, a defense-focused investment firm and he previously served as a special advisor to the Deputy Under Secretary of Defense.\n\nWe recorded this conversation in the middle of the Iranian contingency, and we spent most of our time on what winning actually means in a theater like Iran.\n\nWe discuss why magazine depth matters for the American industrial base, lessons from Ukraine, and what the rise of neo-prime defense companies will require from Congress.\n\nPlease enjoy my second conversation with Darren Farber.\n\nFor the full show notes, transcript, and links to mentioned content, check out the episode page ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠here⁠⁠⁠⁠⁠. \n\n-----\n\nBecome a Colossus member to get",
-          "audio_url": "https://traffic.megaphone.fm/CLS3936356790.mp3",
-          "duration": "2779"
         }
       ]
     },
