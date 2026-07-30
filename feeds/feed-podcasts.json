@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T23:01:00.969692+00:00",
+  "generated_at": "2026-07-30T22:56:43.934130+00:00",
   "source": "podcast_rss",
   "feeds_count": 5,
   "total_episodes": 40,
@@ -10,6 +10,14 @@
       "domain": "US Fiscal",
       "description": "Allocator and asset management expert, Ted Seides, conducts in-depth interviews with leaders in the institutional investing industry. Guests include Chief Investment Officers from leading allocators, asset managers, strategists, thought leaders, and many more. Our mission is to learn, share, and help implement the process of premier investors. Learn more and join our community at capitalallocators.com.",
       "episodes": [
+        {
+          "title": "Building Durable Real Estate Portfolios at Morgan Stanley – Lauren Hochfelder (EP.514)",
+          "link": "https://tedseides.libsyn.com/building-durable-real-estate-portfolios-at-morgan-stanley-lauren-hochfelder-ep514",
+          "published": "Thu, 30 Jul 2026 08:00:00 +0000",
+          "description": "Lauren Hochfelder is Head of Global Real Assets at Morgan Stanley, where she oversees a team of 300 investment professionals across 13 countries, managing $80 billion across real estate, infrastructure, equity and credit. Lauren joined Morgan Stanley as an investment banking analyst directly out of Yale 26 years ago and has spent her entire career at the firm, helping build one of the industry's leading platforms.           Our conversation traces Lauren's journey from analyst to Global Head and the evolution of Morgan Stanley's real estate business before, during, and after the Global Financial Crisis. We cover the firm's thematic approach to investing behind structural demand tailwinds, combination of global perspectives and on-the-ground teams, operational improvements to assets, portfo",
+          "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/tedseides/CA_-_EP.514_Lauren_Hochfelder_-_AUDIO_V1.mp3?dest-id=482814",
+          "duration": "44:37"
+        },
         {
           "title": "Rebuilding the NYU Endowment – Michelle Knudsen (EP.513)",
           "link": "https://tedseides.libsyn.com/rebuilding-the-nyu-endowment-michelle-knudsen-ep513",
@@ -81,14 +89,6 @@
           "description": "Collette Chilton is the CIO of Williams College where she has overseen its $3 billion since 2006. Collette is nothing short of a legend in the business. She has sat in a CIO seat since the early 1990s at the helm of public pension MassPrim and corporate pension Lucent before joining Williams. Institutional Investors bestowed its Lifetime Achievement Award on Collette in 2019, and Barron's named her one of the 100 Most Influential Women in Finance in 2020.       Our conversation covers Collette's career path and lessons learned before joining Williams. We then turn to her arrival at Williams in 2006 to a phone, a computer, and a legacy portfolio, Williams' governance structure leveraging alumni advisors, asset allocation, manager selection, manager monitoring, hedge funds, venture capital,",
           "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/tedseides/REPLAY_-_EP.174_-_Collette_Chilton_FINAL.mp3?dest-id=482814",
           "duration": "53:46"
-        },
-        {
-          "title": "WTT: AI: Fundamentals, Valuation, and the Next Allocator Dilemma",
-          "link": "https://tedseides.libsyn.com/wtt-ai-fundamentals-valuation-and-the-next-allocator-dilemma",
-          "published": "Wed, 17 Jun 2026 08:00:00 +0000",
-          "description": "This WTT, AI: Fundamentals, Valuation, and the Next Allocator Dilemma takes on a high-level assessment of AI companies as late-stage private winners prepare to go public, and the next big challenge allocators face as a result.    Read Ted's blog   here .    Editing and post-production work for this episode was provided by The Podcast Consultant (  ⁠  https://thepodcastconsultant.com  ⁠  )",
-          "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/tedseides/CA_-_WTT.AI_-_AUDIO_V2.mp3?dest-id=482814",
-          "duration": "08:17"
         }
       ]
     },

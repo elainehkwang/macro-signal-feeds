@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-29T23:01:00.969692+00:00",
+  "generated_at": "2026-07-30T22:56:43.934130+00:00",
   "source": "rss",
   "feeds_count": 17,
-  "total_entries": 160,
+  "total_entries": 100,
   "feeds": [
     {
       "name": "Fed FOMC — Monetary Policy",
@@ -91,12 +91,83 @@
     {
       "name": "TreasuryDirect — Auction Results",
       "url": "https://www.treasurydirect.gov/TA_WS/securities/auctioned/rss",
-      "channel": "TreasuryDirect — Auction Results",
-      "entries": [],
-      "count": 0,
-      "_error": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1016)",
+      "channel": "Treasury Offering Announcements",
+      "description": "Treasury Offering Announcements",
+      "entries": [
+        {
+          "title": "4-Week Bill Treasury Auction Results",
+          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
+          "published": "Thu, 30 Jul 2026 15:33:16 GMT",
+          "description": "CUSIP:  912797UW5  Term and Type:  4-Week Bill  CMB:  No  High Rate:  3.630%  Investment Rate:  3.691%  Price:  $99.717667  Allotted at High:  50.42%  Total Tendered:  $313,616,942,600  Total Accepted:  $116,011,412,600  Auction Date:  07/30/2026  Issue Date:  08/04/2026  Maturity Date:  09/01/2026  PDF  |  XML",
+          "relevant": true
+        },
+        {
+          "title": "8-Week Bill Treasury Auction Results",
+          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
+          "published": "Thu, 30 Jul 2026 15:33:15 GMT",
+          "description": "CUSIP:  912797VE4  Term and Type:  8-Week Bill  CMB:  No  High Rate:  3.675%  Investment Rate:  3.747%  Price:  $99.428333  Allotted at High:  19.59%  Total Tendered:  $279,559,806,500  Total Accepted:  $105,463,816,500  Auction Date:  07/30/2026  Issue Date:  08/04/2026  Maturity Date:  09/29/2026  PDF  |  XML",
+          "relevant": true
+        },
+        {
+          "title": "17-Week Bill Treasury Auction Results",
+          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
+          "published": "Wed, 29 Jul 2026 15:33:23 GMT",
+          "description": "CUSIP:  912797VZ7  Term and Type:  17-Week Bill  CMB:  No  High Rate:  3.875%  Investment Rate:  3.980%  Price:  $98.719097  Allotted at High:  22.52%  Total Tendered:  $222,474,668,500  Total Accepted:  $75,934,306,500  Auction Date:  07/29/2026  Issue Date:  08/04/2026  Maturity Date:  12/01/2026  PDF  |  XML",
+          "relevant": true
+        },
+        {
+          "title": "2-Year FRN Treasury Auction Results",
+          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
+          "published": "Wed, 29 Jul 2026 15:33:22 GMT",
+          "description": "CUSIP:  91282CRD5  Term and Type:  2-Year FRN  Series:  BF-2028  Reopening:  No  Spread:  0.050%  High Discount Margin:  0.050%  Price:  $100.000000  Allotted at High:  81.82%  Total Tendered:  $104,315,845,400  Total Accepted:  $33,317,226,800  Auction Date:  07/29/2026  Issue Date:  07/31/2026  Maturity Date:  07/31/2028  PDF  |  XML",
+          "relevant": true
+        },
+        {
+          "title": "7-Year Note Treasury Auction Results",
+          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
+          "published": "Tue, 28 Jul 2026 17:03:18 GMT",
+          "description": "CUSIP:  91282CRC7  Term and Type:  7-Year Note  Series:  N-2033  Reopening:  No  Interest Rate:  4.375%  High Yield:  4.473%  Price:  $99.416549  Allotted at High:  95.17%  Total Tendered:  $114,269,981,000  Total Accepted:  $48,864,691,000  Auction Date:  07/28/2026  Issue Date:  07/31/2026  Maturity Date:  07/31/2033  PDF  |  XML",
+          "relevant": true
+        },
+        {
+          "title": "6-Week Bill Treasury Auction Results",
+          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
+          "published": "Tue, 28 Jul 2026 15:33:23 GMT",
+          "description": "CUSIP:  912797UF2  Term and Type:  6-Week Bill  CMB:  No  High Rate:  3.700%  Investment Rate:  3.768%  Price:  $99.568333  Allotted at High:  82.07%  Total Tendered:  $284,859,462,800  Total Accepted:  $101,676,424,300  Auction Date:  07/28/2026  Issue Date:  07/30/2026  Maturity Date:  09/10/2026  PDF  |  XML",
+          "relevant": true
+        },
+        {
+          "title": "13-Week Bill Treasury Auction Results",
+          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
+          "published": "Mon, 27 Jul 2026 17:03:23 GMT",
+          "description": "CUSIP:  912797SK4  Term and Type:  13-Week Bill  CMB:  No  High Rate:  3.815%  Investment Rate:  3.906%  Price:  $99.035653  Allotted at High:  83.44%  Total Tendered:  $288,246,049,300  Total Accepted:  $98,464,640,400  Auction Date:  07/27/2026  Issue Date:  07/30/2026  Maturity Date:  10/29/2026  PDF  |  XML",
+          "relevant": true
+        },
+        {
+          "title": "5-Year Note Treasury Auction Results",
+          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
+          "published": "Mon, 27 Jul 2026 17:03:22 GMT",
+          "description": "CUSIP:  91282CRA1  Term and Type:  5-Year Note  Series:  AB-2031  Reopening:  No  Interest Rate:  4.375%  High Yield:  4.408%  Price:  $99.853357  Allotted at High:  51.71%  Total Tendered:  $167,491,570,900  Total Accepted:  $77,739,280,900  Auction Date:  07/27/2026  Issue Date:  07/31/2026  Maturity Date:  07/31/2031  PDF  |  XML",
+          "relevant": true
+        },
+        {
+          "title": "26-Week Bill Treasury Auction Results",
+          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
+          "published": "Mon, 27 Jul 2026 15:33:19 GMT",
+          "description": "CUSIP:  912797VU8  Term and Type:  26-Week Bill  CMB:  No  High Rate:  3.945%  Investment Rate:  4.081%  Price:  $98.005583  Allotted at High:  36.13%  Total Tendered:  $252,050,356,800  Total Accepted:  $84,551,548,800  Auction Date:  07/27/2026  Issue Date:  07/30/2026  Maturity Date:  01/28/2027  PDF  |  XML",
+          "relevant": true
+        },
+        {
+          "title": "2-Year Note Treasury Auction Results",
+          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
+          "published": "Mon, 27 Jul 2026 15:33:18 GMT",
+          "description": "CUSIP:  91282CRB9  Term and Type:  2-Year Note  Series:  BE-2028  Reopening:  No  Interest Rate:  4.250%  High Yield:  4.315%  Price:  $99.876720  Allotted at High:  69.04%  Total Tendered:  $191,306,231,700  Total Accepted:  $76,628,842,100  Auction Date:  07/27/2026  Issue Date:  07/31/2026  Maturity Date:  07/31/2028  PDF  |  XML",
+          "relevant": true
+        }
+      ],
+      "count": 10,
       "domain": "US Fiscal",
-      "relevant_count": 0
+      "relevant_count": 10
     },
     {
       "name": "ECB — Press Releases",
@@ -104,6 +175,13 @@
       "channel": "ECB - European Central Bank",
       "description": "Latest releases on the ECB website - Press releases, speeches and interviews, press conferences.",
       "entries": [
+        {
+          "title": "Digital euro app to incorporate highest accessibility standards",
+          "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260730~3b3bfbb565.en.html",
+          "published": "Thu, 30 Jul 2026 10:00:00 +0200",
+          "description": "",
+          "relevant": true
+        },
         {
           "title": "ECB wage tracker at 2.7% in Q1 2027, indicating stable negotiated wage pressures",
           "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260729~4ad7508d8a.en.html",
@@ -164,13 +242,6 @@
           "title": "ECB reveals shortlisted designs for new banknotes and launches public survey",
           "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260723~c2d43f9170.en.html",
           "published": "Thu, 23 Jul 2026 16:15:00 +0200",
-          "description": "",
-          "relevant": true
-        },
-        {
-          "title": "Christine Lagarde, Boris Vujčić: Monetary policy statement (with Q&A)",
-          "link": "https://www.ecb.europa.eu//press/press_conference/monetary-policy-statement/2026/html/ecb.is260723~b6fadd48f4.en.html",
-          "published": "Thu, 23 Jul 2026 15:00:00 +0200",
           "description": "",
           "relevant": true
         }
@@ -270,6 +341,20 @@
       "description": "News",
       "entries": [
         {
+          "title": "Minutes of the Meeting of the Court of Directors held on 4 June 2026",
+          "link": "https://www.bankofengland.co.uk/minutes/2026/july/court-minutes-4-june-2026",
+          "published": "Thu, 30 Jul 2026 14:00:00 +0100",
+          "description": "The Bank's Court of Directors acts as a unitary board, setting the organisation's strategy and budget and taking key decisions on resourcing and appointments. Required to meet a minimum seven times per year, it has five executive members from the Bank and up to nine non-executive members.",
+          "relevant": true
+        },
+        {
+          "title": "Bank Rate maintained at 3.75% - July 2026 Monetary Policy Summary and Minutes",
+          "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/july-2026",
+          "published": "Thu, 30 Jul 2026 12:00:00 +0100",
+          "description": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
+          "relevant": true
+        },
+        {
           "title": "Letter from the Governor to the Daily Mail",
           "link": "https://www.bankofengland.co.uk/letter/2026/letter-from-the-governor-to-the-daily-mail",
           "published": "Thu, 23 Jul 2026 17:00:00 +0100",
@@ -325,20 +410,6 @@
           "published": "Wed, 08 Jul 2026 15:00:00 +0100",
           "description": "Letter from the Governor",
           "relevant": true
-        },
-        {
-          "title": "Statistical Notice 2026/07 -  Bank of England Levy: Notification Document Levy Year 2026/27",
-          "link": "https://www.bankofengland.co.uk/statistics/notice/2026/statistical-notice-2026-07",
-          "published": "Wed, 08 Jul 2026 11:09:46 +0100",
-          "description": "Statistical Notices update the definitions and guidance contained in the Banking Statistics Yellow Folder",
-          "relevant": true
-        },
-        {
-          "title": "Financial Policy Committee Record – July 2026",
-          "link": "https://www.bankofengland.co.uk/financial-policy-committee-record/2026/july-2026",
-          "published": "Tue, 07 Jul 2026 10:30:00 +0100",
-          "description": "Our Financial Policy Committee (FPC) meets to identify risks to financial stability and agree policy actions aimed at safeguarding the resilience of the UK financial system.",
-          "relevant": true
         }
       ],
       "count": 10,
@@ -351,6 +422,48 @@
       "channel": "CBO Publications",
       "description": "Nonpartisan budgetary and economic analysis for the U.S. Congress.",
       "entries": [
+        {
+          "title": "H.R. 5517, Northern Border Security Enhancement and Review Act",
+          "link": "https://www.cbo.gov/publication/62608",
+          "published": "Thu, 30 Jul 2026 20:09:00 -0400",
+          "description": "As ordered reported by the House Committee on Homeland Security on June 24, 2026",
+          "relevant": true
+        },
+        {
+          "title": "H.R. 2985, Modernizing Government Technology Reform Act",
+          "link": "https://www.cbo.gov/publication/62617",
+          "published": "Thu, 30 Jul 2026 15:28:00 -0400",
+          "description": "As ordered reported by the House Committee on Oversight and Government Reform on February 4, 2026",
+          "relevant": true
+        },
+        {
+          "title": "S. 4665, Barring Adversarial Networks and Notorious Extremist Destabilizers in Latin America Act",
+          "link": "https://www.cbo.gov/publication/62613",
+          "published": "Thu, 30 Jul 2026 13:44:00 -0400",
+          "description": "As reported by the Senate Committee on Foreign Relations on July 27, 2026",
+          "relevant": true
+        },
+        {
+          "title": "S. 4708, Arctic Security and Diplomacy Act",
+          "link": "https://www.cbo.gov/publication/62614",
+          "published": "Thu, 30 Jul 2026 13:44:00 -0400",
+          "description": "As reported by the Senate Committee on Foreign Relations on July 27, 2026",
+          "relevant": true
+        },
+        {
+          "title": "S. 3676, American Decade of Sports Act",
+          "link": "https://www.cbo.gov/publication/62586",
+          "published": "Thu, 30 Jul 2026 10:33:00 -0400",
+          "description": "As reported by the Senate Committee on Foreign Relations on July 27, 2026",
+          "relevant": true
+        },
+        {
+          "title": "S. 4009, Falun Gong and Victims of Forced Organ Harvesting Protection Act",
+          "link": "https://www.cbo.gov/publication/62605",
+          "published": "Thu, 30 Jul 2026 10:33:00 -0400",
+          "description": "As reported by the Senate Committee on Foreign Relations on July 27, 2026",
+          "relevant": true
+        },
         {
           "title": "S. 3984, United States Commission on International Religious Freedom Reauthorization Act of 2026",
           "link": "https://www.cbo.gov/publication/62585",
@@ -379,48 +492,6 @@
           "description": "CBO describes a structural model for estimating how changes in permitting requirements affect private investment. The framework shows how longer or more uncertain permitting processes increase the user cost of capital and reduce investment.",
           "relevant": false,
           "_skip_reason": "no_macro_keyword"
-        },
-        {
-          "title": "H.R. 2804, Protecting Small Business Competitions Act of 2026",
-          "link": "https://www.cbo.gov/publication/62609",
-          "published": "Wed, 29 Jul 2026 11:36:00 -0400",
-          "description": "As reported by the House Committee on Small Business on July 2, 2026",
-          "relevant": true
-        },
-        {
-          "title": "Developments in CBO's Projections for Medicare Part D",
-          "link": "https://www.cbo.gov/publication/62549",
-          "published": "Wed, 29 Jul 2026 11:00:00 -0400",
-          "description": "CBO provides current information about the budgetary effects of drug provisions in the 2022 Reconciliation Act; the effects of drug price negotiation, inflation rebates, and the Medicare Part D redesign; and ongoing updates to CBO's models.",
-          "relevant": true
-        },
-        {
-          "title": "S. 1542, Uyghur Policy Act of 2026",
-          "link": "https://www.cbo.gov/publication/62606",
-          "published": "Tue, 28 Jul 2026 13:13:00 -0400",
-          "description": "As reported by the Senate Committee on Foreign Relations on July 27, 2026",
-          "relevant": true
-        },
-        {
-          "title": "S. 2252, Saving Lives and Taxpayer Dollars Act",
-          "link": "https://www.cbo.gov/publication/62607",
-          "published": "Tue, 28 Jul 2026 13:13:00 -0400",
-          "description": "As reported by the Senate Committee on Foreign Relations on July 27, 2026",
-          "relevant": true
-        },
-        {
-          "title": "Understanding Productivity Growth in CBO's Economic Forecast",
-          "link": "https://www.cbo.gov/publication/62564",
-          "published": "Tue, 28 Jul 2026 10:20:00 -0400",
-          "description": "Presentation by Aaron Betz, an analyst in CBO's Macroeconomic Analysis Division, at the NABE Foundation's 23rd Annual Economic Measurement Seminar.",
-          "relevant": true
-        },
-        {
-          "title": "S. 2333, Health Records Enhancement Act",
-          "link": "https://www.cbo.gov/publication/62587",
-          "published": "Mon, 27 Jul 2026 17:32:00 -0400",
-          "description": "As ordered reported by the Senate Committee on Veterans’ Affairs on March 18, 2026",
-          "relevant": true
         }
       ],
       "count": 10,
@@ -433,6 +504,62 @@
       "channel": "BIS — All Publications",
       "description": "",
       "entries": [
+        {
+          "title": "Eddie Yue: Response to media regarding the new measures announced by People Bank of China's Governor Pan Gongsheng",
+          "link": "https://www.bis.org/review/r260730f.htm",
+          "published": "2026-07-30T12:48:00Z",
+          "description": "Response by Mr Eddie Yue, Chief Executive of the Hong Kong Monetary Authority, to media  regarding the new measures announced by People Bank of China's Governor Pan Gongsheng at the Hong Kong FIC & Bond Connect Summit, jointly hosted by the Hong Kong Monetary Authority, the Securities and Futures Commission, Hong Kong Exchanges and Clearing Limited and Bond Connect Company Limited, Hong Kong, 7 July 2026.",
+          "relevant": true
+        },
+        {
+          "title": "Christopher J Waller: Two thoughts on the transmission of monetary policy",
+          "link": "https://www.bis.org/review/r260730e.htm",
+          "published": "2026-07-30T12:43:00Z",
+          "description": "Speech by Mr Christopher J Waller, Member of the Board of Governors of the Federal Reserve System, at the ChaMP Conference \"Challenges for monetary policy transmission in a changing world\", hosted by the Bank of Italy for the research network initiated by the European System of Central Banks, Rome, 6 July 2026.",
+          "relevant": true
+        },
+        {
+          "title": "Gabriel Makhlouf: Understanding your lane, managing turning points",
+          "link": "https://www.bis.org/review/r260730d.htm",
+          "published": "2026-07-30T12:40:00Z",
+          "description": "Speech by Mr Gabriel Makhlouf, Governor of the Central Bank of Ireland, at \"Les Rencontres Économiques d'Aix-en-Provence 2026 \"Navigating a world of uncertainty\", Aix-en-Provence, 3 July 2026.",
+          "relevant": true
+        },
+        {
+          "title": "Claudia Buch: Hearing of the Committee on Economic and Monetary Affairs of the European Parliament",
+          "link": "https://www.bis.org/review/r260730c.htm",
+          "published": "2026-07-30T12:36:00Z",
+          "description": "Introductory statement by Prof Claudia Buch, Chair of the Supervisory Board of the European Central Bank, at the Hearing of the Committee on Economic and Monetary Affairs of the European Parliament, Brussels, 2 July 2026.",
+          "relevant": true
+        },
+        {
+          "title": "Frank Elderson: The green transition - benefits and barriers",
+          "link": "https://www.bis.org/review/r260730b.htm",
+          "published": "2026-07-30T09:31:00Z",
+          "description": "Keynote speech by Mr Frank Elderson, Member of the Executive Board of the European Central Bank and Vice-Chair of the Supervisory Board of the European Central Bank, at the 7th World Congress of Environmental and Resource Economists, Lisbon, 2 July 2026.",
+          "relevant": true
+        },
+        {
+          "title": "Fabio Panetta: Finance for innovation and artificial intelligence as drivers of development",
+          "link": "https://www.bis.org/review/r260730a.htm",
+          "published": "2026-07-30T09:15:00Z",
+          "description": "Opening remarks by Mr Fabio Panetta, Governor of the Bank of Italy, at a conference organised by the Bank of Italy and the European Investment Bank, Rome, 2 July 2026.",
+          "relevant": true
+        },
+        {
+          "title": "Sarah Breeden: Agents of change",
+          "link": "https://www.bis.org/review/r260701h.htm",
+          "published": "2026-07-30T08:19:00Z",
+          "description": "Speech by Ms Sarah Breeden, Deputy Governor for Financial Stability of the Bank of England, at the ECB Forum on Central Banking 2026 \"Shaping Europe's future: innovation, growth and stability\", Sintra, 29 June 2026.",
+          "relevant": true
+        },
+        {
+          "title": "Christopher Kent: Additional monetary policy tools - reflections and a new framework",
+          "link": "https://www.bis.org/review/r260701f.htm",
+          "published": "2026-07-30T08:05:00Z",
+          "description": "Speech by Mr Christopher Kent, Assistant Governor (Financial Markets) of the Reserve Bank of Australia, at the Reserve Bank of Australia, Sydney, 29 June 2026.",
+          "relevant": true
+        },
         {
           "title": "AI and the global economy: implications for central banks",
           "link": "https://www.bis.org/publ/bisbull130.htm",
@@ -447,62 +574,6 @@
           "description": "by Emanuel Kohlscheen, Aaron Mehrotra We provide new evidence on the drivers of the pass-through of exchange rate movements into consumer prices across four decades and close to a hundred countries, combining econometrics and random forests. Random forests are particularly useful for modelling highly non-linear relationships, as well as for identifying the relative importance of the different theoretical factors that can affect the degree of pass-through.",
           "relevant": false,
           "_skip_reason": "no_macro_keyword"
-        },
-        {
-          "title": "Dollarisation and monetary control:  what lessons for the rise of  stablecoins?",
-          "link": "https://www.bis.org/publ/work1370.htm",
-          "published": "2026-07-21T06:24:00Z",
-          "description": "by Boris Hofmann, Aaron Mehrotra, Jan Paulick The emergence of stablecoins has created a new channel to access US dollar liquidity in emerging market and developing economies (EMDEs), similar to the historical role of foreign currency deposits, or \"deposit dollarisation\". This has raised concerns about the possible implications for monetary control in EMDEs. Drawing on data on foreign currency deposits and dollar-pegged stablecoin inflows for more than 130 economies, we compare the dynamics and drivers of \"stablecoin dollarisation\" with those of conventional deposit dollarisation.",
-          "relevant": true
-        },
-        {
-          "title": "A Mythos moment? Frontier AI and cyber risk",
-          "link": "https://www.bis.org/publ/bisbull129.htm",
-          "published": "2026-07-20T06:49:00Z",
-          "description": "by Iñaki Aldasoro, Raphael Auer, Jon Frost, Fernando Perez-Cruz Frontier artificial intelligence (AI) models increase the speed, scale and complexity of cyber attacks, and they also strengthen cyber defence. But the costs are asymmetric and may favour attackers. The medium-term impact on systemic cyber risk depends on the various actors' access to the most advanced tools, on compute power to run the tools and on economic incentives. Given the pace of recent developments, swift adoption of frontier AI models to review code bases and fix vulnerabilities is essential. International coordination can support authorities in addressing these issues.",
-          "relevant": true
-        },
-        {
-          "title": "5th IFC Workshop on Data Science in Central Banking",
-          "link": "https://www.bis.org/ifc/events/270323_ifc.htm",
-          "published": "2026-07-20T05:59:00Z",
-          "description": "5th IFC Workshop on Data Science in Central Banking, 23-25 March 2027 | Istanbul, Türkiye",
-          "relevant": true
-        },
-        {
-          "title": "The evolving nexus: sovereigns, banks and NBFIs",
-          "link": "https://www.bis.org/publ/work1369.htm",
-          "published": "2026-07-16T08:32:00Z",
-          "description": "by Stefan Avdjiev, Bryan Hardy, Maximilian Jager This paper documents that the traditional sovereign-bank nexus has morphed into a broader nexus that now also includes non-bank financial institutions (NBFIs): the sovereign-bank-NBFI nexus. The classical sovereign-bank nexus has been a major financial stability concern following the eurozone crisis. Since then, sovereign debt levels have increased substantially in many major economies, while NBFIs' footprint in sovereign bond markets has grown significantly.",
-          "relevant": true
-        },
-        {
-          "title": "Geopolitical risk and emerging market sovereign risk premia",
-          "link": "https://www.bis.org/publ/work1368.htm",
-          "published": "2026-07-15T08:32:00Z",
-          "description": "by Fredy Gamboa, José Vicente Romero This study examines how geopolitical risk (GPR) transmits to sovereign credit risk in emerging market economies (EMEs), using monthly data on the 5-year sovereign credit default swap (SCDS) and the J.P. Morgan Emerging Markets Bond Index (EMBI) spread for 13 EMEs over the period of January 2005&#8211;October 2025. Using fixed-effects panel local projections, the framework is extended to allow for state-dependent transmission. Differences in impulse responses across states are attributed to specific macro financial fundamentals. Three main findings are identified. First, an increase in the GPR index raises both SCDS and EMBI spreads. Second, disaggregating the index into its subcomponents reveals a larger response to threats than to acts, consistent with",
-          "relevant": true
-        },
-        {
-          "title": "The AI investment race",
-          "link": "https://www.bis.org/publ/work1367.htm",
-          "published": "2026-07-14T09:32:00Z",
-          "description": "by Phurichai Rungcharoenkitkul The AI build-out ranks among the largest technology-driven investment booms in US history. Its scale, reliance on debt and circular equity ties raise questions about the boom's sustainability and financial stability. We study a dynamic contest in which firms competing for a few dominant positions over-commit resources. The over-investment leaves the sector exposed to revenue disappointment that could turn boom into bust. The larger the boom, the deeper the eventual bust. The race to commit early through debt and circular financing also makes a bust more likely. Calibrated to balance sheet and deal data, the model points to over-investment of around 1.5 times the efficient level, rising to around three times where demand is less elastic. A network analysis sho",
-          "relevant": true
-        },
-        {
-          "title": "AI disruption in private credit: exposure to software firms in BDCs",
-          "link": "https://www.bis.org/publ/bisbull128.htm",
-          "published": "2026-07-14T06:10:00Z",
-          "description": "by Fernando Avalos, Giulio Cornelli, Egemen Eren Business development companies (BDCs) have lent around $115 billion to software firms, which represents about a fifth of all their lending and over 80% of their fast-growing technology portfolios. Borrowers' revenue uncertainty posed by generative artificial intelligence has not affected these loans yet, and neither BDCs nor their equity investors have priced software exposure differently. Recently, credit spreads have narrowed, reducing the buffers to absorb losses, and a few large BDCs are exposed to a shared pool of borrowers, though low leverage and secured lending may limit spillovers.",
-          "relevant": true
-        },
-        {
-          "title": "Competition in retail digital payments",
-          "link": "https://www.bis.org/publ/bisbull127.htm",
-          "published": "2026-07-13T07:14:00Z",
-          "description": "by Daniele Natalizi, Vatsala Shreeti Retail payments have digitalised rapidly in both advanced economies and emerging market and developing economies. Digitalisation has altered the competitive landscape, with new entrants (eg fintechs and big techs) and new technologies, yet incumbent banks and card networks retain their dominant position in key markets. In their role as operators, overseers and catalysts in payment systems, central banks support competition in diverse ways, depending on their mandates and institutional arrangements.",
-          "relevant": true
         }
       ],
       "count": 10,
@@ -678,503 +749,62 @@
     {
       "name": "Doomberg — Substack",
       "url": "https://doomberg.substack.com/feed",
-      "channel": "Doomberg",
-      "description": "A lateral-thinking approach to energy, finance, and geopolitics | Subscribe below for free previews of new articles  | Click through to our About page for pricing and FAQ.",
-      "entries": [
-        {
-          "title": "Fire Horse",
-          "link": "https://newsletter.doomberg.com/p/fire-horse",
-          "published": "Wed, 29 Jul 2026 13:14:41 GMT",
-          "description": "Pro Tier: July 2026 Doom Zoom",
-          "relevant": false,
-          "_skip_reason": "no_macro_keyword"
-        },
-        {
-          "title": "Demand Push",
-          "link": "https://newsletter.doomberg.com/p/demand-push",
-          "published": "Sun, 26 Jul 2026 09:02:40 GMT",
-          "description": "Is a catastrophic shortage of US natural gas really on the horizon?",
-          "relevant": true
-        },
-        {
-          "title": "Old Tapes",
-          "link": "https://newsletter.doomberg.com/p/old-tapes",
-          "published": "Wed, 22 Jul 2026 09:01:46 GMT",
-          "description": "The US AI industry is about to suffer the China treatment.",
-          "relevant": true
-        },
-        {
-          "title": "Land of the Waning Sun",
-          "link": "https://newsletter.doomberg.com/p/land-of-the-waning-sun",
-          "published": "Sat, 18 Jul 2026 09:00:18 GMT",
-          "description": "Hard numbers on the arc of China&#8217;s solar journey.",
-          "relevant": true
-        },
-        {
-          "title": "Artificial Bloom",
-          "link": "https://newsletter.doomberg.com/p/artificial-bloom",
-          "published": "Tue, 14 Jul 2026 09:01:56 GMT",
-          "description": "Rare earths, short sellers, and Chinese competition",
-          "relevant": true
-        },
-        {
-          "title": "Sources and Methods",
-          "link": "https://newsletter.doomberg.com/p/sources-and-methods",
-          "published": "Fri, 10 Jul 2026 09:01:19 GMT",
-          "description": "Propaganda and the energy war between Russia and Ukraine.",
-          "relevant": true
-        },
-        {
-          "title": "Blue Chips",
-          "link": "https://newsletter.doomberg.com/p/blue-chips",
-          "published": "Tue, 07 Jul 2026 09:01:38 GMT",
-          "description": "Will the highest-pedigreed off-grid gas-to-data project in the world get built?",
-          "relevant": true
-        },
-        {
-          "title": "Treatment Resistant",
-          "link": "https://newsletter.doomberg.com/p/treatment-resistant",
-          "published": "Fri, 03 Jul 2026 09:00:41 GMT",
-          "description": "Even when they &#8220;work,&#8221; sanctions eventually backfire.",
-          "relevant": true
-        },
-        {
-          "title": "Peak “Not Oil”",
-          "link": "https://newsletter.doomberg.com/p/peak-not-oil",
-          "published": "Tue, 30 Jun 2026 09:00:32 GMT",
-          "description": "Natural gas liquids and the war in Iran.",
-          "relevant": true
-        },
-        {
-          "title": "Fused Objectives",
-          "link": "https://newsletter.doomberg.com/p/fused-objectives",
-          "published": "Thu, 25 Jun 2026 09:02:04 GMT",
-          "description": "Has the real purpose of fusion hype been revealed?",
-          "relevant": false,
-          "_skip_reason": "no_macro_keyword"
-        }
-      ],
-      "count": 10,
+      "channel": "Doomberg — Substack",
+      "entries": [],
+      "count": 0,
+      "_error": "Client error '403 Forbidden' for url 'https://doomberg.substack.com/feed'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "domain": "Energy",
-      "relevant_count": 8
+      "relevant_count": 0
     },
     {
       "name": "Michael Howell — Capital Wars",
       "url": "https://capitalwars.substack.com/feed",
-      "channel": "Capital Wars",
-      "description": "Global Liquidity Insights",
-      "entries": [
-        {
-          "title": "Global Liquidity and Cryptocurrencies",
-          "link": "https://capitalwars.substack.com/p/global-liquidity-and-cryptocurrencies",
-          "published": "Wed, 29 Jul 2026 11:04:06 GMT",
-          "description": "Analysing Cryptocurrency Data Using AI Systems",
-          "relevant": true
-        },
-        {
-          "title": "Global Liquidity Watch: Weekly Update",
-          "link": "https://capitalwars.substack.com/p/global-liquidity-watch-weekly-update-31d",
-          "published": "Tue, 28 Jul 2026 11:30:07 GMT",
-          "description": "Liquidity Plateau Extends",
-          "relevant": true
-        },
-        {
-          "title": "The Future Costs of Current Suppression",
-          "link": "https://capitalwars.substack.com/p/the-future-costs-of-current-suppression",
-          "published": "Sun, 26 Jul 2026 08:11:34 GMT",
-          "description": "Have policymakers been deliberately holding down oil prices and bond yields?",
-          "relevant": true
-        },
-        {
-          "title": "The Return Of The Real ‘Liz Truss’",
-          "link": "https://capitalwars.substack.com/p/the-return-of-the-real-liz-truss",
-          "published": "Thu, 23 Jul 2026 07:36:54 GMT",
-          "description": "What Can Go Wrong in Britain, Probably Will Go Wrong",
-          "relevant": false,
-          "_skip_reason": "no_macro_keyword"
-        },
-        {
-          "title": "Global Liquidity Watch: Weekly Update",
-          "link": "https://capitalwars.substack.com/p/global-liquidity-watch-weekly-update-498",
-          "published": "Tue, 21 Jul 2026 12:50:17 GMT",
-          "description": "Liquidity Fading Not Crashing",
-          "relevant": true
-        },
-        {
-          "title": "Bitcoin, China And Gold",
-          "link": "https://capitalwars.substack.com/p/bitcoin-china-and-gold",
-          "published": "Mon, 20 Jul 2026 07:49:16 GMT",
-          "description": "The People&#8217;s Bank (PBoC) Appears To Be Changing Course",
-          "relevant": true
-        },
-        {
-          "title": "AI Capex, Tight Liquidity and the Next Commodity Surge",
-          "link": "https://capitalwars.substack.com/p/ai-capex-tight-liquidity-and-the",
-          "published": "Thu, 16 Jul 2026 12:35:34 GMT",
-          "description": "The Gold-Bitcoin Liquidity Trade Has Moved On",
-          "relevant": true
-        },
-        {
-          "title": "Global Liquidity Watch: Weekly Update",
-          "link": "https://capitalwars.substack.com/p/global-liquidity-watch-weekly-update-7ae",
-          "published": "Tue, 14 Jul 2026 12:24:43 GMT",
-          "description": "Liquidity Momentum Fades",
-          "relevant": true
-        },
-        {
-          "title": "The Next Phase of the Liquidity Cycle",
-          "link": "https://capitalwars.substack.com/p/the-next-phase-of-the-liquidity-cycle",
-          "published": "Mon, 13 Jul 2026 08:26:59 GMT",
-          "description": "Recent Interview with 'Real Vision' and Ash Bennington",
-          "relevant": true
-        },
-        {
-          "title": "Liquidity, Commodities and Bond Stress: The Next Market Sell-Off Risk?",
-          "link": "https://capitalwars.substack.com/p/liquidity-commodities-and-bond-stress",
-          "published": "Mon, 13 Jul 2026 08:16:15 GMT",
-          "description": "Strong Commodities and Weak Bonds Go Together",
-          "relevant": true
-        }
-      ],
-      "count": 10,
+      "channel": "Michael Howell — Capital Wars",
+      "entries": [],
+      "count": 0,
+      "_error": "Client error '403 Forbidden' for url 'https://capitalwars.substack.com/feed'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "domain": "Global Liquidity",
-      "relevant_count": 9
+      "relevant_count": 0
     },
     {
       "name": "Adam Tooze — Substack",
       "url": "https://adamtooze.substack.com/feed",
-      "channel": "Chartbook",
-      "description": "A newsletter on economics, geopolitics and history from Adam Tooze. More substantial than the twitter feed. More freewheeling than what you might read from me in FT, Foreign Policy, New Statesman.",
-      "entries": [
-        {
-          "title": "Chartbook 462: China shocked - beyond 1.0 and 2.0 to the \"Big One\".",
-          "link": "https://adamtooze.substack.com/p/chartbook-462-china-shocked-beyond",
-          "published": "Wed, 29 Jul 2026 17:02:17 GMT",
-          "description": "China&#8217;s trade data tell a dramatic story.",
-          "relevant": true
-        },
-        {
-          "title": "Top Links 1177 Nvidia & Hut 8. Rebuilding China's balance sheets. Brian Eno & the painter of the hole.",
-          "link": "https://adamtooze.substack.com/p/top-links-1177-nvidia-and-hut-8-rebuilding",
-          "published": "Wed, 29 Jul 2026 09:51:14 GMT",
-          "description": "Great links, images, and reading from Chartbook Newsletter by Adam Tooze",
-          "relevant": true
-        },
-        {
-          "title": "Top Links 1176 How AI could reinforce dollar dominance. Numbers man. Kleos and getting what you want.",
-          "link": "https://adamtooze.substack.com/p/top-links-1176-how-ai-could-reinforce",
-          "published": "Tue, 28 Jul 2026 09:25:13 GMT",
-          "description": "Great links, images, and reading from Chartbook Newsletter by Adam Tooze",
-          "relevant": true
-        },
-        {
-          "title": "Top Links 1175 Global balance sheet. Pakistan in the balance. American fears. Repeal the 20th century.",
-          "link": "https://adamtooze.substack.com/p/top-links-1175-global-balance-sheet",
-          "published": "Mon, 27 Jul 2026 10:46:24 GMT",
-          "description": "Great links, images, and reading from Chartbook Newsletter by Adam Tooze",
-          "relevant": true
-        },
-        {
-          "title": "Chartbook 461: Polycrisis & nostalgia for lost futures.",
-          "link": "https://adamtooze.substack.com/p/chartbook-461-polycrisis-and-nostalgia",
-          "published": "Sun, 26 Jul 2026 11:21:18 GMT",
-          "description": "There are few things that generate nostalgia quite like a lost future.",
-          "relevant": false,
-          "_skip_reason": "no_macro_keyword"
-        },
-        {
-          "title": "Top Links 1174 America's two economic worlds. Japan's linear economic zone. The Trader Joe's demographic & Harry Kane's chess skills.",
-          "link": "https://adamtooze.substack.com/p/top-links-1174-americas-two-economic",
-          "published": "Sun, 26 Jul 2026 10:45:10 GMT",
-          "description": "Great links, images, and reading from Chartbook Newsletter by Adam Tooze",
-          "relevant": true
-        },
-        {
-          "title": "Top Links 1173 Price level shock. The chemistry of chips. The German lobbies and berries always and everywhere.",
-          "link": "https://adamtooze.substack.com/p/top-links-1173-price-level-shock",
-          "published": "Sat, 25 Jul 2026 09:24:27 GMT",
-          "description": "Great links, images, and reading from Chartbook Newsletter by Adam Tooze",
-          "relevant": true
-        },
-        {
-          "title": "Top Links 1172 MAGA sentiments. South Korean financial rollercoaster. West Bank buried in cash. T. rex shenanigans & vectors of fascism.",
-          "link": "https://adamtooze.substack.com/p/top-links-1172-maga-sentiments-south",
-          "published": "Fri, 24 Jul 2026 09:13:01 GMT",
-          "description": "Great links, images, and reading from Chartbook Newsletter by Adam Tooze",
-          "relevant": true
-        },
-        {
-          "title": "Top Links 1171 How college-educated Americans are feeling the pinch. Trump v. PIX. Russian economic pessimism & the colonial roots of French theory.",
-          "link": "https://adamtooze.substack.com/p/top-links-1171-how-college-educated",
-          "published": "Thu, 23 Jul 2026 10:45:21 GMT",
-          "description": "Great links, images, and reading from Chartbook Newsletter by Adam Tooze",
-          "relevant": false,
-          "_skip_reason": "no_macro_keyword"
-        },
-        {
-          "title": "Chartbook 460 Greedflation meets China shock: Can Europe's car industry be saved without making the cost of living crisis worse?",
-          "link": "https://adamtooze.substack.com/p/chartbook-460-greedflation-meets",
-          "published": "Wed, 22 Jul 2026 11:53:45 GMT",
-          "description": "The European car industry riding high, leading the world in sophisticated manufacturing, earning record profits, paying out huge dividends.",
-          "relevant": true
-        }
-      ],
-      "count": 10,
+      "channel": "Adam Tooze — Substack",
+      "entries": [],
+      "count": 0,
+      "_error": "Client error '403 Forbidden' for url 'https://adamtooze.substack.com/feed'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "domain": "US Fiscal",
-      "relevant_count": 8
+      "relevant_count": 0
     },
     {
       "name": "SemiAnalysis",
       "url": "https://semianalysis.substack.com/feed",
       "channel": "SemiAnalysis",
-      "description": "Bridging the gap between the world's most important industry, semiconductors, and business.",
-      "entries": [
-        {
-          "title": "The Wild Wild West Of LEGO Datacenters",
-          "link": "https://newsletter.semianalysis.com/p/the-wild-wild-west-of-lego-datacenters",
-          "published": "Wed, 29 Jul 2026 22:09:56 GMT",
-          "description": "The Labor Problem and Modularization to the Rescue",
-          "relevant": false,
-          "_skip_reason": "no_macro_keyword"
-        },
-        {
-          "title": "Can AMD break the CUDA Moat? AMD Advancing AI 2026",
-          "link": "https://newsletter.semianalysis.com/p/can-amd-break-the-cuda-moat-amd-advancing",
-          "published": "Sat, 25 Jul 2026 00:33:23 GMT",
-          "description": "Agentic Kernel Generation, Improvement in Software Quality, Unstable Internal Development Clusters, Helios MI455X Production Ramp Hell, Up to 105% Discounts from Finance Engineering",
-          "relevant": true
-        },
-        {
-          "title": "Vera Rubin NVL72 vs GB200 NVL72? Inference TCO & Architecture Analysis",
-          "link": "https://newsletter.semianalysis.com/p/vera-rubin-nvl72-vs-gb200-nvl72-inference",
-          "published": "Thu, 23 Jul 2026 00:47:48 GMT",
-          "description": "3 bit Rubin LUT Based Tensor Core, SM140 Feynman, Rack Scale, Perf Per MegaWatt, Perf Per Dollar, Software Improvements, Public Rubin Software, PyTorch, vLLM, OpenAI Triton",
-          "relevant": true
-        },
-        {
-          "title": "Meta’s Infrastructure Team Needs A Culture Reset",
-          "link": "https://newsletter.semianalysis.com/p/metas-infrastructure-team-needs-a",
-          "published": "Wed, 22 Jul 2026 02:41:34 GMT",
-          "description": "Meta Infrastructure has become bloated, with middle managers expending resources on over-engineered technology solutions that lose sight of broader organizational needs.",
-          "relevant": true
-        },
-        {
-          "title": "The Future of Meta Superintelligence: A 1 Year Progress Update",
-          "link": "https://newsletter.semianalysis.com/p/the-future-of-meta-superintelligence",
-          "published": "Thu, 09 Jul 2026 19:16:14 GMT",
-          "description": "A top tier RL environment startup spawns out of thin air, the most aggressive compute ramp we've ever seen, 2000km+ scale-across, and some advice for Google DeepMind",
-          "relevant": false,
-          "_skip_reason": "no_macro_keyword"
-        },
-        {
-          "title": "Anthropic 3Q26 Profit Over $1B: The Anthropic IPO Financials Sneak Peak",
-          "link": "https://newsletter.semianalysis.com/p/anthropic-3q26-profit-over-1b-the",
-          "published": "Wed, 08 Jul 2026 06:04:28 GMT",
-          "description": "Anthropic&#8217;s Opportunity is Theirs to Lose",
-          "relevant": false,
-          "_skip_reason": "no_macro_keyword"
-        },
-        {
-          "title": "Nvidia GPU Debt Backstop Unleashes the AI Project Trinity: Capital, Offtake and Datacenters",
-          "link": "https://newsletter.semianalysis.com/p/nvidia-gpu-debt-backstop-unleashes",
-          "published": "Mon, 06 Jul 2026 21:53:44 GMT",
-          "description": "Over 7T AI debt by 2029, There can be no Neoclouds without the Trinity. Nvidia's Backstop Economics Explained. AI Debt Needs Quantified. Nvidia's Objective is to Broaden Compute Access, Develop AI Financing, Grow Neoclouds.",
-          "relevant": true
-        },
-        {
-          "title": "Meta Compute: Everyone Wants To Be A Neocloud",
-          "link": "https://newsletter.semianalysis.com/p/meta-compute-everyone-wants-to-be",
-          "published": "Thu, 02 Jul 2026 22:18:08 GMT",
-          "description": "Zuck Takes Plan B? SpaceX 2.0, Bedrock 2.0, MSL Isn't Giving Up, Scaling RecSys by 10x... ClusterMAX ranking coming soon?",
-          "relevant": false,
-          "_skip_reason": "no_macro_keyword"
-        },
-        {
-          "title": "EMIB-T Roadmap, Custom HBM, HBM4 Packaging Challenges, Microfluidic Cooling, Photonic Interconnects, and More",
-          "link": "https://newsletter.semianalysis.com/p/ectc2026",
-          "published": "Thu, 02 Jul 2026 17:25:38 GMT",
-          "description": "ECTC 2026 Roundup, Intel, TSMC, SK Hynix, Samsung, Micron, Marvell, Lightmatter, Microsoft",
-          "relevant": true
-        },
-        {
-          "title": "TokenBudgeting: Our Conversations with Enterprises on Token Spend",
-          "link": "https://newsletter.semianalysis.com/p/tokenbudgeting-our-conversations",
-          "published": "Tue, 30 Jun 2026 18:32:39 GMT",
-          "description": "Was Widespread TokenMaxxing Ever Really Here?",
-          "relevant": true
-        }
-      ],
-      "count": 10,
+      "entries": [],
+      "count": 0,
+      "_error": "Client error '403 Forbidden' for url 'https://semianalysis.substack.com/feed'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "domain": "AI CAPEX",
-      "relevant_count": 6
+      "relevant_count": 0
     },
     {
       "name": "Commodity Context",
       "url": "https://commoditycontext.substack.com/feed",
       "channel": "Commodity Context",
-      "description": "Data-centric, visualization-forward oil market research | Thematic deep-dives, monthly data reports, and a weekly market wrap-up every Friday",
-      "entries": [
-        {
-          "title": "Oil Context Weekly (W30)",
-          "link": "https://www.commoditycontext.com/p/ocw309w26",
-          "published": "Fri, 24 Jul 2026 20:11:02 GMT",
-          "description": "Crude prices continue to spiral upward, temporarily breaking back above $100/bbl as the Iran War escalated and the Houthis more directly joined the conflict with a &#8220;maritime ban&#8221; on Saudi Arabia.",
-          "relevant": true
-        },
-        {
-          "title": "Global Oil Data Deck (July 2026)",
-          "link": "https://www.commoditycontext.com/p/global-oil-data-deck-july-2026",
-          "published": "Thu, 23 Jul 2026 14:19:31 GMT",
-          "description": "Oil balances tightened and stockpiles continued to plunge, driven, above all, by the rapid drawdown of strategic stocks that have partially shielded commercial stocks&#8212;and prices&#8212;from the Hormuz shock.",
-          "relevant": true
-        },
-        {
-          "title": "Oil Context Weekly (W29)",
-          "link": "https://www.commoditycontext.com/p/ocw29w26",
-          "published": "Fri, 17 Jul 2026 20:46:19 GMT",
-          "description": "Hormuz flows and Gulf loadings have definitively rolled over amidst mounting attacks while the oil complex rerated sharply higher across flat crude prices, term structure, and refined product cracks.",
-          "relevant": true
-        },
-        {
-          "title": "OPEC+ Data Deck (July 2026)",
-          "link": "https://www.commoditycontext.com/p/opec-data-deck-july-2026",
-          "published": "Tue, 14 Jul 2026 18:31:55 GMT",
-          "description": "Middle Eastern crude production jumps in June alongside post-MOU spike in Hormuz traffic and dependent Persian Gulf loadings, though the latest wave of attacks threatens to reverse that progress.",
-          "relevant": true
-        },
-        {
-          "title": "Oil Context Weekly (W28)",
-          "link": "https://www.commoditycontext.com/p/ocw28w26",
-          "published": "Fri, 10 Jul 2026 20:28:15 GMT",
-          "description": "Crude prices jump, see largest weekly gain since mid-May as Iran&#8217;s attempt to control Hormuz shipping flows prompted another round of skirmishes that threatened a broader collapse of the MOU ceasefire",
-          "relevant": true
-        },
-        {
-          "title": "Context Call: July 2026 (Video)",
-          "link": "https://www.commoditycontext.com/p/context-call-july-2026",
-          "published": "Thu, 09 Jul 2026 16:38:31 GMT",
-          "description": "Post-MOU status of shipping flows through the Strait of Hormuz, the ongoing depression in China&#8217;s crude import appetite, and the emergence of the &#8220;mini-glut&#8221; currently being digested by oil markets.",
-          "relevant": true
-        },
-        {
-          "title": "[FREE] Is Big Oil ‘Price Gouging’?",
-          "link": "https://www.commoditycontext.com/p/is-big-oil-price-gouging",
-          "published": "Thu, 09 Jul 2026 13:11:41 GMT",
-          "description": "Reduced global refinery capacity, not corporate greed, is keeping pump prices high.",
-          "relevant": true
-        },
-        {
-          "title": "North American Oil Data Deck (July 2026)",
-          "link": "https://www.commoditycontext.com/p/north-american-oil-data-deck-july",
-          "published": "Wed, 08 Jul 2026 11:45:22 GMT",
-          "description": "Continental petroleum production jumped back to near all-time highs in April on the back of the reacceleration of previously slowing upstream growth in both the US and Canada.",
-          "relevant": true
-        },
-        {
-          "title": "REMINDER: Context Call Tomorrow",
-          "link": "https://www.commoditycontext.com/p/reminder-context-call-tomorrow-bcf",
-          "published": "Tue, 07 Jul 2026 18:21:14 GMT",
-          "description": "Subscribe for details and registration link; paid subscribers will find link below paywall",
-          "relevant": false,
-          "_skip_reason": "no_macro_keyword"
-        },
-        {
-          "title": "Oil Context Weekly (W27)",
-          "link": "https://www.commoditycontext.com/p/ocw27w26",
-          "published": "Fri, 03 Jul 2026 20:23:29 GMT",
-          "description": "Crude prices were effectively flat this week amidst a comparatively-quiet stretch of summer headlines, with all eyes on the optimistic-but-lurching resumption of Middle Eastern shipping activity.",
-          "relevant": true
-        }
-      ],
-      "count": 10,
+      "entries": [],
+      "count": 0,
+      "_error": "Client error '403 Forbidden' for url 'https://commoditycontext.substack.com/feed'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "domain": "Energy",
-      "relevant_count": 9
+      "relevant_count": 0
     },
     {
       "name": "Bruegel — Research",
       "url": "https://www.bruegel.org/rss.xml",
-      "channel": "Bruegel | The Brussels-based economic think tank",
-      "description": "",
-      "entries": [
-        {
-          "title": "Session 2b: Can the EU's better regulation agenda deliver competitiveness?",
-          "link": "https://www.bruegel.org/node/12451",
-          "published": "Thu, 23 Jul 2026 09:23:23 +0000",
-          "description": "Session 2b: Can the EU's better regulation agenda deliver competitiveness?\nChiara Montanaro\nThu, 07/23/2026 - 11:23",
-          "relevant": true
-        },
-        {
-          "title": "Lunch",
-          "link": "https://www.bruegel.org/node/12382",
-          "published": "Fri, 03 Jul 2026 09:24:08 +0000",
-          "description": "Lunch \nAnastasiia Zaitseva\nFri, 07/03/2026 - 11:24",
-          "relevant": false,
-          "_skip_reason": "no_macro_keyword"
-        },
-        {
-          "title": "Session 1b: Global monetary issues",
-          "link": "https://www.bruegel.org/node/12381",
-          "published": "Fri, 03 Jul 2026 09:23:49 +0000",
-          "description": "Session 1b: Global monetary issues\nAnastasiia Zaitseva\nFri, 07/03/2026 - 11:23",
-          "relevant": false,
-          "_skip_reason": "no_macro_keyword"
-        },
-        {
-          "title": "Session 2a: What would make the European Economy secure in 2030?",
-          "link": "https://www.bruegel.org/node/12380",
-          "published": "Fri, 03 Jul 2026 09:22:32 +0000",
-          "description": "Session 2a: What would make the European Economy secure in 2030? \nAnastasiia Zaitseva\nFri, 07/03/2026 - 11:22",
-          "relevant": true
-        },
-        {
-          "title": "Coffee break",
-          "link": "https://www.bruegel.org/node/12379",
-          "published": "Fri, 03 Jul 2026 09:21:33 +0000",
-          "description": "Coffee break\nAnastasiia Zaitseva\nFri, 07/03/2026 - 11:21",
-          "relevant": false,
-          "_skip_reason": "no_macro_keyword"
-        },
-        {
-          "title": "Session 1a: Europe's digital sovereignty: lessons from China's AI quest",
-          "link": "https://www.bruegel.org/node/12377",
-          "published": "Fri, 03 Jul 2026 09:19:55 +0000",
-          "description": "Session 1a: Europe's digital sovereignty: lessons from China's AI quest \nAnastasiia Zaitseva\nFri, 07/03/2026 - 11:19",
-          "relevant": true
-        },
-        {
-          "title": "Session 6b: Can Europe become more “Schumpeterian” and how?",
-          "link": "https://www.bruegel.org/node/12376",
-          "published": "Fri, 03 Jul 2026 09:15:28 +0000",
-          "description": "Session 6b: Can Europe become more “Schumpeterian” and how? \nAnastasiia Zaitseva\nFri, 07/03/2026 - 11:15",
-          "relevant": true
-        },
-        {
-          "title": "Session 6a: European trade policy beyond FTAs: what is feasible without the US and China?",
-          "link": "https://www.bruegel.org/node/12375",
-          "published": "Fri, 03 Jul 2026 09:14:28 +0000",
-          "description": "Session 6a: European trade policy beyond FTAs: what is feasible without the US and China?\nAnastasiia Zaitseva\nFri, 07/03/2026 - 11:14",
-          "relevant": true
-        },
-        {
-          "title": "Coffee break",
-          "link": "https://www.bruegel.org/node/12374",
-          "published": "Fri, 03 Jul 2026 09:13:11 +0000",
-          "description": "Coffee break\nAnastasiia Zaitseva\nFri, 07/03/2026 - 11:13",
-          "relevant": false,
-          "_skip_reason": "no_macro_keyword"
-        },
-        {
-          "title": "Session 5b: Moderated dialogue",
-          "link": "https://www.bruegel.org/node/12373",
-          "published": "Fri, 03 Jul 2026 09:12:44 +0000",
-          "description": "Session 5b: Moderated dialogue\nAnastasiia Zaitseva\nFri, 07/03/2026 - 11:12",
-          "relevant": false,
-          "_skip_reason": "no_macro_keyword"
-        }
-      ],
-      "count": 10,
+      "channel": "Bruegel — Research",
+      "entries": [],
+      "count": 0,
+      "_error": "Client error '403 Forbidden' for url 'https://www.bruegel.org/rss.xml'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "domain": "Europe",
-      "relevant_count": 5
+      "relevant_count": 0
     },
     {
       "name": "CSIS — Center for Strategic Studies",
@@ -1261,83 +891,12 @@
     {
       "name": "CSET — Georgetown AI Policy",
       "url": "https://cset.georgetown.edu/feed/",
-      "channel": "Center for Security and Emerging Technology",
-      "description": "The place to find CSET's publications, reports, and people",
-      "entries": [
-        {
-          "title": "Taiwan’s Tech Hurdles Threaten Military Capability and Potential Coalition Defense",
-          "link": "https://cset.georgetown.edu/article/taiwans-tech-hurdles-threaten-military-capability-and-potential-coalition-defense/",
-          "published": "Mon, 27 Jul 2026 09:00:00 +0000",
-          "description": "CSET’s Sam Bresnick and Fanny Chao shared their expert analysis in an op-ed published by War on the Rocks. The article examines Taiwan’s challenges in adopting artificial intelligence for military applications, highlighting how the gap between Taiwan’s world-leading semiconductor industry and its limited military AI readiness could affect its ability to deter Chinese aggression and future collaboration with partners. \n The post  Taiwan’s Tech Hurdles Threaten Military Capability and Potential Coalition Defense  appeared first on  Center for Security and Emerging Technology .",
-          "relevant": true
-        },
-        {
-          "title": "Nvidia’s China Partners and the PLA",
-          "link": "https://cset.georgetown.edu/article/nvidias-china-partners-and-the-pla/",
-          "published": "Sun, 26 Jul 2026 21:00:00 +0000",
-          "description": "CSET’s Sam Bresnick shared his expert insight in an article published by The Wire China. The article examines how Nvidia’s network of partners in China has supplied organizations linked to China’s military and other U.S.-restricted entities, highlighting ongoing challenges in enforcing export controls on advanced AI technology. \n The post  Nvidia’s China Partners and the PLA  appeared first on  Center for Security and Emerging Technology .",
-          "relevant": true
-        },
-        {
-          "title": "Remarks at the Global Nobel Laureates Assembly on Artificial Intelligence and Nuclear War in Borgo Laudato Si’, Vatican",
-          "link": "https://cset.georgetown.edu/article/remarks-at-the-global-nobel-laureates-assembly-on-artificial-intelligence-and-nuclear-war/",
-          "published": "Wed, 22 Jul 2026 14:12:00 +0000",
-          "description": "CSET Senior Fellow Emelia Probasco shares her experience and the remarks she gave at the Global Nobel Laureates Assembly on Artificial Intelligence and Nuclear War, which took place at Borgo Laudato Si’, Vatican. \n The post  Remarks at the Global Nobel Laureates Assembly on Artificial Intelligence and Nuclear War in Borgo Laudato Si’, Vatican  appeared first on  Center for Security and Emerging Technology .",
-          "relevant": true
-        },
-        {
-          "title": "Why Do AI Systems Misbehave?",
-          "link": "https://cset.georgetown.edu/article/why-do-ai-systems-misbehave/",
-          "published": "Tue, 21 Jul 2026 13:30:36 +0000",
-          "description": "AI systems are increasingly impressive, which makes their failures all the more baffling. This blog dives into the causes of AI misbehavior. \n The post  Why Do AI Systems Misbehave?  appeared first on  Center for Security and Emerging Technology .",
-          "relevant": true
-        },
-        {
-          "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
-          "link": "https://cset.georgetown.edu/article/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
-          "published": "Wed, 15 Jul 2026 21:00:00 +0000",
-          "description": "CSET’s Jessica Ji shared her expert insight in an article published by MIT Technology Review. The article examines how OpenAI developed GPT-Red, an AI \"super-hacker\" designed to automatically identify vulnerabilities in large language models and strengthen their defenses against cyberattacks through AI-powered red-teaming. \n The post  Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer  appeared first on  Center for Security and Emerging Technology .",
-          "relevant": true
-        },
-        {
-          "title": "Washington Is Looking to Keep China From Training Its AI on US Models",
-          "link": "https://cset.georgetown.edu/article/washington-is-looking-to-keep-china-from-training-its-ai-on-us-models/",
-          "published": "Mon, 13 Jul 2026 21:00:00 +0000",
-          "description": "CSET’s Colin Shea-Blymyer shared his expert insight in an article published by Bloomberg. The article examines growing concerns in Washington over the use of \"distillation\" by Chinese AI companies to train models using outputs from leading US systems, and the resulting debate over intellectual property, competition, and national security in the global AI race. \n The post  Washington Is Looking to Keep China From Training Its AI on US Models  appeared first on  Center for Security and Emerging Technology .",
-          "relevant": true
-        },
-        {
-          "title": "Companies turn to Chinese AI models to cut costs",
-          "link": "https://cset.georgetown.edu/article/companies-turn-to-chinese-ai-models-to-cut-costs/",
-          "published": "Sun, 12 Jul 2026 21:00:00 +0000",
-          "description": "CSET’s Sam Bresnick shared his expert insight in an article published by The Financial Times. The article examines why companies around the world are increasingly adopting Chinese AI models, drawn by their lower costs, improving capabilities, and the flexibility offered by open-weight systems. \n The post  Companies turn to Chinese AI models to cut costs  appeared first on  Center for Security and Emerging Technology .",
-          "relevant": true
-        },
-        {
-          "title": "China Successfully Launches Reusable Rocket in a Win for Space Program",
-          "link": "https://cset.georgetown.edu/article/china-successfully-launches-reusable-rocket-in-a-win-for-space-program/",
-          "published": "Fri, 10 Jul 2026 16:00:00 +0000",
-          "description": "CSET’s Sam Bresnick shared his expert insight in an article published by The Wall Street Journal. The article examines China’s successful launch and recovery of the Long March-10B rocket booster, a milestone that could significantly reduce launch costs and strengthen China’s ambitions to become a leading space power. \n The post  China Successfully Launches Reusable Rocket in a Win for Space Program  appeared first on  Center for Security and Emerging Technology .",
-          "relevant": true
-        },
-        {
-          "title": "Helen Toner Discusses U.S.-China AI Race at Aspen Ideas Festival",
-          "link": "https://cset.georgetown.edu/article/helen-toner-discusses-us-china-ai-race-at-aspen-ideas-festival/",
-          "published": "Fri, 10 Jul 2026 14:00:31 +0000",
-          "description": "CSET Executive Director Helen Toner spoke about the global AI competition at the Aspen Ideas Festival. \n The post  Helen Toner Discusses U.S.-China AI Race at Aspen Ideas Festival  appeared first on  Center for Security and Emerging Technology .",
-          "relevant": true
-        },
-        {
-          "title": "The White House Made Fixing Intel Its Pet Project. It’s Working.",
-          "link": "https://cset.georgetown.edu/article/the-white-house-made-fixing-intel-its-pet-project-its-working/",
-          "published": "Fri, 10 Jul 2026 09:00:00 +0000",
-          "description": "CSET’s Jacob Feldgoise shared his expert insight in an article published by The Wall Street Journal. The article explores the U.S. government’s increasingly active role in supporting domestic semiconductor manufacturing and examines Intel’s efforts to reestablish itself as a leading American chipmaker amid growing competition. \n The post  The White House Made Fixing Intel Its Pet Project. It’s Working.  appeared first on  Center for Security and Emerging Technology .",
-          "relevant": true
-        }
-      ],
-      "count": 10,
+      "channel": "CSET — Georgetown AI Policy",
+      "entries": [],
+      "count": 0,
+      "_error": "Client error '403 Forbidden' for url 'https://cset.georgetown.edu/feed/'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "domain": "AI CAPEX",
-      "relevant_count": 10
+      "relevant_count": 0
     }
   ]
 }
