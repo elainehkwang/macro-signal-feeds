@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T23:00:59.182744+00:00",
+  "generated_at": "2026-07-31T08:08:03.955881+00:00",
   "source": "rss",
   "feeds_count": 17,
   "total_entries": 160,
@@ -186,6 +186,49 @@
       "description": "",
       "entries": [
         {
+          "title": "Quarterly Schedule of Outright Purchases of Japanese Government Bonds (Competitive Auction Method) (July-September 2026) (Schedule Updates)",
+          "link": "http://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/mpr260731b.pdf",
+          "published": "Fri, 31 Jul 2026 17:00:00 +0900",
+          "description": "",
+          "relevant": true
+        },
+        {
+          "title": "Timetable and Schedule of U.S. Dollar Funds-Supplying Operations  (August-December 2026)",
+          "link": "http://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/mpr260731a.pdf",
+          "published": "Fri, 31 Jul 2026 17:00:00 +0900",
+          "description": "",
+          "relevant": true
+        },
+        {
+          "title": "Statement on Monetary Policy",
+          "link": "http://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/k260731a.pdf",
+          "published": "Fri, 31 Jul 2026 13:25:00 +0900",
+          "description": "",
+          "relevant": true
+        },
+        {
+          "title": "Outlook for Economic Activity and Prices (July 2026, The Bank's View)",
+          "link": "http://www.boj.or.jp/en/mopo/outlook/gor2607a.pdf",
+          "published": "Fri, 31 Jul 2026 13:25:00 +0900",
+          "description": "",
+          "relevant": true
+        },
+        {
+          "title": "Scheduled Dates of Monetary Policy Meetings in 2027",
+          "link": "http://www.boj.or.jp/en/mopo/mpmsche_minu/m_ref/mref260731a.pdf",
+          "published": "Fri, 31 Jul 2026 12:11:00 +0900",
+          "description": "",
+          "relevant": true
+        },
+        {
+          "title": "Payment and Settlement Statistics (June)",
+          "link": "http://www.boj.or.jp/en/statistics/set/kess/release/2026/kess2606.pdf",
+          "published": "Fri, 31 Jul 2026 11:00:00 +0900",
+          "description": "",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
+        },
+        {
           "title": "Average Contract Interest Rates on Loans and Discounts (June)",
           "link": "http://www.boj.or.jp/en/statistics/dl/loan/yaku/yaku2606.pdf",
           "published": "Wed, 29 Jul 2026 08:50:00 +0900",
@@ -213,55 +256,11 @@
           "description": "",
           "relevant": false,
           "_skip_reason": "no_macro_keyword"
-        },
-        {
-          "title": "Developments in Real Exports and Real Imports",
-          "link": "http://www.boj.or.jp/en/research/research_data/reri/index.htm",
-          "published": "Thu, 23 Jul 2026 16:00:00 +0900",
-          "description": "",
-          "relevant": false,
-          "_skip_reason": "no_macro_keyword"
-        },
-        {
-          "title": "Japanese Government Bonds Held by the Bank of Japan",
-          "link": "http://www.boj.or.jp/en/statistics/boj/other/mei/release/2026/mei260717.xlsx",
-          "published": "Wed, 22 Jul 2026 17:00:00 +0900",
-          "description": "",
-          "relevant": true
-        },
-        {
-          "title": "(BOJ Review) The Development and Strengthening of International Forums in Asia with the Participation of the Bank of Japan",
-          "link": "http://www.boj.or.jp/en/research/wps_rev/rev_2026/rev26e09.htm",
-          "published": "Wed, 22 Jul 2026 16:00:00 +0900",
-          "description": "",
-          "relevant": true
-        },
-        {
-          "title": "Bank of Japan Accounts (July 20)",
-          "link": "http://www.boj.or.jp/en/statistics/boj/other/acmai/release/2026/ac260720.htm",
-          "published": "Wed, 22 Jul 2026 10:00:00 +0900",
-          "description": "",
-          "relevant": true
-        },
-        {
-          "title": "Meeting on the Fifth Market Functioning Survey concerning Climate Change",
-          "link": "http://www.boj.or.jp/en/paym/m-climate/mcli260722a.htm",
-          "published": "Wed, 22 Jul 2026 10:00:00 +0900",
-          "description": "",
-          "relevant": false,
-          "_skip_reason": "no_macro_keyword"
-        },
-        {
-          "title": "Statistics on Securities Financing Transactions in Japan",
-          "link": "http://www.boj.or.jp/en/statistics/bis/repo/index.htm",
-          "published": "Wed, 22 Jul 2026 08:50:00 +0900",
-          "description": "",
-          "relevant": true
         }
       ],
       "count": 10,
       "domain": "Japan",
-      "relevant_count": 7
+      "relevant_count": 8
     },
     {
       "name": "BOE — News & MPC Minutes",
@@ -434,6 +433,20 @@
       "description": "",
       "entries": [
         {
+          "title": "BIS global liquidity indicators at end-March 2026",
+          "link": "https://www.bis.org/statistics/gli2607.htm",
+          "published": "2026-07-31T09:03:00Z",
+          "description": "The BIS global liquidity indicators exhibited robust growth in foreign currency credit denominated in US dollars and euros, with the latter expanding at a relatively faster pace.",
+          "relevant": true
+        },
+        {
+          "title": "Statistical release: BIS international banking statistics and global liquidity indicators at end-March 2026",
+          "link": "https://www.bis.org/statistics/rppb2607.htm",
+          "published": "2026-07-31T08:17:00Z",
+          "description": "Cross-border bank credit rose by 11% year on year at end-March 2026. The expansion was broad-based across instruments and counterparty sectors.\r\nBank credit to emerging market and developing economies expanded by $148 billion in Q1 2026, primarily concentrated in Africa and the Middle East and emerging Europe.\r\nThe BIS global liquidity indicators exhibited robust growth in foreign currency credit denominated in US dollars and euros, with the latter expanding at a relatively faster pace.",
+          "relevant": true
+        },
+        {
           "title": "Eddie Yue: Response to media regarding the new measures announced by People Bank of China's Governor Pan Gongsheng",
           "link": "https://www.bis.org/review/r260730f.htm",
           "published": "2026-07-30T12:48:00Z",
@@ -488,26 +501,11 @@
           "published": "2026-07-30T08:05:00Z",
           "description": "Speech by Mr Christopher Kent, Assistant Governor (Financial Markets) of the Reserve Bank of Australia, at the Reserve Bank of Australia, Sydney, 29 June 2026.",
           "relevant": true
-        },
-        {
-          "title": "AI and the global economy: implications for central banks",
-          "link": "https://www.bis.org/publ/bisbull130.htm",
-          "published": "2026-07-28T09:52:00Z",
-          "description": "by Iñaki Aldasoro, Leonardo Gambacorta, Enisse Kharroubi, Matthias Rottner The AI boom is driving a large, increasingly debt-financed investment surge and boosting trade and equity markets, generating sizeable terms-of-trade and wealth effects that differ across countries. The productivity payoff from AI, though potentially large, remains uncertain and uneven, across both sectors and countries. By simultaneously affecting demand and supply, AI blurs cyclical signals, complicating central banks' assessment of underlying economic conditions and monetary policy calibration.",
-          "relevant": true
-        },
-        {
-          "title": "What drives exchange rate pass-throughs? Evidence from a non-parametric method",
-          "link": "https://www.bis.org/publ/work1371.htm",
-          "published": "2026-07-22T08:32:00Z",
-          "description": "by Emanuel Kohlscheen, Aaron Mehrotra We provide new evidence on the drivers of the pass-through of exchange rate movements into consumer prices across four decades and close to a hundred countries, combining econometrics and random forests. Random forests are particularly useful for modelling highly non-linear relationships, as well as for identifying the relative importance of the different theoretical factors that can affect the degree of pass-through.",
-          "relevant": false,
-          "_skip_reason": "no_macro_keyword"
         }
       ],
       "count": 10,
       "domain": "Global Liquidity",
-      "relevant_count": 9
+      "relevant_count": 10
     },
     {
       "name": "BIS — Research Papers",
