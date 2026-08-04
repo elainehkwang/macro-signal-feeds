@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T23:00:20.790830+00:00",
+  "generated_at": "2026-08-04T22:53:03.016357+00:00",
   "source": "podcast_rss",
   "feeds_count": 5,
   "total_episodes": 40,
@@ -14,7 +14,7 @@
           "title": "Interdisciplinary Skills: Decision-Making – Annie Duke (2022)",
           "link": "https://tedseides.libsyn.com/interdisciplinary-skills-decision-making-annie-duke-2022",
           "published": "Mon, 03 Aug 2026 09:15:00 +0000",
-          "description": "Our Summer Series kickoff is with one of the all-time greats,  Annie Duke . The former world-class poker player has become a noted academic and practitioner in the art of decision-making. Her best-seller Thinking in Bets is a one-of-a-kind set of tools and tips to try (emphasis on try) to get past our embedded behavioral biases.  And her follow-up works How to Decide and Quit pull different threads in the decision-making process.      Since writing Thinking in Bets, Annie has consulted several investment organizations to apply her insights to investing, including becoming a Special Partner focused on Decision Science at venture firm, First Round Capital.      For the series, we've shared two of Annie's most popular appearance on the show – coinciding with the launched of Thinking in Bets i",
+          "description": "Our Summer Series kickoff is with one of the all-time greats,  Annie Duke . The former world-class poker player has become a noted academic and practitioner in the art of decision-making. Her best-seller Thinking in Bets is a one-of-a-kind set of tools and tips to try (emphasis on try) to get past our embedded behavioral biases.  And her follow-up works How to Decide and Quit pull different threads in the decision-making process.       Since writing Thinking in Bets, Annie has consulted several investment organizations to apply her insights to investing, including becoming a Special Partner focused on Decision Science at venture firm, First Round Capital.       For the series, we've shared two of Annie's most popular appearance on the show – coinciding with the launched of Thinking in Bets",
           "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/tedseides/CA_-_EP.273_Annie_Duke_-_SUMMER_SERIES_2026_-_AUDIO_V2.mp3?dest-id=482814",
           "duration": "01:17:45"
         },
@@ -22,7 +22,7 @@
           "title": "Interdisciplinary Skills: Decision-Making – Annie Duke (2018)",
           "link": "https://tedseides.libsyn.com/interdisciplinary-skills-decision-making-annie-duke-2018",
           "published": "Mon, 03 Aug 2026 09:00:00 +0000",
-          "description": "Our Summer Series kickoff is with one of the all-time greats,  Annie Duke . The former world-class poker player has become a noted academic and practitioner in the art of decision-making. Her best-seller Thinking in Bets is a one-of-a-kind set of tools and tips to try (emphasis on try) to get past our embedded behavioral biases.  And her follow-up works How to Decide and Quit pull different threads in the decision-making process.      Since writing Thinking in Bets, Annie has consulted several investment organizations to apply her insights to investing, including becoming a Special Partner focused on Decision Science at venture firm, First Round Capital.      For the series, we've shared two of Annie's most popular appearance on the show – coinciding with the launched of Thinking in Bets i",
+          "description": "Our Summer Series kickoff is with one of the all-time greats,  Annie Duke . The former world-class poker player has become a noted academic and practitioner in the art of decision-making. Her best-seller Thinking in Bets is a one-of-a-kind set of tools and tips to try (emphasis on try) to get past our embedded behavioral biases.  And her follow-up works How to Decide and Quit pull different threads in the decision-making process.       Since writing Thinking in Bets, Annie has consulted several investment organizations to apply her insights to investing, including becoming a Special Partner focused on Decision Science at venture firm, First Round Capital.       For the series, we've shared two of Annie's most popular appearance on the show – coinciding with the launched of Thinking in Bets",
           "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/tedseides/CA_-_EP.39_Annie_Duke_-_SUMMER_SERIES_2026_-_AUDIO_V2.mp3?dest-id=482814",
           "duration": "59:39"
         },
@@ -187,6 +187,14 @@
       "description": "Conversations with the best investors and business leaders in the world. We explore their ideas, methods, and stories to help you better invest your time and money. Hear stock market and boardroom insights you can't find anywhere else. If you're a professional investor, CEO, entrepreneur, or business strategist, this is for you. Explore all our episodes and learn more at https://www.colossus.com",
       "episodes": [
         {
+          "title": "Gavin Baker - AI Market Jitters - [Invest Like the Best, EP.485]",
+          "link": "",
+          "published": "Tue, 04 Aug 2026 08:00:00 -0000",
+          "description": "My guest today is Gavin Baker, founding partner and CIO of Atreides Management. This is our seventh conversation, and just two months after Gavin's last appearance.\n\nIt's about the gap between what the market is doing and what companies are seeing. It's been a tough month or so for public AI names, but there's no sign of a slowdown on the ground in Silicon Valley.\n\nWe discuss the latest moves, contracted vs. spot GPU prices, the game theory of memory supply agreements, and why Claude has become the Walter Cronkite of the stock market. We close on SpaceX, orbital compute, and what Gavin sees as the single biggest risk to all of it.\n\nPlease enjoy this conversation, from the famous table at Benchmark, with my friend Gavin Baker.\n\nFor the full show notes, transcript, and links to mentioned con",
+          "audio_url": "https://traffic.megaphone.fm/CLS6565465184.mp3",
+          "duration": "3904"
+        },
+        {
           "title": "Sam Altman - How to Make an Abundant Future - [Invest Like the Best, EP.484]",
           "link": "https://colossus.com/episode/how-to-make-an-abundant-future/",
           "published": "Tue, 28 Jul 2026 08:00:00 -0000",
@@ -257,14 +265,6 @@
           "description": "My guest today is Dara Khosrowshahi, the CEO of Uber. Before Uber, Dara ran Expedia for thirteen years. We start with why he took this job in 2017, and a big part of that story is Daniel Ek, who told him that life is not about happiness, it is about impact.\n\nWe talk about what the chaos felt like on day one, and how his family leaving Iran when he was nine shaped the way he handles pressure today. \n\nWe spend most of our time on autonomous vehicles and Uber's role as the demand aggregator in a world of physical AI. Dara explains why Uber is a supply-led company, what it will take to win, and why he expects many winners in AVs rather than one. \n\nWe also discuss Uber's $10 billion in free cash flow, the push toward a single app for everything, and what he has learned from Allen & Co, Barry Di",
           "audio_url": "https://traffic.megaphone.fm/CLS3105050568.mp3",
           "duration": "4037"
-        },
-        {
-          "title": "Dan Loeb - Lessons from 30 Years of Investing - [Invest Like the Best, EP.475]",
-          "link": "https://colossus.com/episode/reminiscences-of-an-investor/",
-          "published": "Thu, 28 May 2026 08:00:00 -0000",
-          "description": "My guest today is Dan Loeb, the founder and CEO of Third Point. \n\nDan started Third Point in 1995 with a few million dollars, and today the firm manages over 24 billion across equities, corporate and structured credit, venture, and insurance. \n\nHe is best known for his activist work at companies like Sotheby's, Sony, and Yahoo, and for the public letters he has written to boards over the years.\n\nWhat I find most interesting about Dan is how much his approach has evolved across thirty years. \n\nHe came up as a credit and event-driven investor at Warburg Pincus and Jefferies, built Third Point, then layered in quality investing, thematic technology investing, and now a very large credit business that sits alongside the hedge fund.\n\nWe cover how he thinks about the AI stack and the companies i",
-          "audio_url": "https://traffic.megaphone.fm/CLS8547493168.mp3",
-          "duration": "3783"
         }
       ]
     },
