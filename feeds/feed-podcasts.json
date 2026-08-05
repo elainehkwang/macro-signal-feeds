@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T23:00:22.333316+00:00",
+  "generated_at": "2026-08-05T22:49:31.782513+00:00",
   "source": "podcast_rss",
   "feeds_count": 5,
   "total_episodes": 40,
@@ -10,6 +10,14 @@
       "domain": "US Fiscal",
       "description": "Allocator and asset management expert, Ted Seides, conducts in-depth interviews with leaders in the institutional investing industry. Guests include Chief Investment Officers from leading allocators, asset managers, strategists, thought leaders, and many more. Our mission is to learn, share, and help implement the process of premier investors. Learn more and join our community at capitalallocators.com.",
       "episodes": [
+        {
+          "title": "WTT: The Anatomy of a Blow-Up",
+          "link": "https://tedseides.libsyn.com/wtt-the-anatomy-of-a-blow-up",
+          "published": "Wed, 05 Aug 2026 08:00:00 +0000",
+          "description": "This What Ted's Thinking brings Situational Awareness to the underlying causes of hedge fund disasters.       Read Ted's blog  here.           Editing and post-production work for this episode was provided by The Podcast Consultant (  ⁠  https://thepodcastconsultant.com  ⁠  )",
+          "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/tedseides/CA_WTT_-_Anatomy_of_a_Blow-Up_-_AUDIO_V1.mp3?dest-id=482814",
+          "duration": "06:07"
+        },
         {
           "title": "Interdisciplinary Skills: Decision-Making – Annie Duke (2022)",
           "link": "https://tedseides.libsyn.com/interdisciplinary-skills-decision-making-annie-duke-2022",
@@ -81,14 +89,6 @@
           "description": "Pat Dorsey is the Founder of Dorsey Asset Management, a $1.7 billion global public equity manager focused on companies with competitive advantages and long investment runways. Pat created Morningstar's moat research framework and led its equity research efforts for a dozen years before launching his firm in 2014.     Our conversation covers the nuances of investing in businesses with wide moats across quantitative analysis, switching costs, network effects, brands, management, alignment, capital allocation, and reinvestment runways. We then turn to Pat's application of moat analysis to his investing, including concentration, global scope, position sizing, decision making, and lessons learned.       Any leader should see for themselves the benefits of elite coaching. Try ALEX :   tryalex.ad",
           "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/tedseides/CA_-_EP.509_Pat_Dorsey_-_AUDIO_V3.mp3?dest-id=482814",
           "duration": "01:07:00"
-        },
-        {
-          "title": "Senior Decision Makers: Nicholas Csicsko, Trinity Wall Street (EP.508)",
-          "link": "https://tedseides.libsyn.com/senior-decision-makers-nicholas-csiscko-trinity-wall-street-ep508",
-          "published": "Mon, 29 Jun 2026 08:00:00 +0000",
-          "description": "Our first guest on the Senior Decision Makers mini-series is Nick Csicsko. Nick is a Managing Director at the Trinity Wall Street endowment, where he joined CIO Meredith Jenkins at the founding of the investment office in 2016 and has spent the last decade helping build a young endowment inside a 320-year-old institution. Today the endowment has grown to over $6 billion.       Nick's path into investing is a fascinating one. He studied composition and earned his Doctorate of Music at Juilliard. While there, he talked his way into an internship at Juilliard's endowment and never looked back.       Our conversation covers the lessons he carried from music into investing, his investment philosophy, and the details of his process. Manager selection sits at the heart of his work, and he articul",
-          "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/tedseides/CA_-_SDM_Nicholas_Csicsko_-_AUDIO_V2.mp3?dest-id=482814",
-          "duration": "58:18"
         }
       ]
     },
