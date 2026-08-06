@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T23:00:32.395740+00:00",
+  "generated_at": "2026-08-06T23:00:30.308969+00:00",
   "source": "rss",
   "feeds_count": 17,
   "total_entries": 150,
@@ -201,6 +201,13 @@
       "description": "News",
       "entries": [
         {
+          "title": "Green notice 2026/02",
+          "link": "https://www.bankofengland.co.uk/statistics/notice/2026/green-notice-2026-02",
+          "published": "Thu, 06 Aug 2026 12:00:00 +0100",
+          "description": "Green notices cover significant and/or significant proposals for Bank of England reporting. If any of these proposals are finalised and are to be implemented, they will appear in a statistical notice.",
+          "relevant": true
+        },
+        {
           "title": "Artificial Intelligence Consortium minutes – June 2026",
           "link": "https://www.bankofengland.co.uk/minutes/2026/june/ai-consortium-minutes-3-june-2026",
           "published": "Wed, 05 Aug 2026 11:51:26 +0100",
@@ -263,13 +270,6 @@
           "published": "Mon, 13 Jul 2026 13:32:45 +0100",
           "description": "The Money Markets Committee is a forum for market participants and authorities to discuss the UK unsecured deposits and funding market and securities lending and repo markets.",
           "relevant": true
-        },
-        {
-          "title": "UK financial regulators to begin overseeing Critical Third Parties announced by HM Treasury",
-          "link": "https://www.bankofengland.co.uk/news/2026/july/uk-financial-regulators-to-begin-overseeing-critical-third-parties-announced-by-hmt",
-          "published": "Fri, 10 Jul 2026 10:15:00 +0100",
-          "description": "The Bank of England, the Prudential Regulation Authority and the Financial Conduct Authority will start overseeing the first Critical Third Parties on Monday 13 July 2026, following designation by HM Treasury.",
-          "relevant": true
         }
       ],
       "count": 10,
@@ -282,6 +282,27 @@
       "channel": "CBO Publications",
       "description": "Nonpartisan budgetary and economic analysis for the U.S. Congress.",
       "entries": [
+        {
+          "title": "H.R. 6380, Chiricahua National Park Act",
+          "link": "https://www.cbo.gov/publication/62648",
+          "published": "Thu, 06 Aug 2026 15:25:00 -0400",
+          "description": "As ordered reported by the Senate Committee on Energy and Natural Resources on July 29, 2026",
+          "relevant": true
+        },
+        {
+          "title": "S. 2933, a bill to redesignate a playground in the New River Gorge National Park and Preserve in the State of West Virginia as the “Hearts of Gold Playground: In Honor of West Virginia Children and Families Impacted by Childhood Cancer”",
+          "link": "https://www.cbo.gov/publication/62647",
+          "published": "Thu, 06 Aug 2026 14:32:00 -0400",
+          "description": "As ordered reported by the Senate Committee on Energy and Natural Resources on July 29, 2026",
+          "relevant": true
+        },
+        {
+          "title": "H.R. 3087, Civil Rights Cold Case Records Collection Reauthorization Act of 2026",
+          "link": "https://www.cbo.gov/publication/62646",
+          "published": "Thu, 06 Aug 2026 13:15:00 -0400",
+          "description": "As ordered reported by the House Committee on Oversight and Government Reform on May 20, 2026",
+          "relevant": true
+        },
         {
           "title": "The Navy's New Battleship Program: Costs and Implications for the Shipbuilding Industrial Base",
           "link": "https://www.cbo.gov/publication/62550",
@@ -330,27 +351,6 @@
           "link": "https://www.cbo.gov/publication/62615",
           "published": "Tue, 04 Aug 2026 15:27:00 -0400",
           "description": "As ordered reported by the House Committee on Homeland Security on June 24, 2026",
-          "relevant": true
-        },
-        {
-          "title": "S. 3758, End Veterans Overdose Act of 2026",
-          "link": "https://www.cbo.gov/publication/62628",
-          "published": "Tue, 04 Aug 2026 15:27:00 -0400",
-          "description": "As ordered reported by the Senate Committee on Veterans’ Affairs on March 18, 2026",
-          "relevant": true
-        },
-        {
-          "title": "H.R. 9360, Advisory Committee on the Records of Congress Sunset Act",
-          "link": "https://www.cbo.gov/publication/62638",
-          "published": "Tue, 04 Aug 2026 14:53:00 -0400",
-          "description": "As ordered reported by the House Committee on House Administration on June 24, 2026",
-          "relevant": true
-        },
-        {
-          "title": "H.R. 8359, a bill to change the address of the postal facility designated in honor of Specialist Jeffrey L. White, Jr.",
-          "link": "https://www.cbo.gov/publication/62627",
-          "published": "Tue, 04 Aug 2026 12:03:00 -0400",
-          "description": "As ordered reported by the House Committee on Oversight and Government Reform on July 22, 2026",
           "relevant": true
         }
       ],
@@ -777,6 +777,14 @@
       "description": "A newsletter on economics, geopolitics and history from Adam Tooze. More substantial than the twitter feed. More freewheeling than what you might read from me in FT, Foreign Policy, New Statesman.",
       "entries": [
         {
+          "title": "Top Links 1185 Global equities. The Emirates in Africa. Authenticy as a political virtue & the German government wants you to know that cocaine consumption is bad for the jungle.",
+          "link": "https://adamtooze.substack.com/p/top-links-1185-global-equities-the",
+          "published": "Thu, 06 Aug 2026 10:43:39 GMT",
+          "description": "Great links, images, and reading from Chartbook Newsletter by Adam Tooze",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
+        },
+        {
           "title": "Top Links 1184 Science for development. Bessent's intervention. Fish in the wrong place & Charlemagne's canal.",
           "link": "https://adamtooze.substack.com/p/top-links-1184-science-for-development",
           "published": "Wed, 05 Aug 2026 11:38:52 GMT",
@@ -843,18 +851,11 @@
           "description": "Great links, images, and reading from Chartbook Newsletter by Adam Tooze",
           "relevant": false,
           "_skip_reason": "no_macro_keyword"
-        },
-        {
-          "title": "Chartbook 462: China shocked - beyond 1.0 and 2.0 to the \"Big One\".",
-          "link": "https://adamtooze.substack.com/p/chartbook-462-china-shocked-beyond",
-          "published": "Wed, 29 Jul 2026 17:02:17 GMT",
-          "description": "China&#8217;s trade data tell a dramatic story.",
-          "relevant": true
         }
       ],
       "count": 10,
       "domain": "US Fiscal",
-      "relevant_count": 5
+      "relevant_count": 4
     },
     {
       "name": "SemiAnalysis",
@@ -1030,10 +1031,10 @@
       "description": "",
       "entries": [
         {
-          "title": "Session 2b: Can the EU's better regulation agenda deliver competitiveness?",
+          "title": "Session 2a: Can the EU's better regulation agenda deliver competitiveness?",
           "link": "https://www.bruegel.org/node/12451",
           "published": "Thu, 23 Jul 2026 09:23:23 +0000",
-          "description": "Session 2b: Can the EU's better regulation agenda deliver competitiveness?\nChiara Montanaro\nThu, 07/23/2026 - 11:23",
+          "description": "Session 2a: Can the EU's better regulation agenda deliver competitiveness?\nChiara Montanaro\nThu, 07/23/2026 - 11:23",
           "relevant": true
         },
         {
@@ -1053,10 +1054,10 @@
           "_skip_reason": "no_macro_keyword"
         },
         {
-          "title": "Session 2a: What would make the European Economy secure in 2030?",
+          "title": "Session 2b: What would make the European Economy secure in 2030?",
           "link": "https://www.bruegel.org/node/12380",
           "published": "Fri, 03 Jul 2026 09:22:32 +0000",
-          "description": "Session 2a: What would make the European Economy secure in 2030? \nAnastasiia Zaitseva\nFri, 07/03/2026 - 11:22",
+          "description": "Session 2b: What would make the European Economy secure in 2030? \nAnastasiia Zaitseva\nFri, 07/03/2026 - 11:22",
           "relevant": true
         },
         {
@@ -1198,6 +1199,34 @@
       "description": "The place to find CSET's publications, reports, and people",
       "entries": [
         {
+          "title": "SpaceX’s revenue rises as its once-soaring stock price drifts back to Earth",
+          "link": "https://cset.georgetown.edu/article/spacexs-revenue-rises-as-its-once-soaring-stock-price-drifts-back-to-earth/",
+          "published": "Thu, 06 Aug 2026 14:00:00 +0000",
+          "description": "CSET’s Kathleen Curlee shared her expert insight in an interview with NPR. The segment examines SpaceX’s first quarterly earnings report since its IPO, investor concerns about the company’s valuation, and questions surrounding its ability to deliver on its ambitious long-term plans. \n The post  SpaceX&#8217;s revenue rises as its once-soaring stock price drifts back to Earth  appeared first on  Center for Security and Emerging Technology .",
+          "relevant": true
+        },
+        {
+          "title": "Expanded Collaboration to Boost Critical AI Governance Data and Tracking Tool",
+          "link": "https://cset.georgetown.edu/article/expanded-collaboration-to-boost-critical-ai-governance-data-and-tracking-tool/",
+          "published": "Thu, 06 Aug 2026 13:52:04 +0000",
+          "description": "CSET is partnering with top universities to expand AGORA, its living collection of 1,000+ AI-related laws, regulations, and standards. \n The post  Expanded Collaboration to Boost Critical AI Governance Data and Tracking Tool  appeared first on  Center for Security and Emerging Technology .",
+          "relevant": true
+        },
+        {
+          "title": "AI models engage in ‘harmful activity directed at real people’, sparking fears safeguards not keeping up",
+          "link": "https://cset.georgetown.edu/article/ai-models-engage-in-harmful-activity-directed-at-real-people-sparking-fears-safeguards-not-keeping-up/",
+          "published": "Wed, 05 Aug 2026 21:00:00 +0000",
+          "description": "CSET’s Helen Toner shared her expert insight in an interview with the Australian Broadcasting Corporation’s 7.30. The interview examines growing concerns that AI capabilities are advancing faster than the safeguards needed to keep them safe, following new research showing frontier AI models engaging in deceptive and harmful behavior during testing. \n The post  AI models engage in &#8216;harmful activity directed at real people&#8217;, sparking fears safeguards not keeping up  appeared first on  Center for Security and Emerging Technology .",
+          "relevant": true
+        },
+        {
+          "title": "Trump meets AI giants, Senate Dems decry ‘unpredictable’ governance—and cheap Chinese AI looms as giant security risk",
+          "link": "https://cset.georgetown.edu/article/trump-meets-ai-giants-senate-dems-decry-unpredictable-governance-and-cheap-chinese-ai-looms-as-giant-security-risk/",
+          "published": "Tue, 04 Aug 2026 21:00:00 +0000",
+          "description": "CSET’s Sam Bresnick shared his expert insight in an article published by Fortune. The article examines how uncertainty surrounding the Trump administration’s AI governance, combined with the lower cost and flexibility of Chinese AI models, is influencing businesses’ decisions and raising concerns about U.S. competitiveness and national security. \n The post  Trump meets AI giants, Senate Dems decry ‘unpredictable’ governance—and cheap Chinese AI looms as giant security risk  appeared first on  Center for Security and Emerging Technology .",
+          "relevant": true
+        },
+        {
           "title": "Assessing Sovereign AI: A Two-Pronged Framework",
           "link": "https://cset.georgetown.edu/article/assessing-sovereign-ai-a-two-pronged-framework/",
           "published": "Tue, 04 Aug 2026 14:19:50 +0000",
@@ -1237,34 +1266,6 @@
           "link": "https://cset.georgetown.edu/article/remarks-at-the-global-nobel-laureates-assembly-on-artificial-intelligence-and-nuclear-war/",
           "published": "Wed, 22 Jul 2026 14:12:00 +0000",
           "description": "CSET Senior Fellow Emelia Probasco shares her experience and the remarks she gave at the Global Nobel Laureates Assembly on Artificial Intelligence and Nuclear War, which took place at Borgo Laudato Si’, Vatican. \n The post  Remarks at the Global Nobel Laureates Assembly on Artificial Intelligence and Nuclear War in Borgo Laudato Si’, Vatican  appeared first on  Center for Security and Emerging Technology .",
-          "relevant": true
-        },
-        {
-          "title": "Why Do AI Systems Misbehave?",
-          "link": "https://cset.georgetown.edu/article/why-do-ai-systems-misbehave/",
-          "published": "Tue, 21 Jul 2026 13:30:36 +0000",
-          "description": "AI systems are increasingly impressive, which makes their failures all the more baffling. This blog dives into the causes of AI misbehavior. \n The post  Why Do AI Systems Misbehave?  appeared first on  Center for Security and Emerging Technology .",
-          "relevant": true
-        },
-        {
-          "title": "Why blocking AI models won’t stop the cyber threats they create",
-          "link": "https://cset.georgetown.edu/article/why-blocking-ai-models-wont-stop-the-cyber-threats-they-create/",
-          "published": "Mon, 20 Jul 2026 09:00:00 +0000",
-          "description": "CSET’s Jessica Ji and Andrew Lohn shared their expert analysis in an op-ed published by CyberScoop. The article argues that blocking access to advanced AI models is not a sustainable solution to AI-enabled cyber threats, emphasizing instead the need for a long-term national cybersecurity strategy led by the federal government and supported by AI companies. \n The post  Why blocking AI models won’t stop the cyber threats they create  appeared first on  Center for Security and Emerging Technology .",
-          "relevant": true
-        },
-        {
-          "title": "Trump Is Good for China. But Is He Good for America? | Opinion",
-          "link": "https://cset.georgetown.edu/article/trump-is-good-for-china-but-is-he-good-for-america-opinion/",
-          "published": "Fri, 17 Jul 2026 21:00:00 +0000",
-          "description": "CSET’s Sam Bresnick shared his expert insight in an op-ed published by Newsweek. The article examines how the Trump administration’s approach to China has reshaped the U.S.-China relationship and what it could mean for American competitiveness and global influence. \n The post  Trump Is Good for China. But Is He Good for America? | Opinion  appeared first on  Center for Security and Emerging Technology .",
-          "relevant": true
-        },
-        {
-          "title": "Chinese AI models narrow cyber gap with US rivals",
-          "link": "https://cset.georgetown.edu/article/chinese-ai-models-narrow-cyber-gap-with-us-rivals/",
-          "published": "Fri, 17 Jul 2026 09:00:00 +0000",
-          "description": "CSET’s Sam Bresnick shared his expert insight in an article published by The Financial Times. The article explores how Chinese AI models are rapidly advancing, narrowing the gap with leading U.S. models and prompting new questions about global AI competition and cybersecurity. \n The post  Chinese AI models narrow cyber gap with US rivals  appeared first on  Center for Security and Emerging Technology .",
           "relevant": true
         }
       ],
