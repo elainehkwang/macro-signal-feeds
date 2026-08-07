@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T01:27:36.364052+00:00",
+  "generated_at": "2026-08-07T22:25:34.929391+00:00",
   "source": "rss",
   "feeds_count": 17,
   "total_entries": 100,
@@ -176,6 +176,13 @@
       "description": "Latest releases on the ECB website - Press releases, speeches and interviews, press conferences.",
       "entries": [
         {
+          "title": "ECB publishes consolidated banking data for end-March 2026",
+          "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260807~58eb5109ce.en.html",
+          "published": "Fri, 07 Aug 2026 10:00:00 +0200",
+          "description": "",
+          "relevant": true
+        },
+        {
           "title": "Digital euro app to incorporate highest accessibility standards",
           "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260730~3b3bfbb565.en.html",
           "published": "Thu, 30 Jul 2026 10:00:00 +0200",
@@ -237,13 +244,6 @@
           "published": "Fri, 24 Jul 2026 10:00:00 +0200",
           "description": "",
           "relevant": true
-        },
-        {
-          "title": "ECB reveals shortlisted designs for new banknotes and launches public survey",
-          "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260723~c2d43f9170.en.html",
-          "published": "Thu, 23 Jul 2026 16:15:00 +0200",
-          "description": "",
-          "relevant": true
         }
       ],
       "count": 10,
@@ -256,6 +256,22 @@
       "channel": "Bank of Japan：RSS",
       "description": "",
       "entries": [
+        {
+          "title": "Amounts Outstanding in the Call Money Market (July)",
+          "link": "http://www.boj.or.jp/en/statistics/market/short/call/call.xlsx",
+          "published": "Fri, 07 Aug 2026 15:00:00 +0900",
+          "description": "",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
+        },
+        {
+          "title": "Consumption Activity Index",
+          "link": "http://www.boj.or.jp/en/research/research_data/cai/index.htm",
+          "published": "Fri, 07 Aug 2026 14:00:00 +0900",
+          "description": "",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
+        },
         {
           "title": "Market Operations by the Bank of Japan (July)",
           "link": "http://www.boj.or.jp/en/statistics/boj/fm/ope/m_release/2026/ope2607.xlsx",
@@ -312,22 +328,6 @@
           "published": "Tue, 04 Aug 2026 15:30:00 +0900",
           "description": "",
           "relevant": true
-        },
-        {
-          "title": "(Research Paper) IMES DPS: Distance and Loan Pricing Revisited: A Structural Estimation Approach",
-          "link": "http://www.boj.or.jp/en/research/imes/dps/dpse260804b.htm",
-          "published": "Tue, 04 Aug 2026 11:00:00 +0900",
-          "description": "",
-          "relevant": false,
-          "_skip_reason": "no_macro_keyword"
-        },
-        {
-          "title": "(Research Paper) IMES DPS: Current Status and Future Prospects of Optical Quantum Computing",
-          "link": "http://www.boj.or.jp/en/research/imes/dps/dpse260804a.htm",
-          "published": "Tue, 04 Aug 2026 11:00:00 +0900",
-          "description": "",
-          "relevant": false,
-          "_skip_reason": "no_macro_keyword"
         }
       ],
       "count": 10,

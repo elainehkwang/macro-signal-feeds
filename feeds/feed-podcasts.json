@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T01:27:36.364052+00:00",
+  "generated_at": "2026-08-07T22:25:34.929391+00:00",
   "source": "podcast_rss",
   "feeds_count": 5,
   "total_episodes": 40,
@@ -99,6 +99,14 @@
       "description": "What’s driving this week’s market moves – and where are the biggest opportunities? Goldman Sachs traders discuss.",
       "episodes": [
         {
+          "title": "Why US Stocks May ‘Grind Higher’",
+          "link": "",
+          "published": "Fri, 07 Aug 2026 04:00:00 -0000",
+          "description": "Ashok Varadhan, co-head of Global Banking & Markets at Goldman Sachs, shares his outlook on assets from credit and stocks to oil. This episode also covers recent moves in AI-led stocks and currency markets, and why Varadhan does not expect the Federal Reserve to hike rates in 2026. \n\nRecorded on August 5, 2026. \n\nThe opinions and views expressed herein are as of the date of publication, subject to change without notice, and may not necessarily reflect the institutional views of Goldman Sachs or its affiliates. The material provided is intended for informational purposes only, and does not constitute investment advice, a recommendation from any Goldman Sachs entity to take any particular action, or an offer or solicitation to purchase or sell any securities or financial products. This mater",
+          "audio_url": "https://traffic.megaphone.fm/GLD3684712527.mp3",
+          "duration": "472"
+        },
+        {
           "title": "Are Hedge Funds Still Bullish on AI Stocks?",
           "link": "",
           "published": "Fri, 24 Jul 2026 10:37:00 -0000",
@@ -169,14 +177,6 @@
           "description": "As AI stocks drive the S&P 500 and Nasdaq to record highs, are fears of a bubble warranted? And what are the newest opportunities in the AI equipment trade?  Shawn Tuteja, who oversees ETF and custom baskets volatility trading within Goldman Sachs Global Banking & Markets, discusses with Chris Hussey.\n\nRecorded on May 13, 2026.\n\nThe opinions and views expressed herein are as of the date of publication, subject to change without notice, and may not necessarily reflect the institutional views of Goldman Sachs or its affiliates. The material provided is intended for informational purposes only, and does not constitute investment advice, a recommendation from any Goldman Sachs entity to take any particular action, or an offer or solicitation to purchase or sell any securities or financial prod",
           "audio_url": "https://traffic.megaphone.fm/GLD3490730936.mp3",
           "duration": "669"
-        },
-        {
-          "title": "How to Trade Oil Now",
-          "link": "",
-          "published": "Mon, 11 May 2026 20:29:00 -0000",
-          "description": "Oil prices have fallen thanks to investor optimism that the Iran conflict could soon be resolved. But the situation may be more complicated than it appears, cautions Jerome Dortmans, co-head of Global Oil and Products Trading in Goldman Sachs Global Banking & Markets. He discusses the drivers of the crude oil and refined product markets, as well as some potential trading opportunities, in this conversation with Chris Hussey.\n\nRecorded on May 7, 2026\n\nThe opinions and views expressed herein are as of the date of publication, subject to change without notice, and may not necessarily reflect the institutional views of Goldman Sachs or its affiliates. The material provided is intended for informational purposes only, and does not constitute investment advice, a recommendation from any Goldman",
-          "audio_url": "https://traffic.megaphone.fm/GLD4656548018.mp3?updated=1778531775",
-          "duration": "932"
         }
       ]
     },
