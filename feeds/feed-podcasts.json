@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T23:00:18.254283+00:00",
+  "generated_at": "2026-08-10T22:27:15.726880+00:00",
   "source": "podcast_rss",
   "feeds_count": 5,
   "total_episodes": 40,
@@ -10,6 +10,14 @@
       "domain": "US Fiscal",
       "description": "Allocator and asset management expert, Ted Seides, conducts in-depth interviews with leaders in the institutional investing industry. Guests include Chief Investment Officers from leading allocators, asset managers, strategists, thought leaders, and many more. Our mission is to learn, share, and help implement the process of premier investors. Learn more and join our community at capitalallocators.com.",
       "episodes": [
+        {
+          "title": "Interdisciplinary Skills: Interviewing – The Art of the Interview",
+          "link": "https://tedseides.libsyn.com/interdisciplinary-skills-interviewing-the-art-of-the-interview",
+          "published": "Mon, 10 Aug 2026 08:00:00 +0000",
+          "description": "This week's Summer Series is a highly atypical episode, where I appear as the guest.  Matt Breitfelder from Apollo asked to interview me about interviewing, something I learned far more from hosting the show the last nine years than I ever did while interviewing managers for 20. The conversation has been sufficiently popular that it made the Summer Series on investment process.     Any leader should see for themselves the benefits of elite coaching. Try ALEX:    tryalex.admiredleadership.com   .      Learn More   Follow Ted on Twitter at     @tseides   or     LinkedIn     Subscribe to the     mailing list    Access Transcript with     Premium Membership          Editing and post-production work for this episode was provided by The Podcast Consultant (  ⁠  https://thepodcastconsultant.com",
+          "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/tedseides/CA_-_EP.330_Matt_B_Art_of_Interview_-_SUMMER_SERIES_2026_-_AUDIO_V2.mp3?dest-id=482814",
+          "duration": "01:00:49"
+        },
         {
           "title": "WTT: The Anatomy of a Blow-Up",
           "link": "https://tedseides.libsyn.com/wtt-the-anatomy-of-a-blow-up",
@@ -81,14 +89,6 @@
           "description": "This WTT, 5.5 Lessons at 55.5 reflects on what five-and-a-half decades of investing, podcasting, and mistakes have taught me about people, markets, and myself.     Read Ted's blog   here .        Editing and post-production work for this episode was provided by The Podcast Consultant (  ⁠  https://thepodcastconsultant.com  ⁠  )",
           "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/tedseides/CA_-_WTT_-_5.5_at_55.5_-_AUDIO_V3.mp3?dest-id=482814",
           "duration": "08:09"
-        },
-        {
-          "title": "Moat Investing Nuances – Pat Dorsey (EP.509)",
-          "link": "https://tedseides.libsyn.com/moatsinvesting-nuances-pat-dorsey-ep509",
-          "published": "Mon, 06 Jul 2026 08:00:00 +0000",
-          "description": "Pat Dorsey is the Founder of Dorsey Asset Management, a $1.7 billion global public equity manager focused on companies with competitive advantages and long investment runways. Pat created Morningstar's moat research framework and led its equity research efforts for a dozen years before launching his firm in 2014.     Our conversation covers the nuances of investing in businesses with wide moats across quantitative analysis, switching costs, network effects, brands, management, alignment, capital allocation, and reinvestment runways. We then turn to Pat's application of moat analysis to his investing, including concentration, global scope, position sizing, decision making, and lessons learned.       Any leader should see for themselves the benefits of elite coaching. Try ALEX :   tryalex.ad",
-          "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/tedseides/CA_-_EP.509_Pat_Dorsey_-_AUDIO_V3.mp3?dest-id=482814",
-          "duration": "01:07:00"
         }
       ]
     },
@@ -275,6 +275,14 @@
       "description": "Hosted by David Beckworth of the Mercatus Center, Macro Musings pulls back the curtain on the important macroeconomic issues of the past, present, and future.",
       "episodes": [
         {
+          "title": "Gianluca Benigno on Central Bank Balance Sheets, Stablecoins, and Nonlinear Inflation",
+          "link": "https://macromusings.libsyn.com/gianluca-benigno-on-central-bank-balance-sheets-stablecoins-and-nonlinear-inflation",
+          "published": "Mon, 10 Aug 2026 09:00:00 +0000",
+          "description": "Gianluca Benigno is a professor of economics at the University of Lausanne. Previously, he was a senior economist at the Federal Reserve Bank of New York and an economist at the Bank of England. Gianluca returns to the program to discuss financial r-star, the changing landscape of central bank balance sheets, the unique challenges facing the Swiss National Bank, how stablecoins could affect Treasury markets and the demand for reserves, the return of nonlinear inflation, its implications for monetary policy, and much more.   Watch  the full length video  on our new YouTube Channel!   Check out the  transcript  for this week's episode, now with links.    Recorded on June 22nd, 2026    Subscribe to David's Substack:  Macroeconomic Policy Nexus    Follow David Beckworth on X:  @DavidBeckworth",
+          "audio_url": "https://traffic.libsyn.com/secure/macromusings/MM-555-GianlucaBenigno-Podcast-auphonic.mp3?dest-id=865793",
+          "duration": "54:04"
+        },
+        {
           "title": "Barry Eichengreen, Paul Blustein, and Brendan Greeley on Dollar Dominance",
           "link": "https://macromusings.libsyn.com/barry-eichengreen-paul-blustein-and-brendan-greeley-on-dollar-dominance",
           "published": "Mon, 03 Aug 2026 09:00:00 +0000",
@@ -345,14 +353,6 @@
           "description": "Bryan Cutsinger is an assistant professor of economics at the College of Business at Florida Atlantic University. Peter Ireland is a professor of Economics at Boston College. Will Luther is an associate professor of economics at the College of Business at Florida Atlantic University and is the director of the American Institute for Economic Research's Sound Money Project. Bryan, Peter, and Will return to the show to discuss the big takeaways from the 2025 Fed framework review, the flip flopping of FIT to FAIT back to FIT, the biggest lessons from the 2020 Fed framework review, the case for NGDP targeting at the Fed, hope for future reviews, and much more.       Watch  the full length video  on our new YouTube Channel!     Check out the  transcript  for this week's episode, now with links.",
           "audio_url": "https://traffic.libsyn.com/secure/macromusings/MM-546-WillBryanPeter-Audio-Final-V2.mp3?dest-id=865793",
           "duration": "01:03:46"
-        },
-        {
-          "title": "Brendan Greeley on the 500 Year History of the Dollar",
-          "link": "https://macromusings.libsyn.com/brendan-greeley-on-the-500-year-history-of-the-dollar",
-          "published": "Mon, 01 Jun 2026 12:00:00 +0000",
-          "description": "Brendan Greeley is a veteran journalist from the Financial Times and current PhD student at Princeton studying monetary history. In Brendan's first appearance on the show, he discusses why he went for a PhD after being a journalist for 20 years, why the dollar's history goes far beyond America's founding, when America actually achieved a currency union, the untold origins of the dollar, how Herbert and Lou Hoover's date nights played a role in the history of the dollar, the crucial importance of Milton Friedman and Anna Schwartz in understanding the dollar's history, the happy accident of Eurodollars, what the future of dollars looks like, and much more.       Watch  the full length video  on our new YouTube Channel!     Check out the  transcript  for this week's episode, now with links.",
-          "audio_url": "https://traffic.libsyn.com/secure/macromusings/MM-545-BrendanGreeley-Audio-Final.mp3?dest-id=865793",
-          "duration": "01:02:40"
         }
       ]
     },
