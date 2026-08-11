@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-10T22:27:15.726880+00:00",
+  "generated_at": "2026-08-11T22:32:13.910961+00:00",
   "source": "rss",
   "feeds_count": 17,
-  "total_entries": 90,
+  "total_entries": 100,
   "feeds": [
     {
       "name": "Fed FOMC — Monetary Policy",
@@ -95,6 +95,20 @@
       "description": "Treasury Offering Announcements",
       "entries": [
         {
+          "title": "3-Year Note Treasury Auction Results",
+          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
+          "published": "Tue, 11 Aug 2026 17:03:20 GMT",
+          "description": "CUSIP:  91282CRG8  Term and Type:  3-Year Note  Series:  AR-2029  Reopening:  No  Interest Rate:  4.250%  High Yield:  4.291%  Price:  $99.885444  Allotted at High:  18.31%  Total Tendered:  $171,970,558,800  Total Accepted:  $72,670,580,300  Auction Date:  08/11/2026  Issue Date:  08/17/2026  Maturity Date:  08/15/2029  PDF  |  XML",
+          "relevant": true
+        },
+        {
+          "title": "6-Week Bill Treasury Auction Results",
+          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
+          "published": "Tue, 11 Aug 2026 15:33:13 GMT",
+          "description": "CUSIP:  912797UH8  Term and Type:  6-Week Bill  CMB:  No  High Rate:  3.670%  Investment Rate:  3.737%  Price:  $99.571833  Allotted at High:  2.86%  Total Tendered:  $283,809,691,600  Total Accepted:  $100,756,083,800  Auction Date:  08/11/2026  Issue Date:  08/13/2026  Maturity Date:  09/24/2026  PDF  |  XML",
+          "relevant": true
+        },
+        {
           "title": "26-Week Bill Treasury Auction Results",
           "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
           "published": "Mon, 10 Aug 2026 15:33:22 GMT",
@@ -149,20 +163,6 @@
           "published": "Mon, 03 Aug 2026 15:33:22 GMT",
           "description": "CUSIP:  912797VV6  Term and Type:  26-Week Bill  CMB:  No  High Rate:  3.855%  Investment Rate:  3.986%  Price:  $98.051083  Allotted at High:  65.40%  Total Tendered:  $241,833,586,000  Total Accepted:  $85,263,186,000  Auction Date:  08/03/2026  Issue Date:  08/06/2026  Maturity Date:  02/04/2027  PDF  |  XML",
           "relevant": true
-        },
-        {
-          "title": "13-Week Bill Treasury Auction Results",
-          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
-          "published": "Mon, 03 Aug 2026 15:33:21 GMT",
-          "description": "CUSIP:  912797UM7  Term and Type:  13-Week Bill  CMB:  No  High Rate:  3.750%  Investment Rate:  3.838%  Price:  $99.052083  Allotted at High:  10.13%  Total Tendered:  $247,379,556,300  Total Accepted:  $99,294,436,300  Auction Date:  08/03/2026  Issue Date:  08/06/2026  Maturity Date:  11/05/2026  PDF  |  XML",
-          "relevant": true
-        },
-        {
-          "title": "4-Week Bill Treasury Auction Results",
-          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
-          "published": "Thu, 30 Jul 2026 15:33:16 GMT",
-          "description": "CUSIP:  912797UW5  Term and Type:  4-Week Bill  CMB:  No  High Rate:  3.630%  Investment Rate:  3.691%  Price:  $99.717667  Allotted at High:  50.42%  Total Tendered:  $313,616,942,600  Total Accepted:  $116,011,412,600  Auction Date:  07/30/2026  Issue Date:  08/04/2026  Maturity Date:  09/01/2026  PDF  |  XML",
-          "relevant": true
         }
       ],
       "count": 10,
@@ -175,6 +175,13 @@
       "channel": "ECB - European Central Bank",
       "description": "Latest releases on the ECB website - Press releases, speeches and interviews, press conferences.",
       "entries": [
+        {
+          "title": "ECB and Frankfurt Radio Symphony invite the public to Europa Open Air concert on 20 August 2026",
+          "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260811~47cd3ee040.en.html",
+          "published": "Tue, 11 Aug 2026 10:30:00 +0200",
+          "description": "",
+          "relevant": true
+        },
         {
           "title": "ECB publishes consolidated banking data for end-March 2026",
           "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260807~58eb5109ce.en.html",
@@ -234,13 +241,6 @@
         {
           "title": "Results of the ECB Survey of Professional Forecasters for the third quarter of 2026",
           "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260724~a099353951.en.html",
-          "published": "Fri, 24 Jul 2026 10:00:00 +0200",
-          "description": "",
-          "relevant": true
-        },
-        {
-          "title": "ECB Consumer Expectations Survey results – June 2026",
-          "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260724_1~fa277eb6fe.en.html",
           "published": "Fri, 24 Jul 2026 10:00:00 +0200",
           "description": "",
           "relevant": true
@@ -343,6 +343,13 @@
       "description": "News",
       "entries": [
         {
+          "title": "Results of the Semi-Annual FX Turnover Surveys in April 2026",
+          "link": "https://www.bankofengland.co.uk/markets/london-foreign-exchange-joint-standing-committee/results-of-the-semi-annual-fx-turnover-survey-april-2026",
+          "published": "Tue, 11 Aug 2026 14:00:00 +0100",
+          "description": "In April 2026, 25 financial institutions active in the UK foreign exchange (FX) market participated in the semi-annual turnover survey for the Foreign Exchange Joint Standing Committee (FXJSC). The survey results are summarised below. Detailed tables for the April 2026 reporting period, linked below, are available separately.",
+          "relevant": true
+        },
+        {
           "title": "Green notice 2026/02",
           "link": "https://www.bankofengland.co.uk/statistics/notice/2026/green-notice-2026-02",
           "published": "Thu, 06 Aug 2026 12:00:00 +0100",
@@ -404,13 +411,6 @@
           "link": "https://www.bankofengland.co.uk/news/2026/july/pra-and-fca-propose-new-captive-insurance-regime-to-drive-uk-growth-and-competitiveness",
           "published": "Tue, 14 Jul 2026 15:00:00 +0100",
           "description": "Innovative new proposals aim to establish the UK as a centre for the fast-growing captive insurance market.",
-          "relevant": true
-        },
-        {
-          "title": "Minutes of the Money Market Committee meeting – June 2026",
-          "link": "https://www.bankofengland.co.uk/minutes/2026/june/money-markets-committee-minutes-june-2026",
-          "published": "Mon, 13 Jul 2026 13:32:45 +0100",
-          "description": "The Money Markets Committee is a forum for market participants and authorities to discuss the UK unsecured deposits and funding market and securities lending and repo markets.",
           "relevant": true
         }
       ],
@@ -507,6 +507,13 @@
       "description": "",
       "entries": [
         {
+          "title": "Africa's public debt amid global headwinds: balancing resilience and vulnerabilities",
+          "link": "https://www.bis.org/publ/bisbull132.htm",
+          "published": "2026-08-11T10:43:00Z",
+          "description": "by Michael Chui, Leonardo Gambacorta The conflict in the Middle East has raised energy and fertiliser prices, weakened growth and intensified fiscal pressures across Africa at a time when public debt and debt service burdens remain elevated.\r\nThe shift towards domestic currency debt has reduced exchange rate risk for issuers and preserved market access, but higher interest rates and shorter maturities have increased debt service costs and rollover risks.\r\nA heavy reliance on banks and central banks for government financing can reinforce the sovereign-bank nexus, crowd out private credit and threaten financial stability. Developing deeper markets and a more diversified investor base are essential to address these challenges.",
+          "relevant": true
+        },
+        {
           "title": "Mary-Elizabeth McMunn: Reinforcing the foundations - openness through resilience in the face of change",
           "link": "https://www.bis.org/review/r260805g.htm",
           "published": "2026-08-10T08:46:00Z",
@@ -568,13 +575,6 @@
           "published": "2026-08-03T09:17:00Z",
           "description": "Speech (via pre-recorded video) by Ms Michelle W Bowman, Vice Chair for Supervision of the Board of Governors of the Federal Reserve System, at \"Next-gen financial inclusion\", the third annual Financial Inclusion Conference hosted by the Federal Reserve Board, Washington DC, 14 July 2026.",
           "relevant": true
-        },
-        {
-          "title": "Philip N Jefferson: Navigating economic shocks - a monetary policymaker's perspective",
-          "link": "https://www.bis.org/review/r260731b.htm",
-          "published": "2026-08-03T07:10:00Z",
-          "description": "Speech by Mr Philip N Jefferson, Vice Chair of the Board of Governors of the Federal Reserve System, at the Stanford Institute for Economic Policy Research, Stanford University, Stanford, California, 16 July 2026.",
-          "relevant": true
         }
       ],
       "count": 10,
@@ -587,6 +587,13 @@
       "channel": "BIS — Research Papers",
       "description": "",
       "entries": [
+        {
+          "title": "Africa's public debt amid global headwinds: balancing resilience and vulnerabilities",
+          "link": "https://www.bis.org/publ/bisbull132.htm",
+          "published": "2026-08-11T10:43:00Z",
+          "description": "by Michael Chui, Leonardo Gambacorta The conflict in the Middle East has raised energy and fertiliser prices, weakened growth and intensified fiscal pressures across Africa at a time when public debt and debt service burdens remain elevated.\r\nThe shift towards domestic currency debt has reduced exchange rate risk for issuers and preserved market access, but higher interest rates and shorter maturities have increased debt service costs and rollover risks.\r\nA heavy reliance on banks and central banks for government financing can reinforce the sovereign-bank nexus, crowd out private credit and threaten financial stability. Developing deeper markets and a more diversified investor base are essential to address these challenges.",
+          "relevant": true
+        },
         {
           "title": "Energy shocks and inflation: challenges for monetary policy",
           "link": "https://www.bis.org/publ/bisbull131.htm",
@@ -650,13 +657,6 @@
           "published": "2026-07-14T06:10:00Z",
           "description": "by Fernando Avalos, Giulio Cornelli, Egemen Eren Business development companies (BDCs) have lent around $115 billion to software firms, which represents about a fifth of all their lending and over 80% of their fast-growing technology portfolios. Borrowers' revenue uncertainty posed by generative artificial intelligence has not affected these loans yet, and neither BDCs nor their equity investors have priced software exposure differently. Recently, credit spreads have narrowed, reducing the buffers to absorb losses, and a few large BDCs are exposed to a shared pool of borrowers, though low leverage and secured lending may limit spillovers.",
           "relevant": true
-        },
-        {
-          "title": "Competition in retail digital payments",
-          "link": "https://www.bis.org/publ/bisbull127.htm",
-          "published": "2026-07-13T07:14:00Z",
-          "description": "by Daniele Natalizi, Vatsala Shreeti Retail payments have digitalised rapidly in both advanced economies and emerging market and developing economies. Digitalisation has altered the competitive landscape, with new entrants (eg fintechs and big techs) and new technologies, yet incumbent banks and card networks retain their dominant position in key markets. In their role as operators, overseers and catalysts in payment systems, central banks support competition in diverse ways, depending on their mandates and institutional arrangements.",
-          "relevant": true
         }
       ],
       "count": 10,
@@ -667,11 +667,85 @@
       "name": "Lyn Alden",
       "url": "https://www.lynalden.com/feed/",
       "channel": "Lyn Alden",
-      "entries": [],
-      "count": 0,
-      "_error": "timed out",
+      "description": "Investment Strategy",
+      "entries": [
+        {
+          "title": "An Alternative to Private Equity: Introducing ORANGE JUICE",
+          "link": "https://www.lynalden.com/orange-juice/",
+          "published": "Wed, 15 Jul 2026 14:16:27 +0000",
+          "description": "July 15, 2026 The rest of the team at Ego Death Capital and I have partnered with Adrian Steckel and Ruben Zweiban to launch ORANGE JUICE. It&#8217;s a company that acquires, improves, and permanently holds cash-flowing businesses, backed by a bitcoin treasury. More specifically, ORANGE JUICE seeks to acquire profitable small and mid-sized businesses at [&#8230;] \n The post  An Alternative to Private Equity: Introducing ORANGE JUICE  appeared first on  Lyn Alden .",
+          "relevant": true
+        },
+        {
+          "title": "New Book: The Stolguard Incident",
+          "link": "https://www.lynalden.com/the-stolguard-incident/",
+          "published": "Fri, 13 Mar 2026 13:29:44 +0000",
+          "description": "My new sci fi thriller, The Stolguard Incident, is now available! It can be purchased in print, ebook, or audio versions on Amazon here. You can also find the print version on Barnes &#38; Noble here, or you may be able to ask your local bookstore to order it for you. Premise: In the late [&#8230;] \n The post  New Book: The Stolguard Incident  appeared first on  Lyn Alden .",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
+        },
+        {
+          "title": "Fractional Reserve Banking 101",
+          "link": "https://www.lynalden.com/fractional-reserve-banking/",
+          "published": "Wed, 11 Mar 2026 23:04:33 +0000",
+          "description": "Banks work in ways that are unintuitive for a lot of people. And yet, understanding the banking system as a whole is really helpful for investing, because having a grasp of how the banking system is functioning helps you determine whether you should expect monetary inflation or disinflation, and whether the risks of widespread financial [&#8230;] \n The post  Fractional Reserve Banking 101  appeared first on  Lyn Alden .",
+          "relevant": true
+        },
+        {
+          "title": "Why Most Cryptocurrencies Won’t Accrue Value",
+          "link": "https://www.lynalden.com/why-most-cryptocurrencies-wont-accrue-value/",
+          "published": "Mon, 01 Dec 2025 17:45:10 +0000",
+          "description": "December 2025 For many years now, I&#8217;ve been bullish on bitcoin, and continue to be, but have not extended that view toward any other cryptocurrency. That decision continues to hold up well. Since I first recommended it in April 2020, it has gone from $6,900 to $126,000, and is currently back down to around $85,000. [&#8230;] \n The post  Why Most Cryptocurrencies Won&#8217;t Accrue Value  appeared first on  Lyn Alden .",
+          "relevant": true
+        },
+        {
+          "title": "The Rise of Bitcoin Stocks and Bonds",
+          "link": "https://www.lynalden.com/bitcoin-stocks-and-bonds/",
+          "published": "Sun, 06 Jul 2025 14:03:34 +0000",
+          "description": "Originally published: July 2025 During the past year or so, the Bitcoin ecosystem has largely been led by the rise of corporate bitcoin treasury strategies. Although Strategy (MSTR) pioneered the trend back in 2020, the follow-on adoption by others was slow. However, after yet another cycle of bear market and bull market activity, as well [&#8230;] \n The post  The Rise of Bitcoin Stocks and Bonds  appeared first on  Lyn Alden .",
+          "relevant": true
+        },
+        {
+          "title": "Twitter/X Restored",
+          "link": "https://www.lynalden.com/twitter-compromised/",
+          "published": "Thu, 27 Feb 2025 23:16:32 +0000",
+          "description": "My Twitter/X account was compromised from February 26th to March 3rd, but I confirm that I&#8217;ve regained control of it now. Thank you to everyone who helped make it happen. Fortunately, I still had access to Nostr during that time (e.g. primal.net/lyn), which is decentralized social media. Eight months ago, at the Oslo Freedom Forum, [&#8230;] \n The post  Twitter/X Restored  appeared first on  Lyn Alden .",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
+        },
+        {
+          "title": "Full Steam Ahead: All Aboard Fiscal Dominance",
+          "link": "https://www.lynalden.com/full-steam-ahead-all-aboard-fiscal-dominance/",
+          "published": "Wed, 08 Jan 2025 12:51:03 +0000",
+          "description": "This research piece on fiscal dominance in the United States was compiled and written by Sam Callahan, and commissioned and advised by Lyn Alden. Published: January 2025 Executive Summary • Structural fiscal deficits have surpassed private sector lending and monetary policy as the primary drivers of economic activity and inflation, marking a fundamental shift in [&#8230;] \n The post  Full Steam Ahead: All Aboard Fiscal Dominance  appeared first on  Lyn Alden .",
+          "relevant": true
+        },
+        {
+          "title": "Bitcoin: A Global Liquidity Barometer",
+          "link": "https://www.lynalden.com/bitcoin-a-global-liquidity-barometer/",
+          "published": "Tue, 24 Sep 2024 17:59:32 +0000",
+          "description": "This research piece on the correlation between measures of liquidity and the price of Bitcoin was compiled and written by Sam Callahan, and commissioned and advised by Lyn Alden. Published: September 2024 Executive Summary Bitcoin moves in the direction of global liquidity 83% of the time in any given 12-month period, which is higher than [&#8230;] \n The post  Bitcoin: A Global Liquidity Barometer  appeared first on  Lyn Alden .",
+          "relevant": true
+        },
+        {
+          "title": "A New Look at Corporate Treasury Strategy",
+          "link": "https://www.lynalden.com/a-new-look-at-corporate-treasury-strategy/",
+          "published": "Sun, 04 Aug 2024 16:08:13 +0000",
+          "description": "Published: August 2024 In the modern era of corporate finance, the balance sheet of a corporation has trended toward being less important relative to the income statement. Back during Benjamin Graham&#8217;s quintessential value investing days, he looked at balance sheet valuation metrics almost as much as he did income-related valuation metrics. But in modern times, [&#8230;] \n The post  A New Look at Corporate Treasury Strategy  appeared first on  Lyn Alden .",
+          "relevant": true
+        },
+        {
+          "title": "The Power of Nostr: Decentralized Social Media and More",
+          "link": "https://www.lynalden.com/the-power-of-nostr/",
+          "published": "Sat, 20 Jul 2024 19:48:33 +0000",
+          "description": "Published: July 2024 It would be powerful if you could bring your digital identity, content, and followers from one social ecosystem, such as Twitter, LinkedIn, Instagram, or Substack, to another. Imagine if you could publish content and send messages in any of those types of ecosystems, with one continuous digital identity rather than separate accounts. [&#8230;] \n The post  The Power of Nostr: Decentralized Social Media and More  appeared first on  Lyn Alden .",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
+        }
+      ],
+      "count": 10,
       "domain": "US Fiscal",
-      "relevant_count": 0
+      "relevant_count": 7
     },
     {
       "name": "Doomberg — Substack",
