@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T22:32:13.910961+00:00",
+  "generated_at": "2026-08-12T22:30:27.329098+00:00",
   "source": "rss",
   "feeds_count": 17,
   "total_entries": 100,
@@ -95,6 +95,20 @@
       "description": "Treasury Offering Announcements",
       "entries": [
         {
+          "title": "10-Year Note Treasury Auction Results",
+          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
+          "published": "Wed, 12 Aug 2026 17:03:16 GMT",
+          "description": "CUSIP:  91282CRF0  Term and Type:  10-Year Note  Series:  E-2036  Reopening:  No  Interest Rate:  4.625%  High Yield:  4.683%  Price:  $99.540696  Allotted at High:  65.27%  Total Tendered:  $116,957,209,500  Total Accepted:  $52,623,557,100  Auction Date:  08/12/2026  Issue Date:  08/17/2026  Maturity Date:  08/15/2036  PDF  |  XML",
+          "relevant": true
+        },
+        {
+          "title": "17-Week Bill Treasury Auction Results",
+          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
+          "published": "Wed, 12 Aug 2026 15:33:21 GMT",
+          "description": "CUSIP:  912797WF0  Term and Type:  17-Week Bill  CMB:  No  High Rate:  3.755%  Investment Rate:  3.855%  Price:  $98.758764  Allotted at High:  9.14%  Total Tendered:  $233,213,271,100  Total Accepted:  $77,350,366,100  Auction Date:  08/12/2026  Issue Date:  08/18/2026  Maturity Date:  12/15/2026  PDF  |  XML",
+          "relevant": true
+        },
+        {
           "title": "3-Year Note Treasury Auction Results",
           "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
           "published": "Tue, 11 Aug 2026 17:03:20 GMT",
@@ -148,20 +162,6 @@
           "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
           "published": "Tue, 04 Aug 2026 15:33:22 GMT",
           "description": "CUSIP:  912797UG0  Term and Type:  6-Week Bill  CMB:  No  High Rate:  3.640%  Investment Rate:  3.706%  Price:  $99.575333  Allotted at High:  79.36%  Total Tendered:  $286,024,137,000  Total Accepted:  $102,531,858,600  Auction Date:  08/04/2026  Issue Date:  08/06/2026  Maturity Date:  09/17/2026  PDF  |  XML",
-          "relevant": true
-        },
-        {
-          "title": "52-Week Bill Treasury Auction Results",
-          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
-          "published": "Tue, 04 Aug 2026 15:33:21 GMT",
-          "description": "CUSIP:  912797VR5  Term and Type:  52-Week Bill  CMB:  No  High Rate:  3.880%  Investment Rate:  4.054%  Price:  $96.076889  Allotted at High:  12.98%  Total Tendered:  $192,428,267,900  Total Accepted:  $56,122,732,900  Auction Date:  08/04/2026  Issue Date:  08/06/2026  Maturity Date:  08/05/2027  PDF  |  XML",
-          "relevant": true
-        },
-        {
-          "title": "26-Week Bill Treasury Auction Results",
-          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
-          "published": "Mon, 03 Aug 2026 15:33:22 GMT",
-          "description": "CUSIP:  912797VV6  Term and Type:  26-Week Bill  CMB:  No  High Rate:  3.855%  Investment Rate:  3.986%  Price:  $98.051083  Allotted at High:  65.40%  Total Tendered:  $241,833,586,000  Total Accepted:  $85,263,186,000  Auction Date:  08/03/2026  Issue Date:  08/06/2026  Maturity Date:  02/04/2027  PDF  |  XML",
           "relevant": true
         }
       ],
@@ -257,15 +257,44 @@
       "description": "",
       "entries": [
         {
+          "title": "(Research Paper) Market Operations in Fiscal 2025",
+          "link": "https://www.boj.or.jp/en/research/brp/mor/mor260812.htm",
+          "published": "Wed, 12 Aug 2026 16:00:00 +0900",
+          "description": "",
+          "relevant": true
+        },
+        {
+          "title": "(Research Paper) Linkages of Firm Spending Behavior through Supply Chains",
+          "link": "https://www.boj.or.jp/en/research/wps_rev/wps_2026/wp26e14.htm",
+          "published": "Wed, 12 Aug 2026 14:00:00 +0900",
+          "description": "",
+          "relevant": true
+        },
+        {
+          "title": "(Research Paper) Mapping Japan's Manufacturing Supply Chains Through Firm-to-Firm Transaction Data",
+          "link": "https://www.boj.or.jp/en/research/wps_rev/wps_2026/wp26e13.htm",
+          "published": "Wed, 12 Aug 2026 14:00:00 +0900",
+          "description": "",
+          "relevant": true
+        },
+        {
+          "title": "Money Stock (July)",
+          "link": "https://www.boj.or.jp/en/statistics/money/ms/ms2607.pdf",
+          "published": "Wed, 12 Aug 2026 08:50:00 +0900",
+          "description": "",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
+        },
+        {
           "title": "Summary of Opinions at the Monetary Policy Meeting on July 30 and 31, 2026",
-          "link": "http://www.boj.or.jp/en/mopo/mpmsche_minu/opinion_2026/opi260731.pdf",
+          "link": "https://www.boj.or.jp/en/mopo/mpmsche_minu/opinion_2026/opi260731.pdf",
           "published": "Mon, 10 Aug 2026 08:50:00 +0900",
           "description": "",
           "relevant": true
         },
         {
           "title": "Principal Figures of Financial Institutions (July)",
-          "link": "http://www.boj.or.jp/en/statistics/dl/depo/kashi/kasi2607.pdf",
+          "link": "https://www.boj.or.jp/en/statistics/dl/depo/kashi/kasi2607.pdf",
           "published": "Mon, 10 Aug 2026 08:50:00 +0900",
           "description": "",
           "relevant": false,
@@ -273,7 +302,7 @@
         },
         {
           "title": "Release of Latest \"Loans and Bills Discounted by Sector\" and \"Loans to Households\" Data",
-          "link": "http://www.boj.or.jp/en/statistics/outline/notice_2026/not260810a.htm",
+          "link": "https://www.boj.or.jp/en/statistics/outline/notice_2026/not260810a.htm",
           "published": "Mon, 10 Aug 2026 08:50:00 +0900",
           "description": "",
           "relevant": false,
@@ -281,7 +310,7 @@
         },
         {
           "title": "Amounts Outstanding in the Call Money Market (July)",
-          "link": "http://www.boj.or.jp/en/statistics/market/short/call/call.xlsx",
+          "link": "https://www.boj.or.jp/en/statistics/market/short/call/call.xlsx",
           "published": "Fri, 07 Aug 2026 15:00:00 +0900",
           "description": "",
           "relevant": false,
@@ -289,7 +318,7 @@
         },
         {
           "title": "Consumption Activity Index",
-          "link": "http://www.boj.or.jp/en/research/research_data/cai/index.htm",
+          "link": "https://www.boj.or.jp/en/research/research_data/cai/index.htm",
           "published": "Fri, 07 Aug 2026 14:00:00 +0900",
           "description": "",
           "relevant": false,
@@ -297,37 +326,8 @@
         },
         {
           "title": "Market Operations by the Bank of Japan (July)",
-          "link": "http://www.boj.or.jp/en/statistics/boj/fm/ope/m_release/2026/ope2607.xlsx",
+          "link": "https://www.boj.or.jp/en/statistics/boj/fm/ope/m_release/2026/ope2607.xlsx",
           "published": "Fri, 07 Aug 2026 08:50:00 +0900",
-          "description": "",
-          "relevant": true
-        },
-        {
-          "title": "Monetary Base and the Bank of Japan's Transactions (July)",
-          "link": "http://www.boj.or.jp/en/statistics/boj/other/mbt/mbt2607.pdf",
-          "published": "Fri, 07 Aug 2026 08:50:00 +0900",
-          "description": "",
-          "relevant": true
-        },
-        {
-          "title": "Bank of Japan's Transactions with the Government (July)",
-          "link": "http://www.boj.or.jp/en/statistics/boj/other/tseifu/release/2026/seifu2607.pdf",
-          "published": "Fri, 07 Aug 2026 08:50:00 +0900",
-          "description": "",
-          "relevant": true
-        },
-        {
-          "title": "Sources of Changes in Current Account Balances (Projections for Aug.)",
-          "link": "http://www.boj.or.jp/en/statistics/boj/fm/juqp/juqp2608.xlsx",
-          "published": "Wed, 05 Aug 2026 08:50:00 +0900",
-          "description": "",
-          "relevant": false,
-          "_skip_reason": "no_macro_keyword"
-        },
-        {
-          "title": "Minutes of the Monetary Policy Meeting on June 15 and 16, 2026",
-          "link": "http://www.boj.or.jp/en/mopo/mpmsche_minu/minu_2026/g260616.pdf",
-          "published": "Wed, 05 Aug 2026 08:50:00 +0900",
           "description": "",
           "relevant": true
         }
@@ -425,80 +425,79 @@
       "description": "Nonpartisan budgetary and economic analysis for the U.S. Congress.",
       "entries": [
         {
-          "title": "Monthly Budget Review: August 2026",
-          "link": "https://www.cbo.gov/publication/61983",
-          "published": "Mon, 10 Aug 2026 14:00:00 -0400",
-          "description": "The federal budget deficit totaled $1.8 trillion in the first 10 months of fiscal year 2026, CBO estimates. That amount is $169 billion more than the deficit\nrecorded during the same period last fiscal year.",
+          "title": "S. 4709, Unlocking Next-Generation Licensing and Opportunities for Collaborative Know-how for AUKUS Act",
+          "link": "https://www.cbo.gov/publication/62645",
+          "published": "Wed, 12 Aug 2026 14:32:00 -0400",
+          "description": "As reported by the Senate Committee on Foreign Relations on July 27, 2026",
           "relevant": true
         },
         {
-          "title": "H.R. 6380, Chiricahua National Park Act",
-          "link": "https://www.cbo.gov/publication/62648",
-          "published": "Thu, 06 Aug 2026 15:25:00 -0400",
-          "description": "As ordered reported by the Senate Committee on Energy and Natural Resources on July 29, 2026",
+          "title": "H.R. 1008, a bill to designate the facility of the United States Postal Service located at 298 Route 292 in Holmes, New York, as the \"Sheriff Adrian ‘Butch’ Anderson Post Office Building\"",
+          "link": "https://www.cbo.gov/publication/62650",
+          "published": "Wed, 12 Aug 2026 13:03:00 -0400",
+          "description": "As ordered reported by the Senate Committee on Homeland Security and Governmental Affairs on August 6, 2026",
           "relevant": true
         },
         {
-          "title": "S. 2933, a bill to redesignate a playground in the New River Gorge National Park and Preserve in the State of West Virginia as the “Hearts of Gold Playground: In Honor of West Virginia Children and Families Impacted by Childhood Cancer”",
-          "link": "https://www.cbo.gov/publication/62647",
-          "published": "Thu, 06 Aug 2026 14:32:00 -0400",
-          "description": "As ordered reported by the Senate Committee on Energy and Natural Resources on July 29, 2026",
+          "title": "H.R. 323, a bill to designate the facility of the United States Postal Service located at 80 Prospect Street in Avon, New York, as the \"Officer Anthony Mazurkiewicz Memorial Post Office Building\"",
+          "link": "https://www.cbo.gov/publication/62649",
+          "published": "Wed, 12 Aug 2026 13:03:00 -0400",
+          "description": "As ordered reported by the Senate Committee on Homeland Security and Governmental Affairs \non August 6, 2026",
           "relevant": true
         },
         {
-          "title": "H.R. 3087, Civil Rights Cold Case Records Collection Reauthorization Act of 2026",
-          "link": "https://www.cbo.gov/publication/62646",
-          "published": "Thu, 06 Aug 2026 13:15:00 -0400",
-          "description": "As ordered reported by the House Committee on Oversight and Government Reform on May 20, 2026",
+          "title": "H.R. 1009, a bill to designate the facility of the United States Postal Service located at 86 Main Street in Haverstraw, New York, as the \"Paul Piperato Post Office Building\"",
+          "link": "https://www.cbo.gov/publication/62651",
+          "published": "Wed, 12 Aug 2026 13:02:00 -0400",
+          "description": "As ordered reported by the Senate Committee on Homeland Security and Governmental Affairs on August 6, 2026",
           "relevant": true
         },
         {
-          "title": "The Navy's New Battleship Program: Costs and Implications for the Shipbuilding Industrial Base",
-          "link": "https://www.cbo.gov/publication/62550",
-          "published": "Wed, 05 Aug 2026 14:00:00 -0400",
-          "description": "CBO estimates that it would cost about $275 billion (in 2026 dollars) to build 15 of the Navy's new nuclear-powered battleships through 2056. The first ship would cost about $23 billion, and the next 14 ships would average $18 billion.",
+          "title": "H.R. 1372, a bill to designate the facility of the United States Postal Service located at 300 Macedonia Lane in Knoxville, Tennessee, as the \"Reverend Harold Middlebrook Post Office Building\"",
+          "link": "https://www.cbo.gov/publication/62652",
+          "published": "Wed, 12 Aug 2026 13:01:00 -0400",
+          "description": "As ordered reported by the Senate Committee on Homeland Security and Governmental Affairs on August 6, 2026",
           "relevant": true
         },
         {
-          "title": "H.R. 3657, Hydropower Licensing Transparency Act",
-          "link": "https://www.cbo.gov/publication/62642",
-          "published": "Wed, 05 Aug 2026 13:48:00 -0400",
-          "description": "As ordered reported by the Senate Committee on Energy and Natural Resources on June 10, 2026",
+          "title": "H.R. 1431, a bill to designate the facility of the United States Postal Service located at 2407 State Route 71, Suite 1, in Spring Lake, New Jersey, as the \"James J. Howard Post Office\"",
+          "link": "https://www.cbo.gov/publication/62653",
+          "published": "Wed, 12 Aug 2026 13:01:00 -0400",
+          "description": "As ordered reported by the Senate Committee on Homeland Security and Governmental Affairs on August 6, 2026",
           "relevant": true
         },
         {
-          "title": "S. 3500, Hydropower Licensing Transparency Act",
-          "link": "https://www.cbo.gov/publication/62641",
-          "published": "Wed, 05 Aug 2026 13:47:00 -0400",
-          "description": "As ordered reported by the Senate Committee on Energy and Natural Resources on June 10, 2026",
+          "title": "H.R. 1706, a bill to designate the facility of the United States Postal Service located at 1200 William Street, Room 200, in Buffalo, New York, as the \"William J. Donovan Post Office Building\"",
+          "link": "https://www.cbo.gov/publication/62654",
+          "published": "Wed, 12 Aug 2026 13:00:00 -0400",
+          "description": "As ordered reported by the Senate Committee on Homeland Security and Governmental Affairs on August 6, 2026",
           "relevant": true
         },
         {
-          "title": "The Continuing Appropriations and Extensions Act, 2027",
-          "link": "https://www.cbo.gov/publication/62643",
-          "published": "Wed, 05 Aug 2026 10:54:00 -0400",
-          "description": "As posted on the website of the Senate Committee on Appropriations on August 2, 2026",
-          "relevant": false,
-          "_skip_reason": "no_macro_keyword"
-        },
-        {
-          "title": "H.R. 5351, NSF AI Education Act of 2026",
-          "link": "https://www.cbo.gov/publication/62640",
-          "published": "Tue, 04 Aug 2026 17:00:00 -0400",
-          "description": "As ordered reported by the House Committee on Science, Space, and Technology on June 25, 2026",
+          "title": "H.R. 1830, a bill to designate the facility of the United States Postal Service located at 840 Front Street in Casselton, North Dakota, as the \"Commander Delbert Austin Olson Post Office\"",
+          "link": "https://www.cbo.gov/publication/62655",
+          "published": "Wed, 12 Aug 2026 13:00:00 -0400",
+          "description": "As ordered reported by the Senate Committee on Homeland Security and Governmental Affairs on August 6, 2026",
           "relevant": true
         },
         {
-          "title": "H.R. 1483, Protecting Investors’ Personally Identifiable Information Act",
-          "link": "https://www.cbo.gov/publication/62639",
-          "published": "Tue, 04 Aug 2026 15:44:00 -0400",
-          "description": "As ordered reported by the House Committee on Financial Services on June 30, 2026",
+          "title": "H.R. 2175, a bill to designate the facility of the United States Postal Service located at 130 South Patterson Avenue in Santa Barbara, California, as the \"Brigadier General Frederick R. Lopez Post Office Building\"",
+          "link": "https://www.cbo.gov/publication/62656",
+          "published": "Wed, 12 Aug 2026 12:59:00 -0400",
+          "description": "As ordered reported by the Senate Committee on Homeland Security and Governmental Affairs on August 6, 2026",
+          "relevant": true
+        },
+        {
+          "title": "H.R. 2466, a bill to designate the facility of the United States Postal Service located at 5225 Harrison Avenue in Rockford, Illinois, as the \"Jay P. Larson Post Office Building\"",
+          "link": "https://www.cbo.gov/publication/62657",
+          "published": "Wed, 12 Aug 2026 12:58:00 -0400",
+          "description": "As ordered reported by the Senate Committee on Homeland Security and Governmental Affairs on August 6, 2026",
           "relevant": true
         }
       ],
       "count": 10,
       "domain": "US Fiscal",
-      "relevant_count": 9
+      "relevant_count": 10
     },
     {
       "name": "BIS — All Publications",
