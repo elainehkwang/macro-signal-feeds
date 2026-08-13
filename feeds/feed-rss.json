@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T22:30:27.329098+00:00",
+  "generated_at": "2026-08-13T22:31:33.102317+00:00",
   "source": "rss",
   "feeds_count": 17,
   "total_entries": 100,
@@ -95,6 +95,27 @@
       "description": "Treasury Offering Announcements",
       "entries": [
         {
+          "title": "30-Year Bond Treasury Auction Results",
+          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
+          "published": "Thu, 13 Aug 2026 17:03:22 GMT",
+          "description": "CUSIP:  912810UW6  Term and Type:  30-Year Bond  Series:  Bonds of August 2056  Reopening:  No  Interest Rate:  5.125%  High Yield:  5.216%  Price:  $98.627017  Allotted at High:  12.10%  Total Tendered:  $66,124,528,800  Total Accepted:  $31,323,533,800  Auction Date:  08/13/2026  Issue Date:  08/17/2026  Maturity Date:  08/15/2056  PDF  |  XML",
+          "relevant": true
+        },
+        {
+          "title": "8-Week Bill Treasury Auction Results",
+          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
+          "published": "Thu, 13 Aug 2026 15:33:13 GMT",
+          "description": "CUSIP:  912797VL8  Term and Type:  8-Week Bill  CMB:  No  High Rate:  3.665%  Investment Rate:  3.737%  Price:  $99.429889  Allotted at High:  36.84%  Total Tendered:  $292,045,146,500  Total Accepted:  $107,429,326,500  Auction Date:  08/13/2026  Issue Date:  08/18/2026  Maturity Date:  10/13/2026  PDF  |  XML",
+          "relevant": true
+        },
+        {
+          "title": "4-Week Bill Treasury Auction Results",
+          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
+          "published": "Thu, 13 Aug 2026 15:33:12 GMT",
+          "description": "CUSIP:  912797VC8  Term and Type:  4-Week Bill  CMB:  No  High Rate:  3.625%  Investment Rate:  3.686%  Price:  $99.718056  Allotted at High:  79.23%  Total Tendered:  $313,166,074,500  Total Accepted:  $118,172,369,500  Auction Date:  08/13/2026  Issue Date:  08/18/2026  Maturity Date:  09/15/2026  PDF  |  XML",
+          "relevant": true
+        },
+        {
           "title": "10-Year Note Treasury Auction Results",
           "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
           "published": "Wed, 12 Aug 2026 17:03:16 GMT",
@@ -142,27 +163,6 @@
           "published": "Thu, 06 Aug 2026 15:33:24 GMT",
           "description": "CUSIP:  912797VB0  Term and Type:  4-Week Bill  CMB:  No  High Rate:  3.640%  Investment Rate:  3.701%  Price:  $99.716889  Allotted at High:  72.82%  Total Tendered:  $299,712,776,400  Total Accepted:  $115,124,236,400  Auction Date:  08/06/2026  Issue Date:  08/11/2026  Maturity Date:  09/08/2026  PDF  |  XML",
           "relevant": true
-        },
-        {
-          "title": "8-Week Bill Treasury Auction Results",
-          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
-          "published": "Thu, 06 Aug 2026 15:33:23 GMT",
-          "description": "CUSIP:  912797VK0  Term and Type:  8-Week Bill  CMB:  No  High Rate:  3.710%  Investment Rate:  3.783%  Price:  $99.422889  Allotted at High:  17.93%  Total Tendered:  $279,021,977,900  Total Accepted:  $104,659,186,200  Auction Date:  08/06/2026  Issue Date:  08/11/2026  Maturity Date:  10/06/2026  PDF  |  XML",
-          "relevant": true
-        },
-        {
-          "title": "17-Week Bill Treasury Auction Results",
-          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
-          "published": "Wed, 05 Aug 2026 15:33:17 GMT",
-          "description": "CUSIP:  912797WE3  Term and Type:  17-Week Bill  CMB:  No  High Rate:  3.785%  Investment Rate:  3.886%  Price:  $98.748847  Allotted at High:  94.66%  Total Tendered:  $232,780,975,900  Total Accepted:  $75,354,250,700  Auction Date:  08/05/2026  Issue Date:  08/11/2026  Maturity Date:  12/08/2026  PDF  |  XML",
-          "relevant": true
-        },
-        {
-          "title": "6-Week Bill Treasury Auction Results",
-          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
-          "published": "Tue, 04 Aug 2026 15:33:22 GMT",
-          "description": "CUSIP:  912797UG0  Term and Type:  6-Week Bill  CMB:  No  High Rate:  3.640%  Investment Rate:  3.706%  Price:  $99.575333  Allotted at High:  79.36%  Total Tendered:  $286,024,137,000  Total Accepted:  $102,531,858,600  Auction Date:  08/04/2026  Issue Date:  08/06/2026  Maturity Date:  09/17/2026  PDF  |  XML",
-          "relevant": true
         }
       ],
       "count": 10,
@@ -175,6 +175,13 @@
       "channel": "ECB - European Central Bank",
       "description": "Latest releases on the ECB website - Press releases, speeches and interviews, press conferences.",
       "entries": [
+        {
+          "title": "Cash remains most widely accepted payment method in euro area",
+          "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260813~389729d6a9.en.html",
+          "published": "Thu, 13 Aug 2026 11:00:00 +0200",
+          "description": "",
+          "relevant": true
+        },
         {
           "title": "ECB and Frankfurt Radio Symphony invite the public to Europa Open Air concert on 20 August 2026",
           "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260811~47cd3ee040.en.html",
@@ -237,13 +244,6 @@
           "published": "Fri, 24 Jul 2026 10:30:00 +0200",
           "description": "",
           "relevant": true
-        },
-        {
-          "title": "Results of the ECB Survey of Professional Forecasters for the third quarter of 2026",
-          "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260724~a099353951.en.html",
-          "published": "Fri, 24 Jul 2026 10:00:00 +0200",
-          "description": "",
-          "relevant": true
         }
       ],
       "count": 10,
@@ -257,29 +257,59 @@
       "description": "",
       "entries": [
         {
+          "title": "Japanese Government Bonds Held by the Bank of Japan",
+          "link": "http://www.boj.or.jp/en/statistics/boj/other/mei/release/2026/mei260810.xlsx",
+          "published": "Thu, 13 Aug 2026 17:00:00 +0900",
+          "description": "",
+          "relevant": true
+        },
+        {
+          "title": "Basic Figures on Fails (July)",
+          "link": "http://www.boj.or.jp/en/statistics/set/bffail/sjgb2607.pdf",
+          "published": "Thu, 13 Aug 2026 16:30:00 +0900",
+          "description": "",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
+        },
+        {
+          "title": "Bank of Japan Accounts (August 10)",
+          "link": "http://www.boj.or.jp/en/statistics/boj/other/acmai/release/2026/ac260810.htm",
+          "published": "Thu, 13 Aug 2026 10:00:00 +0900",
+          "description": "",
+          "relevant": true
+        },
+        {
+          "title": "Corporate Goods Price Index (July)",
+          "link": "http://www.boj.or.jp/en/statistics/pi/cgpi_release/cgpi2607.pdf",
+          "published": "Thu, 13 Aug 2026 08:50:00 +0900",
+          "description": "",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
+        },
+        {
           "title": "(Research Paper) Market Operations in Fiscal 2025",
-          "link": "https://www.boj.or.jp/en/research/brp/mor/mor260812.htm",
+          "link": "http://www.boj.or.jp/en/research/brp/mor/mor260812.htm",
           "published": "Wed, 12 Aug 2026 16:00:00 +0900",
           "description": "",
           "relevant": true
         },
         {
           "title": "(Research Paper) Linkages of Firm Spending Behavior through Supply Chains",
-          "link": "https://www.boj.or.jp/en/research/wps_rev/wps_2026/wp26e14.htm",
+          "link": "http://www.boj.or.jp/en/research/wps_rev/wps_2026/wp26e14.htm",
           "published": "Wed, 12 Aug 2026 14:00:00 +0900",
           "description": "",
           "relevant": true
         },
         {
           "title": "(Research Paper) Mapping Japan's Manufacturing Supply Chains Through Firm-to-Firm Transaction Data",
-          "link": "https://www.boj.or.jp/en/research/wps_rev/wps_2026/wp26e13.htm",
+          "link": "http://www.boj.or.jp/en/research/wps_rev/wps_2026/wp26e13.htm",
           "published": "Wed, 12 Aug 2026 14:00:00 +0900",
           "description": "",
           "relevant": true
         },
         {
           "title": "Money Stock (July)",
-          "link": "https://www.boj.or.jp/en/statistics/money/ms/ms2607.pdf",
+          "link": "http://www.boj.or.jp/en/statistics/money/ms/ms2607.pdf",
           "published": "Wed, 12 Aug 2026 08:50:00 +0900",
           "description": "",
           "relevant": false,
@@ -287,54 +317,23 @@
         },
         {
           "title": "Summary of Opinions at the Monetary Policy Meeting on July 30 and 31, 2026",
-          "link": "https://www.boj.or.jp/en/mopo/mpmsche_minu/opinion_2026/opi260731.pdf",
+          "link": "http://www.boj.or.jp/en/mopo/mpmsche_minu/opinion_2026/opi260731.pdf",
           "published": "Mon, 10 Aug 2026 08:50:00 +0900",
           "description": "",
           "relevant": true
         },
         {
           "title": "Principal Figures of Financial Institutions (July)",
-          "link": "https://www.boj.or.jp/en/statistics/dl/depo/kashi/kasi2607.pdf",
+          "link": "http://www.boj.or.jp/en/statistics/dl/depo/kashi/kasi2607.pdf",
           "published": "Mon, 10 Aug 2026 08:50:00 +0900",
           "description": "",
           "relevant": false,
           "_skip_reason": "no_macro_keyword"
-        },
-        {
-          "title": "Release of Latest \"Loans and Bills Discounted by Sector\" and \"Loans to Households\" Data",
-          "link": "https://www.boj.or.jp/en/statistics/outline/notice_2026/not260810a.htm",
-          "published": "Mon, 10 Aug 2026 08:50:00 +0900",
-          "description": "",
-          "relevant": false,
-          "_skip_reason": "no_macro_keyword"
-        },
-        {
-          "title": "Amounts Outstanding in the Call Money Market (July)",
-          "link": "https://www.boj.or.jp/en/statistics/market/short/call/call.xlsx",
-          "published": "Fri, 07 Aug 2026 15:00:00 +0900",
-          "description": "",
-          "relevant": false,
-          "_skip_reason": "no_macro_keyword"
-        },
-        {
-          "title": "Consumption Activity Index",
-          "link": "https://www.boj.or.jp/en/research/research_data/cai/index.htm",
-          "published": "Fri, 07 Aug 2026 14:00:00 +0900",
-          "description": "",
-          "relevant": false,
-          "_skip_reason": "no_macro_keyword"
-        },
-        {
-          "title": "Market Operations by the Bank of Japan (July)",
-          "link": "https://www.boj.or.jp/en/statistics/boj/fm/ope/m_release/2026/ope2607.xlsx",
-          "published": "Fri, 07 Aug 2026 08:50:00 +0900",
-          "description": "",
-          "relevant": true
         }
       ],
       "count": 10,
       "domain": "Japan",
-      "relevant_count": 5
+      "relevant_count": 6
     },
     {
       "name": "BOE — News & MPC Minutes",
@@ -506,6 +505,13 @@
       "description": "",
       "entries": [
         {
+          "title": "High expectation but  low integration? Experiences in  modernising and  integrating information  systems for supervision",
+          "link": "https://www.bis.org/fsi/publ/insights77.htm",
+          "published": "2026-08-13T07:21:00Z",
+          "description": "This paper examines the evolution of information systems that support supervision and the current maturity level of supervisory authorities in terms of systems integration.",
+          "relevant": true
+        },
+        {
           "title": "Africa's public debt amid global headwinds: balancing resilience and vulnerabilities",
           "link": "https://www.bis.org/publ/bisbull132.htm",
           "published": "2026-08-11T10:43:00Z",
@@ -567,13 +573,6 @@
           "published": "2026-08-05T07:23:00Z",
           "description": "by Ryan Niladri Banerjee, Fiorella De Fiore, Marco Jacopo Lombardi, Giovanni Lombardo The recent energy shock ranks among the most significant since the 1990s. Structural factors and initial conditions influence how energy shocks propagate into inflation &#8211; directly and through second-round effects. The appropriate monetary policy reaction depends on the persistence of the inflationary pressures as well as the magnitude of the growth impact, and it differs across economies. Uncertainty about these effects further complicates the policy challenge.",
           "relevant": true
-        },
-        {
-          "title": "Michelle W Bowman: Responsible innovation and financial inclusion",
-          "link": "https://www.bis.org/review/r260730o.htm",
-          "published": "2026-08-03T09:17:00Z",
-          "description": "Speech (via pre-recorded video) by Ms Michelle W Bowman, Vice Chair for Supervision of the Board of Governors of the Federal Reserve System, at \"Next-gen financial inclusion\", the third annual Financial Inclusion Conference hosted by the Federal Reserve Board, Washington DC, 14 July 2026.",
-          "relevant": true
         }
       ],
       "count": 10,
@@ -586,6 +585,13 @@
       "channel": "BIS — Research Papers",
       "description": "",
       "entries": [
+        {
+          "title": "High expectation but  low integration? Experiences in  modernising and  integrating information  systems for supervision",
+          "link": "https://www.bis.org/fsi/publ/insights77.htm",
+          "published": "2026-08-13T07:21:00Z",
+          "description": "This paper examines the evolution of information systems that support supervision and the current maturity level of supervisory authorities in terms of systems integration.",
+          "relevant": true
+        },
         {
           "title": "Africa's public debt amid global headwinds: balancing resilience and vulnerabilities",
           "link": "https://www.bis.org/publ/bisbull132.htm",
@@ -648,13 +654,6 @@
           "link": "https://www.bis.org/publ/work1367.htm",
           "published": "2026-07-14T09:32:00Z",
           "description": "by Phurichai Rungcharoenkitkul The AI build-out ranks among the largest technology-driven investment booms in US history. Its scale, reliance on debt and circular equity ties raise questions about the boom's sustainability and financial stability. We study a dynamic contest in which firms competing for a few dominant positions over-commit resources. The over-investment leaves the sector exposed to revenue disappointment that could turn boom into bust. The larger the boom, the deeper the eventual bust. The race to commit early through debt and circular financing also makes a bust more likely. Calibrated to balance sheet and deal data, the model points to over-investment of around 1.5 times the efficient level, rising to around three times where demand is less elastic. A network analysis sho",
-          "relevant": true
-        },
-        {
-          "title": "AI disruption in private credit: exposure to software firms in BDCs",
-          "link": "https://www.bis.org/publ/bisbull128.htm",
-          "published": "2026-07-14T06:10:00Z",
-          "description": "by Fernando Avalos, Giulio Cornelli, Egemen Eren Business development companies (BDCs) have lent around $115 billion to software firms, which represents about a fifth of all their lending and over 80% of their fast-growing technology portfolios. Borrowers' revenue uncertainty posed by generative artificial intelligence has not affected these loans yet, and neither BDCs nor their equity investors have priced software exposure differently. Recently, credit spreads have narrowed, reducing the buffers to absorb losses, and a few large BDCs are exposed to a shared pool of borrowers, though low leverage and secured lending may limit spillovers.",
           "relevant": true
         }
       ],
