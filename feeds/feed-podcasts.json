@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T22:31:33.102317+00:00",
+  "generated_at": "2026-08-14T22:13:08.374962+00:00",
   "source": "podcast_rss",
   "feeds_count": 5,
   "total_episodes": 40,
@@ -99,6 +99,14 @@
       "description": "What’s driving this week’s market moves – and where are the biggest opportunities? Goldman Sachs traders discuss.",
       "episodes": [
         {
+          "title": "How Inflation and Fiscal Policy Are Driving US Treasury Markets",
+          "link": "",
+          "published": "Fri, 14 Aug 2026 04:00:00 -0000",
+          "description": "With a month to go until the Federal Reserve’s next rate decision, inflation is increasingly in focus for the US bond market, says Mike Mitchell, head of US Treasury and Inflation Trading in Goldman Sachs Global Banking & Markets. He explains why recent inflation data suggests the Fed could continue to hold rates steady in September, and how Treasury market supply, corporate credit issuance, and fiscal policy concerns are keeping pressure on longer-maturity Treasuries. \n\nThis episode was recorded on August 12, 2026.\n\nThe opinions and views expressed herein are as of the date of publication, subject to change without notice, and may not necessarily reflect the institutional views of Goldman Sachs or its affiliates. The material provided is intended for informational purposes only, and does",
+          "audio_url": "https://mgln.ai/e/1720/traffic.megaphone.fm/GLD9591427911.mp3",
+          "duration": "709"
+        },
+        {
           "title": "Why US Stocks May ‘Grind Higher’",
           "link": "",
           "published": "Fri, 07 Aug 2026 04:00:00 -0000",
@@ -169,14 +177,6 @@
           "description": "What’s driving the rise in US Treasury yields, and what could be ahead for the bond market? Phillip Lee, head of Real Money Rate Sales in Goldman Sachs Global Banking & Markets, shares his outlook with Chris Hussey.\n\nRecorded on May 21, 2026.\n\nThe opinions and views expressed herein are as of the date of publication, subject to change without notice, and may not necessarily reflect the institutional views of Goldman Sachs or its affiliates. The material provided is intended for informational purposes only, and does not constitute investment advice, a recommendation from any Goldman Sachs entity to take any particular action, or an offer or solicitation to purchase or sell any securities or financial products. This material may contain forward-looking statements. Past performance is not ind",
           "audio_url": "https://mgln.ai/e/1720/traffic.megaphone.fm/GLD4248821293.mp3",
           "duration": "691"
-        },
-        {
-          "title": "A Tale of Two Markets",
-          "link": "",
-          "published": "Fri, 15 May 2026 04:00:00 -0000",
-          "description": "As AI stocks drive the S&P 500 and Nasdaq to record highs, are fears of a bubble warranted? And what are the newest opportunities in the AI equipment trade?  Shawn Tuteja, who oversees ETF and custom baskets volatility trading within Goldman Sachs Global Banking & Markets, discusses with Chris Hussey.\n\nRecorded on May 13, 2026.\n\nThe opinions and views expressed herein are as of the date of publication, subject to change without notice, and may not necessarily reflect the institutional views of Goldman Sachs or its affiliates. The material provided is intended for informational purposes only, and does not constitute investment advice, a recommendation from any Goldman Sachs entity to take any particular action, or an offer or solicitation to purchase or sell any securities or financial prod",
-          "audio_url": "https://mgln.ai/e/1720/traffic.megaphone.fm/GLD3490730936.mp3",
-          "duration": "669"
         }
       ]
     },
