@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T22:11:24.894557+00:00",
+  "generated_at": "2026-08-17T22:14:32.800689+00:00",
   "source": "rss",
   "feeds_count": 17,
   "total_entries": 100,
@@ -95,6 +95,20 @@
       "description": "Treasury Offering Announcements",
       "entries": [
         {
+          "title": "26-Week Bill Treasury Auction Results",
+          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
+          "published": "Mon, 17 Aug 2026 15:33:23 GMT",
+          "description": "CUSIP:  912797TV9  Term and Type:  26-Week Bill  CMB:  No  High Rate:  3.780%  Investment Rate:  3.907%  Price:  $98.089000  Allotted at High:  18.55%  Total Tendered:  $240,549,535,300  Total Accepted:  $84,775,372,300  Auction Date:  08/17/2026  Issue Date:  08/20/2026  Maturity Date:  02/18/2027  PDF  |  XML",
+          "relevant": true
+        },
+        {
+          "title": "13-Week Bill Treasury Auction Results",
+          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
+          "published": "Mon, 17 Aug 2026 15:33:22 GMT",
+          "description": "CUSIP:  912797UZ8  Term and Type:  13-Week Bill  CMB:  No  High Rate:  3.715%  Investment Rate:  3.802%  Price:  $99.060931  Allotted at High:  44.68%  Total Tendered:  $269,551,956,900  Total Accepted:  $98,725,863,900  Auction Date:  08/17/2026  Issue Date:  08/20/2026  Maturity Date:  11/19/2026  PDF  |  XML",
+          "relevant": true
+        },
+        {
           "title": "30-Year Bond Treasury Auction Results",
           "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
           "published": "Thu, 13 Aug 2026 17:03:22 GMT",
@@ -149,20 +163,6 @@
           "published": "Mon, 10 Aug 2026 15:33:22 GMT",
           "description": "CUSIP:  912797WB9  Term and Type:  26-Week Bill  CMB:  No  High Rate:  3.830%  Investment Rate:  3.960%  Price:  $98.063722  Allotted at High:  96.11%  Total Tendered:  $229,870,247,000  Total Accepted:  $83,785,923,300  Auction Date:  08/10/2026  Issue Date:  08/13/2026  Maturity Date:  02/11/2027  PDF  |  XML",
           "relevant": true
-        },
-        {
-          "title": "13-Week Bill Treasury Auction Results",
-          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
-          "published": "Mon, 10 Aug 2026 15:33:21 GMT",
-          "description": "CUSIP:  912797UY1  Term and Type:  13-Week Bill  CMB:  No  High Rate:  3.735%  Investment Rate:  3.823%  Price:  $99.055875  Allotted at High:  82.94%  Total Tendered:  $270,644,317,000  Total Accepted:  $97,573,896,000  Auction Date:  08/10/2026  Issue Date:  08/13/2026  Maturity Date:  11/12/2026  PDF  |  XML",
-          "relevant": true
-        },
-        {
-          "title": "4-Week Bill Treasury Auction Results",
-          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
-          "published": "Thu, 06 Aug 2026 15:33:24 GMT",
-          "description": "CUSIP:  912797VB0  Term and Type:  4-Week Bill  CMB:  No  High Rate:  3.640%  Investment Rate:  3.701%  Price:  $99.716889  Allotted at High:  72.82%  Total Tendered:  $299,712,776,400  Total Accepted:  $115,124,236,400  Auction Date:  08/06/2026  Issue Date:  08/11/2026  Maturity Date:  09/08/2026  PDF  |  XML",
-          "relevant": true
         }
       ],
       "count": 10,
@@ -175,6 +175,13 @@
       "channel": "ECB - European Central Bank",
       "description": "Latest releases on the ECB website - Press releases, speeches and interviews, press conferences.",
       "entries": [
+        {
+          "title": "Philip R. Lane: The rise in defence spending and the euro area economy",
+          "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260817~1f9f7149c9.en.pdf",
+          "published": "Mon, 17 Aug 2026 11:30:00 +0200",
+          "description": "",
+          "relevant": true
+        },
         {
           "title": "Cash remains most widely accepted payment method in euro area",
           "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260813~389729d6a9.en.html",
@@ -237,13 +244,6 @@
           "published": "Fri, 24 Jul 2026 11:00:00 +0200",
           "description": "",
           "relevant": true
-        },
-        {
-          "title": "ECB to start implementing enhanced repo facility for central banks",
-          "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260724_2~d7d475d2f0.en.html",
-          "published": "Fri, 24 Jul 2026 10:30:00 +0200",
-          "description": "",
-          "relevant": true
         }
       ],
       "count": 10,
@@ -256,6 +256,29 @@
       "channel": "Bank of Japan：RSS",
       "description": "",
       "entries": [
+        {
+          "title": "Highlights of the Outlook for Economic Activity and Prices (July 2026)",
+          "link": "http://www.boj.or.jp/en/mopo/outlook/highlight/ten202607.htm",
+          "published": "Mon, 17 Aug 2026 17:00:00 +0900",
+          "description": "",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
+        },
+        {
+          "title": "BOJ Current Account Balances by Sector (July)",
+          "link": "http://www.boj.or.jp/en/statistics/boj/other/cabs/cabs.xlsx",
+          "published": "Mon, 17 Aug 2026 17:00:00 +0900",
+          "description": "",
+          "relevant": true
+        },
+        {
+          "title": "Results of the Fifth Market Functioning Survey concerning Climate Change",
+          "link": "http://www.boj.or.jp/en/paym/m-climate/mcli260817a.htm",
+          "published": "Mon, 17 Aug 2026 16:00:00 +0900",
+          "description": "",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
+        },
         {
           "title": "(Research Paper) What Prevents Productivity Gains from Translating into Wages: Lessons from Japan's Deflationary Period",
           "link": "http://www.boj.or.jp/en/research/wps_rev/wps_2026/wp26e12.htm",
@@ -306,33 +329,11 @@
           "published": "Wed, 12 Aug 2026 14:00:00 +0900",
           "description": "",
           "relevant": true
-        },
-        {
-          "title": "(Research Paper) Mapping Japan's Manufacturing Supply Chains Through Firm-to-Firm Transaction Data",
-          "link": "http://www.boj.or.jp/en/research/wps_rev/wps_2026/wp26e13.htm",
-          "published": "Wed, 12 Aug 2026 14:00:00 +0900",
-          "description": "",
-          "relevant": true
-        },
-        {
-          "title": "Money Stock (July)",
-          "link": "http://www.boj.or.jp/en/statistics/money/ms/ms2607.pdf",
-          "published": "Wed, 12 Aug 2026 08:50:00 +0900",
-          "description": "",
-          "relevant": false,
-          "_skip_reason": "no_macro_keyword"
-        },
-        {
-          "title": "Summary of Opinions at the Monetary Policy Meeting on July 30 and 31, 2026",
-          "link": "http://www.boj.or.jp/en/mopo/mpmsche_minu/opinion_2026/opi260731.pdf",
-          "published": "Mon, 10 Aug 2026 08:50:00 +0900",
-          "description": "",
-          "relevant": true
         }
       ],
       "count": 10,
       "domain": "Japan",
-      "relevant_count": 7
+      "relevant_count": 6
     },
     {
       "name": "BOE — News & MPC Minutes",
@@ -423,6 +424,48 @@
       "description": "Nonpartisan budgetary and economic analysis for the U.S. Congress.",
       "entries": [
         {
+          "title": "H.R. 681, an act to amend the Act of August 9, 1955 (commonly known as the “Long‑Term Leasing Act”), to authorize leases of up to 99 years for land in the Mashpee Wampanoag Tribe Reservation and land held in trust for the Wampanoag Tribe of Gay Head (Aquinnah), and for other purposes",
+          "link": "https://www.cbo.gov/publication/62694",
+          "published": "Mon, 17 Aug 2026 16:07:00 -0400",
+          "description": "As ordered reported by the Senate Committee on Indian Affairs on May 20, 2026",
+          "relevant": true
+        },
+        {
+          "title": "H.R. 2302, Shingle Springs Band of Miwok Indians Land Transfer Act of 2025",
+          "link": "https://www.cbo.gov/publication/62696",
+          "published": "Mon, 17 Aug 2026 16:06:00 -0400",
+          "description": "As ordered reported by the Senate Committee on Indian Affairs on May 20, 2026",
+          "relevant": true
+        },
+        {
+          "title": "S. 236, a bill to amend the Act of August 9, 1955 (commonly known as the “Long‑Term Leasing Act”), to authorize leases of up to 99 years for land in the Mashpee Wampanoag Tribe Reservation and land held in trust for the Wampanoag Tribe of Gay Head (Aquinnah), and for other purposes",
+          "link": "https://www.cbo.gov/publication/62695",
+          "published": "Mon, 17 Aug 2026 16:06:00 -0400",
+          "description": "As ordered reported by the Senate Committee on Indian Affairs on May 20, 2026",
+          "relevant": true
+        },
+        {
+          "title": "H.R. 2388, Lower Elwha Klallam Tribe Project Lands Restoration Act",
+          "link": "https://www.cbo.gov/publication/62698",
+          "published": "Mon, 17 Aug 2026 16:05:00 -0400",
+          "description": "As ordered reported by the Senate Committee on Indian Affairs on May 20, 2026",
+          "relevant": true
+        },
+        {
+          "title": "S. 2735, Shingle Springs Band of Miwok Indians Land Transfer Act of 2025",
+          "link": "https://www.cbo.gov/publication/62697",
+          "published": "Mon, 17 Aug 2026 16:05:00 -0400",
+          "description": "As ordered reported by the Senate Committee on Indian Affairs on May 20, 2026",
+          "relevant": true
+        },
+        {
+          "title": "S. 1513, Lower Elwha Klallam Tribe Project Lands Restoration Act",
+          "link": "https://www.cbo.gov/publication/62699",
+          "published": "Mon, 17 Aug 2026 16:04:00 -0400",
+          "description": "As ordered reported by the Senate Committee on Indian Affairs on May 20, 2026",
+          "relevant": true
+        },
+        {
           "title": "S. 4709, Unlocking Next-Generation Licensing and Opportunities for Collaborative Know-how for AUKUS Act",
           "link": "https://www.cbo.gov/publication/62645",
           "published": "Wed, 12 Aug 2026 14:32:00 -0400",
@@ -449,48 +492,6 @@
           "published": "Wed, 12 Aug 2026 13:02:00 -0400",
           "description": "As ordered reported by the Senate Committee on Homeland Security and Governmental Affairs on August 6, 2026",
           "relevant": true
-        },
-        {
-          "title": "H.R. 1372, a bill to designate the facility of the United States Postal Service located at 300 Macedonia Lane in Knoxville, Tennessee, as the \"Reverend Harold Middlebrook Post Office Building\"",
-          "link": "https://www.cbo.gov/publication/62652",
-          "published": "Wed, 12 Aug 2026 13:01:00 -0400",
-          "description": "As ordered reported by the Senate Committee on Homeland Security and Governmental Affairs on August 6, 2026",
-          "relevant": true
-        },
-        {
-          "title": "H.R. 1431, a bill to designate the facility of the United States Postal Service located at 2407 State Route 71, Suite 1, in Spring Lake, New Jersey, as the \"James J. Howard Post Office\"",
-          "link": "https://www.cbo.gov/publication/62653",
-          "published": "Wed, 12 Aug 2026 13:01:00 -0400",
-          "description": "As ordered reported by the Senate Committee on Homeland Security and Governmental Affairs on August 6, 2026",
-          "relevant": true
-        },
-        {
-          "title": "H.R. 1706, a bill to designate the facility of the United States Postal Service located at 1200 William Street, Room 200, in Buffalo, New York, as the \"William J. Donovan Post Office Building\"",
-          "link": "https://www.cbo.gov/publication/62654",
-          "published": "Wed, 12 Aug 2026 13:00:00 -0400",
-          "description": "As ordered reported by the Senate Committee on Homeland Security and Governmental Affairs on August 6, 2026",
-          "relevant": true
-        },
-        {
-          "title": "H.R. 1830, a bill to designate the facility of the United States Postal Service located at 840 Front Street in Casselton, North Dakota, as the \"Commander Delbert Austin Olson Post Office\"",
-          "link": "https://www.cbo.gov/publication/62655",
-          "published": "Wed, 12 Aug 2026 13:00:00 -0400",
-          "description": "As ordered reported by the Senate Committee on Homeland Security and Governmental Affairs on August 6, 2026",
-          "relevant": true
-        },
-        {
-          "title": "H.R. 2175, a bill to designate the facility of the United States Postal Service located at 130 South Patterson Avenue in Santa Barbara, California, as the \"Brigadier General Frederick R. Lopez Post Office Building\"",
-          "link": "https://www.cbo.gov/publication/62656",
-          "published": "Wed, 12 Aug 2026 12:59:00 -0400",
-          "description": "As ordered reported by the Senate Committee on Homeland Security and Governmental Affairs on August 6, 2026",
-          "relevant": true
-        },
-        {
-          "title": "H.R. 2466, a bill to designate the facility of the United States Postal Service located at 5225 Harrison Avenue in Rockford, Illinois, as the \"Jay P. Larson Post Office Building\"",
-          "link": "https://www.cbo.gov/publication/62657",
-          "published": "Wed, 12 Aug 2026 12:58:00 -0400",
-          "description": "As ordered reported by the Senate Committee on Homeland Security and Governmental Affairs on August 6, 2026",
-          "relevant": true
         }
       ],
       "count": 10,
@@ -504,73 +505,73 @@
       "description": "",
       "entries": [
         {
-          "title": "High expectation but  low integration? Experiences in  modernising and  integrating information  systems for supervision",
-          "link": "https://www.bis.org/fsi/publ/insights77.htm",
-          "published": "2026-08-13T07:21:00Z",
-          "description": "This paper examines the evolution of information systems that support supervision and the current maturity level of supervisory authorities in terms of systems integration.",
+          "title": "Lesetja Kganyago: Remarks - annual dinner for the Heads of Foreign Missions accredited in South Africa",
+          "link": "https://www.bis.org/review/r260813i.htm",
+          "published": "2026-08-17T08:22:00Z",
+          "description": "Remarks by Lesetja Kganyago, Governor of the South African Reserve Bank, at the annual dinner for the Heads of Foreign Missions accredited in South Africa, South African Reserve Bank, Pretoria, 9 July 2026.",
           "relevant": true
         },
         {
-          "title": "Africa's public debt amid global headwinds: balancing resilience and vulnerabilities",
-          "link": "https://www.bis.org/publ/bisbull132.htm",
-          "published": "2026-08-11T10:43:00Z",
-          "description": "by Michael Chui, Leonardo Gambacorta The conflict in the Middle East has raised energy and fertiliser prices, weakened growth and intensified fiscal pressures across Africa at a time when public debt and debt service burdens remain elevated.\r\nThe shift towards domestic currency debt has reduced exchange rate risk for issuers and preserved market access, but higher interest rates and shorter maturities have increased debt service costs and rollover risks.\r\nA heavy reliance on banks and central banks for government financing can reinforce the sovereign-bank nexus, crowd out private credit and threaten financial stability. Developing deeper markets and a more diversified investor base are essential to address these challenges.",
+          "title": "Lesetja Kganyago: Overview of the South African economy",
+          "link": "https://www.bis.org/review/r260813j.htm",
+          "published": "2026-08-17T08:22:00Z",
+          "description": "Address by Lesetja Kganyago, Governor of the South African Reserve Bank, at the 106th Ordinary Annual General Meeting, South African Reserve Bank, Pretoria, 31 July 2026.",
           "relevant": true
         },
         {
-          "title": "Mary-Elizabeth McMunn: Reinforcing the foundations - openness through resilience in the face of change",
-          "link": "https://www.bis.org/review/r260805g.htm",
-          "published": "2026-08-10T08:46:00Z",
-          "description": "Speech by Ms Mary-Elizabeth McMunn, Deputy Governor of the Central Bank of Ireland, at PWC, Dublin, 23 July 2026.",
+          "title": "Lisa D Cook: Outlook for the US and Alaskan economies",
+          "link": "https://www.bis.org/review/r260813h.htm",
+          "published": "2026-08-17T08:17:00Z",
+          "description": "Speech by Ms Lisa D Cook, Member of the Board of Governors of the Federal Reserve System, at the 2026 Economic Luncheon of the Anchorage Economic Development Corporation, Anchorage, Alaska, 5 August 2026.",
           "relevant": true
         },
         {
-          "title": "Joachim Nagel: Acting together for a sovereign and competitive Europe",
-          "link": "https://www.bis.org/review/r260805f.htm",
-          "published": "2026-08-10T08:40:00Z",
-          "description": "Speech by Dr Joachim Nagel, President of the Deutsche Bundesbank, at the meeting with the European ambassadors' delegation on the occasion of Ireland's Presidency of the Council of the European Union, Frankfurt am Main, 21 July 2026.",
+          "title": "Yannis Stournaras: The global economy in 2026 and beyond - financing Europe and Greece's future",
+          "link": "https://www.bis.org/review/r260813g.htm",
+          "published": "2026-08-17T08:15:00Z",
+          "description": "Speech by Mr Yannis Stournaras, Governor of the Bank of Greece, at the 30th Annual Economist Government Roundtable \"The global economy in 2026 and beyond &#8211; financing Europe and Greece's future\", Athens, 10 July 2026.",
           "relevant": true
         },
         {
-          "title": "Swaminathan J: Strengthening customer grievance redress - the role of the internal ombudsman",
-          "link": "https://www.bis.org/review/r260805e.htm",
-          "published": "2026-08-10T08:23:00Z",
-          "description": "Keynote address by Mr Swaminathan J, Deputy Governor of the Reserve Bank of India, at the Internal Ombudsman Conference, organised by the Reserve Bank of India, Mumbai, 13 July 2026.",
+          "title": "Burkhard Balz: 40 years of the Deutsche Bundesbank's Representative Office in New York",
+          "link": "https://www.bis.org/review/r260813f.htm",
+          "published": "2026-08-17T08:11:00Z",
+          "description": "Speech by Mr Burkhard Balz, Member of the Executive Board of the Deutsche Bundesbank, at the reception marking 40 years of the Representative Office of the Deutsche Bundesbank in the United States, New York City, 7 July 2026.",
           "relevant": true
         },
         {
-          "title": "Phil Mnisi: Opening remarks - CMA Governors Meeting",
-          "link": "https://www.bis.org/review/r260805d.htm",
-          "published": "2026-08-10T08:14:00Z",
-          "description": "Opening remarks by Mr Phil Mnisi, Governor of the Central Bank of Eswatini, at the CMA Governors Meeting, Ezulwini, 3 July 2026.",
+          "title": "Philip R Lane: AI and monetary policy",
+          "link": "https://www.bis.org/review/r260813c.htm",
+          "published": "2026-08-17T07:43:00Z",
+          "description": "Dinner speech by Philip R. Lane, Member of the Executive Board of the European Central Bank, at the closing conference of the European System of Central Banks Research Network on Challenges for Monetary Policy Transmission in a Changing World (ChaMP), Rome, 6 July 2026.",
           "relevant": true
         },
         {
-          "title": "Michelle W Bowman: Opening remarks on Sound Practices for Artificial Intelligence",
-          "link": "https://www.bis.org/review/r260805c.htm",
-          "published": "2026-08-10T07:54:00Z",
-          "description": "Opening remarks (virtual) by Ms Michelle W Bowman, Vice Chair for Supervision of the Board of Governors of the Federal Reserve System, at the Financial Stability Board Virtual Outreach Event, 7 July 2026.",
+          "title": "Rohit Jain: Building deep and resilient financial markets for a Viksit Bharat",
+          "link": "https://www.bis.org/review/r260813b.htm",
+          "published": "2026-08-17T07:37:00Z",
+          "description": "Keynote address by Mr Rohit Jain, Deputy Governor of the Reserve Bank of India, at the Financial Institutions Leadership conference, organised by the Standard Chartered Bank, Mumbai, 24 July 2026.",
           "relevant": true
         },
         {
-          "title": "Fabio Panetta: Playing the long game - how should monetary policy adapt to the Great Reconfiguration?",
-          "link": "https://www.bis.org/review/r260805b.htm",
-          "published": "2026-08-10T07:41:00Z",
-          "description": "Speech by Mr Fabio Panetta, Governor of the Bank of Italy, at the closing conference of the ESCB Research Network on \"Challenges for Monetary Policy Transmission in a Changing World (ChaMP)\", hosted by the Bank of Italy, Rome, 7 July 2026.",
+          "title": "Chia Der Jiun: Remarks on the MAS Annual Report 2025/2026",
+          "link": "https://www.bis.org/review/r260813l.htm",
+          "published": "2026-08-17T07:34:00Z",
+          "description": "Opening address by Mr Chia Der Jiun, Managing Director of the Monetary Authority of Singapore, at the MAS Annual Report 2025/2026 Media Conference, Singapore, 28 July 2026.",
           "relevant": true
         },
         {
-          "title": "Arthur Yuen: Opening remarks - Hong Kong Monetary Authority (HKMA)-Hong Kong Association of Banks (HKAB) seminar",
-          "link": "https://www.bis.org/review/r260805a.htm",
-          "published": "2026-08-10T07:34:00Z",
-          "description": "Opening remarks by Mr Arthur Yuen, Deputy Chief Executive of the Hong Kong Monetary Authority, at the Hong Kong Monetary Authority (HKMA)-Hong Kong Association of Banks (HKAB) seminar on \"Quantum computing and quantum resilience for banking industry\", Hong Kong, 6 July 2026.",
+          "title": "Michele Bullock: Monetary policy in an era of shocks",
+          "link": "https://www.bis.org/review/r260813a.htm",
+          "published": "2026-08-17T07:31:00Z",
+          "description": "Speech by Ms Michele Bullock, Governor of the Reserve Bank of Australia, at the Anika Foundation Fundraising Lunch, Sydney, 28 July 2026.",
           "relevant": true
         },
         {
-          "title": "Energy shocks and inflation: challenges for monetary policy",
-          "link": "https://www.bis.org/publ/bisbull131.htm",
-          "published": "2026-08-05T07:23:00Z",
-          "description": "by Ryan Niladri Banerjee, Fiorella De Fiore, Marco Jacopo Lombardi, Giovanni Lombardo The recent energy shock ranks among the most significant since the 1990s. Structural factors and initial conditions influence how energy shocks propagate into inflation &#8211; directly and through second-round effects. The appropriate monetary policy reaction depends on the persistence of the inflationary pressures as well as the magnitude of the growth impact, and it differs across economies. Uncertainty about these effects further complicates the policy challenge.",
+          "title": "Denis Beau: Opportunities and risks for CCPs and their overseers in a changing environment",
+          "link": "https://www.bis.org/review/r260813e.htm",
+          "published": "2026-08-17T07:06:00Z",
+          "description": "Keynote speech by Mr Denis Beau, First Deputy Governor of the Bank of France, at the CCP Global Annual Meeting 2026, Amsterdam, 23 June 2026.",
           "relevant": true
         }
       ],
