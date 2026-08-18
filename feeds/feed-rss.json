@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T22:14:32.800689+00:00",
+  "generated_at": "2026-08-18T22:12:40.127758+00:00",
   "source": "rss",
   "feeds_count": 17,
   "total_entries": 100,
@@ -95,6 +95,13 @@
       "description": "Treasury Offering Announcements",
       "entries": [
         {
+          "title": "6-Week Bill Treasury Auction Results",
+          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
+          "published": "Tue, 18 Aug 2026 15:33:21 GMT",
+          "description": "CUSIP:  912797SA6  Term and Type:  6-Week Bill  CMB:  No  High Rate:  3.645%  Investment Rate:  3.711%  Price:  $99.574750  Allotted at High:  37.04%  Total Tendered:  $289,362,683,900  Total Accepted:  $101,944,542,300  Auction Date:  08/18/2026  Issue Date:  08/20/2026  Maturity Date:  10/01/2026  PDF  |  XML",
+          "relevant": true
+        },
+        {
           "title": "26-Week Bill Treasury Auction Results",
           "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
           "published": "Mon, 17 Aug 2026 15:33:23 GMT",
@@ -155,13 +162,6 @@
           "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
           "published": "Tue, 11 Aug 2026 15:33:13 GMT",
           "description": "CUSIP:  912797UH8  Term and Type:  6-Week Bill  CMB:  No  High Rate:  3.670%  Investment Rate:  3.737%  Price:  $99.571833  Allotted at High:  2.86%  Total Tendered:  $283,809,691,600  Total Accepted:  $100,756,083,800  Auction Date:  08/11/2026  Issue Date:  08/13/2026  Maturity Date:  09/24/2026  PDF  |  XML",
-          "relevant": true
-        },
-        {
-          "title": "26-Week Bill Treasury Auction Results",
-          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
-          "published": "Mon, 10 Aug 2026 15:33:22 GMT",
-          "description": "CUSIP:  912797WB9  Term and Type:  26-Week Bill  CMB:  No  High Rate:  3.830%  Investment Rate:  3.960%  Price:  $98.063722  Allotted at High:  96.11%  Total Tendered:  $229,870,247,000  Total Accepted:  $83,785,923,300  Auction Date:  08/10/2026  Issue Date:  08/13/2026  Maturity Date:  02/11/2027  PDF  |  XML",
           "relevant": true
         }
       ],
@@ -424,6 +424,34 @@
       "description": "Nonpartisan budgetary and economic analysis for the U.S. Congress.",
       "entries": [
         {
+          "title": "H.R. 9191, National Fossil Act of 2026",
+          "link": "https://www.cbo.gov/publication/62703",
+          "published": "Tue, 18 Aug 2026 15:23:00 -0400",
+          "description": "As ordered reported by the House Committee on the Judiciary on July 15, 2026",
+          "relevant": true
+        },
+        {
+          "title": "S. 3258, Aviation Medication Transparency Act of 2026",
+          "link": "https://www.cbo.gov/publication/62702",
+          "published": "Tue, 18 Aug 2026 12:00:00 -0400",
+          "description": "As ordered reported by the Senate Committee on Commerce, Science, and Transportation on \nJuly 22, 2026",
+          "relevant": true
+        },
+        {
+          "title": "H.R. 8121, a bill to designate the Christiansted Bandstand at the Christiansted National Historic Site, St. Croix, Virgin Islands, as the “Peter G. Thurland, Sr., Bandstand”",
+          "link": "https://www.cbo.gov/publication/62701",
+          "published": "Tue, 18 Aug 2026 11:59:00 -0400",
+          "description": "As ordered reported by the House Committee on Natural Resources on July 22, 2026",
+          "relevant": true
+        },
+        {
+          "title": "S. 3715, Chiricahua National Park Act",
+          "link": "https://www.cbo.gov/publication/62700",
+          "published": "Tue, 18 Aug 2026 11:59:00 -0400",
+          "description": "As ordered reported by the Senate Committee on Energy and Natural Resources on July 29, 2026",
+          "relevant": true
+        },
+        {
           "title": "H.R. 681, an act to amend the Act of August 9, 1955 (commonly known as the “Long‑Term Leasing Act”), to authorize leases of up to 99 years for land in the Mashpee Wampanoag Tribe Reservation and land held in trust for the Wampanoag Tribe of Gay Head (Aquinnah), and for other purposes",
           "link": "https://www.cbo.gov/publication/62694",
           "published": "Mon, 17 Aug 2026 16:07:00 -0400",
@@ -463,34 +491,6 @@
           "link": "https://www.cbo.gov/publication/62699",
           "published": "Mon, 17 Aug 2026 16:04:00 -0400",
           "description": "As ordered reported by the Senate Committee on Indian Affairs on May 20, 2026",
-          "relevant": true
-        },
-        {
-          "title": "S. 4709, Unlocking Next-Generation Licensing and Opportunities for Collaborative Know-how for AUKUS Act",
-          "link": "https://www.cbo.gov/publication/62645",
-          "published": "Wed, 12 Aug 2026 14:32:00 -0400",
-          "description": "As reported by the Senate Committee on Foreign Relations on July 27, 2026",
-          "relevant": true
-        },
-        {
-          "title": "H.R. 1008, a bill to designate the facility of the United States Postal Service located at 298 Route 292 in Holmes, New York, as the \"Sheriff Adrian ‘Butch’ Anderson Post Office Building\"",
-          "link": "https://www.cbo.gov/publication/62650",
-          "published": "Wed, 12 Aug 2026 13:03:00 -0400",
-          "description": "As ordered reported by the Senate Committee on Homeland Security and Governmental Affairs on August 6, 2026",
-          "relevant": true
-        },
-        {
-          "title": "H.R. 323, a bill to designate the facility of the United States Postal Service located at 80 Prospect Street in Avon, New York, as the \"Officer Anthony Mazurkiewicz Memorial Post Office Building\"",
-          "link": "https://www.cbo.gov/publication/62649",
-          "published": "Wed, 12 Aug 2026 13:03:00 -0400",
-          "description": "As ordered reported by the Senate Committee on Homeland Security and Governmental Affairs \non August 6, 2026",
-          "relevant": true
-        },
-        {
-          "title": "H.R. 1009, a bill to designate the facility of the United States Postal Service located at 86 Main Street in Haverstraw, New York, as the \"Paul Piperato Post Office Building\"",
-          "link": "https://www.cbo.gov/publication/62651",
-          "published": "Wed, 12 Aug 2026 13:02:00 -0400",
-          "description": "As ordered reported by the Senate Committee on Homeland Security and Governmental Affairs on August 6, 2026",
           "relevant": true
         }
       ],
