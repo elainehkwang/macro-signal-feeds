@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T22:12:40.127758+00:00",
+  "generated_at": "2026-08-19T22:14:56.454334+00:00",
   "source": "rss",
   "feeds_count": 17,
   "total_entries": 100,
@@ -10,6 +10,13 @@
       "channel": "FRB: Press Release - Monetary Policy",
       "description": "Press releases about monetary policy from the Federal Reserve Board",
       "entries": [
+        {
+          "title": "Minutes of the Federal Open Market Committee, July 28–29, 2026",
+          "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260819a.htm",
+          "published": "Wed, 19 Aug 2026 18:00:00 GMT",
+          "description": "Minutes of the Federal Open Market Committee, July 28–29, 2026",
+          "relevant": true
+        },
         {
           "title": "Federal Reserve issues FOMC statement",
           "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm",
@@ -74,19 +81,11 @@
           "published": "Wed, 29 Apr 2026 18:00:00 GMT",
           "description": "Federal Reserve issues FOMC statement",
           "relevant": true
-        },
-        {
-          "title": "Minutes of the Board’s discount rate meetings on February 9 and March 18, 2026",
-          "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260414a.htm",
-          "published": "Tue, 14 Apr 2026 18:00:00 GMT",
-          "description": "Minutes of the Board’s discount rate meetings on February 9 and March 18, 2026",
-          "relevant": false,
-          "_skip_reason": "no_macro_keyword"
         }
       ],
       "count": 10,
       "domain": "US Fiscal",
-      "relevant_count": 7
+      "relevant_count": 8
     },
     {
       "name": "TreasuryDirect — Auction Results",
@@ -94,6 +93,20 @@
       "channel": "Treasury Offering Announcements",
       "description": "Treasury Offering Announcements",
       "entries": [
+        {
+          "title": "20-Year Bond Treasury Auction Results",
+          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
+          "published": "Wed, 19 Aug 2026 17:03:18 GMT",
+          "description": "CUSIP:  912810UX4  Term and Type:  20-Year Bond  Series:  Bonds of August 2046  Reopening:  No  Interest Rate:  5.125%  High Yield:  5.204%  Price:  $99.021288  Allotted at High:  65.58%  Total Tendered:  $42,476,108,100  Total Accepted:  $18,056,928,100  Auction Date:  08/19/2026  Issue Date:  08/31/2026  Maturity Date:  08/15/2046  PDF  |  XML",
+          "relevant": true
+        },
+        {
+          "title": "17-Week Bill Treasury Auction Results",
+          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
+          "published": "Wed, 19 Aug 2026 15:33:20 GMT",
+          "description": "CUSIP:  912797WG8  Term and Type:  17-Week Bill  CMB:  No  High Rate:  3.750%  Investment Rate:  3.850%  Price:  $98.760417  Allotted at High:  25.88%  Total Tendered:  $245,465,155,200  Total Accepted:  $76,599,709,600  Auction Date:  08/19/2026  Issue Date:  08/25/2026  Maturity Date:  12/22/2026  PDF  |  XML",
+          "relevant": true
+        },
         {
           "title": "6-Week Bill Treasury Auction Results",
           "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
@@ -149,20 +162,6 @@
           "published": "Wed, 12 Aug 2026 15:33:21 GMT",
           "description": "CUSIP:  912797WF0  Term and Type:  17-Week Bill  CMB:  No  High Rate:  3.755%  Investment Rate:  3.855%  Price:  $98.758764  Allotted at High:  9.14%  Total Tendered:  $233,213,271,100  Total Accepted:  $77,350,366,100  Auction Date:  08/12/2026  Issue Date:  08/18/2026  Maturity Date:  12/15/2026  PDF  |  XML",
           "relevant": true
-        },
-        {
-          "title": "3-Year Note Treasury Auction Results",
-          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
-          "published": "Tue, 11 Aug 2026 17:03:20 GMT",
-          "description": "CUSIP:  91282CRG8  Term and Type:  3-Year Note  Series:  AR-2029  Reopening:  No  Interest Rate:  4.250%  High Yield:  4.291%  Price:  $99.885444  Allotted at High:  18.31%  Total Tendered:  $171,970,558,800  Total Accepted:  $72,670,580,300  Auction Date:  08/11/2026  Issue Date:  08/17/2026  Maturity Date:  08/15/2029  PDF  |  XML",
-          "relevant": true
-        },
-        {
-          "title": "6-Week Bill Treasury Auction Results",
-          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
-          "published": "Tue, 11 Aug 2026 15:33:13 GMT",
-          "description": "CUSIP:  912797UH8  Term and Type:  6-Week Bill  CMB:  No  High Rate:  3.670%  Investment Rate:  3.737%  Price:  $99.571833  Allotted at High:  2.86%  Total Tendered:  $283,809,691,600  Total Accepted:  $100,756,083,800  Auction Date:  08/11/2026  Issue Date:  08/13/2026  Maturity Date:  09/24/2026  PDF  |  XML",
-          "relevant": true
         }
       ],
       "count": 10,
@@ -175,6 +174,13 @@
       "channel": "ECB - European Central Bank",
       "description": "Latest releases on the ECB website - Press releases, speeches and interviews, press conferences.",
       "entries": [
+        {
+          "title": "Christine Lagarde: Panel remarks about the European economy during a discussion on the global economic outlook at the World Economic Forum",
+          "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260819~98ddf24b7b.en.html",
+          "published": "Wed, 19 Aug 2026 09:10:00 +0200",
+          "description": "",
+          "relevant": true
+        },
         {
           "title": "Philip R. Lane: The rise in defence spending and the euro area economy",
           "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260817~1f9f7149c9.en.pdf",
@@ -235,13 +241,6 @@
           "title": "ECB to extend use of climate factors in Eurosystem collateral framework to non-financial corporate credit claims",
           "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260724_4~f082ce289d.en.html",
           "published": "Fri, 24 Jul 2026 12:00:00 +0200",
-          "description": "",
-          "relevant": true
-        },
-        {
-          "title": "Results of the June 2026 survey on credit terms and conditions in euro-denominated securities financing and OTC derivatives markets (SESFOD)",
-          "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260724_3~c0b45e246f.en.html",
-          "published": "Fri, 24 Jul 2026 11:00:00 +0200",
           "description": "",
           "relevant": true
         }
@@ -424,6 +423,13 @@
       "description": "Nonpartisan budgetary and economic analysis for the U.S. Congress.",
       "entries": [
         {
+          "title": "H.R. 5109, a bill to require the Administrator of the Transportation Security Administration of the United States to develop guidelines to improve returning citizens’ access to the Transportation Worker Identification Credential program, to assist individuals in custody of federal, state, and local prisons in pre-applying or preparing applications for Transportation Worker Identification Credential cards, and to assist individuals requesting an appeal or waiver of preliminary determination of in",
+          "link": "https://www.cbo.gov/publication/62706",
+          "published": "Wed, 19 Aug 2026 13:11:00 -0400",
+          "description": "As ordered reported by the House Committee on Homeland Security on June 24, 2026",
+          "relevant": true
+        },
+        {
           "title": "H.R. 9191, National Fossil Act of 2026",
           "link": "https://www.cbo.gov/publication/62703",
           "published": "Tue, 18 Aug 2026 15:23:00 -0400",
@@ -485,13 +491,6 @@
           "published": "Mon, 17 Aug 2026 16:05:00 -0400",
           "description": "As ordered reported by the Senate Committee on Indian Affairs on May 20, 2026",
           "relevant": true
-        },
-        {
-          "title": "S. 1513, Lower Elwha Klallam Tribe Project Lands Restoration Act",
-          "link": "https://www.cbo.gov/publication/62699",
-          "published": "Mon, 17 Aug 2026 16:04:00 -0400",
-          "description": "As ordered reported by the Senate Committee on Indian Affairs on May 20, 2026",
-          "relevant": true
         }
       ],
       "count": 10,
@@ -504,6 +503,13 @@
       "channel": "BIS — All Publications",
       "description": "",
       "entries": [
+        {
+          "title": "High public debt in the Americas: non-linear implications for risk premia and inflation expectations",
+          "link": "https://www.bis.org/publ/bisbull133.htm",
+          "published": "2026-08-19T07:04:00Z",
+          "description": "by Eduardo Amaral, Rafael Guerra, Alejandrina Salcedo, Pablo Tomasini, Christian Upper",
+          "relevant": true
+        },
         {
           "title": "Lesetja Kganyago: Remarks - annual dinner for the Heads of Foreign Missions accredited in South Africa",
           "link": "https://www.bis.org/review/r260813i.htm",
@@ -566,13 +572,6 @@
           "published": "2026-08-17T07:31:00Z",
           "description": "Speech by Ms Michele Bullock, Governor of the Reserve Bank of Australia, at the Anika Foundation Fundraising Lunch, Sydney, 28 July 2026.",
           "relevant": true
-        },
-        {
-          "title": "Denis Beau: Opportunities and risks for CCPs and their overseers in a changing environment",
-          "link": "https://www.bis.org/review/r260813e.htm",
-          "published": "2026-08-17T07:06:00Z",
-          "description": "Keynote speech by Mr Denis Beau, First Deputy Governor of the Bank of France, at the CCP Global Annual Meeting 2026, Amsterdam, 23 June 2026.",
-          "relevant": true
         }
       ],
       "count": 10,
@@ -585,6 +584,13 @@
       "channel": "BIS — Research Papers",
       "description": "",
       "entries": [
+        {
+          "title": "High public debt in the Americas: non-linear implications for risk premia and inflation expectations",
+          "link": "https://www.bis.org/publ/bisbull133.htm",
+          "published": "2026-08-19T07:04:00Z",
+          "description": "by Eduardo Amaral, Rafael Guerra, Alejandrina Salcedo, Pablo Tomasini, Christian Upper",
+          "relevant": true
+        },
         {
           "title": "High expectation but  low integration? Experiences in  modernising and  integrating information  systems for supervision",
           "link": "https://www.bis.org/fsi/publ/insights77.htm",
@@ -647,13 +653,6 @@
           "link": "https://www.bis.org/publ/work1368.htm",
           "published": "2026-07-15T08:32:00Z",
           "description": "by Fredy Gamboa, José Vicente Romero This study examines how geopolitical risk (GPR) transmits to sovereign credit risk in emerging market economies (EMEs), using monthly data on the 5-year sovereign credit default swap (SCDS) and the J.P. Morgan Emerging Markets Bond Index (EMBI) spread for 13 EMEs over the period of January 2005&#8211;October 2025. Using fixed-effects panel local projections, the framework is extended to allow for state-dependent transmission. Differences in impulse responses across states are attributed to specific macro financial fundamentals. Three main findings are identified. First, an increase in the GPR index raises both SCDS and EMBI spreads. Second, disaggregating the index into its subcomponents reveals a larger response to threats than to acts, consistent with",
-          "relevant": true
-        },
-        {
-          "title": "The AI investment race",
-          "link": "https://www.bis.org/publ/work1367.htm",
-          "published": "2026-07-14T09:32:00Z",
-          "description": "by Phurichai Rungcharoenkitkul The AI build-out ranks among the largest technology-driven investment booms in US history. Its scale, reliance on debt and circular equity ties raise questions about the boom's sustainability and financial stability. We study a dynamic contest in which firms competing for a few dominant positions over-commit resources. The over-investment leaves the sector exposed to revenue disappointment that could turn boom into bust. The larger the boom, the deeper the eventual bust. The race to commit early through debt and circular financing also makes a bust more likely. Calibrated to balance sheet and deal data, the model points to over-investment of around 1.5 times the efficient level, rising to around three times where demand is less elastic. A network analysis sho",
           "relevant": true
         }
       ],
