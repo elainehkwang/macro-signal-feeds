@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T22:14:56.454334+00:00",
+  "generated_at": "2026-08-20T22:16:42.017787+00:00",
   "source": "rss",
   "feeds_count": 17,
   "total_entries": 100,
@@ -94,6 +94,27 @@
       "description": "Treasury Offering Announcements",
       "entries": [
         {
+          "title": "29-Year 6-Month TIPS Treasury Auction Results",
+          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
+          "published": "Thu, 20 Aug 2026 17:03:23 GMT",
+          "description": "CUSIP:  912810US5  Term and Type:  29-Year 6-Month TIPS  Series:  TIPS of February 2056  Reopening:  Yes  Interest Rate:  2.375%  High Yield:  2.973%  Price:  $91.015136  Allotted at High:  67.82%  Total Tendered:  $23,588,952,000  Total Accepted:  $9,028,453,400  Auction Date:  08/20/2026  Issue Date:  08/31/2026  Maturity Date:  02/15/2056  PDF  |  XML",
+          "relevant": true
+        },
+        {
+          "title": "4-Week Bill Treasury Auction Results",
+          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
+          "published": "Thu, 20 Aug 2026 15:33:17 GMT",
+          "description": "CUSIP:  912797VD6  Term and Type:  4-Week Bill  CMB:  No  High Rate:  3.640%  Investment Rate:  3.701%  Price:  $99.716889  Allotted at High:  14.61%  Total Tendered:  $319,329,070,900  Total Accepted:  $117,025,985,900  Auction Date:  08/20/2026  Issue Date:  08/25/2026  Maturity Date:  09/22/2026  PDF  |  XML",
+          "relevant": true
+        },
+        {
+          "title": "8-Week Bill Treasury Auction Results",
+          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
+          "published": "Thu, 20 Aug 2026 15:33:16 GMT",
+          "description": "CUSIP:  912797VM6  Term and Type:  8-Week Bill  CMB:  No  High Rate:  3.655%  Investment Rate:  3.727%  Price:  $99.431444  Allotted at High:  46.16%  Total Tendered:  $312,027,038,600  Total Accepted:  $106,387,438,600  Auction Date:  08/20/2026  Issue Date:  08/25/2026  Maturity Date:  10/20/2026  PDF  |  XML",
+          "relevant": true
+        },
+        {
           "title": "20-Year Bond Treasury Auction Results",
           "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
           "published": "Wed, 19 Aug 2026 17:03:18 GMT",
@@ -140,27 +161,6 @@
           "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
           "published": "Thu, 13 Aug 2026 15:33:13 GMT",
           "description": "CUSIP:  912797VL8  Term and Type:  8-Week Bill  CMB:  No  High Rate:  3.665%  Investment Rate:  3.737%  Price:  $99.429889  Allotted at High:  36.84%  Total Tendered:  $292,045,146,500  Total Accepted:  $107,429,326,500  Auction Date:  08/13/2026  Issue Date:  08/18/2026  Maturity Date:  10/13/2026  PDF  |  XML",
-          "relevant": true
-        },
-        {
-          "title": "4-Week Bill Treasury Auction Results",
-          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
-          "published": "Thu, 13 Aug 2026 15:33:12 GMT",
-          "description": "CUSIP:  912797VC8  Term and Type:  4-Week Bill  CMB:  No  High Rate:  3.625%  Investment Rate:  3.686%  Price:  $99.718056  Allotted at High:  79.23%  Total Tendered:  $313,166,074,500  Total Accepted:  $118,172,369,500  Auction Date:  08/13/2026  Issue Date:  08/18/2026  Maturity Date:  09/15/2026  PDF  |  XML",
-          "relevant": true
-        },
-        {
-          "title": "10-Year Note Treasury Auction Results",
-          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
-          "published": "Wed, 12 Aug 2026 17:03:16 GMT",
-          "description": "CUSIP:  91282CRF0  Term and Type:  10-Year Note  Series:  E-2036  Reopening:  No  Interest Rate:  4.625%  High Yield:  4.683%  Price:  $99.540696  Allotted at High:  65.27%  Total Tendered:  $116,957,209,500  Total Accepted:  $52,623,557,100  Auction Date:  08/12/2026  Issue Date:  08/17/2026  Maturity Date:  08/15/2036  PDF  |  XML",
-          "relevant": true
-        },
-        {
-          "title": "17-Week Bill Treasury Auction Results",
-          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
-          "published": "Wed, 12 Aug 2026 15:33:21 GMT",
-          "description": "CUSIP:  912797WF0  Term and Type:  17-Week Bill  CMB:  No  High Rate:  3.755%  Investment Rate:  3.855%  Price:  $98.758764  Allotted at High:  9.14%  Total Tendered:  $233,213,271,100  Total Accepted:  $77,350,366,100  Auction Date:  08/12/2026  Issue Date:  08/18/2026  Maturity Date:  12/15/2026  PDF  |  XML",
           "relevant": true
         }
       ],
@@ -423,73 +423,73 @@
       "description": "Nonpartisan budgetary and economic analysis for the U.S. Congress.",
       "entries": [
         {
-          "title": "H.R. 5109, a bill to require the Administrator of the Transportation Security Administration of the United States to develop guidelines to improve returning citizens’ access to the Transportation Worker Identification Credential program, to assist individuals in custody of federal, state, and local prisons in pre-applying or preparing applications for Transportation Worker Identification Credential cards, and to assist individuals requesting an appeal or waiver of preliminary determination of in",
-          "link": "https://www.cbo.gov/publication/62706",
-          "published": "Wed, 19 Aug 2026 13:11:00 -0400",
-          "description": "As ordered reported by the House Committee on Homeland Security on June 24, 2026",
+          "title": "CBO’s Updated Budgetary Projections of Tariffs as of July 31, 2026",
+          "link": "https://www.cbo.gov/publication/62704",
+          "published": "Thu, 20 Aug 2026 17:55:00 -0400",
+          "description": "Changes in trade policy through July 31, 2026, result in projected total deficits that are $0.9 trillion larger over the 2027–2036 period than they were in CBO’s February 2026 baseline projections.",
           "relevant": true
         },
         {
-          "title": "H.R. 9191, National Fossil Act of 2026",
-          "link": "https://www.cbo.gov/publication/62703",
-          "published": "Tue, 18 Aug 2026 15:23:00 -0400",
-          "description": "As ordered reported by the House Committee on the Judiciary on July 15, 2026",
+          "title": "H.R. 9501, AI Tax Integrity Act of 2026",
+          "link": "https://www.cbo.gov/publication/62715",
+          "published": "Thu, 20 Aug 2026 17:22:00 -0400",
+          "description": "As ordered reported by the House Committee on Ways and Means on July 1, 2026",
           "relevant": true
         },
         {
-          "title": "S. 3258, Aviation Medication Transparency Act of 2026",
-          "link": "https://www.cbo.gov/publication/62702",
-          "published": "Tue, 18 Aug 2026 12:00:00 -0400",
-          "description": "As ordered reported by the Senate Committee on Commerce, Science, and Transportation on \nJuly 22, 2026",
+          "title": "H.R. 9504, Tax Exempt Hospital Transparency Act",
+          "link": "https://www.cbo.gov/publication/62716",
+          "published": "Thu, 20 Aug 2026 17:22:00 -0400",
+          "description": "As ordered reported by the House Committee on Ways and Means on July 1, 2026",
           "relevant": true
         },
         {
-          "title": "H.R. 8121, a bill to designate the Christiansted Bandstand at the Christiansted National Historic Site, St. Croix, Virgin Islands, as the “Peter G. Thurland, Sr., Bandstand”",
-          "link": "https://www.cbo.gov/publication/62701",
-          "published": "Tue, 18 Aug 2026 11:59:00 -0400",
-          "description": "As ordered reported by the House Committee on Natural Resources on July 22, 2026",
+          "title": "H.R. 9499, Protecting Taxpayers From Ghost Preparers Act",
+          "link": "https://www.cbo.gov/publication/62713",
+          "published": "Thu, 20 Aug 2026 17:21:00 -0400",
+          "description": "As ordered reported by the House Committee on Ways and Means on July 1, 2026",
           "relevant": true
         },
         {
-          "title": "S. 3715, Chiricahua National Park Act",
-          "link": "https://www.cbo.gov/publication/62700",
-          "published": "Tue, 18 Aug 2026 11:59:00 -0400",
-          "description": "As ordered reported by the Senate Committee on Energy and Natural Resources on July 29, 2026",
+          "title": "H.R. 9500, Tax Relief for Fraud Victims Act",
+          "link": "https://www.cbo.gov/publication/62714",
+          "published": "Thu, 20 Aug 2026 17:21:00 -0400",
+          "description": "As ordered reported by the House Committee on Ways and Means on July 1, 2026",
           "relevant": true
         },
         {
-          "title": "H.R. 681, an act to amend the Act of August 9, 1955 (commonly known as the “Long‑Term Leasing Act”), to authorize leases of up to 99 years for land in the Mashpee Wampanoag Tribe Reservation and land held in trust for the Wampanoag Tribe of Gay Head (Aquinnah), and for other purposes",
-          "link": "https://www.cbo.gov/publication/62694",
-          "published": "Mon, 17 Aug 2026 16:07:00 -0400",
-          "description": "As ordered reported by the Senate Committee on Indian Affairs on May 20, 2026",
+          "title": "H.R. 9496, End Tax Penalties on American Hostages Act",
+          "link": "https://www.cbo.gov/publication/62711",
+          "published": "Thu, 20 Aug 2026 17:20:00 -0400",
+          "description": "As ordered reported by the House Committee on Ways and Means on July 1, 2026",
           "relevant": true
         },
         {
-          "title": "H.R. 2302, Shingle Springs Band of Miwok Indians Land Transfer Act of 2025",
-          "link": "https://www.cbo.gov/publication/62696",
-          "published": "Mon, 17 Aug 2026 16:06:00 -0400",
-          "description": "As ordered reported by the Senate Committee on Indian Affairs on May 20, 2026",
+          "title": "H.R. 9498, Taxpayer Advocate Participation Act",
+          "link": "https://www.cbo.gov/publication/62712",
+          "published": "Thu, 20 Aug 2026 17:20:00 -0400",
+          "description": "As ordered reported by the House Committee on Ways and Means on July 1, 2026",
           "relevant": true
         },
         {
-          "title": "S. 236, a bill to amend the Act of August 9, 1955 (commonly known as the “Long‑Term Leasing Act”), to authorize leases of up to 99 years for land in the Mashpee Wampanoag Tribe Reservation and land held in trust for the Wampanoag Tribe of Gay Head (Aquinnah), and for other purposes",
-          "link": "https://www.cbo.gov/publication/62695",
-          "published": "Mon, 17 Aug 2026 16:06:00 -0400",
-          "description": "As ordered reported by the Senate Committee on Indian Affairs on May 20, 2026",
+          "title": "H.R. 7972, Taxpayer Workforce Modernization Act",
+          "link": "https://www.cbo.gov/publication/62710",
+          "published": "Thu, 20 Aug 2026 17:19:00 -0400",
+          "description": "As ordered reported by the House Committee on Ways and Means on July 1, 2026",
           "relevant": true
         },
         {
-          "title": "H.R. 2388, Lower Elwha Klallam Tribe Project Lands Restoration Act",
-          "link": "https://www.cbo.gov/publication/62698",
-          "published": "Mon, 17 Aug 2026 16:05:00 -0400",
-          "description": "As ordered reported by the Senate Committee on Indian Affairs on May 20, 2026",
+          "title": "H.R. 9641, Essential Caregivers Act",
+          "link": "https://www.cbo.gov/publication/62708",
+          "published": "Thu, 20 Aug 2026 14:42:00 -0400",
+          "description": "As ordered reported by the House Committee on Ways and Means on July 15, 2026",
           "relevant": true
         },
         {
-          "title": "S. 2735, Shingle Springs Band of Miwok Indians Land Transfer Act of 2025",
-          "link": "https://www.cbo.gov/publication/62697",
-          "published": "Mon, 17 Aug 2026 16:05:00 -0400",
-          "description": "As ordered reported by the Senate Committee on Indian Affairs on May 20, 2026",
+          "title": "An Evaluation of CBO’s Projections of Revenues From 1982 to 2025",
+          "link": "https://www.cbo.gov/publication/62552",
+          "published": "Thu, 20 Aug 2026 14:00:00 -0400",
+          "description": "CBO compares the baseline projections of federal revenues it has made since 1982 with actual revenues.",
           "relevant": true
         }
       ],
