@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T22:16:42.017787+00:00",
+  "generated_at": "2026-08-21T22:13:56.016295+00:00",
   "source": "podcast_rss",
   "feeds_count": 5,
   "total_episodes": 40,
@@ -99,6 +99,14 @@
       "description": "What’s driving this week’s market moves – and where are the biggest opportunities? Goldman Sachs traders discuss.",
       "episodes": [
         {
+          "title": "Why US Equity Returns Are Broadening Beyond AI Stocks",
+          "link": "",
+          "published": "Fri, 21 Aug 2026 17:25:00 -0000",
+          "description": "While artificial intelligence (AI) has been a key driver of US stocks, a&nbsp;wider range of sectors is starting to power the S&P 500, says&nbsp;Shawn Tuteja, head of ETF and Custom Basket Volatility Trading in Goldman Sachs FICC and Equities, on The Markets podcast.&nbsp;Tuteja also discusses the robust&nbsp;strength in earnings across 9 of 11 sectors in the S&P 500,&nbsp;elevated volatility among AI-related themes, and the interplay between oil prices, longer-maturity bond yields, and Federal Reserve policy. &nbsp;\n\n\nThe opinions and views expressed herein are as of the date of publication, subject to change without notice, and may not necessarily reflect the institutional views of Goldman Sachs or its affiliates. The material provided is intended for informational purposes only, and doe",
+          "audio_url": "https://mgln.ai/e/1720/traffic.megaphone.fm/GLD2532093964.mp3",
+          "duration": "753"
+        },
+        {
           "title": "How Inflation and Fiscal Policy Are Driving US Treasury Markets",
           "link": "",
           "published": "Fri, 14 Aug 2026 04:00:00 -0000",
@@ -169,14 +177,6 @@
           "description": "Tech stocks have surged in the past two months. What’s behind the move, and where are the opportunities for investors now? Peter Callahan, the US Technology, Media and Telecommunications sector specialist within Goldman Sachs Global Banking & Markets, discusses with Chris Hussey.\n\nRecorded on May 28, 2026.\n\nThe opinions and views expressed herein are as of the date of publication, subject to change without notice, and may not necessarily reflect the institutional views of Goldman Sachs or its affiliates. The material provided is intended for informational purposes only, and does not constitute investment advice, a recommendation from any Goldman Sachs entity to take any particular action, or an offer or solicitation to purchase or sell any securities or financial products. This material ma",
           "audio_url": "https://mgln.ai/e/1720/traffic.megaphone.fm/GLD3066394451.mp3",
           "duration": "486"
-        },
-        {
-          "title": "Why Rates Could Keep Rising",
-          "link": "",
-          "published": "Fri, 22 May 2026 04:00:00 -0000",
-          "description": "What’s driving the rise in US Treasury yields, and what could be ahead for the bond market? Phillip Lee, head of Real Money Rate Sales in Goldman Sachs Global Banking & Markets, shares his outlook with Chris Hussey.\n\nRecorded on May 21, 2026.\n\nThe opinions and views expressed herein are as of the date of publication, subject to change without notice, and may not necessarily reflect the institutional views of Goldman Sachs or its affiliates. The material provided is intended for informational purposes only, and does not constitute investment advice, a recommendation from any Goldman Sachs entity to take any particular action, or an offer or solicitation to purchase or sell any securities or financial products. This material may contain forward-looking statements. Past performance is not ind",
-          "audio_url": "https://mgln.ai/e/1720/traffic.megaphone.fm/GLD4248821293.mp3",
-          "duration": "691"
         }
       ]
     },

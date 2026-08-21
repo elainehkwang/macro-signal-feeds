@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T22:16:42.017787+00:00",
+  "generated_at": "2026-08-21T22:13:56.016295+00:00",
   "source": "rss",
   "feeds_count": 17,
   "total_entries": 100,
@@ -175,6 +175,13 @@
       "description": "Latest releases on the ECB website - Press releases, speeches and interviews, press conferences.",
       "entries": [
         {
+          "title": "ECB Consumer Expectations Survey results – July 2026",
+          "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260821~a044fdddd9.en.html",
+          "published": "Fri, 21 Aug 2026 10:00:00 +0200",
+          "description": "",
+          "relevant": true
+        },
+        {
           "title": "Christine Lagarde: Panel remarks about the European economy during a discussion on the global economic outlook at the World Economic Forum",
           "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260819~98ddf24b7b.en.html",
           "published": "Wed, 19 Aug 2026 09:10:00 +0200",
@@ -236,13 +243,6 @@
           "published": "Fri, 24 Jul 2026 15:00:00 +0200",
           "description": "",
           "relevant": true
-        },
-        {
-          "title": "ECB to extend use of climate factors in Eurosystem collateral framework to non-financial corporate credit claims",
-          "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260724_4~f082ce289d.en.html",
-          "published": "Fri, 24 Jul 2026 12:00:00 +0200",
-          "description": "",
-          "relevant": true
         }
       ],
       "count": 10,
@@ -255,6 +255,14 @@
       "channel": "Bank of Japan：RSS",
       "description": "",
       "entries": [
+        {
+          "title": "Developments in Real Exports and Real Imports",
+          "link": "http://www.boj.or.jp/en/research/research_data/reri/index.htm",
+          "published": "Fri, 21 Aug 2026 16:00:00 +0900",
+          "description": "",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
+        },
         {
           "title": "Highlights of the Outlook for Economic Activity and Prices (July 2026)",
           "link": "http://www.boj.or.jp/en/mopo/outlook/highlight/ten202607.htm",
@@ -321,18 +329,11 @@
           "published": "Wed, 12 Aug 2026 16:00:00 +0900",
           "description": "",
           "relevant": true
-        },
-        {
-          "title": "(Research Paper) Linkages of Firm Spending Behavior through Supply Chains",
-          "link": "http://www.boj.or.jp/en/research/wps_rev/wps_2026/wp26e14.htm",
-          "published": "Wed, 12 Aug 2026 14:00:00 +0900",
-          "description": "",
-          "relevant": true
         }
       ],
       "count": 10,
       "domain": "Japan",
-      "relevant_count": 6
+      "relevant_count": 5
     },
     {
       "name": "BOE — News & MPC Minutes",
@@ -423,6 +424,13 @@
       "description": "Nonpartisan budgetary and economic analysis for the U.S. Congress.",
       "entries": [
         {
+          "title": "H.R. 2870, Working Families Flexibility Act of 2025",
+          "link": "https://www.cbo.gov/publication/62709",
+          "published": "Fri, 21 Aug 2026 09:18:00 -0400",
+          "description": "As reported by the House Committee on Education and the Workforce on February 12, 2026",
+          "relevant": true
+        },
+        {
           "title": "CBO’s Updated Budgetary Projections of Tariffs as of July 31, 2026",
           "link": "https://www.cbo.gov/publication/62704",
           "published": "Thu, 20 Aug 2026 17:55:00 -0400",
@@ -483,13 +491,6 @@
           "link": "https://www.cbo.gov/publication/62708",
           "published": "Thu, 20 Aug 2026 14:42:00 -0400",
           "description": "As ordered reported by the House Committee on Ways and Means on July 15, 2026",
-          "relevant": true
-        },
-        {
-          "title": "An Evaluation of CBO’s Projections of Revenues From 1982 to 2025",
-          "link": "https://www.cbo.gov/publication/62552",
-          "published": "Thu, 20 Aug 2026 14:00:00 -0400",
-          "description": "CBO compares the baseline projections of federal revenues it has made since 1982 with actual revenues.",
           "relevant": true
         }
       ],
