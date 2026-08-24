@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T22:11:42.963197+00:00",
+  "generated_at": "2026-08-24T22:15:51.822664+00:00",
   "source": "podcast_rss",
   "feeds_count": 5,
   "total_episodes": 40,
@@ -10,6 +10,22 @@
       "domain": "US Fiscal",
       "description": "Allocator and asset management expert, Ted Seides, conducts in-depth interviews with leaders in the institutional investing industry. Guests include Chief Investment Officers from leading allocators, asset managers, strategists, thought leaders, and many more. Our mission is to learn, share, and help implement the process of premier investors. Learn more and join our community at capitalallocators.com.",
       "episodes": [
+        {
+          "title": "Best of Storytelling: Matthew Dicks",
+          "link": "https://tedseides.libsyn.com/best-of-storytelling-matthew-dicks",
+          "published": "Mon, 24 Aug 2026 08:00:00 +0000",
+          "description": "This week's Summer Series is a two-fer on the essential skill of storytelling. Whether pitching an investment fund to a prospect, an idea to a portfolio manager or CIO, or a request of a family member, storytelling helps you get what you want.        To help understand the art and science of storytelling, Matt Dicks – a retired middle school teacher and author of the best-seller Storyworthy, and Don Miller – creator of Storybrand, a business started with his book of the same name – describe how to improve your storytelling ability.        Learn more about  Capital Allocators University .        Try  ALEX  by Admired Leadership.          Learn More   Follow Ted on Twitter at  @tseides  or  LinkedIn    Subscribe to the  mailing list   Access Transcript with  Premium Membership         Editin",
+          "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/tedseides/CA_-_SUMMER_SERIES_-_EP.477_Matthew_Dicks_V1.mp3?dest-id=482814",
+          "duration": "01:26:45"
+        },
+        {
+          "title": "Best of Storytelling: Donald Miller",
+          "link": "https://tedseides.libsyn.com/best-of-storytelling-donald-miller",
+          "published": "Mon, 24 Aug 2026 07:30:00 +0000",
+          "description": "This week's Summer Series is a two-fer on the essential skill of storytelling. Whether pitching an investment fund to a prospect, an idea to a portfolio manager or CIO, or a request of a family member, storytelling helps you get what you want.        To help understand the art and science of storytelling, Matt Dicks – a retired middle school teacher and author of the best-seller Storyworthy, and Don Miller – creator of Storybrand, a business started with his book of the same name – describe how to improve your storytelling ability.        Learn more about  Capital Allocators University .        Try  ALEX  by Admired Leadership.          Learn More   Follow Ted on Twitter at  @tseides  or  LinkedIn    Subscribe to the  mailing list   Access Transcript with  Premium Membership         Editin",
+          "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/tedseides/CA_-_SUMMER_SERIES_-_EP.426_Don_Miller_V1.mp3?dest-id=482814",
+          "duration": "48:49"
+        },
         {
           "title": "Best of Pre-Mortem Analysis: Gary Klein",
           "link": "https://tedseides.libsyn.com/best-of-pre-mortem-analysis-gary-klein",
@@ -73,22 +89,6 @@
           "description": "Our next guest on the Senior Decision Makers series is Luis Laboy, Director of Public Equity at the Hewlett Foundation, where he's spent the last decade running the public equity book alongside CIO Ana Marshall — a mentor and colleague he first met nearly thirty years ago. The foundation's assets stand at roughly $14 billion today.     Luis spent fifteen years as a direct emerging markets investor at Everest Capital before crossing to the LP side, and our conversation digs into how he's leveraged that experience as an allocator. We discuss how the cadence and depth of decision-making changed when he went from a high-turnover book at Everest to a handful of high-conviction relationships at Hewlett, how his time split between portfolio construction and manager selection has evolved over, and",
           "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/tedseides/CA_-_EP.512_SDM_Luis_Laboy_-_AUDIO_V2.mp3?dest-id=482814",
           "duration": "47:04"
-        },
-        {
-          "title": "Roadmap for Private Credit from Australia – Frank Danieli of MA Financial Group (EP.511)",
-          "link": "https://tedseides.libsyn.com/roadmap-for-private-credit-from-australia-frank-danieli-of-ma-financial-group-ep511",
-          "published": "Thu, 16 Jul 2026 08:00:00 +0000",
-          "description": "Frank Danieli is Head of Global Credit Solutions at MA Financial Group, an ASX-listed alternative asset manager that oversees A$15 billion ($10 billion) across a broad range of private credit and lending strategies and A$179 billion ($125 billion) in a lending ecosystem platform. Frank began his career in restructurings, the self-described 'dark side of credit', and has used the lessons from special situations and distressed loans to build a performing credit platform across asset backed finance, direct asset lending and corporate private credit.     Our conversation discusses what global investors can learn from the model of private credit in Australia. We explore the evolution of private credit in Australia and why it developed differently from the sponsor-backed lending market in the U.",
-          "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/tedseides/CA_-_EP.511_Frank_Danieli_-_AUDIO_V2.mp3?dest-id=482814",
-          "duration": "52:18"
-        },
-        {
-          "title": "Economic Growth, Governance, and Capital Allocation – Dambisa Moyo (EP.510)",
-          "link": "https://tedseides.libsyn.com/economic-growth-governance-and-capital-allocation-dambisa-moyo-ep410",
-          "published": "Mon, 13 Jul 2026 08:00:00 +0000",
-          "description": "Baroness Dambisa Moyo is a global economist, author, board member, and investor who sits at the intersection of public policy, corporate governance, and capital allocation. Dambisa serves in the U.K. House of Lords, sits on the boards of Chevron, Starbucks, Condé Nast, and Oxford University's investment committee, is Chair of the Economic Club of New York, and oversees Altered Trajectory alongside her husband, Jared Smith, the family office formed after his sale of Qualtrics in 2018.     Our conversation traces Dambisa's journey from growing up in Zambia to becoming a leading voice on global economic development and governance. We discuss how her experiences across more than 80 countries and on the boards of four global companies shaped her judgment on economic growth, governance, and deci",
-          "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/tedseides/CA_-_EP.510_Dambisa_Moyo_-_AUDIO_V1.mp3?dest-id=482814",
-          "duration": "54:10"
         }
       ]
     },
@@ -275,6 +275,14 @@
       "description": "Hosted by David Beckworth of the Mercatus Center, Macro Musings pulls back the curtain on the important macroeconomic issues of the past, present, and future.",
       "episodes": [
         {
+          "title": "Ben Harris on AI, Fiscal Sustainability, and the Resilience of the U.S. Economy",
+          "link": "https://macromusings.libsyn.com/ben-harris-on-ai-fiscal-sustainability-and-the-resilience-of-the-us-economy",
+          "published": "Mon, 24 Aug 2026 09:00:00 +0000",
+          "description": "Ben Harris is vice president and director of economic studies at the Brookings Institution and previously served in senior economic policy roles at the Treasury Department and Council of Economic Advisers. Ben returns to the program to discuss why recent economic shocks have been less damaging than expected, the outlook for inflation and energy markets, whether AI can improve the U.S. fiscal outlook, why we should temper our AI optimism, how longer lifespans and higher interest rates could complicate the fiscal picture, and much more.   Watch the  full length video  on our new YouTube Channel!   Check out the  transcript  for this week's episode, now with links.    Recorded on July 20th, 2026    Subscribe to David's Substack:  Macroeconomic Policy Nexus    Follow David Beckworth on X:  @Da",
+          "audio_url": "https://traffic.libsyn.com/secure/macromusings/MM-557-BenHarris-Podcast_mixdown.mp3?dest-id=865793",
+          "duration": "57:09"
+        },
+        {
           "title": "Bill Nelson on Shrinking the Fed's Balance Sheet and Reviving Interbank Markets",
           "link": "https://macromusings.libsyn.com/bill-nelson-on-shrinking-the-feds-balance-sheet-and-reviving-interbank-markets",
           "published": "Mon, 17 Aug 2026 09:00:00 +0000",
@@ -345,14 +353,6 @@
           "description": "Jeffrey Lacker is the former president of the Richmond Federal Reserve Bank and is a senior affiliated scholar at the Mercatus Center. Jeff returns to the show to discuss the history of the Fed Treasury Accord, the state of fiscal dominance, his five proposals for a new Fed Treasury Accord, his calls for reform around the discount window, a memorial to his friend and colleague Charlie Plosser, and much more.       Watch  the full length video  on our new YouTube Channel!     Check out the  transcript  for this week's episode, now with links.   Recorded on May 20th, 2026   Subscribe to David's Substack:  Macroeconomic Policy Nexus    Follow David on X:  @DavidBeckworth    Follow the show on X:  @Macro_Musings    Check out our Macro Musings  merch!    Timestamps   00:00:00 - Intro   00:00:56",
           "audio_url": "https://traffic.libsyn.com/secure/macromusings/MM-548-JeffLacker-Audio-Final.mp3?dest-id=865793",
           "duration": "56:30"
-        },
-        {
-          "title": "Nik Bhatia on Bitcoin and the Case for Using Stablecoins for Statecraft",
-          "link": "https://macromusings.libsyn.com/nik-bhatia-on-bitcoin-and-the-case-for-using-stablecoins-for-statecraft",
-          "published": "Mon, 15 Jun 2026 13:00:00 +0000",
-          "description": "Nik Bhatia is an author of two economics books, a visiting fellow at the Bitcoin Policy Institute and the founder of The Bitcoin Layer. In Nik's first appearance on the podcast, he discusses his niche in the Bitcoin community, the role of Bitcoin as a transaction asset, the threat or lack thereof of quantum computing on Bitcoin, his issues with the current eurodollar market, his new proposal to use stablecoins as statecraft, and much more.       Watch  the full length video  on our new YouTube Channel!     Check out the  transcript  for this week's episode, now with links.   Recorded on May 5th, 2026   Subscribe to David's Substack:  Macroeconomic Policy Nexus    Follow David on X:  @DavidBeckworth    Follow Nik X:  @Timevalueofbtc    Follow the show on X:  @Macro_Musings    Check out our",
-          "audio_url": "https://traffic.libsyn.com/secure/macromusings/MM-547-NikBhatia-Audio-Final.mp3?dest-id=865793",
-          "duration": "59:16"
         }
       ]
     },
