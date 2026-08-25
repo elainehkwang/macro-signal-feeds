@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T22:15:51.822664+00:00",
+  "generated_at": "2026-08-25T22:16:39.190656+00:00",
   "source": "podcast_rss",
   "feeds_count": 5,
   "total_episodes": 40,
@@ -187,6 +187,14 @@
       "description": "Conversations with the best investors and business leaders in the world. We explore their ideas, methods, and stories to help you better invest your time and money. Hear stock market and boardroom insights you can't find anywhere else. If you're a professional investor, CEO, entrepreneur, or business strategist, this is for you. Explore all our episodes and learn more at https://www.colossus.com",
       "episodes": [
         {
+          "title": "Neil Movva - Making AI 10x Cheaper - [Invest Like the Best, EP.488]",
+          "link": "https://colossus.com/episode/from-transistor-to-token/",
+          "published": "Tue, 25 Aug 2026 08:00:00 -0000",
+          "description": "My guest today is Neil Movva, founder of Sail. Sail is building what Neil calls a token factory, an inference company designed for a specific kind of future, one where AI agents run in the background for hours or days at a time rather than answering a human in real time.&nbsp;\n\nIn that world, latency matters less and cost matters more, and Neil has built the whole company around driving the cost of a token as low as it can possibly go.\n\nWhat makes this conversation special is that it is one of the most detailed tours I have ever done through the full stack of intelligence, the software, the chips, and the power, and how all three connect.&nbsp;\n\nAlong the way we cover the trade-off between speed and cost that lives inside every GPU, his scavenger strategy for buying the chips and power nob",
+          "audio_url": "https://traffic.megaphone.fm/CLS1341199916.mp3",
+          "duration": "4687"
+        },
+        {
           "title": "Ben Thompson on Big Tech, China, and the AI Boom Running Out of Money - [Invest Like the Best, EP.487]",
           "link": "https://colossus.com/episode/winners-losers-ai-era/",
           "published": "Tue, 18 Aug 2026 08:00:00 -0000",
@@ -257,14 +265,6 @@
           "description": "My guest today is Vlad Barbalat, the Chief Investment Officer of Liberty Mutual Investments, the $120 billion investment platform that sits within one of the largest insurance companies in the world. \n\nVlad grew up in Soviet Moldova, came to America in 1990, and built a career that eventually led him to one of the most distinctive capital allocator seats anywhere in finance. \n\nToday we talk about how the mutual insurance structure creates a unique investment platform, what Liberty looks for in a new deal or partner, and what it means to build a career and a life in a country that gave you opportunities you never would have had anywhere else. \n\nPlease enjoy my conversation with Vlad Barbalat.\n\nFor the full show notes, transcript, and links to mentioned content, check out the episode page ⁠⁠",
           "audio_url": "https://traffic.megaphone.fm/CLS2722061524.mp3",
           "duration": "4177"
-        },
-        {
-          "title": "Kareem Amin - The Unusual Approach to Company Building - [Invest Like the Best, EP.478]",
-          "link": "https://colossus.com/episode/courage-truth-justice/",
-          "published": "Tue, 16 Jun 2026 08:00:00 -0000",
-          "description": "My guest today is Kareem Amin, co-founder and CEO of Clay. Clay has become one of the fastest-growing software companies of the last few years, valued at over four billion dollars. It helps companies find their best customers and reach them at scale.\n\nBut this conversation is about a lot more than Clay. Kareem is one of the most original thinkers I know. \n\nWe talk about the statues he keeps at the center of how he runs Clay — truth, justice, and courage — and what those words demand of him in practice. We talk about risk, ambition, and what he learned about both on a ten-day silent meditation retreat. \n\nI've had a lot of conversations with Kareem over the years. This is one I'll remember. Please enjoy this unique conversation with Kareem Amin.\n\nFor the full show notes, transcript, and link",
-          "audio_url": "https://traffic.megaphone.fm/CLS8649460424.mp3",
-          "duration": "3401"
         }
       ]
     },
