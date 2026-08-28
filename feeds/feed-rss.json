@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T02:25:41.154188+00:00",
+  "generated_at": "2026-08-28T05:52:32.595893+00:00",
   "source": "rss",
   "feeds_count": 17,
   "total_entries": 90,
@@ -95,6 +95,27 @@
       "description": "Treasury Offering Announcements",
       "entries": [
         {
+          "title": "7-Year Note Treasury Auction Results",
+          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
+          "published": "Thu, 27 Aug 2026 17:03:39 GMT",
+          "description": "CUSIP:  91282CRJ2  Term and Type:  7-Year Note  Series:  P-2033  Reopening:  No  Interest Rate:  4.500%  High Yield:  4.512%  Price:  $99.928654  Allotted at High:  97.63%  Total Tendered:  $115,876,415,100  Total Accepted:  $49,656,567,600  Auction Date:  08/27/2026  Issue Date:  08/31/2026  Maturity Date:  08/31/2033  PDF  |  XML",
+          "relevant": true
+        },
+        {
+          "title": "8-Week Bill Treasury Auction Results",
+          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
+          "published": "Thu, 27 Aug 2026 15:33:30 GMT",
+          "description": "CUSIP:  912797VN4  Term and Type:  8-Week Bill  CMB:  No  High Rate:  3.670%  Investment Rate:  3.742%  Price:  $99.429111  Allotted at High:  80.38%  Total Tendered:  $256,994,892,300  Total Accepted:  $97,671,054,300  Auction Date:  08/27/2026  Issue Date:  09/01/2026  Maturity Date:  10/27/2026  PDF  |  XML",
+          "relevant": true
+        },
+        {
+          "title": "4-Week Bill Treasury Auction Results",
+          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
+          "published": "Thu, 27 Aug 2026 15:33:29 GMT",
+          "description": "CUSIP:  912797VE4  Term and Type:  4-Week Bill  CMB:  No  High Rate:  3.650%  Investment Rate:  3.711%  Price:  $99.716111  Allotted at High:  93.57%  Total Tendered:  $281,383,834,200  Total Accepted:  $108,522,561,100  Auction Date:  08/27/2026  Issue Date:  09/01/2026  Maturity Date:  09/29/2026  PDF  |  XML",
+          "relevant": true
+        },
+        {
           "title": "5-Year Note Treasury Auction Results",
           "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
           "published": "Wed, 26 Aug 2026 17:03:23 GMT",
@@ -142,27 +163,6 @@
           "published": "Mon, 24 Aug 2026 15:33:39 GMT",
           "description": "CUSIP:  912797SU2  Term and Type:  13-Week Bill  CMB:  No  High Rate:  3.715%  Investment Rate:  3.803%  Price:  $99.050611  Allotted at High:  97.66%  Total Tendered:  $287,200,727,100  Total Accepted:  $96,144,549,500  Auction Date:  08/24/2026  Issue Date:  08/27/2026  Maturity Date:  11/27/2026  PDF  |  XML",
           "relevant": true
-        },
-        {
-          "title": "29-Year 6-Month TIPS Treasury Auction Results",
-          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
-          "published": "Thu, 20 Aug 2026 17:03:23 GMT",
-          "description": "CUSIP:  912810US5  Term and Type:  29-Year 6-Month TIPS  Series:  TIPS of February 2056  Reopening:  Yes  Interest Rate:  2.375%  High Yield:  2.973%  Price:  $91.015136  Allotted at High:  67.82%  Total Tendered:  $23,588,952,000  Total Accepted:  $9,028,453,400  Auction Date:  08/20/2026  Issue Date:  08/31/2026  Maturity Date:  02/15/2056  PDF  |  XML",
-          "relevant": true
-        },
-        {
-          "title": "4-Week Bill Treasury Auction Results",
-          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
-          "published": "Thu, 20 Aug 2026 15:33:17 GMT",
-          "description": "CUSIP:  912797VD6  Term and Type:  4-Week Bill  CMB:  No  High Rate:  3.640%  Investment Rate:  3.701%  Price:  $99.716889  Allotted at High:  14.61%  Total Tendered:  $319,329,070,900  Total Accepted:  $117,025,985,900  Auction Date:  08/20/2026  Issue Date:  08/25/2026  Maturity Date:  09/22/2026  PDF  |  XML",
-          "relevant": true
-        },
-        {
-          "title": "8-Week Bill Treasury Auction Results",
-          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
-          "published": "Thu, 20 Aug 2026 15:33:16 GMT",
-          "description": "CUSIP:  912797VM6  Term and Type:  8-Week Bill  CMB:  No  High Rate:  3.655%  Investment Rate:  3.727%  Price:  $99.431444  Allotted at High:  46.16%  Total Tendered:  $312,027,038,600  Total Accepted:  $106,387,438,600  Auction Date:  08/20/2026  Issue Date:  08/25/2026  Maturity Date:  10/20/2026  PDF  |  XML",
-          "relevant": true
         }
       ],
       "count": 10,
@@ -175,6 +175,14 @@
       "channel": "ECB - European Central Bank",
       "description": "Latest releases on the ECB website - Press releases, speeches and interviews, press conferences.",
       "entries": [
+        {
+          "title": "Meeting of 22-23 July 2026",
+          "link": "https://www.ecb.europa.eu//press/accounts/2026/html/ecb.mg260827~f06c21fd54.en.html",
+          "published": "Thu, 27 Aug 2026 13:30:00 +0200",
+          "description": "",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
+        },
         {
           "title": "Piero Cipollone: From vision to delivery: building Europe’s tokenised financial market",
           "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260826~3641116314.en.html",
@@ -238,18 +246,11 @@
           "published": "Thu, 30 Jul 2026 10:00:00 +0200",
           "description": "",
           "relevant": true
-        },
-        {
-          "title": "ECB wage tracker at 2.7% in Q1 2027, indicating stable negotiated wage pressures",
-          "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260729~4ad7508d8a.en.html",
-          "published": "Wed, 29 Jul 2026 10:00:00 +0200",
-          "description": "",
-          "relevant": true
         }
       ],
       "count": 10,
       "domain": "Europe",
-      "relevant_count": 9
+      "relevant_count": 8
     },
     {
       "name": "BOJ — Monetary Policy Statements",
@@ -257,6 +258,13 @@
       "channel": "Bank of Japan：RSS",
       "description": "",
       "entries": [
+        {
+          "title": "(BOJ Review) Expanding and Revising the Application of Hedonic Quality Adjustment in the Corporate Goods Price Index",
+          "link": "http://www.boj.or.jp/en/research/wps_rev/rev_2026/rev26e11.htm",
+          "published": "Fri, 28 Aug 2026 14:00:00 +0900",
+          "description": "",
+          "relevant": true
+        },
         {
           "title": "Speech by Deputy Governor HIMINO in Saitama (Japan's Economy and Monetary Policy)",
           "link": "http://www.boj.or.jp/en/about/press/koen_2026/ko260827a.htm",
@@ -322,13 +330,6 @@
           "description": "",
           "relevant": false,
           "_skip_reason": "no_macro_keyword"
-        },
-        {
-          "title": "BOJ Current Account Balances by Sector (July)",
-          "link": "http://www.boj.or.jp/en/statistics/boj/other/cabs/cabs.xlsx",
-          "published": "Mon, 17 Aug 2026 17:00:00 +0900",
-          "description": "",
-          "relevant": true
         }
       ],
       "count": 10,
@@ -341,6 +342,13 @@
       "channel": "News",
       "description": "News",
       "entries": [
+        {
+          "title": "Delay to the November 2026 RTGS standards release",
+          "link": "https://www.bankofengland.co.uk/news/2026/august/delay-to-the-november-2026-rtgs-standards-release",
+          "published": "Thu, 27 Aug 2026 14:16:29 +0100",
+          "description": "Bank of England statement",
+          "relevant": true
+        },
         {
           "title": "Results of the Semi-Annual FX Turnover Surveys in April 2026",
           "link": "https://www.bankofengland.co.uk/markets/london-foreign-exchange-joint-standing-committee/results-of-the-semi-annual-fx-turnover-survey-april-2026",
@@ -404,13 +412,6 @@
           "published": "Mon, 20 Jul 2026 10:00:00 +0100",
           "description": "The Prudential Regulation Authority (PRA) has imposed a financial penalty of £4,165,000 on HDI Global SE in connection with the submission of incorrect data to the PRA.",
           "relevant": true
-        },
-        {
-          "title": "PRA and FCA propose new captive insurance regime to drive UK growth and competitiveness",
-          "link": "https://www.bankofengland.co.uk/news/2026/july/pra-and-fca-propose-new-captive-insurance-regime-to-drive-uk-growth-and-competitiveness",
-          "published": "Tue, 14 Jul 2026 15:00:00 +0100",
-          "description": "Innovative new proposals aim to establish the UK as a centre for the fast-growing captive insurance market.",
-          "relevant": true
         }
       ],
       "count": 10,
@@ -423,6 +424,56 @@
       "channel": "CBO Publications",
       "description": "Nonpartisan budgetary and economic analysis for the U.S. Congress.",
       "entries": [
+        {
+          "title": "H.R. 8278, Fostering the Use of Technology to Uphold Regulatory Effectiveness in Supervision Act",
+          "link": "https://www.cbo.gov/publication/62736",
+          "published": "Thu, 27 Aug 2026 15:59:00 -0400",
+          "description": "As reported by the House Committee on Financial Services on June 24, 2026",
+          "relevant": true
+        },
+        {
+          "title": "Overview of Electric Transmission",
+          "link": "https://www.cbo.gov/publication/62705",
+          "published": "Thu, 27 Aug 2026 14:00:00 -0400",
+          "description": "Constraints on electric transmission could raise costs and limit the grid's ability to meet rising projected demand. In this slide deck, CBO presents an overview of electric transmission, focusing on factors relevant to its development.",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
+        },
+        {
+          "title": "H.R. 9725, Restoring Integrity and Efficiency to Inspector General Oversight Act of 2026",
+          "link": "https://www.cbo.gov/publication/62717",
+          "published": "Thu, 27 Aug 2026 11:25:00 -0400",
+          "description": "As ordered reported by the House Committee on Oversight and Government Reform on July 22, 2026",
+          "relevant": true
+        },
+        {
+          "title": "H.R. 6322, Stop Stealing our Chips Act",
+          "link": "https://www.cbo.gov/publication/62629",
+          "published": "Thu, 27 Aug 2026 10:24:00 -0400",
+          "description": "As ordered reported by the House Committee on Foreign Affairs on April 22, 2026",
+          "relevant": true
+        },
+        {
+          "title": "H.R. 8202, a bill to amend the Export Control Reform Act of 2018 to provide for a ten-year statute of limitations for export control violations",
+          "link": "https://www.cbo.gov/publication/62604",
+          "published": "Thu, 27 Aug 2026 10:23:00 -0400",
+          "description": "As ordered reported by the House Committee on Foreign Affairs on April 22, 2026",
+          "relevant": true
+        },
+        {
+          "title": "Legislation considered under suspension of the Rules of the House of Representatives during the week of August 31, 2026",
+          "link": "https://www.cbo.gov/publication/62588",
+          "published": "Thu, 27 Aug 2026 09:56:00 -0400",
+          "description": "The Majority Leader of the House of Representatives announces bills that will be considered under suspension of the rules in that chamber. CBO estimates the effects of those bills on direct spending and revenues.",
+          "relevant": true
+        },
+        {
+          "title": "H.R. 9643, Comment Integrity and Management Act",
+          "link": "https://www.cbo.gov/publication/62733",
+          "published": "Thu, 27 Aug 2026 09:33:00 -0400",
+          "description": "As ordered reported by the House Committee on Oversight and Government Reform on July 22, 2026",
+          "relevant": true
+        },
         {
           "title": "The Taxation of Social Security Benefits",
           "link": "https://www.cbo.gov/publication/62553",
@@ -443,62 +494,11 @@
           "published": "Wed, 26 Aug 2026 13:25:00 -0400",
           "description": "As ordered reported by the House Committee on Science, Space, and Technology on June 25, 2026",
           "relevant": true
-        },
-        {
-          "title": "H.R. 9333, AI Flaw Reporting and Security Enhancement Act",
-          "link": "https://www.cbo.gov/publication/62731",
-          "published": "Wed, 26 Aug 2026 13:24:00 -0400",
-          "description": "As ordered reported by the House Committee on Science, Space, and Technology on June 25, 2026",
-          "relevant": true
-        },
-        {
-          "title": "H.R. 5160, Stem Cell Therapeutic and Research Reauthorization Act of 2025",
-          "link": "https://www.cbo.gov/publication/62727",
-          "published": "Wed, 26 Aug 2026 10:38:00 -0400",
-          "description": "As passed by the House of Representatives on July 20, 2026",
-          "relevant": false,
-          "_skip_reason": "no_macro_keyword"
-        },
-        {
-          "title": "H.R. 3747, Accelerating Access to Dementia and Alzheimer’s Provider Training Act",
-          "link": "https://www.cbo.gov/publication/62728",
-          "published": "Wed, 26 Aug 2026 10:36:00 -0400",
-          "description": "As passed by the House of Representatives on July 20, 2026",
-          "relevant": false,
-          "_skip_reason": "no_macro_keyword"
-        },
-        {
-          "title": "S. 4079, PEARL Act",
-          "link": "https://www.cbo.gov/publication/62729",
-          "published": "Wed, 26 Aug 2026 10:33:00 -0400",
-          "description": "As ordered reported by the Senate Committee on Homeland Security and Governmental Affairs on August 6, 2026",
-          "relevant": true
-        },
-        {
-          "title": "H.R. 7661, Stop the Sexualization of Children Act",
-          "link": "https://www.cbo.gov/publication/62724",
-          "published": "Tue, 25 Aug 2026 16:04:00 -0400",
-          "description": "As reported by the House Committee on Education and Workforce on July 2, 2026",
-          "relevant": true
-        },
-        {
-          "title": "S. 3296, Improving Access to Workers’ Compensation for Injured Federal Workers Act of 2025",
-          "link": "https://www.cbo.gov/publication/62726",
-          "published": "Tue, 25 Aug 2026 16:04:00 -0400",
-          "description": "As ordered reported by the Senate Committee on Homeland Security and Governmental Affairs on August 6, 2026",
-          "relevant": true
-        },
-        {
-          "title": "H.R. 9341, AI-Ready Federal Data Guidelines Act",
-          "link": "https://www.cbo.gov/publication/62723",
-          "published": "Tue, 25 Aug 2026 16:03:00 -0400",
-          "description": "As ordered reported by the House Committee on Science, Space, and Technology on June 25, 2026",
-          "relevant": true
         }
       ],
       "count": 10,
       "domain": "US Fiscal",
-      "relevant_count": 8
+      "relevant_count": 9
     },
     {
       "name": "BIS — All Publications",
@@ -506,6 +506,28 @@
       "channel": "BIS — All Publications",
       "description": "",
       "entries": [
+        {
+          "title": "BIS residential property price statistics, Q1 2026",
+          "link": "https://www.bis.org/statistics/pp_residential_2608.htm",
+          "published": "2026-08-27T14:38:00Z",
+          "description": "Real global house prices declined by 1.2% year on year (yoy) in the first quarter of 2026.",
+          "relevant": true
+        },
+        {
+          "title": "Effective resolution strategies and plans for insurers &#8211; Executive Summary",
+          "link": "https://www.bis.org/fsi/fsisummaries/exsum_24903.htm",
+          "published": "2026-08-27T08:51:00Z",
+          "description": "The Key Attributes of Effective Resolution Regimes for Financial Institutions (Key Attributes) of the Financial Stability Board (FSB) require resolution plans to be developed for all financial institutions, including insurers, that could be systemically significant or critical upon failure.",
+          "relevant": true
+        },
+        {
+          "title": "Regulating stablecoin issuance: permissible entities and activities",
+          "link": "https://www.bis.org/fsi/fsibriefs33.htm",
+          "published": "2026-08-27T08:00:00Z",
+          "description": "Regulatory approaches for stablecoin issuance differ significantly, particularly in terms of the types of entities allowed to issue them and the scope of activities permitted beyond core issuance. These differences are important since additional activities such as lending, staking or providing custody services can alter an entity's risk profile and influence the safeguards needed for its core issuance operations.",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
+        },
         {
           "title": "Supervisory screening with large language models: finding divergences",
           "link": "https://www.bis.org/publ/bisbull134.htm",
@@ -554,32 +576,11 @@
           "published": "2026-08-17T08:17:00Z",
           "description": "Speech by Ms Lisa D Cook, Member of the Board of Governors of the Federal Reserve System, at the 2026 Economic Luncheon of the Anchorage Economic Development Corporation, Anchorage, Alaska, 5 August 2026.",
           "relevant": true
-        },
-        {
-          "title": "Yannis Stournaras: The global economy in 2026 and beyond - financing Europe and Greece's future",
-          "link": "https://www.bis.org/review/r260813g.htm",
-          "published": "2026-08-17T08:15:00Z",
-          "description": "Speech by Mr Yannis Stournaras, Governor of the Bank of Greece, at the 30th Annual Economist Government Roundtable \"The global economy in 2026 and beyond &#8211; financing Europe and Greece's future\", Athens, 10 July 2026.",
-          "relevant": true
-        },
-        {
-          "title": "Burkhard Balz: 40 years of the Deutsche Bundesbank's Representative Office in New York",
-          "link": "https://www.bis.org/review/r260813f.htm",
-          "published": "2026-08-17T08:11:00Z",
-          "description": "Speech by Mr Burkhard Balz, Member of the Executive Board of the Deutsche Bundesbank, at the reception marking 40 years of the Representative Office of the Deutsche Bundesbank in the United States, New York City, 7 July 2026.",
-          "relevant": true
-        },
-        {
-          "title": "Philip R Lane: AI and monetary policy",
-          "link": "https://www.bis.org/review/r260813c.htm",
-          "published": "2026-08-17T07:43:00Z",
-          "description": "Dinner speech by Philip R. Lane, Member of the Executive Board of the European Central Bank, at the closing conference of the European System of Central Banks Research Network on Challenges for Monetary Policy Transmission in a Changing World (ChaMP), Rome, 6 July 2026.",
-          "relevant": true
         }
       ],
       "count": 10,
       "domain": "Global Liquidity",
-      "relevant_count": 10
+      "relevant_count": 9
     },
     {
       "name": "BIS — Research Papers",
@@ -587,6 +588,21 @@
       "channel": "BIS — Research Papers",
       "description": "",
       "entries": [
+        {
+          "title": "Effective resolution strategies and plans for insurers &#8211; Executive Summary",
+          "link": "https://www.bis.org/fsi/fsisummaries/exsum_24903.htm",
+          "published": "2026-08-27T08:51:00Z",
+          "description": "The Key Attributes of Effective Resolution Regimes for Financial Institutions (Key Attributes) of the Financial Stability Board (FSB) require resolution plans to be developed for all financial institutions, including insurers, that could be systemically significant or critical upon failure.",
+          "relevant": true
+        },
+        {
+          "title": "Regulating stablecoin issuance: permissible entities and activities",
+          "link": "https://www.bis.org/fsi/fsibriefs33.htm",
+          "published": "2026-08-27T08:00:00Z",
+          "description": "Regulatory approaches for stablecoin issuance differ significantly, particularly in terms of the types of entities allowed to issue them and the scope of activities permitted beyond core issuance. These differences are important since additional activities such as lending, staking or providing custody services can alter an entity's risk profile and influence the safeguards needed for its core issuance operations.",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
+        },
         {
           "title": "Supervisory screening with large language models: finding divergences",
           "link": "https://www.bis.org/publ/bisbull134.htm",
@@ -642,21 +658,6 @@
           "published": "2026-07-28T09:52:00Z",
           "description": "by Iñaki Aldasoro, Leonardo Gambacorta, Enisse Kharroubi, Matthias Rottner The AI boom is driving a large, increasingly debt-financed investment surge and boosting trade and equity markets, generating sizeable terms-of-trade and wealth effects that differ across countries. The productivity payoff from AI, though potentially large, remains uncertain and uneven, across both sectors and countries. By simultaneously affecting demand and supply, AI blurs cyclical signals, complicating central banks' assessment of underlying economic conditions and monetary policy calibration.",
           "relevant": true
-        },
-        {
-          "title": "What drives exchange rate pass-throughs? Evidence from a non-parametric method",
-          "link": "https://www.bis.org/publ/work1371.htm",
-          "published": "2026-07-22T08:32:00Z",
-          "description": "by Emanuel Kohlscheen, Aaron Mehrotra We provide new evidence on the drivers of the pass-through of exchange rate movements into consumer prices across four decades and close to a hundred countries, combining econometrics and random forests. Random forests are particularly useful for modelling highly non-linear relationships, as well as for identifying the relative importance of the different theoretical factors that can affect the degree of pass-through.",
-          "relevant": false,
-          "_skip_reason": "no_macro_keyword"
-        },
-        {
-          "title": "Dollarisation and monetary control:  what lessons for the rise of  stablecoins?",
-          "link": "https://www.bis.org/publ/work1370.htm",
-          "published": "2026-07-21T06:24:00Z",
-          "description": "by Boris Hofmann, Aaron Mehrotra, Jan Paulick The emergence of stablecoins has created a new channel to access US dollar liquidity in emerging market and developing economies (EMDEs), similar to the historical role of foreign currency deposits, or \"deposit dollarisation\". This has raised concerns about the possible implications for monetary control in EMDEs. Drawing on data on foreign currency deposits and dollar-pegged stablecoin inflows for more than 130 economies, we compare the dynamics and drivers of \"stablecoin dollarisation\" with those of conventional deposit dollarisation.",
-          "relevant": true
         }
       ],
       "count": 10,
@@ -669,7 +670,7 @@
       "channel": "Lyn Alden",
       "entries": [],
       "count": 0,
-      "_error": "not well-formed (invalid token): line 1, column 119",
+      "_error": "timed out",
       "domain": "US Fiscal",
       "relevant_count": 0
     },

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T02:25:41.154188+00:00",
+  "generated_at": "2026-08-28T05:52:32.595893+00:00",
   "source": "podcast_rss",
   "feeds_count": 5,
   "total_episodes": 40,
@@ -99,6 +99,14 @@
       "description": "What’s driving this week’s market moves – and where are the biggest opportunities? Goldman Sachs traders discuss.",
       "episodes": [
         {
+          "title": "What Is the Outlook for Diesel and Gasoline Supplies?",
+          "link": "",
+          "published": "Fri, 28 Aug 2026 04:00:00 -0000",
+          "description": "Energy markets have been surprisingly resilient amid the disruption to shipping through the Strait of&nbsp;Hormuz. However, there are few signs of relief in markets for refined products such as diesel, gasoline, and jet fuel, says&nbsp;Nitin Jindal, head of Global Commodities in Goldman Sachs FICC and Equities, on The Markets podcast.&nbsp;Jindal also discusses China’s remarkable adjustment to the disruption in energy supplies and the outlook for natural gas prices in Europe as winter approaches. \n\nThe opinions and views expressed herein are as of the date of publication, subject to change without notice, and may not necessarily reflect the institutional views of Goldman Sachs or its affiliates. The material provided is intended for informational purposes only, and does not constitute inve",
+          "audio_url": "https://mgln.ai/e/1720/traffic.megaphone.fm/GLD8684687449.mp3",
+          "duration": "498"
+        },
+        {
           "title": "Why US Equity Returns Are Broadening Beyond AI Stocks",
           "link": "",
           "published": "Fri, 21 Aug 2026 17:25:00 -0000",
@@ -169,14 +177,6 @@
           "description": "As US stocks surge, European equities are climbing as well. Could more gains be ahead, and are European stocks be poised to outperform? Sharon Bell, European portfolio strategist in Goldman Sachs Research, discusses with Chris Hussey. \n\nRecorded on June 4, 2026.\n\nThe opinions and views expressed herein are as of the date of publication, subject to change without notice, and may not necessarily reflect the institutional views of Goldman Sachs or its affiliates. The material provided is intended for informational purposes only, and does not constitute investment advice, a recommendation from any Goldman Sachs entity to take any particular action, or an offer or solicitation to purchase or sell any securities or financial products. This material may contain forward-looking statements. Past pe",
           "audio_url": "https://mgln.ai/e/1720/traffic.megaphone.fm/GLD1657311784.mp3",
           "duration": "609"
-        },
-        {
-          "title": "Can the Tech Surge Continue?",
-          "link": "",
-          "published": "Fri, 29 May 2026 04:00:00 -0000",
-          "description": "Tech stocks have surged in the past two months. What’s behind the move, and where are the opportunities for investors now? Peter Callahan, the US Technology, Media and Telecommunications sector specialist within Goldman Sachs Global Banking & Markets, discusses with Chris Hussey.\n\nRecorded on May 28, 2026.\n\nThe opinions and views expressed herein are as of the date of publication, subject to change without notice, and may not necessarily reflect the institutional views of Goldman Sachs or its affiliates. The material provided is intended for informational purposes only, and does not constitute investment advice, a recommendation from any Goldman Sachs entity to take any particular action, or an offer or solicitation to purchase or sell any securities or financial products. This material ma",
-          "audio_url": "https://mgln.ai/e/1720/traffic.megaphone.fm/GLD3066394451.mp3",
-          "duration": "486"
         }
       ]
     },
