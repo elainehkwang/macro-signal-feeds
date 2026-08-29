@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-29T03:25:45.637768+00:00",
+  "generated_at": "2026-08-29T23:43:32.610525+00:00",
   "source": "rss",
   "feeds_count": 17,
-  "total_entries": 100,
+  "total_entries": 80,
   "feeds": [
     {
       "name": "Fed FOMC — Monetary Policy",
@@ -504,166 +504,21 @@
       "name": "BIS — All Publications",
       "url": "https://www.bis.org/doclist/rss_all_categories.rss",
       "channel": "BIS — All Publications",
-      "description": "",
-      "entries": [
-        {
-          "title": "Pushing the monetary frontier: stablecoins and tokenised deposits",
-          "link": "https://www.bis.org/speeches/sp260828.htm",
-          "published": "2026-08-28T09:41:00Z",
-          "description": "Speech by Mr Pablo Hernández de Cos, General Manager of the BIS, at the Jackson Hole Economic Symposium, 28 August 2026.",
-          "relevant": false,
-          "_skip_reason": "no_macro_keyword"
-        },
-        {
-          "title": "BIS residential property price statistics, Q1 2026",
-          "link": "https://www.bis.org/statistics/pp_residential_2608.htm",
-          "published": "2026-08-27T14:38:00Z",
-          "description": "Real global house prices declined by 1.2% year on year (yoy) in the first quarter of 2026.",
-          "relevant": true
-        },
-        {
-          "title": "Effective resolution strategies and plans for insurers &#8211; Executive Summary",
-          "link": "https://www.bis.org/fsi/fsisummaries/exsum_24903.htm",
-          "published": "2026-08-27T08:51:00Z",
-          "description": "The Key Attributes of Effective Resolution Regimes for Financial Institutions (Key Attributes) of the Financial Stability Board (FSB) require resolution plans to be developed for all financial institutions, including insurers, that could be systemically significant or critical upon failure.",
-          "relevant": true
-        },
-        {
-          "title": "Regulating stablecoin issuance: permissible entities and activities",
-          "link": "https://www.bis.org/fsi/fsibriefs33.htm",
-          "published": "2026-08-27T08:00:00Z",
-          "description": "Regulatory approaches for stablecoin issuance differ significantly, particularly in terms of the types of entities allowed to issue them and the scope of activities permitted beyond core issuance. These differences are important since additional activities such as lending, staking or providing custody services can alter an entity's risk profile and influence the safeguards needed for its core issuance operations.",
-          "relevant": false,
-          "_skip_reason": "no_macro_keyword"
-        },
-        {
-          "title": "Supervisory screening with large language models: finding divergences",
-          "link": "https://www.bis.org/publ/bisbull134.htm",
-          "published": "2026-08-26T08:36:00Z",
-          "description": "by Fernando Perez-Cruz, Kumar Rishabh, Ayush Uchil We develop a procedure based on large language models to help supervisors review prospectuses against capital rules. This procedure ranks potential divergences for their consideration. We apply it to Additional Tier 1 (AT1) prospectuses from European global systemically important banks.",
-          "relevant": true
-        },
-        {
-          "title": "Settlement liquidity in the Colombian large-value payment system: the role of reserve requirements",
-          "link": "https://www.bis.org/publ/work1373.htm",
-          "published": "2026-08-25T11:26:00Z",
-          "description": "by Freddy Cepeda-Lopéz, Fredy Gamboa, Javier Miguelez-Márquez This paper analyzes the intraday timing of transactions in Colombia's large-value payment system (CUD) from 2018 to 2025, focusing on how changes in reserve requirements affect liquidity management by financial institutions. Using high-frequency transaction data, we document that reductions in reserve requirements in April 2020 and September 2024 are associated with a shift of settlement activity toward later hours of the day.",
-          "relevant": true
-        },
-        {
-          "title": "Hard to shift, easy to reshape: central bank reserve demand and frictions",
-          "link": "https://www.bis.org/publ/work1372.htm",
-          "published": "2026-08-24T12:43:00Z",
-          "description": "by Mathias Drehmann, Xuewen Fu How far can central banks shrink their balance sheets? The answer sets the limits to quantitative tightening (QT), and depends critically on the demand for reserves and whether the drivers widely thought to have increased it over the past decade actually do so. We assess the impact of three such drivers: post-crisis liquidity regulation, monetization frictions, and fragmented interbank markets. Building on the canonical Poole (1968) model, we show that these drivers tend to reshape, rather than horizontally shift, reserve demand.",
-          "relevant": true
-        },
-        {
-          "title": "High public debt in the Americas: non-linear implications for risk premia and inflation expectations",
-          "link": "https://www.bis.org/publ/bisbull133.htm",
-          "published": "2026-08-19T07:04:00Z",
-          "description": "by Eduardo Amaral, Rafael Guerra, Alejandrina Salcedo, Pablo Tomasini, Christian Upper",
-          "relevant": true
-        },
-        {
-          "title": "Lesetja Kganyago: Remarks - annual dinner for the Heads of Foreign Missions accredited in South Africa",
-          "link": "https://www.bis.org/review/r260813i.htm",
-          "published": "2026-08-17T08:22:00Z",
-          "description": "Remarks by Lesetja Kganyago, Governor of the South African Reserve Bank, at the annual dinner for the Heads of Foreign Missions accredited in South Africa, South African Reserve Bank, Pretoria, 9 July 2026.",
-          "relevant": true
-        },
-        {
-          "title": "Lesetja Kganyago: Overview of the South African economy",
-          "link": "https://www.bis.org/review/r260813j.htm",
-          "published": "2026-08-17T08:22:00Z",
-          "description": "Address by Lesetja Kganyago, Governor of the South African Reserve Bank, at the 106th Ordinary Annual General Meeting, South African Reserve Bank, Pretoria, 31 July 2026.",
-          "relevant": true
-        }
-      ],
-      "count": 10,
+      "entries": [],
+      "count": 0,
+      "_error": "Client error '404 Not Found' for url 'https://www.bis.org/doclist/rss_all_categories.rss'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
       "domain": "Global Liquidity",
-      "relevant_count": 8
+      "relevant_count": 0
     },
     {
       "name": "BIS — Research Papers",
       "url": "https://www.bis.org/doclist/bis_fsi_publs.rss",
       "channel": "BIS — Research Papers",
-      "description": "",
-      "entries": [
-        {
-          "title": "Effective resolution strategies and plans for insurers &#8211; Executive Summary",
-          "link": "https://www.bis.org/fsi/fsisummaries/exsum_24903.htm",
-          "published": "2026-08-27T08:51:00Z",
-          "description": "The Key Attributes of Effective Resolution Regimes for Financial Institutions (Key Attributes) of the Financial Stability Board (FSB) require resolution plans to be developed for all financial institutions, including insurers, that could be systemically significant or critical upon failure.",
-          "relevant": true
-        },
-        {
-          "title": "Regulating stablecoin issuance: permissible entities and activities",
-          "link": "https://www.bis.org/fsi/fsibriefs33.htm",
-          "published": "2026-08-27T08:00:00Z",
-          "description": "Regulatory approaches for stablecoin issuance differ significantly, particularly in terms of the types of entities allowed to issue them and the scope of activities permitted beyond core issuance. These differences are important since additional activities such as lending, staking or providing custody services can alter an entity's risk profile and influence the safeguards needed for its core issuance operations.",
-          "relevant": false,
-          "_skip_reason": "no_macro_keyword"
-        },
-        {
-          "title": "Supervisory screening with large language models: finding divergences",
-          "link": "https://www.bis.org/publ/bisbull134.htm",
-          "published": "2026-08-26T08:36:00Z",
-          "description": "by Fernando Perez-Cruz, Kumar Rishabh, Ayush Uchil We develop a procedure based on large language models to help supervisors review prospectuses against capital rules. This procedure ranks potential divergences for their consideration. We apply it to Additional Tier 1 (AT1) prospectuses from European global systemically important banks.",
-          "relevant": true
-        },
-        {
-          "title": "Settlement liquidity in the Colombian large-value payment system: the role of reserve requirements",
-          "link": "https://www.bis.org/publ/work1373.htm",
-          "published": "2026-08-25T11:26:00Z",
-          "description": "by Freddy Cepeda-Lopéz, Fredy Gamboa, Javier Miguelez-Márquez This paper analyzes the intraday timing of transactions in Colombia's large-value payment system (CUD) from 2018 to 2025, focusing on how changes in reserve requirements affect liquidity management by financial institutions. Using high-frequency transaction data, we document that reductions in reserve requirements in April 2020 and September 2024 are associated with a shift of settlement activity toward later hours of the day.",
-          "relevant": true
-        },
-        {
-          "title": "Hard to shift, easy to reshape: central bank reserve demand and frictions",
-          "link": "https://www.bis.org/publ/work1372.htm",
-          "published": "2026-08-24T12:43:00Z",
-          "description": "by Mathias Drehmann, Xuewen Fu How far can central banks shrink their balance sheets? The answer sets the limits to quantitative tightening (QT), and depends critically on the demand for reserves and whether the drivers widely thought to have increased it over the past decade actually do so. We assess the impact of three such drivers: post-crisis liquidity regulation, monetization frictions, and fragmented interbank markets. Building on the canonical Poole (1968) model, we show that these drivers tend to reshape, rather than horizontally shift, reserve demand.",
-          "relevant": true
-        },
-        {
-          "title": "High public debt in the Americas: non-linear implications for risk premia and inflation expectations",
-          "link": "https://www.bis.org/publ/bisbull133.htm",
-          "published": "2026-08-19T07:04:00Z",
-          "description": "by Eduardo Amaral, Rafael Guerra, Alejandrina Salcedo, Pablo Tomasini, Christian Upper",
-          "relevant": true
-        },
-        {
-          "title": "High expectation but  low integration? Experiences in  modernising and  integrating information  systems for supervision",
-          "link": "https://www.bis.org/fsi/publ/insights77.htm",
-          "published": "2026-08-13T07:21:00Z",
-          "description": "This paper examines the evolution of information systems that support supervision and the current maturity level of supervisory authorities in terms of systems integration.",
-          "relevant": true
-        },
-        {
-          "title": "Africa's public debt amid global headwinds: balancing resilience and vulnerabilities",
-          "link": "https://www.bis.org/publ/bisbull132.htm",
-          "published": "2026-08-11T10:43:00Z",
-          "description": "by Michael Chui, Leonardo Gambacorta The conflict in the Middle East has raised energy and fertiliser prices, weakened growth and intensified fiscal pressures across Africa at a time when public debt and debt service burdens remain elevated.\r\nThe shift towards domestic currency debt has reduced exchange rate risk for issuers and preserved market access, but higher interest rates and shorter maturities have increased debt service costs and rollover risks.\r\nA heavy reliance on banks and central banks for government financing can reinforce the sovereign-bank nexus, crowd out private credit and threaten financial stability. Developing deeper markets and a more diversified investor base are essential to address these challenges.",
-          "relevant": true
-        },
-        {
-          "title": "Energy shocks and inflation: challenges for monetary policy",
-          "link": "https://www.bis.org/publ/bisbull131.htm",
-          "published": "2026-08-05T07:23:00Z",
-          "description": "by Ryan Niladri Banerjee, Fiorella De Fiore, Marco Jacopo Lombardi, Giovanni Lombardo The recent energy shock ranks among the most significant since the 1990s. Structural factors and initial conditions influence how energy shocks propagate into inflation &#8211; directly and through second-round effects. The appropriate monetary policy reaction depends on the persistence of the inflationary pressures as well as the magnitude of the growth impact, and it differs across economies. Uncertainty about these effects further complicates the policy challenge.",
-          "relevant": true
-        },
-        {
-          "title": "AI and the global economy: implications for central banks",
-          "link": "https://www.bis.org/publ/bisbull130.htm",
-          "published": "2026-07-28T09:52:00Z",
-          "description": "by Iñaki Aldasoro, Leonardo Gambacorta, Enisse Kharroubi, Matthias Rottner The AI boom is driving a large, increasingly debt-financed investment surge and boosting trade and equity markets, generating sizeable terms-of-trade and wealth effects that differ across countries. The productivity payoff from AI, though potentially large, remains uncertain and uneven, across both sectors and countries. By simultaneously affecting demand and supply, AI blurs cyclical signals, complicating central banks' assessment of underlying economic conditions and monetary policy calibration.",
-          "relevant": true
-        }
-      ],
-      "count": 10,
+      "entries": [],
+      "count": 0,
+      "_error": "unbound prefix: line 9, column 4",
       "domain": "Global Liquidity",
-      "relevant_count": 9
+      "relevant_count": 0
     },
     {
       "name": "Lyn Alden",
