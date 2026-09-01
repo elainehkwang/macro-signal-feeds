@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T00:54:35.894690+00:00",
+  "generated_at": "2026-09-01T23:40:52.657615+00:00",
   "source": "podcast_rss",
   "feeds_count": 5,
   "total_episodes": 40,
@@ -187,6 +187,14 @@
       "description": "Conversations with the best investors and business leaders in the world. We explore their ideas, methods, and stories to help you better invest your time and money. Hear stock market and boardroom insights you can't find anywhere else. If you're a professional investor, CEO, entrepreneur, or business strategist, this is for you. Explore all our episodes and learn more at https://www.colossus.com",
       "episodes": [
         {
+          "title": "Sarah Guo - Funding the Frontier - [Invest Like the Best, EP.489]",
+          "link": "https://colossus.com/episode/no-priors-just-conviction/",
+          "published": "Tue, 01 Sep 2026 08:00:00 -0000",
+          "description": "My guest today is Sarah Guo, founder and managing partner of Conviction, the venture firm she built to back AI-native companies from their earliest days.&nbsp;\n\nSarah has become one of the most sought-after early-stage investors in AI, often the first check into the companies defining the frontier.&nbsp;\n\nIn this conversation, we go inside that frontier: what the small group of people actually building AI believe right now, why some of the field's best researchers are wrestling with their own sense of purpose, and how close we are to robots in the home and a genuine acceleration in scientific discovery.&nbsp;\n\nAt the center is Sarah's conviction that no single company will own the future of AI, and what that means for founders, investors, and anyone allocating their time and resources in a",
+          "audio_url": "https://traffic.megaphone.fm/CLS7890997457.mp3",
+          "duration": "3586"
+        },
+        {
           "title": "Neil Movva - Making AI 10x Cheaper - [Invest Like the Best, EP.488]",
           "link": "https://colossus.com/episode/from-transistor-to-token/",
           "published": "Tue, 25 Aug 2026 08:00:00 -0000",
@@ -257,14 +265,6 @@
           "description": "My guests today are Gavin Uberti and Rob Wachen, the founders of Etched. \n\nA few years ago, when they set out to build a better AI chip than the largest companies in the world, almost everyone I called told me it could not be done. They have since done it, taping out a working chip on their first attempt and becoming the first hardware company founded after ChatGPT to do so.\n\nThey already have more than a billion dollars of customer demand for their first product, and have raised eight hundred million dollars to build it. \n\nEtched builds chips and systems designed to run AI models faster and at lower cost. They started the company in 2023, and that product is a complete rack for inference, the chip along with the boards, the power delivery, the interconnects, and the manufacturing to produ",
           "audio_url": "https://traffic.megaphone.fm/CLS8561569864.mp3",
           "duration": "5241"
-        },
-        {
-          "title": "Vlad Barbalat - Investing $120 Billion in Permanent Capital - [Invest Like the Best, EP.479]",
-          "link": "https://colossus.com/episode/the-power-of-permanent-capital/",
-          "published": "Tue, 23 Jun 2026 08:00:00 -0000",
-          "description": "My guest today is Vlad Barbalat, the Chief Investment Officer of Liberty Mutual Investments, the $120 billion investment platform that sits within one of the largest insurance companies in the world. \n\nVlad grew up in Soviet Moldova, came to America in 1990, and built a career that eventually led him to one of the most distinctive capital allocator seats anywhere in finance. \n\nToday we talk about how the mutual insurance structure creates a unique investment platform, what Liberty looks for in a new deal or partner, and what it means to build a career and a life in a country that gave you opportunities you never would have had anywhere else. \n\nPlease enjoy my conversation with Vlad Barbalat.\n\nFor the full show notes, transcript, and links to mentioned content, check out the episode page ⁠⁠",
-          "audio_url": "https://traffic.megaphone.fm/CLS2722061524.mp3",
-          "duration": "4177"
         }
       ]
     },
