@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T00:02:46.274953+00:00",
+  "generated_at": "2026-09-01T00:54:35.894690+00:00",
   "source": "rss",
   "feeds_count": 17,
   "total_entries": 70,
@@ -95,6 +95,20 @@
       "description": "Treasury Offering Announcements",
       "entries": [
         {
+          "title": "26-Week Bill Treasury Auction Results",
+          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
+          "published": "Mon, 31 Aug 2026 15:33:38 GMT",
+          "description": "CUSIP:  912797WD5  Term and Type:  26-Week Bill  CMB:  No  High Rate:  3.885%  Investment Rate:  4.018%  Price:  $98.035917  Allotted at High:  49.27%  Total Tendered:  $212,838,645,400  Total Accepted:  $83,762,907,400  Auction Date:  08/31/2026  Issue Date:  09/03/2026  Maturity Date:  03/04/2027  PDF  |  XML",
+          "relevant": true
+        },
+        {
+          "title": "13-Week Bill Treasury Auction Results",
+          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
+          "published": "Mon, 31 Aug 2026 15:33:37 GMT",
+          "description": "CUSIP:  912797VA2  Term and Type:  13-Week Bill  CMB:  No  High Rate:  3.770%  Investment Rate:  3.859%  Price:  $99.047028  Allotted at High:  66.77%  Total Tendered:  $260,152,749,000  Total Accepted:  $97,546,987,900  Auction Date:  08/31/2026  Issue Date:  09/03/2026  Maturity Date:  12/03/2026  PDF  |  XML",
+          "relevant": true
+        },
+        {
           "title": "7-Year Note Treasury Auction Results",
           "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
           "published": "Thu, 27 Aug 2026 17:03:39 GMT",
@@ -148,20 +162,6 @@
           "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
           "published": "Tue, 25 Aug 2026 15:56:51 GMT",
           "description": "CUSIP:  912797UJ4  Term and Type:  6-Week Bill  CMB:  No  High Rate:  3.650%  Investment Rate:  3.717%  Price:  $99.574167  Allotted at High:  27.88%  Total Tendered:  $262,159,612,600  Total Accepted:  $99,279,272,200  Auction Date:  08/25/2026  Issue Date:  08/27/2026  Maturity Date:  10/08/2026  PDF  |  XML",
-          "relevant": true
-        },
-        {
-          "title": "26-Week Bill Treasury Auction Results",
-          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
-          "published": "Mon, 24 Aug 2026 15:33:40 GMT",
-          "description": "CUSIP:  912797WC7  Term and Type:  26-Week Bill  CMB:  No  High Rate:  3.790%  Investment Rate:  3.918%  Price:  $98.083944  Allotted at High:  59.64%  Total Tendered:  $244,350,579,400  Total Accepted:  $82,558,654,500  Auction Date:  08/24/2026  Issue Date:  08/27/2026  Maturity Date:  02/25/2027  PDF  |  XML",
-          "relevant": true
-        },
-        {
-          "title": "13-Week Bill Treasury Auction Results",
-          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
-          "published": "Mon, 24 Aug 2026 15:33:39 GMT",
-          "description": "CUSIP:  912797SU2  Term and Type:  13-Week Bill  CMB:  No  High Rate:  3.715%  Investment Rate:  3.803%  Price:  $99.050611  Allotted at High:  97.66%  Total Tendered:  $287,200,727,100  Total Accepted:  $96,144,549,500  Auction Date:  08/24/2026  Issue Date:  08/27/2026  Maturity Date:  11/27/2026  PDF  |  XML",
           "relevant": true
         }
       ],
@@ -259,6 +259,28 @@
       "description": "",
       "entries": [
         {
+          "title": "Quarterly Schedule of Outright Purchases of Japanese Government Bonds (Competitive Auction Method) (July-September 2026) (Schedule Updates)",
+          "link": "http://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/mpr260831a.pdf",
+          "published": "Mon, 31 Aug 2026 17:00:00 +0900",
+          "description": "",
+          "relevant": true
+        },
+        {
+          "title": "Payment and Settlement Statistics (July)",
+          "link": "http://www.boj.or.jp/en/statistics/set/kess/release/2026/kess2607.pdf",
+          "published": "Mon, 31 Aug 2026 11:00:00 +0900",
+          "description": "",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
+        },
+        {
+          "title": "Flow of Funds (Overview of Japan, US, and the Euro area)(1st Quarter 2026)",
+          "link": "http://www.boj.or.jp/en/statistics/sj/sjhiq.pdf",
+          "published": "Mon, 31 Aug 2026 10:00:00 +0900",
+          "description": "",
+          "relevant": true
+        },
+        {
           "title": "Average Contract Interest Rates on Loans and Discounts (July)",
           "link": "http://www.boj.or.jp/en/statistics/dl/loan/yaku/yaku2607.pdf",
           "published": "Mon, 31 Aug 2026 08:50:00 +0900",
@@ -307,28 +329,6 @@
           "published": "Mon, 24 Aug 2026 11:00:00 +0900",
           "description": "",
           "relevant": true
-        },
-        {
-          "title": "Bank of Japan Accounts (August 20)",
-          "link": "http://www.boj.or.jp/en/statistics/boj/other/acmai/release/2026/ac260820.htm",
-          "published": "Mon, 24 Aug 2026 10:00:00 +0900",
-          "description": "",
-          "relevant": true
-        },
-        {
-          "title": "Statistics on Securities Financing Transactions in Japan",
-          "link": "http://www.boj.or.jp/en/statistics/bis/repo/index.htm",
-          "published": "Mon, 24 Aug 2026 08:50:00 +0900",
-          "description": "",
-          "relevant": true
-        },
-        {
-          "title": "Developments in Real Exports and Real Imports",
-          "link": "http://www.boj.or.jp/en/research/research_data/reri/index.htm",
-          "published": "Fri, 21 Aug 2026 16:00:00 +0900",
-          "description": "",
-          "relevant": false,
-          "_skip_reason": "no_macro_keyword"
         }
       ],
       "count": 10,
@@ -424,6 +424,41 @@
       "description": "Nonpartisan budgetary and economic analysis for the U.S. Congress.",
       "entries": [
         {
+          "title": "H.R. 2556, CORE Act of 2025",
+          "link": "https://www.cbo.gov/publication/62743",
+          "published": "Mon, 31 Aug 2026 15:15:00 -0400",
+          "description": "As ordered reported by the House Committee on Natural Resources on June 25, 2025",
+          "relevant": true
+        },
+        {
+          "title": "H.R. 2827, a bill to provide for the equitable settlement of certain Indian land disputes regarding land in Illinois, and for other purposes",
+          "link": "https://www.cbo.gov/publication/62740",
+          "published": "Mon, 31 Aug 2026 15:15:00 -0400",
+          "description": "As reported by the House Committee on Natural Resources on August 20, 2026",
+          "relevant": true
+        },
+        {
+          "title": "Effects of Automatic Stabilizers on the Federal Budget: 2026 to 2036",
+          "link": "https://www.cbo.gov/publication/62568",
+          "published": "Mon, 31 Aug 2026 14:00:00 -0400",
+          "description": "CBO provides estimates of the budgetary effects of automatic stabilizers—as well as the size of federal budget deficits without them—over the past 50 years and in CBO's current economic forecast from 2026 to 2036.",
+          "relevant": true
+        },
+        {
+          "title": "H.R. 4795, Protect Economic and Academic Freedom Act of 2026",
+          "link": "https://www.cbo.gov/publication/62739",
+          "published": "Mon, 31 Aug 2026 12:59:29 -0400",
+          "description": "As reported by the House Committee on Education and Workforce on August 27, 2026",
+          "relevant": true
+        },
+        {
+          "title": "S. 1759, Supersonic Aviation Modernization Act",
+          "link": "https://www.cbo.gov/publication/62737",
+          "published": "Mon, 31 Aug 2026 12:58:00 -0400",
+          "description": "As ordered reported by the Senate Committee on Commerce, Science, and Transportation on \nJuly 22, 2026",
+          "relevant": true
+        },
+        {
           "title": "H.R. 5853, a bill to amend the Export Control Reform Act of 2018 to increase the civil penalties that may be imposed under such Act",
           "link": "https://www.cbo.gov/publication/62734",
           "published": "Fri, 28 Aug 2026 15:42:00 -0400",
@@ -457,41 +492,6 @@
           "link": "https://www.cbo.gov/publication/62717",
           "published": "Thu, 27 Aug 2026 11:25:00 -0400",
           "description": "As ordered reported by the House Committee on Oversight and Government Reform on July 22, 2026",
-          "relevant": true
-        },
-        {
-          "title": "H.R. 6322, Stop Stealing our Chips Act",
-          "link": "https://www.cbo.gov/publication/62629",
-          "published": "Thu, 27 Aug 2026 10:24:00 -0400",
-          "description": "As ordered reported by the House Committee on Foreign Affairs on April 22, 2026",
-          "relevant": true
-        },
-        {
-          "title": "H.R. 8202, a bill to amend the Export Control Reform Act of 2018 to provide for a ten-year statute of limitations for export control violations",
-          "link": "https://www.cbo.gov/publication/62604",
-          "published": "Thu, 27 Aug 2026 10:23:00 -0400",
-          "description": "As ordered reported by the House Committee on Foreign Affairs on April 22, 2026",
-          "relevant": true
-        },
-        {
-          "title": "Legislation considered under suspension of the Rules of the House of Representatives during the week of August 31, 2026",
-          "link": "https://www.cbo.gov/publication/62588",
-          "published": "Thu, 27 Aug 2026 09:56:00 -0400",
-          "description": "The Majority Leader of the House of Representatives announces bills that will be considered under suspension of the rules in that chamber. CBO estimates the effects of those bills on direct spending and revenues.",
-          "relevant": true
-        },
-        {
-          "title": "H.R. 9643, Comment Integrity and Management Act",
-          "link": "https://www.cbo.gov/publication/62733",
-          "published": "Thu, 27 Aug 2026 09:33:00 -0400",
-          "description": "As ordered reported by the House Committee on Oversight and Government Reform on July 22, 2026",
-          "relevant": true
-        },
-        {
-          "title": "The Taxation of Social Security Benefits",
-          "link": "https://www.cbo.gov/publication/62553",
-          "published": "Wed, 26 Aug 2026 14:00:00 -0400",
-          "description": "CBO describes the rules governing the taxation of Social Security benefits and examines how those rules affect federal revenues, the distribution of taxes among beneficiaries, and the broader economy.",
           "relevant": true
         }
       ],
