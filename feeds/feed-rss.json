@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-01T23:40:52.657615+00:00",
+  "generated_at": "2026-09-02T23:41:49.765784+00:00",
   "source": "rss",
   "feeds_count": 17,
-  "total_entries": 80,
+  "total_entries": 90,
   "feeds": [
     {
       "name": "Fed FOMC — Monetary Policy",
@@ -95,6 +95,13 @@
       "description": "Treasury Offering Announcements",
       "entries": [
         {
+          "title": "17-Week Bill Treasury Auction Results",
+          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
+          "published": "Wed, 02 Sep 2026 15:33:25 GMT",
+          "description": "CUSIP:  912797WN3  Term and Type:  17-Week Bill  CMB:  No  High Rate:  3.855%  Investment Rate:  3.959%  Price:  $98.725708  Allotted at High:  76.38%  Total Tendered:  $204,402,759,900  Total Accepted:  $76,307,819,900  Auction Date:  09/02/2026  Issue Date:  09/08/2026  Maturity Date:  01/05/2027  PDF  |  XML",
+          "relevant": true
+        },
+        {
           "title": "52-Week Bill Treasury Auction Results",
           "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
           "published": "Tue, 01 Sep 2026 15:33:20 GMT",
@@ -155,13 +162,6 @@
           "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
           "published": "Wed, 26 Aug 2026 15:33:36 GMT",
           "description": "CUSIP:  91282CRD5  Term and Type:  1-Year 11-Month FRN  Series:  BF-2028  Reopening:  Yes  Spread:  0.050%  High Discount Margin:  0.055%  Price:  $99.988631  Allotted at High:  79.14%  Total Tendered:  $87,920,696,500  Total Accepted:  $28,000,010,700  Auction Date:  08/26/2026  Issue Date:  08/28/2026  Maturity Date:  07/31/2028  PDF  |  XML",
-          "relevant": true
-        },
-        {
-          "title": "17-Week Bill Treasury Auction Results",
-          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
-          "published": "Wed, 26 Aug 2026 15:33:35 GMT",
-          "description": "CUSIP:  912797WH6  Term and Type:  17-Week Bill  CMB:  No  High Rate:  3.750%  Investment Rate:  3.850%  Price:  $98.760417  Allotted at High:  34.83%  Total Tendered:  $228,675,167,200  Total Accepted:  $78,136,454,200  Auction Date:  08/26/2026  Issue Date:  09/01/2026  Maturity Date:  12/29/2026  PDF  |  XML",
           "relevant": true
         }
       ],
@@ -259,6 +259,42 @@
       "description": "",
       "entries": [
         {
+          "title": "Japanese Government Bonds Held by the Bank of Japan",
+          "link": "http://www.boj.or.jp/en/statistics/boj/other/mei/release/2026/mei260831.xlsx",
+          "published": "Wed, 02 Sep 2026 17:00:00 +0900",
+          "description": "",
+          "relevant": true
+        },
+        {
+          "title": "Collateral Accepted by the Bank of Japan (End of Aug.)",
+          "link": "http://www.boj.or.jp/en/statistics/boj/other/col/col2608.xlsx",
+          "published": "Wed, 02 Sep 2026 17:00:00 +0900",
+          "description": "",
+          "relevant": true
+        },
+        {
+          "title": "Speech by Board Member TAKATA in Sapporo (Economic Activity, Prices, and Monetary Policy in Japan)",
+          "link": "http://www.boj.or.jp/en/about/press/koen_2026/ko260902a.htm",
+          "published": "Wed, 02 Sep 2026 10:30:00 +0900",
+          "description": "",
+          "relevant": true
+        },
+        {
+          "title": "Bank of Japan Accounts (August 31)",
+          "link": "http://www.boj.or.jp/en/statistics/boj/other/acmai/release/2026/ac260831.htm",
+          "published": "Wed, 02 Sep 2026 10:00:00 +0900",
+          "description": "",
+          "relevant": true
+        },
+        {
+          "title": "Monetary Base (Aug.)",
+          "link": "http://www.boj.or.jp/en/statistics/boj/other/mb/mb.htm",
+          "published": "Wed, 02 Sep 2026 08:50:00 +0900",
+          "description": "",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
+        },
+        {
           "title": "Bond Market Survey (August 2026)",
           "link": "http://www.boj.or.jp/en/paym/bond/bond_list/bond2608.pdf",
           "published": "Tue, 01 Sep 2026 16:00:00 +0900",
@@ -292,42 +328,6 @@
           "title": "Flow of Funds (Overview of Japan, US, and the Euro area)(1st Quarter 2026)",
           "link": "http://www.boj.or.jp/en/statistics/sj/sjhiq.pdf",
           "published": "Mon, 31 Aug 2026 10:00:00 +0900",
-          "description": "",
-          "relevant": true
-        },
-        {
-          "title": "Average Contract Interest Rates on Loans and Discounts (July)",
-          "link": "http://www.boj.or.jp/en/statistics/dl/loan/yaku/yaku2607.pdf",
-          "published": "Mon, 31 Aug 2026 08:50:00 +0900",
-          "description": "",
-          "relevant": true
-        },
-        {
-          "title": "(BOJ Review) Expanding and Revising the Application of Hedonic Quality Adjustment in the Corporate Goods Price Index",
-          "link": "http://www.boj.or.jp/en/research/wps_rev/rev_2026/rev26e11.htm",
-          "published": "Fri, 28 Aug 2026 14:00:00 +0900",
-          "description": "",
-          "relevant": true
-        },
-        {
-          "title": "Speech by Deputy Governor HIMINO in Saitama (Japan's Economy and Monetary Policy)",
-          "link": "http://www.boj.or.jp/en/about/press/koen_2026/ko260827a.htm",
-          "published": "Thu, 27 Aug 2026 10:35:00 +0900",
-          "description": "",
-          "relevant": true
-        },
-        {
-          "title": "Services Producer Price Index (July)",
-          "link": "http://www.boj.or.jp/en/statistics/pi/cspi_release/sppi2607.pdf",
-          "published": "Wed, 26 Aug 2026 08:50:00 +0900",
-          "description": "",
-          "relevant": false,
-          "_skip_reason": "no_macro_keyword"
-        },
-        {
-          "title": "Indicators for Core CPI",
-          "link": "http://www.boj.or.jp/en/research/research_data/cpi/index.htm",
-          "published": "Tue, 25 Aug 2026 14:00:00 +0900",
           "description": "",
           "relevant": true
         }
@@ -425,6 +425,27 @@
       "description": "Nonpartisan budgetary and economic analysis for the U.S. Congress.",
       "entries": [
         {
+          "title": "H.R. 6633, High-Capacity Grid Act",
+          "link": "https://www.cbo.gov/publication/62748",
+          "published": "Wed, 02 Sep 2026 16:05:00 -0400",
+          "description": "As ordered reported by the House Committee on Energy and Commerce on July 21, 2026",
+          "relevant": true
+        },
+        {
+          "title": "H.R. 3872, an act to amend the Mineral Leasing Act for Acquired Lands to make that act applicable to hardrock minerals",
+          "link": "https://www.cbo.gov/publication/62747",
+          "published": "Wed, 02 Sep 2026 14:10:00 -0400",
+          "description": "As ordered reported by the Senate Committee on Energy and Natural Resources on June 10, 2026",
+          "relevant": true
+        },
+        {
+          "title": "H.R. 7894, Truman Scholarship Clean House Act",
+          "link": "https://www.cbo.gov/publication/62746",
+          "published": "Wed, 02 Sep 2026 13:06:10 -0400",
+          "description": "As reported by the House Committee on Education and Workforce on July 2, 2026",
+          "relevant": true
+        },
+        {
           "title": "H.R. 7889, AWRC Act of 2025",
           "link": "https://www.cbo.gov/publication/62744",
           "published": "Tue, 01 Sep 2026 14:48:00 -0400",
@@ -473,27 +494,6 @@
           "published": "Mon, 31 Aug 2026 12:58:00 -0400",
           "description": "As ordered reported by the Senate Committee on Commerce, Science, and Transportation on \nJuly 22, 2026",
           "relevant": true
-        },
-        {
-          "title": "H.R. 5853, a bill to amend the Export Control Reform Act of 2018 to increase the civil penalties that may be imposed under such Act",
-          "link": "https://www.cbo.gov/publication/62734",
-          "published": "Fri, 28 Aug 2026 15:42:00 -0400",
-          "description": "As ordered reported by the House Committee on Foreign Affairs on April 22, 2026",
-          "relevant": true
-        },
-        {
-          "title": "Expired and Expiring Authorizations of Appropriations: 2026 Final Report",
-          "link": "https://www.cbo.gov/publication/62551",
-          "published": "Fri, 28 Aug 2026 12:30:00 -0400",
-          "description": "CBO reports annually on programs whose authorizations of appropriations have already expired or will expire. This report updates CBO's preliminary report that was released on January 15, 2026.",
-          "relevant": true
-        },
-        {
-          "title": "H.R. 8278, Fostering the Use of Technology to Uphold Regulatory Effectiveness in Supervision Act",
-          "link": "https://www.cbo.gov/publication/62736",
-          "published": "Thu, 27 Aug 2026 15:59:00 -0400",
-          "description": "As reported by the House Committee on Financial Services on June 24, 2026",
-          "relevant": true
         }
       ],
       "count": 10,
@@ -514,11 +514,83 @@
       "name": "BIS — Research Papers",
       "url": "https://www.bis.org/doclist/bis_fsi_publs.rss",
       "channel": "BIS — Research Papers",
-      "entries": [],
-      "count": 0,
-      "_error": "unbound prefix: line 9, column 4",
+      "description": "",
+      "entries": [
+        {
+          "title": "Verifiable official statistics: a blockchain-based approach",
+          "link": "https://www.bis.org/publications/working-paper-1374-verifiable-official-statistics-blockchain-based-approach",
+          "published": "2026-09-02T00:00:00Z",
+          "description": "International organisations including the Bank for International Settlements (BIS) have adopted SDMx (Statistical Data and Metadata) as the standard for exchanging official statistics. Trust in published data is essential for evidence-based policymaking. This paper shows how binding each SDMx dataset to its source using blockchain technology can enhance confidence in official statistics.",
+          "relevant": true
+        },
+        {
+          "title": "Regulating stablecoin issuance: permissible entities and activities",
+          "link": "https://www.bis.org/publications/fsi-brief-33-regulating-stablecoin-issuance--permissible-entities-and-activities",
+          "published": "2026-08-27T00:00:00Z",
+          "description": "Regulatory approaches for stablecoin issuance differ significantly, particularly in terms of the types of entities allowed to issue them and the scope of activities permitted beyond core issuance. These differences are important since additional activities such as lending, staking or providing custody services can alter an entity's risk profile and influence the safeguards needed for its core issuance operations.",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
+        },
+        {
+          "title": "Effective resolution strategies and plans for insurers - Executive Summary",
+          "link": "https://www.bis.org/publications/fsi-summary-effective-resolution-strategies-and-plans-insurers---executive-summary",
+          "published": "2026-08-27T00:00:00Z",
+          "description": "The Key Attributes of Effective Resolution Regimes for Financial Institutions (Key Attributes) of the Financial Stability Board (FSB) require resolution plans to be developed for all financial institutions, including insurers, that could be systemically significant or critical upon failure.",
+          "relevant": true
+        },
+        {
+          "title": "Supervisory screening with large language models: finding divergences",
+          "link": "https://www.bis.org/publications/bulletin-134-supervisory-screening-large-language-models--finding-divergences",
+          "published": "2026-08-26T00:00:00Z",
+          "description": "We develop a procedure based on large language models to help supervisors review prospectuses against capital rules. This procedure ranks potential divergences for their consideration. We apply it to Additional Tier 1 (AT1) prospectuses from European global systemically important banks. We validate the procedure on anonymised documents from Credit Suisse and Yes Bank, recovering rule-prospectus differences that later mattered in disputes over AT1 loss absorption. This procedure could support other supervisory comparisons, including reviews of national rules against the international standards they implement.",
+          "relevant": true
+        },
+        {
+          "title": "Settlement liquidity in the Colombian large-value payment system: the role of reserve requirements",
+          "link": "https://www.bis.org/publications/working-paper-1373-settlement-liquidity-colombian-large-value-payment-system-role-reserve-requirements",
+          "published": "2026-08-25T00:00:00Z",
+          "description": "This paper analyzes the intraday timing of transactions in Colombia's large-value payment system (CUD) from 2018 to 2025, focusing on how changes in reserve requirements affect liquidity management by financial institutions. Using high-frequency transaction data, we document that reductions in reserve requirements in April 2020 and September 2024 are associated with a shift of settlement activity toward later hours of the day.",
+          "relevant": true
+        },
+        {
+          "title": "Hard to shift, easy to reshape: central bank reserve demand and frictions",
+          "link": "https://www.bis.org/publications/working-paper-1372-hard-shift-easy-reshape-central-bank-reserve-demand-and-frictions",
+          "published": "2026-08-24T00:00:00Z",
+          "description": "How far can central banks shrink their balance sheets? The answer sets the limits to quantitative tightening (QT), and depends critically on the demand for reserves and whether the drivers widely thought to have increased it over the past decade actually do so. We assess the impact of three such drivers: post-crisis liquidity regulation, monetization frictions, and fragmented interbank markets.",
+          "relevant": true
+        },
+        {
+          "title": "High public debt in the Americas: non-linear implications for risk premia and inflation expectations",
+          "link": "https://www.bis.org/publications/bulletin-133-high-public-debt-americas-non-linear-implications-risk-premia-and-inflation-expectations",
+          "published": "2026-08-19T00:00:00Z",
+          "description": "Public debt has reached multi-decade highs in the Americas. Additionally, public interest costs have generally increased over the past decade. High public debt and interest costs increase the sensitivity of risk premia to fiscal deficits – regardless of the exchange rate regime – and amplify the sensitivity of short-term inflation expectations to fluctuations in risk premia. Our analysis underscores the relevance of disciplined fiscal policies, which assume heightened significance in the context of current debt dynamics. On the monetary side, safeguarding central bank independence is crucial for ensuring macroeconomic stability.",
+          "relevant": true
+        },
+        {
+          "title": "High expectation but low integration? Experiences in modernising and integrating information systems for supervision",
+          "link": "https://www.bis.org/publications/fsi-insight-77-high-expectation-low-integration-experiences-modernising-and-integrating-information-systems",
+          "published": "2026-08-13T00:00:00Z",
+          "description": "This paper examines the evolution of information systems that support supervision and the current maturity level of supervisory authorities in terms of systems integration.",
+          "relevant": true
+        },
+        {
+          "title": "Africa's public debt amid global headwinds: balancing resilience and vulnerabilities",
+          "link": "https://www.bis.org/publications/bulletin-132-africas-public-debt-amid-global-headwinds-balancing-resilience-and-vulnerabilities",
+          "published": "2026-08-11T00:00:00Z",
+          "description": "The conflict in the Middle East has raised energy and fertiliser prices, weakened growth and intensified fiscal pressures across Africa at a time when public debt and debt service burdens remain elevated. The shift towards domestic currency debt has reduced exchange rate risk for issuers and preserved market access, but higher interest rates and shorter maturities have increased debt service costs and rollover risks. A heavy reliance on banks and central banks for government financing can reinforce the sovereign-bank nexus, crowd out private credit and threaten financial stability. Developing deeper markets and a more diversified investor base are essential to address these challenges.",
+          "relevant": true
+        },
+        {
+          "title": "Energy shocks and inflation: challenges for monetary policy",
+          "link": "https://www.bis.org/publications/bulletin-131-energy-shocks-and-inflation-challenges-monetary-policy",
+          "published": "2026-08-05T00:00:00Z",
+          "description": "The recent energy shock ranks among the most significant since the 1990s. Structural factors and initial conditions influence how energy shocks propagate into inflation – directly and through second-round effects. The appropriate monetary policy reaction depends on the persistence of the inflationary pressures as well as the magnitude of the growth impact, and it differs across economies. Uncertainty about these effects further complicates the policy challenge.",
+          "relevant": true
+        }
+      ],
+      "count": 10,
       "domain": "Global Liquidity",
-      "relevant_count": 0
+      "relevant_count": 9
     },
     {
       "name": "Lyn Alden",
