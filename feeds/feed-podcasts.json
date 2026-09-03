@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T23:41:49.765784+00:00",
+  "generated_at": "2026-09-03T23:42:14.854094+00:00",
   "source": "podcast_rss",
   "feeds_count": 5,
   "total_episodes": 40,
@@ -10,6 +10,14 @@
       "domain": "US Fiscal",
       "description": "Allocator and asset management expert, Ted Seides, conducts in-depth interviews with leaders in the institutional investing industry. Guests include Chief Investment Officers from leading allocators, asset managers, strategists, thought leaders, and many more. Our mission is to learn, share, and help implement the process of premier investors. Learn more and join our community at capitalallocators.com.",
       "episodes": [
+        {
+          "title": "SPECIAL ANNOUNCEMENT: Capital Allocators University Online",
+          "link": "https://tedseides.libsyn.com/special-annoucement-capital-allocators-university-online",
+          "published": "Thu, 03 Sep 2026 08:00:00 +0000",
+          "description": "We're excited to share something we've been working on for a while: we're bringing Capital Allocators University online.      For years, CAU has been an in-person, once-a-year cohort of 25 or 30 professionals, built around a set of disciplines that matter enormously for investors and investor relations professionals but rarely get taught explicitly. We put together a brief conversation to share more on what the course covers, who it's for, what we learned from the past five years, and why we decided to move it online.        Full details here . We look forward to welcoming you as a member.      Special thanks to our production partner,   Fondu .",
+          "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/tedseides/CA_-_Special_Announcement_CAU_Online_-_AUDIO_V1.mp3?dest-id=482814",
+          "duration": "15:22"
+        },
         {
           "title": "Best of Negotiations: Chris Voss",
           "link": "https://tedseides.libsyn.com/best-of-negotiations-chris-voss",
@@ -81,14 +89,6 @@
           "description": "Our Summer Series kickoff is with one of the all-time greats,  Annie Duke . The former world-class poker player has become a noted academic and practitioner in the art of decision-making. Her best-seller Thinking in Bets is a one-of-a-kind set of tools and tips to try (emphasis on try) to get past our embedded behavioral biases.  And her follow-up works How to Decide and Quit pull different threads in the decision-making process.       Since writing Thinking in Bets, Annie has consulted several investment organizations to apply her insights to investing, including becoming a Special Partner focused on Decision Science at venture firm, First Round Capital.       For the series, we've shared two of Annie's most popular appearance on the show – coinciding with the launched of Thinking in Bets",
           "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/tedseides/CA_-_EP.39_Annie_Duke_-_SUMMER_SERIES_2026_-_AUDIO_V2.mp3?dest-id=482814",
           "duration": "59:39"
-        },
-        {
-          "title": "Building Durable Real Estate Portfolios at Morgan Stanley – Lauren Hochfelder (EP.514)",
-          "link": "https://tedseides.libsyn.com/building-durable-real-estate-portfolios-at-morgan-stanley-lauren-hochfelder-ep514",
-          "published": "Thu, 30 Jul 2026 08:00:00 +0000",
-          "description": "Lauren Hochfelder is Head of Global Real Assets at Morgan Stanley, where she oversees a team of 300 investment professionals across 13 countries, managing $80 billion across real estate, infrastructure, equity and credit. Lauren joined Morgan Stanley as an investment banking analyst directly out of Yale 26 years ago and has spent her entire career at the firm, helping build one of the industry's leading platforms.           Our conversation traces Lauren's journey from analyst to Global Head and the evolution of Morgan Stanley's real estate business before, during, and after the Global Financial Crisis. We cover the firm's thematic approach to investing behind structural demand tailwinds, combination of global perspectives and on-the-ground teams, operational improvements to assets, portfo",
-          "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/tedseides/CA_-_EP.514_Lauren_Hochfelder_-_AUDIO_V1.mp3?dest-id=482814",
-          "duration": "44:37"
         }
       ]
     },
