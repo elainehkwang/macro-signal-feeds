@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T23:42:14.854094+00:00",
+  "generated_at": "2026-09-04T23:34:41.703743+00:00",
   "source": "podcast_rss",
   "feeds_count": 5,
   "total_episodes": 40,
@@ -99,6 +99,14 @@
       "description": "What’s driving this week’s market moves – and where are the biggest opportunities? Goldman Sachs traders discuss.",
       "episodes": [
         {
+          "title": "Why Gold Is Expected to Rise to Record Highs",
+          "link": "",
+          "published": "Fri, 04 Sep 2026 18:56:00 -0000",
+          "description": "Gold set a record high in January, but uncertainty about US interest rates and disruption from the Iran war have led to an “elongated pause” in the rally, according to Tony Kim, global head of Metals Trading in Goldman Sachs FICC and Equities. Ultimately, Kim expects strong central bank demand for the yellow metal to help drive gold to new highs, he says on The Markets podcast. Kim also discusses whether fiscal sustainability concerns could spur a rotation into gold, how reduced investment demand from Asia is impacting gold markets, and why silver has been volatile in 2026.\n\n\n\nThe opinions and views expressed herein are as of the date of publication, subject to change without notice, and may not necessarily reflect the institutional views of Goldman Sachs or its affiliates. The material pr",
+          "audio_url": "https://mgln.ai/e/1720/traffic.megaphone.fm/GLD3864932103.mp3",
+          "duration": "704"
+        },
+        {
           "title": "What Is the Outlook for Diesel and Gasoline Supplies?",
           "link": "",
           "published": "Fri, 28 Aug 2026 04:00:00 -0000",
@@ -169,14 +177,6 @@
           "description": "Despite recent wobbles in the US equity market, Muhammad Qubbaj, co-head of US Interest Rate Products in Goldman Sachs Global Banking & Markets, believes the rally is on firm footing. He discusses the outlook for stocks and bonds, and explains why he’s not yet concerned about the rising issuance of bonds by tech companies and the US government, in this conversation with Chris Hussey. \n\nRecorded on Jun 11, 2026.\n\nThe opinions and views expressed herein are as of the date of publication, subject to change without notice, and may not necessarily reflect the institutional views of Goldman Sachs or its affiliates. The material provided is intended for informational purposes only, and does not constitute investment advice, a recommendation from any Goldman Sachs entity to take any particular act",
           "audio_url": "https://mgln.ai/e/1720/traffic.megaphone.fm/GLD6522269650.mp3",
           "duration": "656"
-        },
-        {
-          "title": "Will Europe Outperform?",
-          "link": "",
-          "published": "Fri, 05 Jun 2026 04:00:00 -0000",
-          "description": "As US stocks surge, European equities are climbing as well. Could more gains be ahead, and are European stocks be poised to outperform? Sharon Bell, European portfolio strategist in Goldman Sachs Research, discusses with Chris Hussey. \n\nRecorded on June 4, 2026.\n\nThe opinions and views expressed herein are as of the date of publication, subject to change without notice, and may not necessarily reflect the institutional views of Goldman Sachs or its affiliates. The material provided is intended for informational purposes only, and does not constitute investment advice, a recommendation from any Goldman Sachs entity to take any particular action, or an offer or solicitation to purchase or sell any securities or financial products. This material may contain forward-looking statements. Past pe",
-          "audio_url": "https://mgln.ai/e/1720/traffic.megaphone.fm/GLD1657311784.mp3",
-          "duration": "609"
         }
       ]
     },
