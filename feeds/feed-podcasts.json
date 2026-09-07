@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T23:21:39.228114+00:00",
+  "generated_at": "2026-09-07T23:52:00.964197+00:00",
   "source": "podcast_rss",
   "feeds_count": 5,
   "total_episodes": 40,
@@ -10,6 +10,22 @@
       "domain": "US Fiscal",
       "description": "Allocator and asset management expert, Ted Seides, conducts in-depth interviews with leaders in the institutional investing industry. Guests include Chief Investment Officers from leading allocators, asset managers, strategists, thought leaders, and many more. Our mission is to learn, share, and help implement the process of premier investors. Learn more and join our community at capitalallocators.com.",
       "episodes": [
+        {
+          "title": "Best of Habit Formation: James Clear",
+          "link": "https://tedseides.libsyn.com/best-of-habit-formation-james-clear",
+          "published": "Mon, 07 Sep 2026 08:00:00 +0000",
+          "description": "This week's Summer Series concludes with a two-fer on habits. There may be no better way to improve the investment process than to understand what it takes to improve ourselves.  We've got two of the best – James Clear and Katy Milkman, experts and authors of wildly bestselling books Atomic Habits and How to Change.        Please enjoy my conversations with James Clear and Katy Milkman, both from 2021.        We hope you've enjoyed this summer exploration in improving the investment process with some of the best conversations over the last nine years.        Learn more about  Capital Allocators University .        Try  ALEX  by Admired Leadership.          Learn More   Follow Ted on Twitter at  @tseides  or  LinkedIn    Subscribe to the  mailing list   Access Transcript with  Premium Membe",
+          "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/tedseides/CA_-_SUMMER_SERIES_2026_-_James_Clear_-_AUDIO_V2.mp3?dest-id=482814",
+          "duration": "01:11:11"
+        },
+        {
+          "title": "Best of Habit Formation: Katy Milkman",
+          "link": "https://tedseides.libsyn.com/best-of-habit-formation-katy-milkman",
+          "published": "Mon, 07 Sep 2026 07:30:00 +0000",
+          "description": "This week's Summer Series concludes with a two-fer on habits. There may be no better way to improve the investment process than to understand what it takes to improve ourselves.  We've got two of the best – James Clear and Katy Milkman, experts and authors of wildly bestselling books Atomic Habits and How to Change.         Please enjoy my conversations with James Clear and Katy Milkman, both from 2021.         We hope you've enjoyed this summer exploration in improving the investment process with some of the best conversations over the last nine years.         Learn more about  Capital Allocators University .         Try  ALEX  by Admired Leadership.          Learn More   Follow Ted on Twitter at  @tseides  or  LinkedIn    Subscribe to the  mailing list   Access Transcript with  Premium M",
+          "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/tedseides/CA_-_SUMMER_SERIES_2026_-_Katy_Milkman_-_AUDIO_V2.mp3?dest-id=482814",
+          "duration": "57:55"
+        },
         {
           "title": "SPECIAL ANNOUNCEMENT: Capital Allocators University Online",
           "link": "https://tedseides.libsyn.com/special-annoucement-capital-allocators-university-online",
@@ -73,22 +89,6 @@
           "description": "This What Ted's Thinking brings Situational Awareness to the underlying causes of hedge fund disasters.       Read Ted's blog  here.           Editing and post-production work for this episode was provided by The Podcast Consultant (  ⁠  https://thepodcastconsultant.com  ⁠  )",
           "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/tedseides/CA_WTT_-_Anatomy_of_a_Blow-Up_-_AUDIO_V1.mp3?dest-id=482814",
           "duration": "06:07"
-        },
-        {
-          "title": "Best of Decision-Making: Annie Duke (2022)",
-          "link": "https://tedseides.libsyn.com/interdisciplinary-skills-decision-making-annie-duke-2022",
-          "published": "Mon, 03 Aug 2026 09:15:00 +0000",
-          "description": "Our Summer Series kickoff is with one of the all-time greats,  Annie Duke . The former world-class poker player has become a noted academic and practitioner in the art of decision-making. Her best-seller Thinking in Bets is a one-of-a-kind set of tools and tips to try (emphasis on try) to get past our embedded behavioral biases.  And her follow-up works How to Decide and Quit pull different threads in the decision-making process.       Since writing Thinking in Bets, Annie has consulted several investment organizations to apply her insights to investing, including becoming a Special Partner focused on Decision Science at venture firm, First Round Capital.       For the series, we've shared two of Annie's most popular appearance on the show – coinciding with the launched of Thinking in Bets",
-          "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/tedseides/CA_-_EP.273_Annie_Duke_-_SUMMER_SERIES_2026_-_AUDIO_V2.mp3?dest-id=482814",
-          "duration": "01:17:45"
-        },
-        {
-          "title": "Best of Decision-Making: Annie Duke (2018)",
-          "link": "https://tedseides.libsyn.com/interdisciplinary-skills-decision-making-annie-duke-2018",
-          "published": "Mon, 03 Aug 2026 09:00:00 +0000",
-          "description": "Our Summer Series kickoff is with one of the all-time greats,  Annie Duke . The former world-class poker player has become a noted academic and practitioner in the art of decision-making. Her best-seller Thinking in Bets is a one-of-a-kind set of tools and tips to try (emphasis on try) to get past our embedded behavioral biases.  And her follow-up works How to Decide and Quit pull different threads in the decision-making process.       Since writing Thinking in Bets, Annie has consulted several investment organizations to apply her insights to investing, including becoming a Special Partner focused on Decision Science at venture firm, First Round Capital.       For the series, we've shared two of Annie's most popular appearance on the show – coinciding with the launched of Thinking in Bets",
-          "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/tedseides/CA_-_EP.39_Annie_Duke_-_SUMMER_SERIES_2026_-_AUDIO_V2.mp3?dest-id=482814",
-          "duration": "59:39"
         }
       ]
     },
@@ -275,6 +275,14 @@
       "description": "Hosted by David Beckworth of the Mercatus Center, Macro Musings pulls back the curtain on the important macroeconomic issues of the past, present, and future.",
       "episodes": [
         {
+          "title": "Stephen Miran on Regulatory Dominance, Shrinking the Fed's Balance Sheet, and the Return of Monetarism",
+          "link": "https://macromusings.libsyn.com/stephen-miran-on-regulatory-dominance-shrinking-the-feds-balance-sheet-and-the-return-of-monetarism",
+          "published": "Mon, 07 Sep 2026 09:00:00 +0000",
+          "description": "Stephen Miran is a former governor of the Federal Reserve, a former chairman of the Council of Economic Advisers under President Donald J. Trump, and currently a senior strategist for Hudson Bay Capital Management. In Steve's third appearance on the show, he discusses his life as chair of the Council of Economic Advisers and as a Federal Reserve governor, the Fed's balance sheet, regulatory dominance, the future of the discount window, the possible return of monetarism, and much more.   Watch the  full length video  on our new YouTube Channel!   Check out the  transcript  for this week's episode, now with links.    Recorded on August 20th, 2026    Subscribe to David's Substack:  Macroeconomic Policy Nexus    Follow David Beckworth on X:  @DavidBeckworth    Follow Stephen Miran on  X:   @St",
+          "audio_url": "https://traffic.libsyn.com/secure/macromusings/MM-559-SteveMiran-Podcast-Final-auphonic.mp3?dest-id=865793",
+          "duration": "55:16"
+        },
+        {
           "title": "Donald Kohn on the Fed's Past, Present, and Future",
           "link": "https://macromusings.libsyn.com/donald-kohn-on-the-feds-past-present-and-future",
           "published": "Mon, 31 Aug 2026 09:00:00 +0000",
@@ -345,14 +353,6 @@
           "description": "Barry Eichengreen is a well known author, economist, and economic historian from the University of California, Berkeley. In Barry's first appearance on the show he discusses a career in untangling the world's monetary history, the origins of his new book  Money Beyond Borders: Global Currencies from Croesus to Crypto , the first uses on currencies in the 7 th  Century BC, the unexpected start of the dollar, how we landed on the central bank model, the dollar's rise to global reserve currency, which if any currencies as poised to take on the dollar, and much more.       Watch  the full length video  on our new YouTube Channel!     Check out the  transcript  for this week's episode, now with links.   Recorded on May 27th, 2026   Subscribe to David's Substack:  Macroeconomic Policy Nexus    F",
           "audio_url": "https://traffic.libsyn.com/secure/macromusings/MM-550-BarryEichengreen-Audio-Final.mp3?dest-id=865793",
           "duration": "57:09"
-        },
-        {
-          "title": "Yesha Yadav, Chris Odinet, and Andrea Tosato on the Moneyness of Stablecoins",
-          "link": "https://macromusings.libsyn.com/yesha-yadav-chris-odinet-and-andrea-tosato-on-the-moneyness-of-stablecoins",
-          "published": "Mon, 29 Jun 2026 09:00:00 +0000",
-          "description": "Yesha Yadav is a professor of law, the Milton R. Underwood Chair, the Associate Dean & Robert Belton Director of Culture & Community, and the Co-Faculty Director, Master of Laws (LL.M) Program at the Vanderbilt University Law School. Chris Odinet is a professor of law, Mosbacher Research Fellow, and Affiliate Professor of Finance at Texas A&M University School of Law. Andrea Tosato is professor of law at the Southern Methodist University Dedman School of Law. Yesha, Chris, and Andrea join the show to discuss their avenues into stablecoin regulation, their four-part definition of moneyness (nature of the claim, safety, discharge capacity, and negotiability), how Tether and Circle stack up to these definitions, the stablecoin bankruptcy conundrum, the progress the GENIUS Act made on closing",
-          "audio_url": "https://traffic.libsyn.com/secure/macromusings/MM-549-YeshaChrisAndrea-AudioFinal.mp3?dest-id=865793",
-          "duration": "01:11:31"
         }
       ]
     },

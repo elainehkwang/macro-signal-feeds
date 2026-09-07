@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T23:21:39.228114+00:00",
+  "generated_at": "2026-09-07T23:52:00.964197+00:00",
   "source": "rss",
   "feeds_count": 17,
   "total_entries": 90,
@@ -259,6 +259,51 @@
       "description": "",
       "entries": [
         {
+          "title": "Principal Figures of Financial Institutions (Aug.)",
+          "link": "http://www.boj.or.jp/en/statistics/dl/depo/kashi/kasi2608.pdf",
+          "published": "Tue, 08 Sep 2026 08:50:00 +0900",
+          "description": "",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
+        },
+        {
+          "title": "Amounts Outstanding in the Call Money Market (Aug.)",
+          "link": "http://www.boj.or.jp/en/statistics/market/short/call/call.xlsx",
+          "published": "Mon, 07 Sep 2026 15:00:00 +0900",
+          "description": "",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
+        },
+        {
+          "title": "Consumption Activity Index",
+          "link": "http://www.boj.or.jp/en/research/research_data/cai/index.htm",
+          "published": "Mon, 07 Sep 2026 14:00:00 +0900",
+          "description": "",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
+        },
+        {
+          "title": "Monetary Base and the Bank of Japan's Transactions (Aug.)",
+          "link": "http://www.boj.or.jp/en/statistics/boj/other/mbt/mbt2608.pdf",
+          "published": "Mon, 07 Sep 2026 08:50:00 +0900",
+          "description": "",
+          "relevant": true
+        },
+        {
+          "title": "Bank of Japan's Transactions with the Government (Aug.)",
+          "link": "http://www.boj.or.jp/en/statistics/boj/other/tseifu/release/2026/seifu2608.pdf",
+          "published": "Mon, 07 Sep 2026 08:50:00 +0900",
+          "description": "",
+          "relevant": true
+        },
+        {
+          "title": "Market Operations by the Bank of Japan (Aug.)",
+          "link": "http://www.boj.or.jp/en/statistics/boj/fm/ope/m_release/2026/ope2608.xlsx",
+          "published": "Mon, 07 Sep 2026 08:50:00 +0900",
+          "description": "",
+          "relevant": true
+        },
+        {
           "title": "Financial Results of Japan's Banks for Fiscal 2025",
           "link": "http://www.boj.or.jp/en/research/brp/fsr/fsrb260904.htm",
           "published": "Fri, 04 Sep 2026 16:00:00 +0900",
@@ -287,55 +332,11 @@
           "published": "Wed, 02 Sep 2026 17:00:00 +0900",
           "description": "",
           "relevant": true
-        },
-        {
-          "title": "Collateral Accepted by the Bank of Japan (End of Aug.)",
-          "link": "http://www.boj.or.jp/en/statistics/boj/other/col/col2608.xlsx",
-          "published": "Wed, 02 Sep 2026 17:00:00 +0900",
-          "description": "",
-          "relevant": true
-        },
-        {
-          "title": "Bank of Japan Accounts (August 31)",
-          "link": "http://www.boj.or.jp/en/statistics/boj/other/acmai/release/2026/ac260831.htm",
-          "published": "Wed, 02 Sep 2026 10:00:00 +0900",
-          "description": "",
-          "relevant": true
-        },
-        {
-          "title": "Monetary Base (Aug.)",
-          "link": "http://www.boj.or.jp/en/statistics/boj/other/mb/mb.htm",
-          "published": "Wed, 02 Sep 2026 08:50:00 +0900",
-          "description": "",
-          "relevant": false,
-          "_skip_reason": "no_macro_keyword"
-        },
-        {
-          "title": "Bond Market Survey (August 2026)",
-          "link": "http://www.boj.or.jp/en/paym/bond/bond_list/bond2608.pdf",
-          "published": "Tue, 01 Sep 2026 16:00:00 +0900",
-          "description": "",
-          "relevant": true
-        },
-        {
-          "title": "Sources of Changes in Current Account Balances and Market Operations (Aug.)",
-          "link": "http://www.boj.or.jp/en/statistics/boj/fm/juqf/juqf08.xlsx",
-          "published": "Tue, 01 Sep 2026 13:00:00 +0900",
-          "description": "",
-          "relevant": false,
-          "_skip_reason": "no_macro_keyword"
-        },
-        {
-          "title": "Quarterly Schedule of Outright Purchases of Japanese Government Bonds (Competitive Auction Method) (July-September 2026) (Schedule Updates)",
-          "link": "http://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/mpr260831a.pdf",
-          "published": "Mon, 31 Aug 2026 17:00:00 +0900",
-          "description": "",
-          "relevant": true
         }
       ],
       "count": 10,
       "domain": "Japan",
-      "relevant_count": 6
+      "relevant_count": 5
     },
     {
       "name": "BOE — News & MPC Minutes",
@@ -517,6 +518,13 @@
       "description": "",
       "entries": [
         {
+          "title": "What determines banks' excess demand for reserves?",
+          "link": "https://www.bis.org/publications/working-paper-1376-what-determines-banks-excess-demand-reserves",
+          "published": "2026-09-07T00:00:00Z",
+          "description": "FocusThe amount of central bank reserves to supply has become a highly contentious policy issue for many central banks that shrink their balance sheets which were built up during quantitative easing. However, there is little evidence about the amount of reserves banks actually want to hold and the factors that shape this choice. To trace bank-level demand for reserves empirically, we exploit new microdata and a unique feature of Sveriges Riksbank's operational framework, under which banks…",
+          "relevant": true
+        },
+        {
           "title": "Zombie firms in emerging  Asia: domestic and cross border implications",
           "link": "https://www.bis.org/publications/working-paper-1375-zombie-firms-emerging-asia-domestic-and-cross-border-implications",
           "published": "2026-09-03T00:00:00Z",
@@ -538,19 +546,19 @@
           "relevant": true
         },
         {
+          "title": "Effective resolution strategies and plans for insurers - Executive Summary",
+          "link": "https://www.bis.org/publications/fsi-summary-effective-resolution-strategies-and-plans-insurers---executive-summary",
+          "published": "2026-08-27T00:00:00Z",
+          "description": "The Key Attributes of Effective Resolution Regimes for Financial Institutions (Key Attributes) of the Financial Stability Board (FSB) require resolution plans to be developed for all financial institutions, including insurers, that could be systemically significant or critical upon failure.",
+          "relevant": true
+        },
+        {
           "title": "Regulating stablecoin issuance: permissible entities and activities",
           "link": "https://www.bis.org/publications/fsi-brief-33-regulating-stablecoin-issuance--permissible-entities-and-activities",
           "published": "2026-08-27T00:00:00Z",
           "description": "Regulatory approaches for stablecoin issuance differ significantly, particularly in terms of the types of entities allowed to issue them and the scope of activities permitted beyond core issuance. These differences are important since additional activities such as lending, staking or providing custody services can alter an entity's risk profile and influence the safeguards needed for its core issuance operations.",
           "relevant": false,
           "_skip_reason": "no_macro_keyword"
-        },
-        {
-          "title": "Effective resolution strategies and plans for insurers - Executive Summary",
-          "link": "https://www.bis.org/publications/fsi-summary-effective-resolution-strategies-and-plans-insurers---executive-summary",
-          "published": "2026-08-27T00:00:00Z",
-          "description": "The Key Attributes of Effective Resolution Regimes for Financial Institutions (Key Attributes) of the Financial Stability Board (FSB) require resolution plans to be developed for all financial institutions, including insurers, that could be systemically significant or critical upon failure.",
-          "relevant": true
         },
         {
           "title": "Supervisory screening with large language models: finding divergences",
@@ -578,13 +586,6 @@
           "link": "https://www.bis.org/publications/bulletin-133-high-public-debt-americas-non-linear-implications-risk-premia-and-inflation-expectations",
           "published": "2026-08-19T00:00:00Z",
           "description": "Public debt has reached multi-decade highs in the Americas. Additionally, public interest costs have generally increased over the past decade. High public debt and interest costs increase the sensitivity of risk premia to fiscal deficits – regardless of the exchange rate regime – and amplify the sensitivity of short-term inflation expectations to fluctuations in risk premia. Our analysis underscores the relevance of disciplined fiscal policies, which assume heightened significance in the context of current debt dynamics. On the monetary side, safeguarding central bank independence is crucial for ensuring macroeconomic stability.",
-          "relevant": true
-        },
-        {
-          "title": "High expectation but low integration? Experiences in modernising and integrating information systems for supervision",
-          "link": "https://www.bis.org/publications/fsi-insight-77-high-expectation-low-integration-experiences-modernising-and-integrating-information-systems",
-          "published": "2026-08-13T00:00:00Z",
-          "description": "This paper examines the evolution of information systems that support supervision and the current maturity level of supervisory authorities in terms of systems integration.",
           "relevant": true
         }
       ],
