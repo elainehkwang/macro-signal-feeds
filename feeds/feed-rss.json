@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T23:52:00.964197+00:00",
+  "generated_at": "2026-09-08T23:45:20.344745+00:00",
   "source": "rss",
   "feeds_count": 17,
   "total_entries": 90,
@@ -95,6 +95,34 @@
       "description": "Treasury Offering Announcements",
       "entries": [
         {
+          "title": "3-Year Note Treasury Auction Results",
+          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
+          "published": "Tue, 08 Sep 2026 17:03:18 GMT",
+          "description": "CUSIP:  91282CRL7  Term and Type:  3-Year Note  Series:  AS-2029  Reopening:  No  Interest Rate:  4.375%  High Yield:  4.474%  Price:  $99.724933  Allotted at High:  29.35%  Total Tendered:  $157,872,425,100  Total Accepted:  $58,000,088,800  Auction Date:  09/08/2026  Issue Date:  09/15/2026  Maturity Date:  09/15/2029  PDF  |  XML",
+          "relevant": true
+        },
+        {
+          "title": "6-Week Bill Treasury Auction Results",
+          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
+          "published": "Tue, 08 Sep 2026 17:03:17 GMT",
+          "description": "CUSIP:  912797UL9  Term and Type:  6-Week Bill  CMB:  No  High Rate:  3.740%  Investment Rate:  3.809%  Price:  $99.563667  Allotted at High:  46.45%  Total Tendered:  $225,635,380,300  Total Accepted:  $80,761,934,800  Auction Date:  09/08/2026  Issue Date:  09/10/2026  Maturity Date:  10/22/2026  PDF  |  XML",
+          "relevant": true
+        },
+        {
+          "title": "13-Week Bill Treasury Auction Results",
+          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
+          "published": "Tue, 08 Sep 2026 15:33:21 GMT",
+          "description": "CUSIP:  912797VG9  Term and Type:  13-Week Bill  CMB:  No  High Rate:  3.800%  Investment Rate:  3.890%  Price:  $99.039444  Allotted at High:  20.33%  Total Tendered:  $247,398,360,400  Total Accepted:  $99,067,804,400  Auction Date:  09/08/2026  Issue Date:  09/10/2026  Maturity Date:  12/10/2026  PDF  |  XML",
+          "relevant": true
+        },
+        {
+          "title": "26-Week Bill Treasury Auction Results",
+          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
+          "published": "Tue, 08 Sep 2026 15:33:20 GMT",
+          "description": "CUSIP:  912797WK9  Term and Type:  26-Week Bill  CMB:  No  High Rate:  3.890%  Investment Rate:  4.023%  Price:  $98.033389  Allotted at High:  79.10%  Total Tendered:  $233,436,693,700  Total Accepted:  $85,069,040,200  Auction Date:  09/08/2026  Issue Date:  09/10/2026  Maturity Date:  03/11/2027  PDF  |  XML",
+          "relevant": true
+        },
+        {
           "title": "4-Week Bill Treasury Auction Results",
           "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
           "published": "Thu, 03 Sep 2026 15:33:27 GMT",
@@ -135,34 +163,6 @@
           "published": "Mon, 31 Aug 2026 15:33:38 GMT",
           "description": "CUSIP:  912797WD5  Term and Type:  26-Week Bill  CMB:  No  High Rate:  3.885%  Investment Rate:  4.018%  Price:  $98.035917  Allotted at High:  49.27%  Total Tendered:  $212,838,645,400  Total Accepted:  $83,762,907,400  Auction Date:  08/31/2026  Issue Date:  09/03/2026  Maturity Date:  03/04/2027  PDF  |  XML",
           "relevant": true
-        },
-        {
-          "title": "13-Week Bill Treasury Auction Results",
-          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
-          "published": "Mon, 31 Aug 2026 15:33:37 GMT",
-          "description": "CUSIP:  912797VA2  Term and Type:  13-Week Bill  CMB:  No  High Rate:  3.770%  Investment Rate:  3.859%  Price:  $99.047028  Allotted at High:  66.77%  Total Tendered:  $260,152,749,000  Total Accepted:  $97,546,987,900  Auction Date:  08/31/2026  Issue Date:  09/03/2026  Maturity Date:  12/03/2026  PDF  |  XML",
-          "relevant": true
-        },
-        {
-          "title": "7-Year Note Treasury Auction Results",
-          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
-          "published": "Thu, 27 Aug 2026 17:03:39 GMT",
-          "description": "CUSIP:  91282CRJ2  Term and Type:  7-Year Note  Series:  P-2033  Reopening:  No  Interest Rate:  4.500%  High Yield:  4.512%  Price:  $99.928654  Allotted at High:  97.63%  Total Tendered:  $115,876,415,100  Total Accepted:  $49,656,567,600  Auction Date:  08/27/2026  Issue Date:  08/31/2026  Maturity Date:  08/31/2033  PDF  |  XML",
-          "relevant": true
-        },
-        {
-          "title": "8-Week Bill Treasury Auction Results",
-          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
-          "published": "Thu, 27 Aug 2026 15:33:30 GMT",
-          "description": "CUSIP:  912797VN4  Term and Type:  8-Week Bill  CMB:  No  High Rate:  3.670%  Investment Rate:  3.742%  Price:  $99.429111  Allotted at High:  80.38%  Total Tendered:  $256,994,892,300  Total Accepted:  $97,671,054,300  Auction Date:  08/27/2026  Issue Date:  09/01/2026  Maturity Date:  10/27/2026  PDF  |  XML",
-          "relevant": true
-        },
-        {
-          "title": "4-Week Bill Treasury Auction Results",
-          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
-          "published": "Thu, 27 Aug 2026 15:33:29 GMT",
-          "description": "CUSIP:  912797VE4  Term and Type:  4-Week Bill  CMB:  No  High Rate:  3.650%  Investment Rate:  3.711%  Price:  $99.716111  Allotted at High:  93.57%  Total Tendered:  $281,383,834,200  Total Accepted:  $108,522,561,100  Auction Date:  08/27/2026  Issue Date:  09/01/2026  Maturity Date:  09/29/2026  PDF  |  XML",
-          "relevant": true
         }
       ],
       "count": 10,
@@ -175,6 +175,14 @@
       "channel": "ECB - European Central Bank",
       "description": "Latest releases on the ECB website - Press releases, speeches and interviews, press conferences.",
       "entries": [
+        {
+          "title": "Frank Elderson: Fireside chat",
+          "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260908~3652aa828f.en.html",
+          "published": "Tue, 08 Sep 2026 17:00:00 +0200",
+          "description": "",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
+        },
         {
           "title": "Philip R. Lane: Diversity at the European Central Bank",
           "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260904~7b9257099b.en.pdf",
@@ -239,18 +247,11 @@
           "published": "Mon, 17 Aug 2026 11:30:00 +0200",
           "description": "",
           "relevant": true
-        },
-        {
-          "title": "Cash remains most widely accepted payment method in euro area",
-          "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260813~389729d6a9.en.html",
-          "published": "Thu, 13 Aug 2026 11:00:00 +0200",
-          "description": "",
-          "relevant": true
         }
       ],
       "count": 10,
       "domain": "Europe",
-      "relevant_count": 8
+      "relevant_count": 7
     },
     {
       "name": "BOJ — Monetary Policy Statements",
@@ -427,6 +428,14 @@
       "description": "Nonpartisan budgetary and economic analysis for the U.S. Congress.",
       "entries": [
         {
+          "title": "The Effects of Changing Temperatures on the Medicare Population",
+          "link": "https://www.cbo.gov/publication/62555",
+          "published": "Tue, 08 Sep 2026 14:00:00 -0400",
+          "description": "CBO examines how daily temperature changes affect emergency department visits, spending on those visits, and deaths among people enrolled in Medicare and how projected temperature changes caused by climate change affect those outcomes.",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
+        },
+        {
           "title": "S. 2732, Bonuses for Cost-Cutters Act of 2026",
           "link": "https://www.cbo.gov/publication/62755",
           "published": "Fri, 04 Sep 2026 13:38:00 -0400",
@@ -488,18 +497,11 @@
           "published": "Wed, 02 Sep 2026 14:10:00 -0400",
           "description": "As ordered reported by the Senate Committee on Energy and Natural Resources on June 10, 2026",
           "relevant": true
-        },
-        {
-          "title": "H.R. 7894, Truman Scholarship Clean House Act",
-          "link": "https://www.cbo.gov/publication/62746",
-          "published": "Wed, 02 Sep 2026 13:06:10 -0400",
-          "description": "As reported by the House Committee on Education and Workforce on July 2, 2026",
-          "relevant": true
         }
       ],
       "count": 10,
       "domain": "US Fiscal",
-      "relevant_count": 10
+      "relevant_count": 9
     },
     {
       "name": "BIS — All Publications",
@@ -546,19 +548,19 @@
           "relevant": true
         },
         {
-          "title": "Effective resolution strategies and plans for insurers - Executive Summary",
-          "link": "https://www.bis.org/publications/fsi-summary-effective-resolution-strategies-and-plans-insurers---executive-summary",
-          "published": "2026-08-27T00:00:00Z",
-          "description": "The Key Attributes of Effective Resolution Regimes for Financial Institutions (Key Attributes) of the Financial Stability Board (FSB) require resolution plans to be developed for all financial institutions, including insurers, that could be systemically significant or critical upon failure.",
-          "relevant": true
-        },
-        {
           "title": "Regulating stablecoin issuance: permissible entities and activities",
           "link": "https://www.bis.org/publications/fsi-brief-33-regulating-stablecoin-issuance--permissible-entities-and-activities",
           "published": "2026-08-27T00:00:00Z",
           "description": "Regulatory approaches for stablecoin issuance differ significantly, particularly in terms of the types of entities allowed to issue them and the scope of activities permitted beyond core issuance. These differences are important since additional activities such as lending, staking or providing custody services can alter an entity's risk profile and influence the safeguards needed for its core issuance operations.",
           "relevant": false,
           "_skip_reason": "no_macro_keyword"
+        },
+        {
+          "title": "Effective resolution strategies and plans for insurers - Executive Summary",
+          "link": "https://www.bis.org/publications/fsi-summary-effective-resolution-strategies-and-plans-insurers---executive-summary",
+          "published": "2026-08-27T00:00:00Z",
+          "description": "The Key Attributes of Effective Resolution Regimes for Financial Institutions (Key Attributes) of the Financial Stability Board (FSB) require resolution plans to be developed for all financial institutions, including insurers, that could be systemically significant or critical upon failure.",
+          "relevant": true
         },
         {
           "title": "Supervisory screening with large language models: finding divergences",

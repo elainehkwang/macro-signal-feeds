@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T23:52:00.964197+00:00",
+  "generated_at": "2026-09-08T23:45:20.344745+00:00",
   "source": "podcast_rss",
   "feeds_count": 5,
   "total_episodes": 40,
@@ -187,6 +187,14 @@
       "description": "Conversations with the best investors and business leaders in the world. We explore their ideas, methods, and stories to help you better invest your time and money. Hear stock market and boardroom insights you can't find anywhere else. If you're a professional investor, CEO, entrepreneur, or business strategist, this is for you. Explore all our episodes and learn more at https://www.colossus.com",
       "episodes": [
         {
+          "title": "Walter Russell Mead - How America Keeps Winning - [Invest Like the Best, EP.490]",
+          "link": "https://colossus.com/episode/god-gold-silicon/",
+          "published": "Tue, 08 Sep 2026 08:00:00 -0000",
+          "description": "My guest today is Walter Russell Mead. Walter is a columnist at the Wall Street Journal and the author of Special Providence and God and Gold, two of the best books written on American power.&nbsp;\n\nHe has spent decades studying how the United States came to dominate the world, and our conversation is about whether it can keep doing so.&nbsp;\n\nWalter lays out the five step playbook that carried the Dutch, then the British, then America to global leadership, and why the same pattern keeps beating centralized continental powers.&nbsp;\n\nWe discuss how Trump turned fame into power, the four schools of American foreign policy and the rise of the tech Hamiltonians, what the drone war in Ukraine means for the Pentagon, and why the erosion of deterrence is the deeper story in the Middle East.&nbsp",
+          "audio_url": "https://traffic.megaphone.fm/CLS4316656997.mp3",
+          "duration": "4688"
+        },
+        {
           "title": "Sarah Guo - Funding the Frontier - [Invest Like the Best, EP.489]",
           "link": "https://colossus.com/episode/no-priors-just-conviction/",
           "published": "Tue, 01 Sep 2026 08:00:00 -0000",
@@ -257,14 +265,6 @@
           "description": "My guest today is Jeremy Giffon.  Jeremy has been on the show before as one of our most popular guests, and this conversation is every bit as enjoyable as the first. \n\nOver the last 18 months, Jeremy has had hundreds of conversations with founders and with the capital behind their companies. I don't know many investors with such a high rep count in the most interesting corners of private markets, so I asked him what he has learned. \n\nWe talk about what those lessons mean for founders and investors, why everyone has become subservient to the poster class, the hidden intellectual history behind Silicon Valley and much more.\n\nPlease enjoy my conversation with my friend, Jeremy Giffon.\n\nFor the full show notes, transcript, and links to mentioned content, check out the episode page ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠",
           "audio_url": "https://traffic.megaphone.fm/CLS7913917793.mp3",
           "duration": "4519"
-        },
-        {
-          "title": "Etched - Building AI Hardware to Make Inference Faster and Cheaper - [Invest Like the Best, EP.480]",
-          "link": "https://colossus.com/episode/the-future-of-ai-hardware/",
-          "published": "Tue, 30 Jun 2026 15:00:00 -0000",
-          "description": "My guests today are Gavin Uberti and Rob Wachen, the founders of Etched. \n\nA few years ago, when they set out to build a better AI chip than the largest companies in the world, almost everyone I called told me it could not be done. They have since done it, taping out a working chip on their first attempt and becoming the first hardware company founded after ChatGPT to do so.\n\nThey already have more than a billion dollars of customer demand for their first product, and have raised eight hundred million dollars to build it. \n\nEtched builds chips and systems designed to run AI models faster and at lower cost. They started the company in 2023, and that product is a complete rack for inference, the chip along with the boards, the power delivery, the interconnects, and the manufacturing to produ",
-          "audio_url": "https://traffic.megaphone.fm/CLS8561569864.mp3",
-          "duration": "5241"
         }
       ]
     },
