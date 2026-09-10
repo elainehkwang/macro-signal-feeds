@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-09T23:41:01.365832+00:00",
+  "generated_at": "2026-09-10T23:33:55.681086+00:00",
   "source": "rss",
   "feeds_count": 17,
-  "total_entries": 80,
+  "total_entries": 90,
   "feeds": [
     {
       "name": "Fed FOMC — Monetary Policy",
@@ -95,6 +95,27 @@
       "description": "Treasury Offering Announcements",
       "entries": [
         {
+          "title": "29-Year 11-Month Bond Treasury Auction Results",
+          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
+          "published": "Thu, 10 Sep 2026 17:03:28 GMT",
+          "description": "CUSIP:  912810UW6  Term and Type:  29-Year 11-Month Bond  Series:  Bonds of August 2056  Reopening:  Yes  Interest Rate:  5.125%  High Yield:  5.308%  Price:  $97.262274  Allotted at High:  64.29%  Total Tendered:  $57,466,872,500  Total Accepted:  $22,000,024,000  Auction Date:  09/10/2026  Issue Date:  09/15/2026  Maturity Date:  08/15/2056  PDF  |  XML",
+          "relevant": true
+        },
+        {
+          "title": "8-Week Bill Treasury Auction Results",
+          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
+          "published": "Thu, 10 Sep 2026 15:33:21 GMT",
+          "description": "CUSIP:  912797VW4  Term and Type:  8-Week Bill  CMB:  No  High Rate:  3.845%  Investment Rate:  3.922%  Price:  $99.401889  Allotted at High:  71.44%  Total Tendered:  $246,623,132,100  Total Accepted:  $91,667,812,100  Auction Date:  09/10/2026  Issue Date:  09/15/2026  Maturity Date:  11/10/2026  PDF  |  XML",
+          "relevant": true
+        },
+        {
+          "title": "4-Week Bill Treasury Auction Results",
+          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
+          "published": "Thu, 10 Sep 2026 15:33:20 GMT",
+          "description": "CUSIP:  912797VL8  Term and Type:  4-Week Bill  CMB:  No  High Rate:  3.775%  Investment Rate:  3.839%  Price:  $99.706389  Allotted at High:  34.21%  Total Tendered:  $259,997,642,400  Total Accepted:  $97,059,722,400  Auction Date:  09/10/2026  Issue Date:  09/15/2026  Maturity Date:  10/13/2026  PDF  |  XML",
+          "relevant": true
+        },
+        {
           "title": "9-Year 11-Month Note Treasury Auction Results",
           "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
           "published": "Wed, 09 Sep 2026 17:03:22 GMT",
@@ -142,27 +163,6 @@
           "published": "Thu, 03 Sep 2026 15:33:27 GMT",
           "description": "CUSIP:  912797VK0  Term and Type:  4-Week Bill  CMB:  No  High Rate:  3.700%  Investment Rate:  3.762%  Price:  $99.712222  Allotted at High:  58.44%  Total Tendered:  $272,835,287,900  Total Accepted:  $95,385,335,100  Auction Date:  09/03/2026  Issue Date:  09/08/2026  Maturity Date:  10/06/2026  PDF  |  XML",
           "relevant": true
-        },
-        {
-          "title": "8-Week Bill Treasury Auction Results",
-          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
-          "published": "Thu, 03 Sep 2026 15:33:26 GMT",
-          "description": "CUSIP:  912797VP9  Term and Type:  8-Week Bill  CMB:  No  High Rate:  3.750%  Investment Rate:  3.824%  Price:  $99.416667  Allotted at High:  89.23%  Total Tendered:  $262,091,264,300  Total Accepted:  $90,086,510,700  Auction Date:  09/03/2026  Issue Date:  09/08/2026  Maturity Date:  11/03/2026  PDF  |  XML",
-          "relevant": true
-        },
-        {
-          "title": "17-Week Bill Treasury Auction Results",
-          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
-          "published": "Wed, 02 Sep 2026 15:33:25 GMT",
-          "description": "CUSIP:  912797WN3  Term and Type:  17-Week Bill  CMB:  No  High Rate:  3.855%  Investment Rate:  3.959%  Price:  $98.725708  Allotted at High:  76.38%  Total Tendered:  $204,402,759,900  Total Accepted:  $76,307,819,900  Auction Date:  09/02/2026  Issue Date:  09/08/2026  Maturity Date:  01/05/2027  PDF  |  XML",
-          "relevant": true
-        },
-        {
-          "title": "52-Week Bill Treasury Auction Results",
-          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
-          "published": "Tue, 01 Sep 2026 15:33:20 GMT",
-          "description": "CUSIP:  912797WA1  Term and Type:  52-Week Bill  CMB:  No  High Rate:  3.980%  Investment Rate:  4.161%  Price:  $95.975778  Allotted at High:  34.18%  Total Tendered:  $190,866,626,400  Total Accepted:  $55,135,044,900  Auction Date:  09/01/2026  Issue Date:  09/03/2026  Maturity Date:  09/02/2027  PDF  |  XML",
-          "relevant": true
         }
       ],
       "count": 10,
@@ -175,6 +175,20 @@
       "channel": "ECB - European Central Bank",
       "description": "Latest releases on the ECB website - Press releases, speeches and interviews, press conferences.",
       "entries": [
+        {
+          "title": "Christine Lagarde, Boris Vujčić: Monetary policy statement (with Q&A)",
+          "link": "https://www.ecb.europa.eu//press/press_conference/monetary-policy-statement/2026/html/ecb.is260910~6a45359cfc.en.html",
+          "published": "Thu, 10 Sep 2026 15:00:00 +0200",
+          "description": "",
+          "relevant": true
+        },
+        {
+          "title": "Monetary policy decisions",
+          "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.mp260910~314e508016.en.html",
+          "published": "Thu, 10 Sep 2026 14:15:00 +0200",
+          "description": "",
+          "relevant": true
+        },
         {
           "title": "Christine Lagarde: The choice facing Europeans",
           "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260909~59a07e6f05.en.html",
@@ -233,20 +247,6 @@
           "description": "",
           "relevant": false,
           "_skip_reason": "no_macro_keyword"
-        },
-        {
-          "title": "ECB Consumer Expectations Survey results – July 2026",
-          "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260821~a044fdddd9.en.html",
-          "published": "Fri, 21 Aug 2026 10:00:00 +0200",
-          "description": "",
-          "relevant": true
-        },
-        {
-          "title": "Christine Lagarde: Panel remarks about the European economy during a discussion on the global economic outlook at the World Economic Forum",
-          "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260819~98ddf24b7b.en.html",
-          "published": "Wed, 19 Aug 2026 09:10:00 +0200",
-          "description": "",
-          "relevant": true
         }
       ],
       "count": 10,
@@ -259,6 +259,28 @@
       "channel": "Bank of Japan：RSS",
       "description": "",
       "entries": [
+        {
+          "title": "Basic Figures on Fails (Aug.)",
+          "link": "http://www.boj.or.jp/en/statistics/set/bffail/sjgb2608.pdf",
+          "published": "Thu, 10 Sep 2026 16:30:00 +0900",
+          "description": "",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
+        },
+        {
+          "title": "Speech by Board Member MASU in Fukui (Economic Activity, Prices, and Monetary Policy in Japan)",
+          "link": "http://www.boj.or.jp/en/about/press/koen_2026/ko260910a.htm",
+          "published": "Thu, 10 Sep 2026 10:30:00 +0900",
+          "description": "",
+          "relevant": true
+        },
+        {
+          "title": "Regular Derivatives Market Statistics in Japan",
+          "link": "http://www.boj.or.jp/en/statistics/bis/yoshi/index.htm",
+          "published": "Thu, 10 Sep 2026 08:50:00 +0900",
+          "description": "",
+          "relevant": true
+        },
         {
           "title": "Warning against Scams Using the Bank of Japan's Name",
           "link": "http://www.boj.or.jp/en/about/organization/notice/index.htm",
@@ -311,28 +333,6 @@
           "published": "Mon, 07 Sep 2026 08:50:00 +0900",
           "description": "",
           "relevant": true
-        },
-        {
-          "title": "Market Operations by the Bank of Japan (Aug.)",
-          "link": "http://www.boj.or.jp/en/statistics/boj/fm/ope/m_release/2026/ope2608.xlsx",
-          "published": "Mon, 07 Sep 2026 08:50:00 +0900",
-          "description": "",
-          "relevant": true
-        },
-        {
-          "title": "Financial Results of Japan's Banks for Fiscal 2025",
-          "link": "http://www.boj.or.jp/en/research/brp/fsr/fsrb260904.htm",
-          "published": "Fri, 04 Sep 2026 16:00:00 +0900",
-          "description": "",
-          "relevant": true
-        },
-        {
-          "title": "Notice of the \"Meeting on Market Operations\"",
-          "link": "http://www.boj.or.jp/en/paym/market/mkt260903a.pdf",
-          "published": "Thu, 03 Sep 2026 11:00:00 +0900",
-          "description": "",
-          "relevant": false,
-          "_skip_reason": "no_macro_keyword"
         }
       ],
       "count": 10,
@@ -345,6 +345,14 @@
       "channel": "News",
       "description": "News",
       "entries": [
+        {
+          "title": "Announcement of the publication of the Governor's interview transcript",
+          "link": "https://www.bankofengland.co.uk/news/2026/september/statement-announcing-governors-interview",
+          "published": "Thu, 10 Sep 2026 10:00:00 +0100",
+          "description": "Statement from the Bank of England",
+          "relevant": false,
+          "_skip_reason": "non_macro_pattern"
+        },
         {
           "title": "Delay to the November 2026 RTGS standards release",
           "link": "https://www.bankofengland.co.uk/news/2026/august/delay-to-the-november-2026-rtgs-standards-release",
@@ -408,18 +416,11 @@
           "description": "The proposals would provide more detail on the PRA’s approach to Part VIII transactions, helping firms plan amalgamations and transfers more efficiently.",
           "relevant": false,
           "_skip_reason": "no_macro_keyword"
-        },
-        {
-          "title": "PRA fines HDI Global SE £4,165,000 for inaccurate reporting of FSCS Liabilities and FSCS Fee Tariff data",
-          "link": "https://www.bankofengland.co.uk/news/2026/july/pra-fines-hdi-global-se-4165000-for-inaccurate-reporting",
-          "published": "Mon, 20 Jul 2026 10:00:00 +0100",
-          "description": "The Prudential Regulation Authority (PRA) has imposed a financial penalty of £4,165,000 on HDI Global SE in connection with the submission of incorrect data to the PRA.",
-          "relevant": true
         }
       ],
       "count": 10,
       "domain": "Europe",
-      "relevant_count": 9
+      "relevant_count": 8
     },
     {
       "name": "CBO — Budget & Economic Outlook",
@@ -427,6 +428,27 @@
       "channel": "CBO Publications",
       "description": "Nonpartisan budgetary and economic analysis for the U.S. Congress.",
       "entries": [
+        {
+          "title": "H.R. 9342, GPO Modernization Act of 2026",
+          "link": "https://www.cbo.gov/publication/62770",
+          "published": "Thu, 10 Sep 2026 12:48:00 -0400",
+          "description": "As ordered reported by the House Committee on House Administration on June 24, 2026",
+          "relevant": true
+        },
+        {
+          "title": "H.R. 3334, USCP Empowerment Act of 2025",
+          "link": "https://www.cbo.gov/publication/62769",
+          "published": "Thu, 10 Sep 2026 11:52:00 -0400",
+          "description": "As ordered reported by the House Committee on House Administration on June 24, 2026",
+          "relevant": true
+        },
+        {
+          "title": "H.R. 8052, Veteran Infection Prevention Act",
+          "link": "https://www.cbo.gov/publication/62735",
+          "published": "Thu, 10 Sep 2026 11:52:00 -0400",
+          "description": "As ordered reported by the House Committee on Veterans’ Affairs on May 14, 2026",
+          "relevant": true
+        },
         {
           "title": "H.R. 4122, Health Care for Energy Workers Act of 2026",
           "link": "https://www.cbo.gov/publication/62763",
@@ -475,33 +497,11 @@
           "published": "Wed, 09 Sep 2026 12:35:00 -0400",
           "description": "As ordered reported by the House Committee on Energy and Commerce on July 21, 2026",
           "relevant": true
-        },
-        {
-          "title": "The Effects of Changing Temperatures on the Medicare Population",
-          "link": "https://www.cbo.gov/publication/62555",
-          "published": "Tue, 08 Sep 2026 14:00:00 -0400",
-          "description": "CBO examines how daily temperature changes affect emergency department visits, spending on those visits, and deaths among people enrolled in Medicare and how projected temperature changes caused by climate change affect those outcomes.",
-          "relevant": false,
-          "_skip_reason": "no_macro_keyword"
-        },
-        {
-          "title": "S. 2732, Bonuses for Cost-Cutters Act of 2026",
-          "link": "https://www.cbo.gov/publication/62755",
-          "published": "Fri, 04 Sep 2026 13:38:00 -0400",
-          "description": "As ordered reported by the Senate Committee on Homeland Security and Governmental Affairs on August 6, 2026",
-          "relevant": true
-        },
-        {
-          "title": "S. 2733, Duplication Scoring Act of 2025",
-          "link": "https://www.cbo.gov/publication/62754",
-          "published": "Fri, 04 Sep 2026 13:37:00 -0400",
-          "description": "As ordered reported by the Senate Committee on Homeland Security and Governmental Affairs on August 6, 2026",
-          "relevant": true
         }
       ],
       "count": 10,
       "domain": "US Fiscal",
-      "relevant_count": 9
+      "relevant_count": 10
     },
     {
       "name": "BIS — All Publications",
@@ -599,11 +599,85 @@
       "name": "Lyn Alden",
       "url": "https://www.lynalden.com/feed/",
       "channel": "Lyn Alden",
-      "entries": [],
-      "count": 0,
-      "_error": "not well-formed (invalid token): line 1, column 119",
+      "description": "Investment Strategy",
+      "entries": [
+        {
+          "title": "An Alternative to Private Equity: Introducing ORANGE JUICE",
+          "link": "https://www.lynalden.com/orange-juice/",
+          "published": "Wed, 15 Jul 2026 14:16:27 +0000",
+          "description": "July 15, 2026 The rest of the team at Ego Death Capital and I have partnered with Adrian Steckel and Ruben Zweiban to launch ORANGE JUICE. It&#8217;s a company that acquires, improves, and permanently holds cash-flowing businesses, backed by a bitcoin treasury. More specifically, ORANGE JUICE seeks to acquire profitable small and mid-sized businesses at [&#8230;] \n The post  An Alternative to Private Equity: Introducing ORANGE JUICE  appeared first on  Lyn Alden .",
+          "relevant": true
+        },
+        {
+          "title": "New Book: The Stolguard Incident",
+          "link": "https://www.lynalden.com/the-stolguard-incident/",
+          "published": "Fri, 13 Mar 2026 13:29:44 +0000",
+          "description": "My new sci fi thriller, The Stolguard Incident, is now available! It can be purchased in print, ebook, or audio versions on Amazon here. You can also find the print version on Barnes &#38; Noble here, or you may be able to ask your local bookstore to order it for you. Premise: In the late [&#8230;] \n The post  New Book: The Stolguard Incident  appeared first on  Lyn Alden .",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
+        },
+        {
+          "title": "Fractional Reserve Banking 101",
+          "link": "https://www.lynalden.com/fractional-reserve-banking/",
+          "published": "Wed, 11 Mar 2026 23:04:33 +0000",
+          "description": "Banks work in ways that are unintuitive for a lot of people. And yet, understanding the banking system as a whole is really helpful for investing, because having a grasp of how the banking system is functioning helps you determine whether you should expect monetary inflation or disinflation, and whether the risks of widespread financial [&#8230;] \n The post  Fractional Reserve Banking 101  appeared first on  Lyn Alden .",
+          "relevant": true
+        },
+        {
+          "title": "Why Most Cryptocurrencies Won’t Accrue Value",
+          "link": "https://www.lynalden.com/why-most-cryptocurrencies-wont-accrue-value/",
+          "published": "Mon, 01 Dec 2025 17:45:10 +0000",
+          "description": "December 2025 For many years now, I&#8217;ve been bullish on bitcoin, and continue to be, but have not extended that view toward any other cryptocurrency. That decision continues to hold up well. Since I first recommended it in April 2020, it has gone from $6,900 to $126,000, and is currently back down to around $85,000. [&#8230;] \n The post  Why Most Cryptocurrencies Won&#8217;t Accrue Value  appeared first on  Lyn Alden .",
+          "relevant": true
+        },
+        {
+          "title": "The Rise of Bitcoin Stocks and Bonds",
+          "link": "https://www.lynalden.com/bitcoin-stocks-and-bonds/",
+          "published": "Sun, 06 Jul 2025 14:03:34 +0000",
+          "description": "Originally published: July 2025 During the past year or so, the Bitcoin ecosystem has largely been led by the rise of corporate bitcoin treasury strategies. Although Strategy (MSTR) pioneered the trend back in 2020, the follow-on adoption by others was slow. However, after yet another cycle of bear market and bull market activity, as well [&#8230;] \n The post  The Rise of Bitcoin Stocks and Bonds  appeared first on  Lyn Alden .",
+          "relevant": true
+        },
+        {
+          "title": "Twitter/X Restored",
+          "link": "https://www.lynalden.com/twitter-compromised/",
+          "published": "Thu, 27 Feb 2025 23:16:32 +0000",
+          "description": "My Twitter/X account was compromised from February 26th to March 3rd, but I confirm that I&#8217;ve regained control of it now. Thank you to everyone who helped make it happen. Fortunately, I still had access to Nostr during that time (e.g. primal.net/lyn), which is decentralized social media. Eight months ago, at the Oslo Freedom Forum, [&#8230;] \n The post  Twitter/X Restored  appeared first on  Lyn Alden .",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
+        },
+        {
+          "title": "Full Steam Ahead: All Aboard Fiscal Dominance",
+          "link": "https://www.lynalden.com/full-steam-ahead-all-aboard-fiscal-dominance/",
+          "published": "Wed, 08 Jan 2025 12:51:03 +0000",
+          "description": "This research piece on fiscal dominance in the United States was compiled and written by Sam Callahan, and commissioned and advised by Lyn Alden. Published: January 2025 Executive Summary • Structural fiscal deficits have surpassed private sector lending and monetary policy as the primary drivers of economic activity and inflation, marking a fundamental shift in [&#8230;] \n The post  Full Steam Ahead: All Aboard Fiscal Dominance  appeared first on  Lyn Alden .",
+          "relevant": true
+        },
+        {
+          "title": "Bitcoin: A Global Liquidity Barometer",
+          "link": "https://www.lynalden.com/bitcoin-a-global-liquidity-barometer/",
+          "published": "Tue, 24 Sep 2024 17:59:32 +0000",
+          "description": "This research piece on the correlation between measures of liquidity and the price of Bitcoin was compiled and written by Sam Callahan, and commissioned and advised by Lyn Alden. Published: September 2024 Executive Summary Bitcoin moves in the direction of global liquidity 83% of the time in any given 12-month period, which is higher than [&#8230;] \n The post  Bitcoin: A Global Liquidity Barometer  appeared first on  Lyn Alden .",
+          "relevant": true
+        },
+        {
+          "title": "A New Look at Corporate Treasury Strategy",
+          "link": "https://www.lynalden.com/a-new-look-at-corporate-treasury-strategy/",
+          "published": "Sun, 04 Aug 2024 16:08:13 +0000",
+          "description": "Published: August 2024 In the modern era of corporate finance, the balance sheet of a corporation has trended toward being less important relative to the income statement. Back during Benjamin Graham&#8217;s quintessential value investing days, he looked at balance sheet valuation metrics almost as much as he did income-related valuation metrics. But in modern times, [&#8230;] \n The post  A New Look at Corporate Treasury Strategy  appeared first on  Lyn Alden .",
+          "relevant": true
+        },
+        {
+          "title": "The Power of Nostr: Decentralized Social Media and More",
+          "link": "https://www.lynalden.com/the-power-of-nostr/",
+          "published": "Sat, 20 Jul 2024 19:48:33 +0000",
+          "description": "Published: July 2024 It would be powerful if you could bring your digital identity, content, and followers from one social ecosystem, such as Twitter, LinkedIn, Instagram, or Substack, to another. Imagine if you could publish content and send messages in any of those types of ecosystems, with one continuous digital identity rather than separate accounts. [&#8230;] \n The post  The Power of Nostr: Decentralized Social Media and More  appeared first on  Lyn Alden .",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
+        }
+      ],
+      "count": 10,
       "domain": "US Fiscal",
-      "relevant_count": 0
+      "relevant_count": 7
     },
     {
       "name": "Doomberg — Substack",
