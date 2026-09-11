@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T23:33:55.681086+00:00",
+  "generated_at": "2026-09-11T23:41:53.243705+00:00",
   "source": "rss",
   "feeds_count": 17,
   "total_entries": 90,
@@ -176,6 +176,13 @@
       "description": "Latest releases on the ECB website - Press releases, speeches and interviews, press conferences.",
       "entries": [
         {
+          "title": "Philip R. Lane: Outlook for the euro area economy",
+          "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260911~a4d6526f00.en.pdf",
+          "published": "Fri, 11 Sep 2026 19:00:00 +0200",
+          "description": "",
+          "relevant": true
+        },
+        {
           "title": "Christine Lagarde, Boris Vujčić: Monetary policy statement (with Q&A)",
           "link": "https://www.ecb.europa.eu//press/press_conference/monetary-policy-statement/2026/html/ecb.is260910~6a45359cfc.en.html",
           "published": "Thu, 10 Sep 2026 15:00:00 +0200",
@@ -239,19 +246,11 @@
           "published": "Wed, 26 Aug 2026 12:15:00 +0200",
           "description": "",
           "relevant": true
-        },
-        {
-          "title": "Piero Cipollone: Interview with ilsussidiario.net",
-          "link": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260824~fa5acbddea.en.html",
-          "published": "Mon, 24 Aug 2026 08:00:00 +0200",
-          "description": "",
-          "relevant": false,
-          "_skip_reason": "no_macro_keyword"
         }
       ],
       "count": 10,
       "domain": "Europe",
-      "relevant_count": 7
+      "relevant_count": 8
     },
     {
       "name": "BOJ — Monetary Policy Statements",
@@ -259,6 +258,29 @@
       "channel": "Bank of Japan：RSS",
       "description": "",
       "entries": [
+        {
+          "title": "Central Bank Digital Currency Experiments: Progress Report on the Pilot Program (June 2026)",
+          "link": "http://www.boj.or.jp/en/paym/digital/dig260911a.pdf",
+          "published": "Fri, 11 Sep 2026 10:00:00 +0900",
+          "description": "",
+          "relevant": true
+        },
+        {
+          "title": "Sixth General Meeting of the CBDC Forum",
+          "link": "http://www.boj.or.jp/en/paym/digital/d_forum/dfo260911a.pdf",
+          "published": "Fri, 11 Sep 2026 10:00:00 +0900",
+          "description": "",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
+        },
+        {
+          "title": "Corporate Goods Price Index (Aug.)",
+          "link": "http://www.boj.or.jp/en/statistics/pi/cgpi_release/cgpi2608.pdf",
+          "published": "Fri, 11 Sep 2026 08:50:00 +0900",
+          "description": "",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
+        },
         {
           "title": "Basic Figures on Fails (Aug.)",
           "link": "http://www.boj.or.jp/en/statistics/set/bffail/sjgb2608.pdf",
@@ -311,33 +333,11 @@
           "description": "",
           "relevant": false,
           "_skip_reason": "no_macro_keyword"
-        },
-        {
-          "title": "Consumption Activity Index",
-          "link": "http://www.boj.or.jp/en/research/research_data/cai/index.htm",
-          "published": "Mon, 07 Sep 2026 14:00:00 +0900",
-          "description": "",
-          "relevant": false,
-          "_skip_reason": "no_macro_keyword"
-        },
-        {
-          "title": "Monetary Base and the Bank of Japan's Transactions (Aug.)",
-          "link": "http://www.boj.or.jp/en/statistics/boj/other/mbt/mbt2608.pdf",
-          "published": "Mon, 07 Sep 2026 08:50:00 +0900",
-          "description": "",
-          "relevant": true
-        },
-        {
-          "title": "Bank of Japan's Transactions with the Government (Aug.)",
-          "link": "http://www.boj.or.jp/en/statistics/boj/other/tseifu/release/2026/seifu2608.pdf",
-          "published": "Mon, 07 Sep 2026 08:50:00 +0900",
-          "description": "",
-          "relevant": true
         }
       ],
       "count": 10,
       "domain": "Japan",
-      "relevant_count": 5
+      "relevant_count": 4
     },
     {
       "name": "BOE — News & MPC Minutes",
@@ -429,6 +429,27 @@
       "description": "Nonpartisan budgetary and economic analysis for the U.S. Congress.",
       "entries": [
         {
+          "title": "Legislation considered under suspension of the Rules of the House of Representatives during the week of September 14, 2026",
+          "link": "https://www.cbo.gov/publication/62589",
+          "published": "Fri, 11 Sep 2026 17:00:00 -0400",
+          "description": "The Majority Leader of the House of Representatives announces bills that will be considered under suspension of the rules in that chamber. CBO estimates the effects of those bills on direct spending and revenues.",
+          "relevant": true
+        },
+        {
+          "title": "S. 4429, Connected Vehicle Security Act of 2026",
+          "link": "https://www.cbo.gov/publication/62720",
+          "published": "Fri, 11 Sep 2026 16:47:00 -0400",
+          "description": "As ordered reported by the Senate Committee on Commerce, Science, and Transportation \non July 22, 2026",
+          "relevant": true
+        },
+        {
+          "title": "S. 4570, U.S. Technology Procurement and Access to Trusted Hardware Act",
+          "link": "https://www.cbo.gov/publication/62765",
+          "published": "Fri, 11 Sep 2026 10:40:00 -0400",
+          "description": "As reported by the Senate Committee on Foreign Relations on July 27, 2027",
+          "relevant": true
+        },
+        {
           "title": "H.R. 9342, GPO Modernization Act of 2026",
           "link": "https://www.cbo.gov/publication/62770",
           "published": "Thu, 10 Sep 2026 12:48:00 -0400",
@@ -476,27 +497,6 @@
           "published": "Wed, 09 Sep 2026 12:39:00 -0400",
           "description": "As ordered reported by the House Committee on Energy and Commerce on July 21, 2026",
           "relevant": true
-        },
-        {
-          "title": "H.R. 9339, Affordable Innovation for the Grid Act",
-          "link": "https://www.cbo.gov/publication/62764",
-          "published": "Wed, 09 Sep 2026 12:37:00 -0400",
-          "description": "As ordered reported by the House Committee on Energy and Commerce on July 21, 2026",
-          "relevant": true
-        },
-        {
-          "title": "H.R. 9617, CHARM Act",
-          "link": "https://www.cbo.gov/publication/62766",
-          "published": "Wed, 09 Sep 2026 12:36:00 -0400",
-          "description": "As ordered reported by the House Committee on Energy and Commerce on July 21, 2026",
-          "relevant": true
-        },
-        {
-          "title": "H.R. 6529, Protecting Families from AI Data Center Energy Costs Act",
-          "link": "https://www.cbo.gov/publication/62767",
-          "published": "Wed, 09 Sep 2026 12:35:00 -0400",
-          "description": "As ordered reported by the House Committee on Energy and Commerce on July 21, 2026",
-          "relevant": true
         }
       ],
       "count": 10,
@@ -530,7 +530,7 @@
           "title": "What determines banks' excess demand for reserves?",
           "link": "https://www.bis.org/publications/working-paper-1376-what-determines-banks-excess-demand-reserves",
           "published": "2026-09-07T00:00:00Z",
-          "description": "FocusThe amount of central bank reserves to supply has become a highly contentious policy issue for many central banks that shrink their balance sheets which were built up during quantitative easing. However, there is little evidence about the amount of reserves banks actually want to hold and the factors that shape this choice. To trace bank-level demand for reserves empirically, we exploit new microdata and a unique feature of Sveriges Riksbank's operational framework, under which banks…",
+          "description": "The amount of central bank reserves to supply has become a highly contentious policy issue for many central banks that shrink their balance sheets which were built up during quantitative easing.",
           "relevant": true
         },
         {
@@ -555,19 +555,19 @@
           "relevant": true
         },
         {
-          "title": "Effective resolution strategies and plans for insurers - Executive Summary",
-          "link": "https://www.bis.org/publications/fsi-summary-effective-resolution-strategies-and-plans-insurers---executive-summary",
-          "published": "2026-08-27T00:00:00Z",
-          "description": "The Key Attributes of Effective Resolution Regimes for Financial Institutions (Key Attributes) of the Financial Stability Board (FSB) require resolution plans to be developed for all financial institutions, including insurers, that could be systemically significant or critical upon failure.",
-          "relevant": true
-        },
-        {
           "title": "Regulating stablecoin issuance: permissible entities and activities",
           "link": "https://www.bis.org/publications/fsi-brief-33-regulating-stablecoin-issuance--permissible-entities-and-activities",
           "published": "2026-08-27T00:00:00Z",
           "description": "Regulatory approaches for stablecoin issuance differ significantly, particularly in terms of the types of entities allowed to issue them and the scope of activities permitted beyond core issuance. These differences are important since additional activities such as lending, staking or providing custody services can alter an entity's risk profile and influence the safeguards needed for its core issuance operations.",
           "relevant": false,
           "_skip_reason": "no_macro_keyword"
+        },
+        {
+          "title": "Effective resolution strategies and plans for insurers - Executive Summary",
+          "link": "https://www.bis.org/publications/fsi-summary-effective-resolution-strategies-and-plans-insurers---executive-summary",
+          "published": "2026-08-27T00:00:00Z",
+          "description": "The Key Attributes of Effective Resolution Regimes for Financial Institutions (Key Attributes) of the Financial Stability Board (FSB) require resolution plans to be developed for all financial institutions, including insurers, that could be systemically significant or critical upon failure.",
+          "relevant": true
         },
         {
           "title": "Supervisory screening with large language models: finding divergences",
