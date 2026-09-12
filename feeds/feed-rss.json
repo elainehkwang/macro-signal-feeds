@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T23:41:53.243705+00:00",
+  "generated_at": "2026-09-12T23:35:08.321378+00:00",
   "source": "rss",
   "feeds_count": 17,
   "total_entries": 90,
@@ -176,6 +176,21 @@
       "description": "Latest releases on the ECB website - Press releases, speeches and interviews, press conferences.",
       "entries": [
         {
+          "title": "Christine Lagarde: Interview with Ouest-France",
+          "link": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260912~3cc706f4d6.en.html",
+          "published": "Sat, 12 Sep 2026 22:00:00 +0200",
+          "description": "",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
+        },
+        {
+          "title": "Christine Lagarde: Europe seen from Normandy",
+          "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260912~fafa4b35b0.en.html",
+          "published": "Sat, 12 Sep 2026 12:15:00 +0200",
+          "description": "",
+          "relevant": true
+        },
+        {
           "title": "Philip R. Lane: Outlook for the euro area economy",
           "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260911~a4d6526f00.en.pdf",
           "published": "Fri, 11 Sep 2026 19:00:00 +0200",
@@ -229,21 +244,6 @@
           "title": "Isabel Schnabel: Central banks on-chain",
           "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260828~fe9afc86e8.en.html",
           "published": "Fri, 28 Aug 2026 18:00:00 +0200",
-          "description": "",
-          "relevant": true
-        },
-        {
-          "title": "Meeting of 22-23 July 2026",
-          "link": "https://www.ecb.europa.eu//press/accounts/2026/html/ecb.mg260827~f06c21fd54.en.html",
-          "published": "Thu, 27 Aug 2026 13:30:00 +0200",
-          "description": "",
-          "relevant": false,
-          "_skip_reason": "no_macro_keyword"
-        },
-        {
-          "title": "Piero Cipollone: From vision to delivery: building Europe’s tokenised financial market",
-          "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260826~3641116314.en.html",
-          "published": "Wed, 26 Aug 2026 12:15:00 +0200",
           "description": "",
           "relevant": true
         }
@@ -555,19 +555,19 @@
           "relevant": true
         },
         {
+          "title": "Effective resolution strategies and plans for insurers - Executive Summary",
+          "link": "https://www.bis.org/publications/fsi-summary-effective-resolution-strategies-and-plans-insurers---executive-summary",
+          "published": "2026-08-27T00:00:00Z",
+          "description": "The Key Attributes of Effective Resolution Regimes for Financial Institutions (Key Attributes) of the Financial Stability Board (FSB) require resolution plans to be developed for all financial institutions, including insurers, that could be systemically significant or critical upon failure.",
+          "relevant": true
+        },
+        {
           "title": "Regulating stablecoin issuance: permissible entities and activities",
           "link": "https://www.bis.org/publications/fsi-brief-33-regulating-stablecoin-issuance--permissible-entities-and-activities",
           "published": "2026-08-27T00:00:00Z",
           "description": "Regulatory approaches for stablecoin issuance differ significantly, particularly in terms of the types of entities allowed to issue them and the scope of activities permitted beyond core issuance. These differences are important since additional activities such as lending, staking or providing custody services can alter an entity's risk profile and influence the safeguards needed for its core issuance operations.",
           "relevant": false,
           "_skip_reason": "no_macro_keyword"
-        },
-        {
-          "title": "Effective resolution strategies and plans for insurers - Executive Summary",
-          "link": "https://www.bis.org/publications/fsi-summary-effective-resolution-strategies-and-plans-insurers---executive-summary",
-          "published": "2026-08-27T00:00:00Z",
-          "description": "The Key Attributes of Effective Resolution Regimes for Financial Institutions (Key Attributes) of the Financial Stability Board (FSB) require resolution plans to be developed for all financial institutions, including insurers, that could be systemically significant or critical upon failure.",
-          "relevant": true
         },
         {
           "title": "Supervisory screening with large language models: finding divergences",
