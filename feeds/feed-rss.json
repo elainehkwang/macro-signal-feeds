@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T00:04:57.691477+00:00",
+  "generated_at": "2026-09-15T23:50:18.307522+00:00",
   "source": "rss",
   "feeds_count": 17,
   "total_entries": 90,
@@ -95,6 +95,20 @@
       "description": "Treasury Offering Announcements",
       "entries": [
         {
+          "title": "19-Year 11-Month Bond Treasury Auction Results",
+          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
+          "published": "Tue, 15 Sep 2026 17:03:35 GMT",
+          "description": "CUSIP:  912810UX4  Term and Type:  19-Year 11-Month Bond  Series:  Bonds of August 2046  Reopening:  Yes  Interest Rate:  5.125%  High Yield:  5.420%  Price:  $96.423840  Allotted at High:  30.14%  Total Tendered:  $33,383,545,400  Total Accepted:  $13,000,008,600  Auction Date:  09/15/2026  Issue Date:  09/18/2026  Maturity Date:  08/15/2046  PDF  |  XML",
+          "relevant": true
+        },
+        {
+          "title": "6-Week Bill Treasury Auction Results",
+          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
+          "published": "Tue, 15 Sep 2026 15:33:24 GMT",
+          "description": "CUSIP:  912797SK4  Term and Type:  6-Week Bill  CMB:  No  High Rate:  3.850%  Investment Rate:  3.921%  Price:  $99.550833  Allotted at High:  35.19%  Total Tendered:  $244,059,266,400  Total Accepted:  $81,696,653,900  Auction Date:  09/15/2026  Issue Date:  09/17/2026  Maturity Date:  10/29/2026  PDF  |  XML",
+          "relevant": true
+        },
+        {
           "title": "26-Week Bill Treasury Auction Results",
           "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
           "published": "Mon, 14 Sep 2026 15:33:37 GMT",
@@ -148,20 +162,6 @@
           "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
           "published": "Tue, 08 Sep 2026 17:03:18 GMT",
           "description": "CUSIP:  91282CRL7  Term and Type:  3-Year Note  Series:  AS-2029  Reopening:  No  Interest Rate:  4.375%  High Yield:  4.474%  Price:  $99.724933  Allotted at High:  29.35%  Total Tendered:  $157,872,425,100  Total Accepted:  $58,000,088,800  Auction Date:  09/08/2026  Issue Date:  09/15/2026  Maturity Date:  09/15/2029  PDF  |  XML",
-          "relevant": true
-        },
-        {
-          "title": "6-Week Bill Treasury Auction Results",
-          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
-          "published": "Tue, 08 Sep 2026 17:03:17 GMT",
-          "description": "CUSIP:  912797UL9  Term and Type:  6-Week Bill  CMB:  No  High Rate:  3.740%  Investment Rate:  3.809%  Price:  $99.563667  Allotted at High:  46.45%  Total Tendered:  $225,635,380,300  Total Accepted:  $80,761,934,800  Auction Date:  09/08/2026  Issue Date:  09/10/2026  Maturity Date:  10/22/2026  PDF  |  XML",
-          "relevant": true
-        },
-        {
-          "title": "13-Week Bill Treasury Auction Results",
-          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
-          "published": "Tue, 08 Sep 2026 15:33:21 GMT",
-          "description": "CUSIP:  912797VG9  Term and Type:  13-Week Bill  CMB:  No  High Rate:  3.800%  Investment Rate:  3.890%  Price:  $99.039444  Allotted at High:  20.33%  Total Tendered:  $247,398,360,400  Total Accepted:  $99,067,804,400  Auction Date:  09/08/2026  Issue Date:  09/10/2026  Maturity Date:  12/10/2026  PDF  |  XML",
           "relevant": true
         }
       ],
@@ -259,6 +259,13 @@
       "description": "",
       "entries": [
         {
+          "title": "Signing of the Third Bilateral Swap Arrangement between Japan and Malaysia",
+          "link": "http://www.boj.or.jp/en/intl_finance/cooperate/coop260915a.pdf",
+          "published": "Tue, 15 Sep 2026 15:00:00 +0900",
+          "description": "",
+          "relevant": true
+        },
+        {
           "title": "Japanese Government Bonds Held by the Bank of Japan",
           "link": "http://www.boj.or.jp/en/statistics/boj/other/mei/release/2026/mei260910.xlsx",
           "published": "Mon, 14 Sep 2026 17:00:00 +0900",
@@ -324,13 +331,6 @@
           "published": "Thu, 10 Sep 2026 08:50:00 +0900",
           "description": "",
           "relevant": true
-        },
-        {
-          "title": "Warning against Scams Using the Bank of Japan's Name",
-          "link": "http://www.boj.or.jp/en/about/organization/notice/index.htm",
-          "published": "Wed, 09 Sep 2026 10:00:00 +0900",
-          "description": "",
-          "relevant": true
         }
       ],
       "count": 10,
@@ -343,6 +343,21 @@
       "channel": "News",
       "description": "News",
       "entries": [
+        {
+          "title": "Statistical Notice 2026/08 - Changes to the criteria for monthly form BT reporting",
+          "link": "https://www.bankofengland.co.uk/statistics/notice/2026/statistical-notice-2026-08",
+          "published": "Tue, 15 Sep 2026 10:21:31 +0100",
+          "description": "Statistical Notices update the definitions and guidance contained in the Banking Statistics Yellow Folder",
+          "relevant": true
+        },
+        {
+          "title": "Minutes of the Securities Lending Committee meeting – March 2026",
+          "link": "https://www.bankofengland.co.uk/minutes/2026/march/minutes-of-the-securities-lending-committee-meeting-march-2026",
+          "published": "Tue, 15 Sep 2026 09:09:58 +0100",
+          "description": "The Securities Lending Committee is a forum for market participants and authorities to discuss the UK securities lending market.",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
+        },
         {
           "title": "Announcement of the publication of the Governor's interview transcript",
           "link": "https://www.bankofengland.co.uk/news/2026/september/statement-announcing-governors-interview",
@@ -399,21 +414,6 @@
           "published": "Thu, 30 Jul 2026 12:00:00 +0100",
           "description": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
           "relevant": true
-        },
-        {
-          "title": "Letter from the Governor to the Daily Mail",
-          "link": "https://www.bankofengland.co.uk/letter/2026/letter-from-the-governor-to-the-daily-mail",
-          "published": "Thu, 23 Jul 2026 17:00:00 +0100",
-          "description": "Letter from Governor Andrew Bailey to the Daily Mail on the subject of AI and cyber-attacks",
-          "relevant": true
-        },
-        {
-          "title": "PRA consults on updated guidance for friendly society amalgamations and transfers",
-          "link": "https://www.bankofengland.co.uk/news/2026/july/pra-consults-on-updated-guidance-for-friendly-society-amalgamations-and-transfers",
-          "published": "Wed, 22 Jul 2026 10:00:00 +0100",
-          "description": "The proposals would provide more detail on the PRA’s approach to Part VIII transactions, helping firms plan amalgamations and transfers more efficiently.",
-          "relevant": false,
-          "_skip_reason": "no_macro_keyword"
         }
       ],
       "count": 10,
@@ -426,6 +426,20 @@
       "channel": "CBO Publications",
       "description": "Nonpartisan budgetary and economic analysis for the U.S. Congress.",
       "entries": [
+        {
+          "title": "Estimating the Cost of Combat Operations Against Iran",
+          "link": "https://www.cbo.gov/publication/62756",
+          "published": "Tue, 15 Sep 2026 14:00:00 -0400",
+          "description": "CBO assesses the Department of Defense's costs for the current armed conflict against Iran, as well as the conflict's economic and budgetary effects.",
+          "relevant": true
+        },
+        {
+          "title": "S. 164, Midnight Rules Relief Act of 2025",
+          "link": "https://www.cbo.gov/publication/62771",
+          "published": "Tue, 15 Sep 2026 12:33:00 -0400",
+          "description": "As reported by the Senate Committee on Homeland Security and Governmental Affairs on September 14, 2026",
+          "relevant": true
+        },
         {
           "title": "Legislation considered under suspension of the Rules of the House of Representatives during the week of September 14, 2026",
           "link": "https://www.cbo.gov/publication/62589",
@@ -481,20 +495,6 @@
           "published": "Wed, 09 Sep 2026 14:00:00 -0400",
           "description": "The federal budget deficit totaled $2.0 trillion in the first 11 months of fiscal year 2026, the CBO estimates. That amount is $6 billion less than the deficit recorded during the same period last fiscal year.",
           "relevant": true
-        },
-        {
-          "title": "H.R. 4219, National Wildlife Refuge System Invasive Species Strike Team Act of 2025",
-          "link": "https://www.cbo.gov/publication/62768",
-          "published": "Wed, 09 Sep 2026 12:57:00 -0400",
-          "description": "As reported by the House Committee on Natural Resources on August 27, 2026",
-          "relevant": true
-        },
-        {
-          "title": "H.R. 9340, Ratepayer Protection Act",
-          "link": "https://www.cbo.gov/publication/62762",
-          "published": "Wed, 09 Sep 2026 12:39:00 -0400",
-          "description": "As ordered reported by the House Committee on Energy and Commerce on July 21, 2026",
-          "relevant": true
         }
       ],
       "count": 10,
@@ -517,6 +517,14 @@
       "channel": "BIS — Research Papers",
       "description": "",
       "entries": [
+        {
+          "title": "Hidden by complexity?  Measuring stablecoin, crypto  and decentralised finance  ecosystems",
+          "link": "https://www.bis.org/publications/working-paper-1377-hidden-complexity-measuring-stablecoin-crypto-and-decentralised-finance-ecosystems",
+          "published": "2026-09-15T00:00:00Z",
+          "description": "Decentralised finance data presents a distinctive paradox: while every data point is publicly recorded and accessible, deriving meaningful insights is obscured by the scale, fragmentation and complexity of the ecosystem. Key metrics illustrate that the rapidly evolving DeFi ecosystem introduces unique challenges for economic and financial research in accurately capturing financial activity in DeFi.",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
+        },
         {
           "title": "BIS Quarterly Review, September 2026",
           "link": "https://www.bis.org/publications/qr-202609",
@@ -561,6 +569,13 @@
           "relevant": true
         },
         {
+          "title": "Effective resolution strategies and plans for insurers - Executive Summary",
+          "link": "https://www.bis.org/publications/fsi-summary-effective-resolution-strategies-and-plans-insurers---executive-summary",
+          "published": "2026-08-27T00:00:00Z",
+          "description": "The Key Attributes of Effective Resolution Regimes for Financial Institutions (Key Attributes) of the Financial Stability Board (FSB) require resolution plans to be developed for all financial institutions, including insurers, that could be systemically significant or critical upon failure.",
+          "relevant": true
+        },
+        {
           "title": "Regulating stablecoin issuance: permissible entities and activities",
           "link": "https://www.bis.org/publications/fsi-brief-33-regulating-stablecoin-issuance--permissible-entities-and-activities",
           "published": "2026-08-27T00:00:00Z",
@@ -569,30 +584,16 @@
           "_skip_reason": "no_macro_keyword"
         },
         {
-          "title": "Effective resolution strategies and plans for insurers - Executive Summary",
-          "link": "https://www.bis.org/publications/fsi-summary-effective-resolution-strategies-and-plans-insurers---executive-summary",
-          "published": "2026-08-27T00:00:00Z",
-          "description": "The Key Attributes of Effective Resolution Regimes for Financial Institutions (Key Attributes) of the Financial Stability Board (FSB) require resolution plans to be developed for all financial institutions, including insurers, that could be systemically significant or critical upon failure.",
-          "relevant": true
-        },
-        {
           "title": "Supervisory screening with large language models: finding divergences",
           "link": "https://www.bis.org/publications/bulletin-134-supervisory-screening-large-language-models--finding-divergences",
           "published": "2026-08-26T00:00:00Z",
           "description": "We develop a procedure based on large language models to help supervisors review prospectuses against capital rules. This procedure ranks potential divergences for their consideration. We apply it to Additional Tier 1 (AT1) prospectuses from European global systemically important banks. We validate the procedure on anonymised documents from Credit Suisse and Yes Bank, recovering rule-prospectus differences that later mattered in disputes over AT1 loss absorption. This procedure could support other supervisory comparisons, including reviews of national rules against the international standards they implement.",
           "relevant": true
-        },
-        {
-          "title": "Settlement liquidity in the Colombian large-value payment system: the role of reserve requirements",
-          "link": "https://www.bis.org/publications/working-paper-1373-settlement-liquidity-colombian-large-value-payment-system-role-reserve-requirements",
-          "published": "2026-08-25T00:00:00Z",
-          "description": "This paper analyzes the intraday timing of transactions in Colombia's large-value payment system (CUD) from 2018 to 2025, focusing on how changes in reserve requirements affect liquidity management by financial institutions. Using high-frequency transaction data, we document that reductions in reserve requirements in April 2020 and September 2024 are associated with a shift of settlement activity toward later hours of the day.",
-          "relevant": true
         }
       ],
       "count": 10,
       "domain": "Global Liquidity",
-      "relevant_count": 8
+      "relevant_count": 7
     },
     {
       "name": "Lyn Alden",
