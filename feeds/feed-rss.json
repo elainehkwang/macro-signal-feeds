@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T23:47:19.717569+00:00",
+  "generated_at": "2026-09-15T00:04:57.691477+00:00",
   "source": "rss",
   "feeds_count": 17,
   "total_entries": 90,
@@ -95,6 +95,20 @@
       "description": "Treasury Offering Announcements",
       "entries": [
         {
+          "title": "26-Week Bill Treasury Auction Results",
+          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
+          "published": "Mon, 14 Sep 2026 15:33:37 GMT",
+          "description": "CUSIP:  912797UD7  Term and Type:  26-Week Bill  CMB:  No  High Rate:  4.060%  Investment Rate:  4.203%  Price:  $97.947444  Allotted at High:  82.50%  Total Tendered:  $223,857,560,400  Total Accepted:  $86,053,185,400  Auction Date:  09/14/2026  Issue Date:  09/17/2026  Maturity Date:  03/18/2027  PDF  |  XML",
+          "relevant": true
+        },
+        {
+          "title": "13-Week Bill Treasury Auction Results",
+          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
+          "published": "Mon, 14 Sep 2026 15:33:36 GMT",
+          "description": "CUSIP:  912797VH7  Term and Type:  13-Week Bill  CMB:  No  High Rate:  3.970%  Investment Rate:  4.066%  Price:  $98.996472  Allotted at High:  13.86%  Total Tendered:  $251,080,978,100  Total Accepted:  $100,214,352,100  Auction Date:  09/14/2026  Issue Date:  09/17/2026  Maturity Date:  12/17/2026  PDF  |  XML",
+          "relevant": true
+        },
+        {
           "title": "29-Year 11-Month Bond Treasury Auction Results",
           "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
           "published": "Thu, 10 Sep 2026 17:03:28 GMT",
@@ -149,20 +163,6 @@
           "published": "Tue, 08 Sep 2026 15:33:21 GMT",
           "description": "CUSIP:  912797VG9  Term and Type:  13-Week Bill  CMB:  No  High Rate:  3.800%  Investment Rate:  3.890%  Price:  $99.039444  Allotted at High:  20.33%  Total Tendered:  $247,398,360,400  Total Accepted:  $99,067,804,400  Auction Date:  09/08/2026  Issue Date:  09/10/2026  Maturity Date:  12/10/2026  PDF  |  XML",
           "relevant": true
-        },
-        {
-          "title": "26-Week Bill Treasury Auction Results",
-          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
-          "published": "Tue, 08 Sep 2026 15:33:20 GMT",
-          "description": "CUSIP:  912797WK9  Term and Type:  26-Week Bill  CMB:  No  High Rate:  3.890%  Investment Rate:  4.023%  Price:  $98.033389  Allotted at High:  79.10%  Total Tendered:  $233,436,693,700  Total Accepted:  $85,069,040,200  Auction Date:  09/08/2026  Issue Date:  09/10/2026  Maturity Date:  03/11/2027  PDF  |  XML",
-          "relevant": true
-        },
-        {
-          "title": "4-Week Bill Treasury Auction Results",
-          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
-          "published": "Thu, 03 Sep 2026 15:33:27 GMT",
-          "description": "CUSIP:  912797VK0  Term and Type:  4-Week Bill  CMB:  No  High Rate:  3.700%  Investment Rate:  3.762%  Price:  $99.712222  Allotted at High:  58.44%  Total Tendered:  $272,835,287,900  Total Accepted:  $95,385,335,100  Auction Date:  09/03/2026  Issue Date:  09/08/2026  Maturity Date:  10/06/2026  PDF  |  XML",
-          "relevant": true
         }
       ],
       "count": 10,
@@ -175,6 +175,27 @@
       "channel": "ECB - European Central Bank",
       "description": "Latest releases on the ECB website - Press releases, speeches and interviews, press conferences.",
       "entries": [
+        {
+          "title": "Christine Lagarde: A new age of capital: growth, sovereignty and AI",
+          "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260914_2~a3f0efbee4.en.html",
+          "published": "Mon, 14 Sep 2026 17:15:00 +0200",
+          "description": "",
+          "relevant": true
+        },
+        {
+          "title": "Piero Cipollone: The future of euro cash: trusted today, designed for tomorrow",
+          "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260914_1~91d3436449.en.html",
+          "published": "Mon, 14 Sep 2026 15:00:00 +0200",
+          "description": "",
+          "relevant": true
+        },
+        {
+          "title": "Isabel Schnabel: Macroeconomic, fiscal and financial stability in a shock-prone world",
+          "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260914~0ffd556bc8.en.pdf",
+          "published": "Mon, 14 Sep 2026 11:15:00 +0200",
+          "description": "",
+          "relevant": true
+        },
         {
           "title": "Christine Lagarde: Interview with Ouest-France",
           "link": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260912~3cc706f4d6.en.html",
@@ -225,27 +246,6 @@
           "description": "",
           "relevant": false,
           "_skip_reason": "no_macro_keyword"
-        },
-        {
-          "title": "Philip R. Lane: Diversity at the European Central Bank",
-          "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260904~7b9257099b.en.pdf",
-          "published": "Fri, 04 Sep 2026 11:10:00 +0200",
-          "description": "",
-          "relevant": true
-        },
-        {
-          "title": "Boris Vujčić: Listening to households: expectations, behaviour and monetary policy",
-          "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260901~bb28f33f54.en.html",
-          "published": "Tue, 01 Sep 2026 18:00:00 +0200",
-          "description": "",
-          "relevant": true
-        },
-        {
-          "title": "Isabel Schnabel: Central banks on-chain",
-          "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260828~fe9afc86e8.en.html",
-          "published": "Fri, 28 Aug 2026 18:00:00 +0200",
-          "description": "",
-          "relevant": true
         }
       ],
       "count": 10,
@@ -258,6 +258,28 @@
       "channel": "Bank of Japan：RSS",
       "description": "",
       "entries": [
+        {
+          "title": "Japanese Government Bonds Held by the Bank of Japan",
+          "link": "http://www.boj.or.jp/en/statistics/boj/other/mei/release/2026/mei260910.xlsx",
+          "published": "Mon, 14 Sep 2026 17:00:00 +0900",
+          "description": "",
+          "relevant": true
+        },
+        {
+          "title": "IMES Discussion Paper Series (2026)",
+          "link": "http://www.boj.or.jp/en/research/imes/dps/dps26.htm",
+          "published": "Mon, 14 Sep 2026 11:00:00 +0900",
+          "description": "",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
+        },
+        {
+          "title": "Bank of Japan Accounts (September 10)",
+          "link": "http://www.boj.or.jp/en/statistics/boj/other/acmai/release/2026/ac260910.htm",
+          "published": "Mon, 14 Sep 2026 10:00:00 +0900",
+          "description": "",
+          "relevant": true
+        },
         {
           "title": "Central Bank Digital Currency Experiments: Progress Report on the Pilot Program (June 2026)",
           "link": "http://www.boj.or.jp/en/paym/digital/dig260911a.pdf",
@@ -309,35 +331,11 @@
           "published": "Wed, 09 Sep 2026 10:00:00 +0900",
           "description": "",
           "relevant": true
-        },
-        {
-          "title": "Money Stock (Aug.)",
-          "link": "http://www.boj.or.jp/en/statistics/money/ms/ms2608.pdf",
-          "published": "Wed, 09 Sep 2026 08:50:00 +0900",
-          "description": "",
-          "relevant": false,
-          "_skip_reason": "no_macro_keyword"
-        },
-        {
-          "title": "Principal Figures of Financial Institutions (Aug.)",
-          "link": "http://www.boj.or.jp/en/statistics/dl/depo/kashi/kasi2608.pdf",
-          "published": "Tue, 08 Sep 2026 08:50:00 +0900",
-          "description": "",
-          "relevant": false,
-          "_skip_reason": "no_macro_keyword"
-        },
-        {
-          "title": "Amounts Outstanding in the Call Money Market (Aug.)",
-          "link": "http://www.boj.or.jp/en/statistics/market/short/call/call.xlsx",
-          "published": "Mon, 07 Sep 2026 15:00:00 +0900",
-          "description": "",
-          "relevant": false,
-          "_skip_reason": "no_macro_keyword"
         }
       ],
       "count": 10,
       "domain": "Japan",
-      "relevant_count": 4
+      "relevant_count": 6
     },
     {
       "name": "BOE — News & MPC Minutes",
@@ -520,6 +518,14 @@
       "description": "",
       "entries": [
         {
+          "title": "BIS Quarterly Review, September 2026",
+          "link": "https://www.bis.org/publications/qr-202609",
+          "published": "2026-09-14T00:00:00Z",
+          "description": "",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
+        },
+        {
           "title": "When machines attack: frontier AI cyber threats and policy responses in the financial sector",
           "link": "https://www.bis.org/publications/fsi-paper-28-when-machines-attack-frontier-ai-cyber-threats-and-policy-responses-financial-sector",
           "published": "2026-09-09T00:00:00Z",
@@ -582,18 +588,11 @@
           "published": "2026-08-25T00:00:00Z",
           "description": "This paper analyzes the intraday timing of transactions in Colombia's large-value payment system (CUD) from 2018 to 2025, focusing on how changes in reserve requirements affect liquidity management by financial institutions. Using high-frequency transaction data, we document that reductions in reserve requirements in April 2020 and September 2024 are associated with a shift of settlement activity toward later hours of the day.",
           "relevant": true
-        },
-        {
-          "title": "Hard to shift, easy to reshape: central bank reserve demand and frictions",
-          "link": "https://www.bis.org/publications/working-paper-1372-hard-shift-easy-reshape-central-bank-reserve-demand-and-frictions",
-          "published": "2026-08-24T00:00:00Z",
-          "description": "How far can central banks shrink their balance sheets? The answer sets the limits to quantitative tightening (QT), and depends critically on the demand for reserves and whether the drivers widely thought to have increased it over the past decade actually do so. We assess the impact of three such drivers: post-crisis liquidity regulation, monetization frictions, and fragmented interbank markets.",
-          "relevant": true
         }
       ],
       "count": 10,
       "domain": "Global Liquidity",
-      "relevant_count": 9
+      "relevant_count": 8
     },
     {
       "name": "Lyn Alden",

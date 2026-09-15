@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T23:47:19.717569+00:00",
+  "generated_at": "2026-09-15T00:04:57.691477+00:00",
   "source": "podcast_rss",
   "feeds_count": 5,
   "total_episodes": 40,
@@ -10,6 +10,14 @@
       "domain": "US Fiscal",
       "description": "Allocator and asset management expert, Ted Seides, conducts in-depth interviews with leaders in the institutional investing industry. Guests include Chief Investment Officers from leading allocators, asset managers, strategists, thought leaders, and many more. Our mission is to learn, share, and help implement the process of premier investors. Learn more and join our community at capitalallocators.com.",
       "episodes": [
+        {
+          "title": "AI in the Investment Office – Abby Barlow, Laura Hill, Brian Sugrue, Jenny Heller, John Lawrence, Matt Bank, Kristin Kallergis Rowland, Jon Webster (EP.515)",
+          "link": "https://tedseides.libsyn.com/ai-in-the-investment-office-abby-barlow-laura-hill-brian-sugrue-jenny-heller-john-lawrence-matt-bank-kristin-kallergis-rowland-jon-webster-ep515",
+          "published": "Mon, 14 Sep 2026 08:00:00 +0000",
+          "description": "AI is top of mind for everyone in the investment business. Our Summits are abuzz with curiosity about what others are doing.        I asked 8 CIOs to share how they're using AI today, including what's working and what isn't, the tools they've adopted, and where they're headed next. They range from a single-family office with one investment professional to one of the largest pension funds in the world with thousands.        What emerged is a range of use cases — from using AI as a personal productivity tool, to changing investment workflows, organizing institutional knowledge, improving decisions, and ultimately trying to generate alpha.        You'll also hear some consistency in the tools currently used and different views on how far AI should go in the investment process.        Featured",
+          "audio_url": "https://traffic.libsyn.com/secure/tedseides/CA_-_AI_Comp_-_AUDIO_FINAL_V2.mp3?dest-id=482814",
+          "duration": "01:01:58"
+        },
         {
           "title": "Best of Habit Formation: James Clear",
           "link": "https://tedseides.libsyn.com/best-of-habit-formation-james-clear",
@@ -81,14 +89,6 @@
           "description": "This week's Summer Series is a highly atypical episode, where I appear as the guest.  Matt Breitfelder from Apollo asked to interview me about interviewing, something I learned far more from hosting the show the last nine years than I ever did while interviewing managers for 20. The conversation has been sufficiently popular that it made the Summer Series on investment process.     Any leader should see for themselves the benefits of elite coaching. Try ALEX:    tryalex.admiredleadership.com   .      Learn More   Follow Ted on Twitter at     @tseides   or     LinkedIn     Subscribe to the     mailing list    Access Transcript with     Premium Membership          Editing and post-production work for this episode was provided by The Podcast Consultant (  ⁠  https://thepodcastconsultant.com",
           "audio_url": "https://traffic.libsyn.com/secure/tedseides/CA_-_EP.330_Matt_B_Art_of_Interview_-_SUMMER_SERIES_2026_-_AUDIO_V2.mp3?dest-id=482814",
           "duration": "01:00:49"
-        },
-        {
-          "title": "WTT: The Anatomy of a Blow-Up",
-          "link": "https://tedseides.libsyn.com/wtt-the-anatomy-of-a-blow-up",
-          "published": "Wed, 05 Aug 2026 08:00:00 +0000",
-          "description": "This What Ted's Thinking brings Situational Awareness to the underlying causes of hedge fund disasters.       Read Ted's blog  here.           Editing and post-production work for this episode was provided by The Podcast Consultant (  ⁠  https://thepodcastconsultant.com  ⁠  )",
-          "audio_url": "https://traffic.libsyn.com/secure/tedseides/CA_WTT_-_Anatomy_of_a_Blow-Up_-_AUDIO_V1.mp3?dest-id=482814",
-          "duration": "06:07"
         }
       ]
     },
@@ -275,6 +275,14 @@
       "description": "Hosted by David Beckworth of the Mercatus Center, Macro Musings pulls back the curtain on the important macroeconomic issues of the past, present, and future.",
       "episodes": [
         {
+          "title": "Nellie Liang on Stablecoins After GENIUS, Private Money, and the Global Dollar",
+          "link": "https://macromusings.libsyn.com/nellie-liang-on-stablecoins-after-genius-private-money-and-the-global-dollar",
+          "published": "Mon, 14 Sep 2026 09:00:00 +0000",
+          "description": "Nellie Liang is a former Treasury and Federal Reserve official and a senior fellow at the Brookings Institution. In Nellie's first appearance on the show, she discusses the future of stablecoins following the GENIUS Act, what stablecoins mean for private money and illicit finance, Fed master accounts, the global role of the dollar, and much more.   Watch the  full length video  on our new YouTube Channel!   Check out the  transcript  for this week's episode, now with links.    Recorded on August 18th, 2026    Subscribe to David's Substack:  Macroeconomic Policy Nexus    Follow David Beckworth on X:  @DavidBeckworth    Follow the show on X:  @Macro_Musings    Check out our Macro Musings  merch!    Timestamps   00:00:00 - Intro  00:01:23 - Nellie's Career  00:05:48 - The GENIUS Act  00:11:31",
+          "audio_url": "https://traffic.libsyn.com/secure/macromusings/MM-560-NellieLiang-Podcast-Final-auphonic.mp3?dest-id=865793",
+          "duration": "50:57"
+        },
+        {
           "title": "Stephen Miran on Regulatory Dominance, Shrinking the Fed's Balance Sheet, and the Return of Monetarism",
           "link": "https://macromusings.libsyn.com/stephen-miran-on-regulatory-dominance-shrinking-the-feds-balance-sheet-and-the-return-of-monetarism",
           "published": "Mon, 07 Sep 2026 09:00:00 +0000",
@@ -345,14 +353,6 @@
           "description": "Stephan Luck is a Financial Research Advisor at the Federal Reserve Bank of New York. In Stephan's first appearance on the show, he discusses how the 2008 Great Financial Crisis shaped his career, how he and his coauthors leverage LLMs to comb through massive amounts of historical data, what this data can teach us about responding to bank failures, what people get wrong when they try and make historical analogies to the GENIUS era, the lessons we can learn from the German hyperinflation, and much more.       Watch  the full length video  on our new YouTube Channel!     Check out the  transcript  for this week's episode, now with links.   Recorded on June 1st, 2026   Subscribe to David's Substack:  Macroeconomic Policy Nexus    Follow David on X:  @DavidBeckworth    Follow the show on X:  @",
           "audio_url": "https://traffic.libsyn.com/secure/macromusings/MM-551-StephanLuck-Audio-Final.mp3?dest-id=865793",
           "duration": "57:47"
-        },
-        {
-          "title": "Barry Eichengreen on the History of Global Currencies",
-          "link": "https://macromusings.libsyn.com/barry-eichengreen-on-the-history-of-global-currencies",
-          "published": "Mon, 06 Jul 2026 09:00:00 +0000",
-          "description": "Barry Eichengreen is a well known author, economist, and economic historian from the University of California, Berkeley. In Barry's first appearance on the show he discusses a career in untangling the world's monetary history, the origins of his new book  Money Beyond Borders: Global Currencies from Croesus to Crypto , the first uses on currencies in the 7 th  Century BC, the unexpected start of the dollar, how we landed on the central bank model, the dollar's rise to global reserve currency, which if any currencies as poised to take on the dollar, and much more.       Watch  the full length video  on our new YouTube Channel!     Check out the  transcript  for this week's episode, now with links.   Recorded on May 27th, 2026   Subscribe to David's Substack:  Macroeconomic Policy Nexus    F",
-          "audio_url": "https://traffic.libsyn.com/secure/macromusings/MM-550-BarryEichengreen-Audio-Final.mp3?dest-id=865793",
-          "duration": "57:09"
         }
       ]
     },
