@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T23:48:14.520325+00:00",
+  "generated_at": "2026-09-18T23:45:08.587187+00:00",
   "source": "podcast_rss",
   "feeds_count": 5,
   "total_episodes": 40,
@@ -99,6 +99,14 @@
       "description": "What’s driving this week’s market moves – and where are the biggest opportunities? Goldman Sachs traders discuss.",
       "episodes": [
         {
+          "title": "The Opportunities for Investors amid Higher-for-Longer Interest Rates",
+          "link": "",
+          "published": "Fri, 18 Sep 2026 04:00:00 -0000",
+          "description": "The Federal Reserve signaled this week that interest rates could be higher for longer, which may pose a challenge for the broader equity market if tighter policy leads to less consumption, says Anshul Sehgal, global co-head of Fixed Income, Currency and Commodities. However, companies that specialize in computing and data centers could be an opportunity for investors amid elevated interest rates. On The Markets podcast, Sehgal also discusses his take on the latest Federal Open Market Committee meeting and his outlook for longer-term bond yields.&nbsp;\n\nFilmed on September 17, 2026.&nbsp;\n\n\nThe opinions and views expressed herein are as of the date of publication, subject to change without notice, and may not necessarily reflect the institutional views of Goldman Sachs or its affiliates. Th",
+          "audio_url": "https://mgln.ai/e/1720/traffic.megaphone.fm/GLD4201593829.mp3",
+          "duration": "654"
+        },
+        {
           "title": "What a Fed Rate Hike Could Mean for US Stocks",
           "link": "",
           "published": "Fri, 11 Sep 2026 21:24:00 -0000",
@@ -169,14 +177,6 @@
           "description": "Could the US dollar keep rising from here? Brian Dunne, head of Americas Foreign Exchange Options Trading in Goldman Sachs Global Banking & Markets, says that interest rates differential, Fed policy, and geopolitical factors could continue to boost the greenback. He also shares his views on how best to play the potential dollar momentum in this conversation with Chris Hussey. \n\nRecorded on July 9, 2026.\n\nThe opinions and views expressed herein are as of the date of publication, subject to change without notice, and may not necessarily reflect the institutional views of Goldman Sachs or its affiliates. The material provided is intended for informational purposes only, and does not constitute investment advice, a recommendation from any Goldman Sachs entity to take any particular action, or",
           "audio_url": "https://mgln.ai/e/1720/traffic.megaphone.fm/GLD1065183560.mp3",
           "duration": "638"
-        },
-        {
-          "title": "S&P to 8,000 This Year?",
-          "link": "",
-          "published": "Fri, 26 Jun 2026 04:00:00 -0000",
-          "description": "As US equities get more volatile, are the drivers of the rally still intact? John Flood, head of Americas Equities Execution Services in Goldman Sachs Global Banking & Markets, breaks down the market action, and explains why strong earnings and positive technicals could drive stocks higher, in this conversation with Chris Hussey.  \n\nRecorded on June 25, 2026. \n\nThe opinions and views expressed herein are as of the date of publication, subject to change without notice, and may not necessarily reflect the institutional views of Goldman Sachs or its affiliates. The material provided is intended for informational purposes only, and does not constitute investment advice, a recommendation from any Goldman Sachs entity to take any particular action, or an offer or solicitation to purchase or sell",
-          "audio_url": "https://mgln.ai/e/1720/traffic.megaphone.fm/GLD6774384043.mp3",
-          "duration": "628"
         }
       ]
     },
