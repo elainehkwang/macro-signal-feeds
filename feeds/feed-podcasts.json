@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T00:24:34.437747+00:00",
+  "generated_at": "2026-09-22T23:55:09.691880+00:00",
   "source": "podcast_rss",
   "feeds_count": 5,
   "total_episodes": 40,
@@ -187,6 +187,14 @@
       "description": "Conversations with the best investors and business leaders in the world. We explore their ideas, methods, and stories to help you better invest your time and money. Hear stock market and boardroom insights you can't find anywhere else. If you're a professional investor, CEO, entrepreneur, or business strategist, this is for you. Explore all our episodes and learn more at https://www.colossus.com",
       "episodes": [
         {
+          "title": "Gabe Stengel - Building Investing Superintelligence - [Invest Like the Best, EP.492]",
+          "link": "",
+          "published": "Tue, 22 Sep 2026 08:00:00 -0000",
+          "description": "Gabe Stengel is the co-founder and CEO of Rogo, the AI platform for finance. He believes the best investors will spend the next several years reinventing their firms around AI, and Rogo is trying to build the infrastructure that allows them to do it.\n\nWe discuss how Rogo evolved alongside the frontier models, why the last mile and the harness around the models matter so much, what happens when every portfolio manager can deploy thousands of agents against a problem, and how AI could transform the way capital is raised, assets are priced, and deals get done.\n\nWe also cover which investing skills become more valuable as AI improves, the move from seat-based to outcome-based pricing, Rogo’s internal company brain called Shrek, the 40 investor rejections Gabe received before his Series A, why",
+          "audio_url": "https://traffic.megaphone.fm/CLS7922860814.mp3",
+          "duration": "3864"
+        },
+        {
           "title": "Michael Moritz - Lessons From 40 Years of Investing and Writing - [Invest Like the Best, EP.491]",
           "link": "https://colossus.com/episode/the-outsider/",
           "published": "Wed, 16 Sep 2026 08:00:00 -0000",
@@ -257,14 +265,6 @@
           "description": "My guest today is Matthew Smith. Matthew is the founder and CIO of Chronometer Partners, which invests in energy, industrials, materials, power and utilities, and related infrastructure.\n\nFor the last 18 months he and his team have modeled nearly every natural gas well, pipeline, and processing asset in the United States. He's reached a conclusion most of the market doesn't share.&nbsp;\n\nStarting in 2028, AI data centers and LNG exports will need more gas than the country can produce and deliver. By his math, the US could exhaust its working natural gas storage by 2030. In his words, the upside risk to prices becomes unbounded and convex.\n\nWe talk about why this was set in motion long before AI arrived, why the US can't just turn off exports, who wins and loses among producers, nuclear, so",
           "audio_url": "https://traffic.megaphone.fm/CLS1352215254.mp3",
           "duration": "3397"
-        },
-        {
-          "title": "John Kim - How to Raise a Few Billion Dollars - [Invest Like the Best, EP.482]",
-          "link": "https://colossus.com/episode/how-to-raise-a-few-billion-dollars/",
-          "published": "Tue, 14 Jul 2026 08:00:00 -0000",
-          "description": "Today my guest is John Kim. John is one of the world's top and most prolific fundraisers.&nbsp;\n\nHe was chief client officer at General Catalyst, where he helped raise many of the firm's flagship funds. He is now chairman and president of corporate development at Lila Sciences, a company building scientific superintelligence, where he has helped raise several hundred million dollars.&nbsp;\n\nHe is also the author of The Tao of Fundraising.&nbsp;\n\nThis conversation is really a guide on how to raise money from someone who has done it at the highest level. We talk about why persuasion equals desire minus fear, the difference between belief and trust, the laws of fundraising, and how to build the consensus that moves big pools of capital.&nbsp;\n\nPlease enjoy my conversation with John Kim.\n\nFor",
-          "audio_url": "https://traffic.megaphone.fm/CLS8349497052.mp3",
-          "duration": "3020"
         }
       ]
     },
