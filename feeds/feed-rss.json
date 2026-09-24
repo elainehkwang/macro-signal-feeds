@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T23:55:09.691880+00:00",
+  "generated_at": "2026-09-24T00:07:06.691107+00:00",
   "source": "rss",
   "feeds_count": 17,
   "total_entries": 80,
@@ -94,6 +94,27 @@
       "description": "Treasury Offering Announcements",
       "entries": [
         {
+          "title": "5-Year Note Treasury Auction Results",
+          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
+          "published": "Wed, 23 Sep 2026 17:03:32 GMT",
+          "description": "CUSIP:  91282CRN3  Term and Type:  5-Year Note  Series:  AD-2031  Reopening:  No  Interest Rate:  5.000%  High Yield:  5.033%  Price:  $99.855714  Allotted at High:  30.34%  Total Tendered:  $165,388,603,000  Total Accepted:  $80,538,513,000  Auction Date:  09/23/2026  Issue Date:  09/30/2026  Maturity Date:  09/30/2031  PDF  |  XML",
+          "relevant": true
+        },
+        {
+          "title": "1-Year 10-Month FRN Treasury Auction Results",
+          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
+          "published": "Wed, 23 Sep 2026 15:33:22 GMT",
+          "description": "CUSIP:  91282CRD5  Term and Type:  1-Year 10-Month FRN  Series:  BF-2028  Reopening:  Yes  Spread:  0.050%  High Discount Margin:  0.040%  Price:  $100.015499  Allotted at High:  42.15%  Total Tendered:  $73,508,324,500  Total Accepted:  $28,000,087,000  Auction Date:  09/23/2026  Issue Date:  09/25/2026  Maturity Date:  07/31/2028  PDF  |  XML",
+          "relevant": true
+        },
+        {
+          "title": "17-Week Bill Treasury Auction Results",
+          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
+          "published": "Wed, 23 Sep 2026 15:33:21 GMT",
+          "description": "CUSIP:  912797WR4  Term and Type:  17-Week Bill  CMB:  No  High Rate:  4.135%  Investment Rate:  4.251%  Price:  $98.633153  Allotted at High:  40.67%  Total Tendered:  $208,245,773,100  Total Accepted:  $77,951,525,600  Auction Date:  09/23/2026  Issue Date:  09/29/2026  Maturity Date:  01/26/2027  PDF  |  XML",
+          "relevant": true
+        },
+        {
           "title": "2-Year Note Treasury Auction Results",
           "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
           "published": "Tue, 22 Sep 2026 17:03:25 GMT",
@@ -141,27 +162,6 @@
           "published": "Thu, 17 Sep 2026 15:33:30 GMT",
           "description": "CUSIP:  912797VM6  Term and Type:  4-Week Bill  CMB:  No  High Rate:  3.820%  Investment Rate:  3.885%  Price:  $99.702889  Allotted at High:  69.59%  Total Tendered:  $279,448,148,200  Total Accepted:  $97,647,910,200  Auction Date:  09/17/2026  Issue Date:  09/22/2026  Maturity Date:  10/20/2026  PDF  |  XML",
           "relevant": true
-        },
-        {
-          "title": "17-Week Bill Treasury Auction Results",
-          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
-          "published": "Wed, 16 Sep 2026 15:33:24 GMT",
-          "description": "CUSIP:  912797WQ6  Term and Type:  17-Week Bill  CMB:  No  High Rate:  4.030%  Investment Rate:  4.141%  Price:  $98.667861  Allotted at High:  23.62%  Total Tendered:  $201,892,022,000  Total Accepted:  $78,117,957,000  Auction Date:  09/16/2026  Issue Date:  09/22/2026  Maturity Date:  01/19/2027  PDF  |  XML",
-          "relevant": true
-        },
-        {
-          "title": "19-Year 11-Month Bond Treasury Auction Results",
-          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
-          "published": "Tue, 15 Sep 2026 17:03:35 GMT",
-          "description": "CUSIP:  912810UX4  Term and Type:  19-Year 11-Month Bond  Series:  Bonds of August 2046  Reopening:  Yes  Interest Rate:  5.125%  High Yield:  5.420%  Price:  $96.423840  Allotted at High:  30.14%  Total Tendered:  $33,383,545,400  Total Accepted:  $13,000,008,600  Auction Date:  09/15/2026  Issue Date:  09/18/2026  Maturity Date:  08/15/2046  PDF  |  XML",
-          "relevant": true
-        },
-        {
-          "title": "6-Week Bill Treasury Auction Results",
-          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
-          "published": "Tue, 15 Sep 2026 15:33:24 GMT",
-          "description": "CUSIP:  912797SK4  Term and Type:  6-Week Bill  CMB:  No  High Rate:  3.850%  Investment Rate:  3.921%  Price:  $99.550833  Allotted at High:  35.19%  Total Tendered:  $244,059,266,400  Total Accepted:  $81,696,653,900  Auction Date:  09/15/2026  Issue Date:  09/17/2026  Maturity Date:  10/29/2026  PDF  |  XML",
-          "relevant": true
         }
       ],
       "count": 10,
@@ -174,6 +174,28 @@
       "channel": "ECB - European Central Bank",
       "description": "Latest releases on the ECB website - Press releases, speeches and interviews, press conferences.",
       "entries": [
+        {
+          "title": "Philip R. Lane: The Outlook for the Euro Area Economy",
+          "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260923_1~ac21bf46e3.en.pdf",
+          "published": "Wed, 23 Sep 2026 18:30:00 +0200",
+          "description": "",
+          "relevant": true
+        },
+        {
+          "title": "The digitalisation of money, payments and finance",
+          "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260923~87850778f5.en.pdf",
+          "published": "Wed, 23 Sep 2026 18:00:00 +0200",
+          "description": "",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
+        },
+        {
+          "title": "Almost ten million people took part in ECB survey on new euro banknotes",
+          "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260923~6ebddaf01e.en.html",
+          "published": "Wed, 23 Sep 2026 11:00:00 +0200",
+          "description": "",
+          "relevant": true
+        },
         {
           "title": "Philip R. Lane: Interview with Le Temps",
           "link": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260922~5f89d300ee.en.html",
@@ -224,28 +246,6 @@
           "published": "Mon, 14 Sep 2026 17:15:00 +0200",
           "description": "",
           "relevant": true
-        },
-        {
-          "title": "Piero Cipollone: The future of euro cash: trusted today, designed for tomorrow",
-          "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260914_1~91d3436449.en.html",
-          "published": "Mon, 14 Sep 2026 15:00:00 +0200",
-          "description": "",
-          "relevant": true
-        },
-        {
-          "title": "Isabel Schnabel: Macroeconomic, fiscal and financial stability in a shock-prone world",
-          "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260914~0ffd556bc8.en.pdf",
-          "published": "Mon, 14 Sep 2026 11:15:00 +0200",
-          "description": "",
-          "relevant": true
-        },
-        {
-          "title": "Christine Lagarde: Interview with Ouest-France",
-          "link": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260912~3cc706f4d6.en.html",
-          "published": "Sat, 12 Sep 2026 22:00:00 +0200",
-          "description": "",
-          "relevant": false,
-          "_skip_reason": "no_macro_keyword"
         }
       ],
       "count": 10,
@@ -258,6 +258,13 @@
       "channel": "Bank of Japan：RSS",
       "description": "",
       "entries": [
+        {
+          "title": "Statistics on Securities Financing Transactions in Japan",
+          "link": "http://www.boj.or.jp/en/statistics/bis/repo/index.htm",
+          "published": "Thu, 24 Sep 2026 08:50:00 +0900",
+          "description": "",
+          "relevant": true
+        },
         {
           "title": "Change in the Guideline for Money Market Operations",
           "link": "http://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/k260918a.pdf",
@@ -326,19 +333,11 @@
           "published": "Mon, 14 Sep 2026 17:00:00 +0900",
           "description": "",
           "relevant": true
-        },
-        {
-          "title": "IMES Discussion Paper Series (2026)",
-          "link": "http://www.boj.or.jp/en/research/imes/dps/dps26.htm",
-          "published": "Mon, 14 Sep 2026 11:00:00 +0900",
-          "description": "",
-          "relevant": false,
-          "_skip_reason": "no_macro_keyword"
         }
       ],
       "count": 10,
       "domain": "Japan",
-      "relevant_count": 3
+      "relevant_count": 4
     },
     {
       "name": "BOE — News & MPC Minutes",
@@ -430,6 +429,41 @@
       "description": "Nonpartisan budgetary and economic analysis for the U.S. Congress.",
       "entries": [
         {
+          "title": "S. 3736, Dakota Mainstem Water Supply Project Feasibility Study Act",
+          "link": "https://www.cbo.gov/publication/62791",
+          "published": "Wed, 23 Sep 2026 15:12:00 -0400",
+          "description": "As reported by the Senate Committee on Energy and Natural Resources on September 17, 2026",
+          "relevant": true
+        },
+        {
+          "title": "S. 3723, Western South Dakota Water Supply Project Feasibility Study Act",
+          "link": "https://www.cbo.gov/publication/62790",
+          "published": "Wed, 23 Sep 2026 15:11:00 -0400",
+          "description": "As reported by the Senate Committee on Energy and Natural Resources on September 17, 2026",
+          "relevant": true
+        },
+        {
+          "title": "H.R. 2312, Tipped Employee Protection Act",
+          "link": "https://www.cbo.gov/publication/62788",
+          "published": "Wed, 23 Sep 2026 14:04:00 -0400",
+          "description": "As reported by the House Committee on Education and Workforce on December 30, 2025",
+          "relevant": true
+        },
+        {
+          "title": "H.R. 3857, Snow Water Supply Forecasting Program Reauthorization Act  of 2026",
+          "link": "https://www.cbo.gov/publication/62789",
+          "published": "Wed, 23 Sep 2026 14:04:00 -0400",
+          "description": "As reported by the Senate Committee on Energy and Natural Resources on September 17, 2026",
+          "relevant": true
+        },
+        {
+          "title": "S. 2220, Fighting for the Overlooked Recognition of Groups Operating in Toxic Test Environments in Nevada Veterans Act of 2026",
+          "link": "https://www.cbo.gov/publication/62780",
+          "published": "Wed, 23 Sep 2026 02:57:00 -0400",
+          "description": "As ordered reported by the Senate Committee on Veterans’ Affairs on March 18, 2026",
+          "relevant": true
+        },
+        {
           "title": "S. 4538, Washington’s Trail—1753 National Historic Trail Feasibility Study Act of 2026",
           "link": "https://www.cbo.gov/publication/62787",
           "published": "Tue, 22 Sep 2026 15:35:54 -0400",
@@ -463,47 +497,11 @@
           "published": "Tue, 22 Sep 2026 13:50:00 -0400",
           "description": "As reported by the Senate Committee on Energy and Natural Resources on September 17, 2026",
           "relevant": true
-        },
-        {
-          "title": "CBO's 2026 Long-Term Projections for Social Security",
-          "link": "https://www.cbo.gov/publication/62556",
-          "published": "Thu, 17 Sep 2026 14:24:00 -0400",
-          "description": "In CBO's projections, the gap between Social Security's outlays and revenues generally widens over the next 75 years, and the balance of the Old-Age and Survivors Insurance Trust Fund is exhausted in fiscal year 2032.",
-          "relevant": true
-        },
-        {
-          "title": "H.R. 1640, HEIRS Act of 2025",
-          "link": "https://www.cbo.gov/publication/62774",
-          "published": "Thu, 17 Sep 2026 14:12:00 -0400",
-          "description": "As reported by the House Committee on Financial Services on September 1, 2026",
-          "relevant": true
-        },
-        {
-          "title": "S. 2801, Canterbury Shaker Village National Heritage Area Study Authorization Act",
-          "link": "https://www.cbo.gov/publication/62773",
-          "published": "Thu, 17 Sep 2026 14:12:00 -0400",
-          "description": "As ordered reported by the Senate Committee on Energy and Natural Resources on July 29, 2026",
-          "relevant": true
-        },
-        {
-          "title": "S. 4259, Blue Skies for Taiwan Act of 2026",
-          "link": "https://www.cbo.gov/publication/62772",
-          "published": "Thu, 17 Sep 2026 13:07:00 -0400",
-          "description": "As reported by the Senate Committee on Foreign Relations on July 27, 2026",
-          "relevant": true
-        },
-        {
-          "title": "CBO's Panel of Health Advisers, 2026",
-          "link": "https://www.cbo.gov/publication/62757",
-          "published": "Wed, 16 Sep 2026 15:00:00 -0400",
-          "description": "CBO announces the members of its Panel of Health Advisers for this year.",
-          "relevant": false,
-          "_skip_reason": "no_macro_keyword"
         }
       ],
       "count": 10,
       "domain": "US Fiscal",
-      "relevant_count": 9
+      "relevant_count": 10
     },
     {
       "name": "BIS — All Publications",
@@ -521,6 +519,14 @@
       "channel": "BIS — Research Papers",
       "description": "",
       "entries": [
+        {
+          "title": "Unraveling the cobweb of global imbalances: drivers, vulnerabilities, and adjustment scenarios",
+          "link": "https://www.bis.org/publications/working-paper-1379-unraveling-cobweb-global-imbalances-drivers-vulnerabilities-and-adjustment-scenarios",
+          "published": "2026-09-23T00:00:00Z",
+          "description": "This paper analyses the evolution and drivers of the stock of global imbalances in order to assess associated vulnerabilities and potential adjustment scenarios. These imbalances have recently increased sharply, with a deterioration in the US net international investment position (NIIP) mirrored by NIIP improvements in most other major economies.",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
+        },
         {
           "title": "Maritime chokepoints and the  global economy: evidence  from the Strait of Hormuz",
           "link": "https://www.bis.org/publications/working-paper-1378-maritime-chokepoints-and-the-global-economy-evidence-strait-hormuz",
@@ -580,13 +586,6 @@
           "relevant": true
         },
         {
-          "title": "Effective resolution strategies and plans for insurers - Executive Summary",
-          "link": "https://www.bis.org/publications/fsi-summary-effective-resolution-strategies-and-plans-insurers---executive-summary",
-          "published": "2026-08-27T00:00:00Z",
-          "description": "The Key Attributes of Effective Resolution Regimes for Financial Institutions (Key Attributes) of the Financial Stability Board (FSB) require resolution plans to be developed for all financial institutions, including insurers, that could be systemically significant or critical upon failure.",
-          "relevant": true
-        },
-        {
           "title": "Regulating stablecoin issuance: permissible entities and activities",
           "link": "https://www.bis.org/publications/fsi-brief-33-regulating-stablecoin-issuance--permissible-entities-and-activities",
           "published": "2026-08-27T00:00:00Z",
@@ -597,7 +596,7 @@
       ],
       "count": 10,
       "domain": "Global Liquidity",
-      "relevant_count": 7
+      "relevant_count": 6
     },
     {
       "name": "Lyn Alden",
