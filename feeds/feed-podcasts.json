@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T00:10:08.678492+00:00",
+  "generated_at": "2026-09-26T00:16:00.842344+00:00",
   "source": "podcast_rss",
   "feeds_count": 5,
   "total_episodes": 40,
@@ -99,6 +99,14 @@
       "description": "What’s driving this week’s market moves – and where are the biggest opportunities? Goldman Sachs traders discuss.",
       "episodes": [
         {
+          "title": "Why the Bond Market May Be the Stock Market's Biggest Risk",
+          "link": "",
+          "published": "Fri, 25 Sep 2026 04:00:00 -0000",
+          "description": "With US 10-Year Treasury yields climbing this week to the highest level since 2007, the bond market may be the biggest risk to further equity gains, says Tony Pasquariello, global head of hedge fund coverage in Goldman Sachs FICC and Equities. Shorting bonds could be a useful\nhedge for stock investments, he says on The Markets podcast.&nbsp; S&P 500 earnings growth, meanwhile, has been “mind-bending,” helping to keep valuations from becoming stretched, Pasquariello says. However,&nbsp;the increase in earnings may begin to taper off, and US stock returns may slow from their double-digit annual pace. He also sees opportunities in Japan’s TOPIX, as the country’s equity market gets a boost from shareholder reforms and government spending on defense and industrialization.&nbsp;\n\nWatch more from",
+          "audio_url": "https://mgln.ai/e/1720/traffic.megaphone.fm/GLD8075815898.mp3",
+          "duration": "714"
+        },
+        {
           "title": "The Opportunities for Investors amid Higher-for-Longer Interest Rates",
           "link": "",
           "published": "Fri, 18 Sep 2026 04:00:00 -0000",
@@ -169,14 +177,6 @@
           "description": "As more US companies report earnings next week,&nbsp;the&nbsp;bar is&nbsp;“very&nbsp;high” from&nbsp;the perspective of&nbsp;analysts and option market&nbsp;makers,&nbsp;says Brian Garrett, head of equities&nbsp;on&nbsp;the Cross Asset Sales desk in&nbsp;FICC & Equities.&nbsp;In this conversation&nbsp;with Chris Hussey, he&nbsp;also&nbsp;discusses&nbsp;how debt issuance from&nbsp;hyperscalers&nbsp;to fund AI capex is filtering through fixed-income markets and the divergence between&nbsp;single&nbsp;stock volatility and equity index.\n\nThis episode was recorded in July 15, 2026.\n\nThe opinions and views expressed herein are as of the date of publication, subject to change without notice, and may not necessarily reflect the institutional views of Goldman Sachs or its affiliates. The material p",
           "audio_url": "https://mgln.ai/e/1720/traffic.megaphone.fm/GLD1244006044.mp3",
           "duration": "747"
-        },
-        {
-          "title": "Bullish on the Dollar",
-          "link": "",
-          "published": "Fri, 10 Jul 2026 15:36:00 -0000",
-          "description": "Could the US dollar keep rising from here? Brian Dunne, head of Americas Foreign Exchange Options Trading in Goldman Sachs Global Banking & Markets, says that interest rates differential, Fed policy, and geopolitical factors could continue to boost the greenback. He also shares his views on how best to play the potential dollar momentum in this conversation with Chris Hussey. \n\nRecorded on July 9, 2026.\n\nThe opinions and views expressed herein are as of the date of publication, subject to change without notice, and may not necessarily reflect the institutional views of Goldman Sachs or its affiliates. The material provided is intended for informational purposes only, and does not constitute investment advice, a recommendation from any Goldman Sachs entity to take any particular action, or",
-          "audio_url": "https://mgln.ai/e/1720/traffic.megaphone.fm/GLD1065183560.mp3",
-          "duration": "638"
         }
       ]
     },
