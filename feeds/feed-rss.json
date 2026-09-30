@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T01:21:30.444011+00:00",
+  "generated_at": "2026-09-30T00:54:50.090758+00:00",
   "source": "rss",
   "feeds_count": 17,
   "total_entries": 90,
@@ -94,6 +94,20 @@
       "description": "Treasury Offering Announcements",
       "entries": [
         {
+          "title": "52-Week Bill Treasury Auction Results",
+          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
+          "published": "Tue, 29 Sep 2026 15:33:33 GMT",
+          "description": "CUSIP:  912797WJ2  Term and Type:  52-Week Bill  CMB:  No  High Rate:  4.400%  Investment Rate:  4.616%  Price:  $95.551111  Allotted at High:  70.21%  Total Tendered:  $171,170,537,700  Total Accepted:  $59,167,062,200  Auction Date:  09/29/2026  Issue Date:  10/01/2026  Maturity Date:  09/30/2027  PDF  |  XML",
+          "relevant": true
+        },
+        {
+          "title": "6-Week Bill Treasury Auction Results",
+          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
+          "published": "Tue, 29 Sep 2026 15:33:32 GMT",
+          "description": "CUSIP:  912797UY1  Term and Type:  6-Week Bill  CMB:  No  High Rate:  3.970%  Investment Rate:  4.044%  Price:  $99.536833  Allotted at High:  68.26%  Total Tendered:  $247,423,729,400  Total Accepted:  $93,132,850,200  Auction Date:  09/29/2026  Issue Date:  10/01/2026  Maturity Date:  11/12/2026  PDF  |  XML",
+          "relevant": true
+        },
+        {
           "title": "26-Week Bill Treasury Auction Results",
           "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
           "published": "Mon, 28 Sep 2026 15:33:30 GMT",
@@ -148,20 +162,6 @@
           "published": "Wed, 23 Sep 2026 15:33:21 GMT",
           "description": "CUSIP:  912797WR4  Term and Type:  17-Week Bill  CMB:  No  High Rate:  4.135%  Investment Rate:  4.251%  Price:  $98.633153  Allotted at High:  40.67%  Total Tendered:  $208,245,773,100  Total Accepted:  $77,951,525,600  Auction Date:  09/23/2026  Issue Date:  09/29/2026  Maturity Date:  01/26/2027  PDF  |  XML",
           "relevant": true
-        },
-        {
-          "title": "2-Year Note Treasury Auction Results",
-          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
-          "published": "Tue, 22 Sep 2026 17:03:25 GMT",
-          "description": "CUSIP:  91282CRP8  Term and Type:  2-Year Note  Series:  BH-2028  Reopening:  No  Interest Rate:  4.750%  High Yield:  4.787%  Price:  $99.930225  Allotted at High:  33.42%  Total Tendered:  $191,651,805,600  Total Accepted:  $79,388,014,800  Auction Date:  09/22/2026  Issue Date:  09/30/2026  Maturity Date:  09/30/2028  PDF  |  XML",
-          "relevant": true
-        },
-        {
-          "title": "6-Week Bill Treasury Auction Results",
-          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
-          "published": "Tue, 22 Sep 2026 15:33:37 GMT",
-          "description": "CUSIP:  912797UM7  Term and Type:  6-Week Bill  CMB:  No  High Rate:  3.870%  Investment Rate:  3.942%  Price:  $99.548500  Allotted at High:  83.32%  Total Tendered:  $232,536,898,800  Total Accepted:  $80,066,009,100  Auction Date:  09/22/2026  Issue Date:  09/24/2026  Maturity Date:  11/05/2026  PDF  |  XML",
-          "relevant": true
         }
       ],
       "count": 10,
@@ -174,6 +174,13 @@
       "channel": "ECB - European Central Bank",
       "description": "Latest releases on the ECB website - Press releases, speeches and interviews, press conferences.",
       "entries": [
+        {
+          "title": "ECB amends monetary policy implementation guidelines as part of regular review",
+          "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260929~050089e922.en.html",
+          "published": "Tue, 29 Sep 2026 10:00:00 +0200",
+          "description": "",
+          "relevant": true
+        },
         {
           "title": "Christine Lagarde: Hearing of the Committee on Economic and Monetary Affairs of the European Parliament",
           "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260928~a875675544.en.html",
@@ -236,13 +243,6 @@
           "title": "Eurosystem brings central bank money to tokenised finance",
           "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260921~e754847a7b.en.html",
           "published": "Mon, 21 Sep 2026 12:00:00 +0200",
-          "description": "",
-          "relevant": true
-        },
-        {
-          "title": "ECB Consumer Expectations Survey results – August 2026",
-          "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260918~295b3ab978.en.html",
-          "published": "Fri, 18 Sep 2026 10:00:00 +0200",
           "description": "",
           "relevant": true
         }
@@ -392,17 +392,10 @@
           "relevant": true
         },
         {
-          "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2026",
-          "link": "https://www.bankofengland.co.uk/letter/2026/cpi-inflation-september-2026",
+          "title": "Bank rate maintained at 3.75% - September 2026 Monetary Policy Summary and Minutes",
+          "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/september-2026",
           "published": "Thu, 17 Sep 2026 12:00:00 +0100",
-          "description": "Exchange of letters between the Governor and the Chancellor",
-          "relevant": true
-        },
-        {
-          "title": "Exchange of letters between the Governor and the Chancellor regarding QT and the APF - September 2026",
-          "link": "https://www.bankofengland.co.uk/letter/2026/exchange-of-letters-between-the-governor-and-the-chancellor-regarding-qt-and-the-apf",
-          "published": "Thu, 17 Sep 2026 12:00:00 +0100",
-          "description": "Exchange of letters between the Governor and the Chancellor",
+          "description": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
           "relevant": true
         },
         {
@@ -410,6 +403,13 @@
           "link": "https://www.bankofengland.co.uk/markets/market-notices/2026/asset-purchase-facility-gilt-sales-market-notice-17-september-2026",
           "published": "Thu, 17 Sep 2026 12:00:00 +0100",
           "description": "This Market Notice outlines the Bank Executive’s approach to implementing the Monetary Policy Committee’s (MPC) decision to unwind the gilts held for monetary policy purposes in the Asset Purchase Facility (APF). As part of this, Bank APF auctions will be paused while the Bank reviews a model of selling gilts to the Government.",
+          "relevant": true
+        },
+        {
+          "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2026",
+          "link": "https://www.bankofengland.co.uk/letter/2026/cpi-inflation-september-2026",
+          "published": "Thu, 17 Sep 2026 12:00:00 +0100",
+          "description": "Exchange of letters between the Governor and the Chancellor",
           "relevant": true
         }
       ],
@@ -423,6 +423,49 @@
       "channel": "CBO Publications",
       "description": "Nonpartisan budgetary and economic analysis for the U.S. Congress.",
       "entries": [
+        {
+          "title": "H.R. 8671, the Bank Fraud Technology Advancement Act of 2026",
+          "link": "https://www.cbo.gov/publication/62819",
+          "published": "Tue, 29 Sep 2026 16:05:00 -0400",
+          "description": "As reported by the House Committee on Financial Services on June 18, 2026",
+          "relevant": true
+        },
+        {
+          "title": "Testimony on Potential Costs of a National Missile Defense System",
+          "link": "https://www.cbo.gov/publication/62760",
+          "published": "Tue, 29 Sep 2026 16:00:00 -0400",
+          "description": "David E. Mosher, CBO's Director of National Security Analysis, testifies before the Senate Armed Services Committee's Subcommittee on Strategic Forces.",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
+        },
+        {
+          "title": "H.R. 7882, a bill to provide for the leasing of certain deposits of minerals located within the City of Carlsbad, New Mexico",
+          "link": "https://www.cbo.gov/publication/62816",
+          "published": "Tue, 29 Sep 2026 14:08:00 -0400",
+          "description": "As ordered reported by the House Committee on Natural Resources on June 10, 2026",
+          "relevant": true
+        },
+        {
+          "title": "H.R. 9084, Department of Energy Nuclear Transparency Act",
+          "link": "https://www.cbo.gov/publication/62815",
+          "published": "Tue, 29 Sep 2026 14:08:00 -0400",
+          "description": "As ordered reported by the House Committee on Energy and Commerce on September 2, 2026",
+          "relevant": true
+        },
+        {
+          "title": "S. 4965, Railroad Retirement Board Stability Act",
+          "link": "https://www.cbo.gov/publication/62814",
+          "published": "Tue, 29 Sep 2026 14:08:00 -0400",
+          "description": "As reported by the Senate Committee on Health, Education, Labor, and Pensions on August 4, 2026",
+          "relevant": true
+        },
+        {
+          "title": "H.R. 9338, Pipeline Safety Authorization Act of 2026",
+          "link": "https://www.cbo.gov/publication/62807",
+          "published": "Tue, 29 Sep 2026 12:47:00 -0400",
+          "description": "As ordered reported by the House Committee on Energy and Commerce on July 21, 2026",
+          "relevant": true
+        },
         {
           "title": "S. 2440, a bill to direct the Secretary of Agriculture to convey certain National Forest System land located in Franklin County, Mississippi, and for other purposes",
           "link": "https://www.cbo.gov/publication/62812",
@@ -450,53 +493,11 @@
           "published": "Mon, 28 Sep 2026 15:23:00 -0400",
           "description": "As ordered reported by the House Committee on Ways and Means on May 21, 2026",
           "relevant": true
-        },
-        {
-          "title": "S. 4784, the National Defense Authorization Act for Fiscal Year 2027",
-          "link": "https://www.cbo.gov/publication/62781",
-          "published": "Mon, 28 Sep 2026 14:40:00 -0400",
-          "description": "As reported by the Senate Committee on Armed Services on June 15, 2026",
-          "relevant": true
-        },
-        {
-          "title": "S. 1981, Strategic Grazing to Reduce Risk of Wildfire Act",
-          "link": "https://www.cbo.gov/publication/62804",
-          "published": "Mon, 28 Sep 2026 12:32:00 -0400",
-          "description": "As reported by the Senate Committee on Energy and Natural Resources on July 23, 2026",
-          "relevant": true
-        },
-        {
-          "title": "H.R. 3276, Local Communities & Bird Habitat Stewardship Act of 2026",
-          "link": "https://www.cbo.gov/publication/62806",
-          "published": "Mon, 28 Sep 2026 12:31:00 -0400",
-          "description": "As passed by the House on September 14, 2026",
-          "relevant": true
-        },
-        {
-          "title": "S. 1680, Virginia Wilderness Addition Act of 2025",
-          "link": "https://www.cbo.gov/publication/62805",
-          "published": "Mon, 28 Sep 2026 12:31:00 -0400",
-          "description": "As reported by the Senate Committee on Agriculture, Nutrition, and Forestry on October 27, 2025",
-          "relevant": true
-        },
-        {
-          "title": "S. 1353, a bill to extend the authority for modifications to the Second Division Memorial in the District of Columbia",
-          "link": "https://www.cbo.gov/publication/62801",
-          "published": "Fri, 25 Sep 2026 16:52:00 -0400",
-          "description": "As reported by the Senate Committee on Energy and Natural Resources on July 23, 2026",
-          "relevant": true
-        },
-        {
-          "title": "S. 1516, the Cahokia Mounds Mississippian Culture Study Act",
-          "link": "https://www.cbo.gov/publication/62802",
-          "published": "Fri, 25 Sep 2026 16:52:00 -0400",
-          "description": "As reported by the Senate Committee on Energy and Natural Resources on July 23, 2026",
-          "relevant": true
         }
       ],
       "count": 10,
       "domain": "US Fiscal",
-      "relevant_count": 10
+      "relevant_count": 9
     },
     {
       "name": "BIS — All Publications",
@@ -515,11 +516,19 @@
       "description": "",
       "entries": [
         {
+          "title": "High public debt, NBFIs and the risk of market dysfunction",
+          "link": "https://www.bis.org/publications/bulletin-136-high-public-debt-nbfis-and-risk-market-dysfunction",
+          "published": "2026-09-29T00:00:00Z",
+          "description": "Near record-high government debt levels and the growing role of non-banks have reshaped government debt markets in recent years. High levels of government sector debt are expected to worsen future government debt market liquidity conditions in general, including by increasing the risk of market dysfunction. A large non-bank financial institution footprint heightens the risk of market dysfunction while also making very favourable liquidity conditions more likely.",
+          "relevant": true
+        },
+        {
           "title": "The leverage ratio and the output floor: complementarities and overlaps",
           "link": "https://www.bis.org/publications/fsi-paper-29-leverage-ratio-and-output-floor-complementarities-and-overlaps",
           "published": "2026-09-28T00:00:00Z",
-          "description": "This paper examines analytically and empirically whether the Basel III leverage ratio (LR) and output floor (OF) requirements act as substitutes for or complements to each other and how they interact with risk‑based regulatory requirements. These requirements determine banks’ overall capital requirements and therefore their capacity to support credit and growth in the economy as well as their resilience to negative shocks.A simple analytical framework maps the three requirements to a common…",
-          "relevant": true
+          "description": "This paper examines analytically and empirically whether the Basel III leverage ratio (LR) and output floor (OF) requirements act as substitutes for or complements to each other and how they interact with risk‑based regulatory requirements.",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
         },
         {
           "title": "Trusted execution environments for central banks",
@@ -579,18 +588,11 @@
           "published": "2026-09-07T00:00:00Z",
           "description": "The amount of central bank reserves to supply has become a highly contentious policy issue for many central banks that shrink their balance sheets which were built up during quantitative easing.",
           "relevant": true
-        },
-        {
-          "title": "Simple, resilient and proportional: revisiting regulation for small banks",
-          "link": "https://www.bis.org/publications/fsi-insight-78-simple-resilient-and-proportional-revisiting-regulation-small-banks",
-          "published": "2026-09-03T00:00:00Z",
-          "description": "Small banks are the backbone of local economies but have distinct business models and risk profiles compared to larger banks. Recognising these differences, the Basel Committee on Banking Supervision (BCBS) promotes proportionality in global banking standards, encouraging tailored requirements based on bank size, complexity, and risk profile. The BCBS does not define ‘small banks’ or prescribe tailoring methods, allowing authorities flexibility to develop approaches suited to local circumstances.",
-          "relevant": true
         }
       ],
       "count": 10,
       "domain": "Global Liquidity",
-      "relevant_count": 7
+      "relevant_count": 6
     },
     {
       "name": "Lyn Alden",
