@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T00:54:50.090758+00:00",
+  "generated_at": "2026-10-01T00:55:22.397463+00:00",
   "source": "rss",
   "feeds_count": 17,
   "total_entries": 90,
@@ -94,6 +94,13 @@
       "description": "Treasury Offering Announcements",
       "entries": [
         {
+          "title": "17-Week Bill Treasury Auction Results",
+          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
+          "published": "Wed, 30 Sep 2026 15:34:18 GMT",
+          "description": "CUSIP:  912797WS2  Term and Type:  17-Week Bill  CMB:  No  High Rate:  4.115%  Investment Rate:  4.230%  Price:  $98.639764  Allotted at High:  59.30%  Total Tendered:  $220,889,238,800  Total Accepted:  $78,818,888,800  Auction Date:  09/30/2026  Issue Date:  10/06/2026  Maturity Date:  02/02/2027  PDF  |  XML",
+          "relevant": true
+        },
+        {
           "title": "52-Week Bill Treasury Auction Results",
           "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
           "published": "Tue, 29 Sep 2026 15:33:33 GMT",
@@ -155,13 +162,6 @@
           "published": "Wed, 23 Sep 2026 15:33:22 GMT",
           "description": "CUSIP:  91282CRD5  Term and Type:  1-Year 10-Month FRN  Series:  BF-2028  Reopening:  Yes  Spread:  0.050%  High Discount Margin:  0.040%  Price:  $100.015499  Allotted at High:  42.15%  Total Tendered:  $73,508,324,500  Total Accepted:  $28,000,087,000  Auction Date:  09/23/2026  Issue Date:  09/25/2026  Maturity Date:  07/31/2028  PDF  |  XML",
           "relevant": true
-        },
-        {
-          "title": "17-Week Bill Treasury Auction Results",
-          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
-          "published": "Wed, 23 Sep 2026 15:33:21 GMT",
-          "description": "CUSIP:  912797WR4  Term and Type:  17-Week Bill  CMB:  No  High Rate:  4.135%  Investment Rate:  4.251%  Price:  $98.633153  Allotted at High:  40.67%  Total Tendered:  $208,245,773,100  Total Accepted:  $77,951,525,600  Auction Date:  09/23/2026  Issue Date:  09/29/2026  Maturity Date:  01/26/2027  PDF  |  XML",
-          "relevant": true
         }
       ],
       "count": 10,
@@ -174,6 +174,29 @@
       "channel": "ECB - European Central Bank",
       "description": "Latest releases on the ECB website - Press releases, speeches and interviews, press conferences.",
       "entries": [
+        {
+          "title": "Christine Lagarde: Interview with La Croix",
+          "link": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260930~10084a5f3d.en.html",
+          "published": "Wed, 30 Sep 2026 19:00:00 +0200",
+          "description": "",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
+        },
+        {
+          "title": "Isabel Schnabel: Monetary policy in a world of overlapping shocks",
+          "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260930_1~7c6c120482.en.html",
+          "published": "Wed, 30 Sep 2026 17:45:00 +0200",
+          "description": "",
+          "relevant": true
+        },
+        {
+          "title": "Frank Elderson: Supervisory risk appetite, efficiency and effectiveness",
+          "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260930~d495288355.en.html",
+          "published": "Wed, 30 Sep 2026 04:20:00 +0200",
+          "description": "",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
+        },
         {
           "title": "ECB amends monetary policy implementation guidelines as part of regular review",
           "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260929~050089e922.en.html",
@@ -223,33 +246,11 @@
           "published": "Wed, 23 Sep 2026 11:00:00 +0200",
           "description": "",
           "relevant": true
-        },
-        {
-          "title": "Philip R. Lane: Interview with Le Temps",
-          "link": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260922~5f89d300ee.en.html",
-          "published": "Tue, 22 Sep 2026 07:00:00 +0200",
-          "description": "",
-          "relevant": false,
-          "_skip_reason": "no_macro_keyword"
-        },
-        {
-          "title": "ECB to invest part of own funds in tokenised securities, with settlement via Pontes",
-          "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260921_1~5a011ecbea.en.html",
-          "published": "Mon, 21 Sep 2026 12:00:00 +0200",
-          "description": "",
-          "relevant": true
-        },
-        {
-          "title": "Eurosystem brings central bank money to tokenised finance",
-          "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260921~e754847a7b.en.html",
-          "published": "Mon, 21 Sep 2026 12:00:00 +0200",
-          "description": "",
-          "relevant": true
         }
       ],
       "count": 10,
       "domain": "Europe",
-      "relevant_count": 8
+      "relevant_count": 7
     },
     {
       "name": "BOJ — Monetary Policy Statements",
@@ -257,6 +258,43 @@
       "channel": "Bank of Japan：RSS",
       "description": "",
       "entries": [
+        {
+          "title": "Summary of Opinions at the Monetary Policy Meeting on September 17 and 18, 2026",
+          "link": "http://www.boj.or.jp/en/mopo/mpmsche_minu/opinion_2026/opi260918.pdf",
+          "published": "Thu, 01 Oct 2026 08:50:00 +0900",
+          "description": "",
+          "relevant": true
+        },
+        {
+          "title": "Tankan (Sept.): Summary and Outline",
+          "link": "http://www.boj.or.jp/en/statistics/tk/tankan09a.htm",
+          "published": "Thu, 01 Oct 2026 08:50:00 +0900",
+          "description": "",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
+        },
+        {
+          "title": "Quarterly Schedule of Outright Purchases of Japanese Government Bonds (Competitive Auction Method) (October-December 2026)",
+          "link": "http://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/mpr260930a.pdf",
+          "published": "Wed, 30 Sep 2026 17:00:00 +0900",
+          "description": "",
+          "relevant": true
+        },
+        {
+          "title": "Liquidity Indicators in the JGB Markets (August)",
+          "link": "http://www.boj.or.jp/en/paym/bond/ryudo.pdf",
+          "published": "Wed, 30 Sep 2026 16:00:00 +0900",
+          "description": "",
+          "relevant": true
+        },
+        {
+          "title": "Payment and Settlement Statistics (Aug.)",
+          "link": "http://www.boj.or.jp/en/statistics/set/kess/release/2026/kess2608.pdf",
+          "published": "Wed, 30 Sep 2026 11:00:00 +0900",
+          "description": "",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
+        },
         {
           "title": "Minutes of the Monetary Policy Meeting on July 30 and 31, 2026",
           "link": "http://www.boj.or.jp/en/mopo/mpmsche_minu/minu_2026/g260731.pdf",
@@ -293,46 +331,11 @@
           "published": "Fri, 25 Sep 2026 14:00:00 +0900",
           "description": "",
           "relevant": true
-        },
-        {
-          "title": "(BOJ Review) Granular Insights into Depositor Dynamics and Deposit Spreads in Japanese G-SIBs' Foreign Currency Deposits",
-          "link": "http://www.boj.or.jp/en/research/wps_rev/rev_2026/rev26e12.htm",
-          "published": "Fri, 25 Sep 2026 14:00:00 +0900",
-          "description": "",
-          "relevant": true
-        },
-        {
-          "title": "Indicators for Core CPI",
-          "link": "http://www.boj.or.jp/en/research/research_data/cpi/index.htm",
-          "published": "Fri, 25 Sep 2026 14:00:00 +0900",
-          "description": "",
-          "relevant": true
-        },
-        {
-          "title": "Bank of Japan Accounts (September 20)",
-          "link": "http://www.boj.or.jp/en/statistics/boj/other/acmai/release/2026/ac260920.htm",
-          "published": "Fri, 25 Sep 2026 10:00:00 +0900",
-          "description": "",
-          "relevant": true
-        },
-        {
-          "title": "Results of BIS International Locational Banking Statistics and International Consolidated Banking Statistics in Japan",
-          "link": "http://www.boj.or.jp/en/statistics/bis/ibs/index.htm",
-          "published": "Fri, 25 Sep 2026 08:50:00 +0900",
-          "description": "",
-          "relevant": true
-        },
-        {
-          "title": "Statistics on Securities Financing Transactions in Japan",
-          "link": "http://www.boj.or.jp/en/statistics/bis/repo/index.htm",
-          "published": "Thu, 24 Sep 2026 08:50:00 +0900",
-          "description": "",
-          "relevant": true
         }
       ],
       "count": 10,
       "domain": "Japan",
-      "relevant_count": 8
+      "relevant_count": 6
     },
     {
       "name": "BOE — News & MPC Minutes",
@@ -340,6 +343,13 @@
       "channel": "News",
       "description": "News",
       "entries": [
+        {
+          "title": "Financial Policy Committee Record – September 2026",
+          "link": "https://www.bankofengland.co.uk/financial-policy-committee-record/2026/september-2026",
+          "published": "Wed, 30 Sep 2026 10:30:00 +0100",
+          "description": "Our Financial Policy Committee (FPC) meets to identify risks to financial stability and agree policy actions aimed at safeguarding the resilience of the UK financial system.",
+          "relevant": true
+        },
         {
           "title": "Minutes of the Market Participants Group meeting – 24 September 2026",
           "link": "https://www.bankofengland.co.uk/minutes/2026/september/market-participants-group-meeting-25-september-2026",
@@ -392,22 +402,15 @@
           "relevant": true
         },
         {
-          "title": "Bank rate maintained at 3.75% - September 2026 Monetary Policy Summary and Minutes",
-          "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/september-2026",
-          "published": "Thu, 17 Sep 2026 12:00:00 +0100",
-          "description": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
-          "relevant": true
-        },
-        {
-          "title": "Asset Purchase Facility: Gilt Sales – Market Notice 17 September 2026",
-          "link": "https://www.bankofengland.co.uk/markets/market-notices/2026/asset-purchase-facility-gilt-sales-market-notice-17-september-2026",
-          "published": "Thu, 17 Sep 2026 12:00:00 +0100",
-          "description": "This Market Notice outlines the Bank Executive’s approach to implementing the Monetary Policy Committee’s (MPC) decision to unwind the gilts held for monetary policy purposes in the Asset Purchase Facility (APF). As part of this, Bank APF auctions will be paused while the Bank reviews a model of selling gilts to the Government.",
-          "relevant": true
-        },
-        {
           "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2026",
           "link": "https://www.bankofengland.co.uk/letter/2026/cpi-inflation-september-2026",
+          "published": "Thu, 17 Sep 2026 12:00:00 +0100",
+          "description": "Exchange of letters between the Governor and the Chancellor",
+          "relevant": true
+        },
+        {
+          "title": "Exchange of letters between the Governor and the Chancellor regarding QT and the APF - September 2026",
+          "link": "https://www.bankofengland.co.uk/letter/2026/exchange-of-letters-between-the-governor-and-the-chancellor-regarding-qt-and-the-apf",
           "published": "Thu, 17 Sep 2026 12:00:00 +0100",
           "description": "Exchange of letters between the Governor and the Chancellor",
           "relevant": true
@@ -424,74 +427,74 @@
       "description": "Nonpartisan budgetary and economic analysis for the U.S. Congress.",
       "entries": [
         {
-          "title": "H.R. 8671, the Bank Fraud Technology Advancement Act of 2026",
-          "link": "https://www.cbo.gov/publication/62819",
-          "published": "Tue, 29 Sep 2026 16:05:00 -0400",
-          "description": "As reported by the House Committee on Financial Services on June 18, 2026",
+          "title": "S. 4399, Geese House Site Conveyance Act",
+          "link": "https://www.cbo.gov/publication/62832",
+          "published": "Wed, 30 Sep 2026 15:55:00 -0400",
+          "description": "As ordered reported by the Senate Committee on Energy and Natural Resources on July 29, 2026",
           "relevant": true
         },
         {
-          "title": "Testimony on Potential Costs of a National Missile Defense System",
-          "link": "https://www.cbo.gov/publication/62760",
-          "published": "Tue, 29 Sep 2026 16:00:00 -0400",
-          "description": "David E. Mosher, CBO's Director of National Security Analysis, testifies before the Senate Armed Services Committee's Subcommittee on Strategic Forces.",
+          "title": "H.R. 2555, Freedom of Association in Higher Education Act of 2026",
+          "link": "https://www.cbo.gov/publication/62830",
+          "published": "Wed, 30 Sep 2026 15:53:00 -0400",
+          "description": "As reported by the House Committee on Education and Workforce on August 27, 2026",
+          "relevant": true
+        },
+        {
+          "title": "H.R. 9394, Civil Preparedness for Agroterrorism Exercise Act of 2026",
+          "link": "https://www.cbo.gov/publication/62831",
+          "published": "Wed, 30 Sep 2026 15:53:00 -0400",
+          "description": "As passed by the House of Representatives on September 16, 2026",
           "relevant": false,
           "_skip_reason": "no_macro_keyword"
         },
         {
-          "title": "H.R. 7882, a bill to provide for the leasing of certain deposits of minerals located within the City of Carlsbad, New Mexico",
-          "link": "https://www.cbo.gov/publication/62816",
-          "published": "Tue, 29 Sep 2026 14:08:00 -0400",
-          "description": "As ordered reported by the House Committee on Natural Resources on June 10, 2026",
+          "title": "H.R. 9331, STOP Payments Fraud Act of 2026",
+          "link": "https://www.cbo.gov/publication/62828",
+          "published": "Wed, 30 Sep 2026 14:57:00 -0400",
+          "description": "As reported by the House Committee on Financial Services on September 1, 2026",
           "relevant": true
         },
         {
-          "title": "H.R. 9084, Department of Energy Nuclear Transparency Act",
-          "link": "https://www.cbo.gov/publication/62815",
-          "published": "Tue, 29 Sep 2026 14:08:00 -0400",
-          "description": "As ordered reported by the House Committee on Energy and Commerce on September 2, 2026",
+          "title": "S. 2542, Federal Building Threat Notification Act",
+          "link": "https://www.cbo.gov/publication/62829",
+          "published": "Wed, 30 Sep 2026 14:57:00 -0400",
+          "description": "As passed by the Senate on August 7, 2026",
           "relevant": true
         },
         {
-          "title": "S. 4965, Railroad Retirement Board Stability Act",
-          "link": "https://www.cbo.gov/publication/62814",
-          "published": "Tue, 29 Sep 2026 14:08:00 -0400",
-          "description": "As reported by the Senate Committee on Health, Education, Labor, and Pensions on August 4, 2026",
+          "title": "H.R. 9468, Saving Today’s Acute-Care Resources Act",
+          "link": "https://www.cbo.gov/publication/62813",
+          "published": "Wed, 30 Sep 2026 14:36:00 -0400",
+          "description": "As ordered reported by the House Committee on Ways and Means on July 15, 2026",
           "relevant": true
         },
         {
-          "title": "H.R. 9338, Pipeline Safety Authorization Act of 2026",
-          "link": "https://www.cbo.gov/publication/62807",
-          "published": "Tue, 29 Sep 2026 12:47:00 -0400",
-          "description": "As ordered reported by the House Committee on Energy and Commerce on July 21, 2026",
+          "title": "H.R. 8870, BUILD America 250 Act",
+          "link": "https://www.cbo.gov/publication/62817",
+          "published": "Wed, 30 Sep 2026 14:25:00 -0400",
+          "description": "As ordered reported by the House Committee on Transportation and Infrastructure on May 22, 2026",
           "relevant": true
         },
         {
-          "title": "S. 2440, a bill to direct the Secretary of Agriculture to convey certain National Forest System land located in Franklin County, Mississippi, and for other purposes",
-          "link": "https://www.cbo.gov/publication/62812",
-          "published": "Mon, 28 Sep 2026 16:46:00 -0400",
-          "description": "As reported by the Senate Committee on Agriculture, Nutrition, and Forestry on October 27, 2025",
+          "title": "S. 1514, Quinault Indian Nation Land Transfer Act",
+          "link": "https://www.cbo.gov/publication/62826",
+          "published": "Wed, 30 Sep 2026 12:48:00 -0400",
+          "description": "As reported by the Senate Committee on Indian Affairs on September 22, 2026",
           "relevant": true
         },
         {
-          "title": "H.R. 2299, Ensuring Workers Get PAID Act of 2025",
-          "link": "https://www.cbo.gov/publication/62811",
-          "published": "Mon, 28 Sep 2026 16:15:00 -0400",
-          "description": "As reported by the House Committee on Education and Workforce on March 3, 2026",
-          "relevant": true
-        },
-        {
-          "title": "H.R. 5235, Skills-Based Federal Contracting Act of 2025",
-          "link": "https://www.cbo.gov/publication/62810",
-          "published": "Mon, 28 Sep 2026 16:08:00 -0400",
-          "description": "As reported by the Senate Committee on Homeland Security and Governmental Affairs on September 14, 2026",
-          "relevant": true
-        },
-        {
-          "title": "H.R. 8163, Provider Reimbursement Stability Act",
-          "link": "https://www.cbo.gov/publication/62808",
-          "published": "Mon, 28 Sep 2026 15:23:00 -0400",
+          "title": "H.R. 3164, Main Street Pharmacy Access Act",
+          "link": "https://www.cbo.gov/publication/62827",
+          "published": "Wed, 30 Sep 2026 11:23:00 -0400",
           "description": "As ordered reported by the House Committee on Ways and Means on May 21, 2026",
+          "relevant": true
+        },
+        {
+          "title": "H.R. 9326, USA Act",
+          "link": "https://www.cbo.gov/publication/62825",
+          "published": "Wed, 30 Sep 2026 09:48:00 -0400",
+          "description": "As ordered reported by the House Committee on Science, Space, and Technology on July 21, 2026",
           "relevant": true
         }
       ],
@@ -515,6 +518,13 @@
       "channel": "BIS — Research Papers",
       "description": "",
       "entries": [
+        {
+          "title": "Core Principles for Effective Deposit Insurance Systems – Executive Summary",
+          "link": "https://www.bis.org/publications/core-principles-effective-deposit-insurance-systems-executive-summary",
+          "published": "2026-09-30T00:00:00Z",
+          "description": "The Core Principles for Effective Deposit Insurance Systems (core principles) of the International Association of Deposit Insurers are the international standard for the design, implementation and assessment of deposit insurance systems. They provide a benchmark for jurisdictions to evaluate and enhance their deposit insurance frameworks, with the dual objectives of safeguarding depositors and promoting financial stability.",
+          "relevant": true
+        },
         {
           "title": "High public debt, NBFIs and the risk of market dysfunction",
           "link": "https://www.bis.org/publications/bulletin-136-high-public-debt-nbfis-and-risk-market-dysfunction",
@@ -580,13 +590,6 @@
           "link": "https://www.bis.org/publications/fsi-paper-28-when-machines-attack-frontier-ai-cyber-threats-and-policy-responses-financial-sector",
           "published": "2026-09-09T00:00:00Z",
           "description": "Frontier artificial intelligence (AI) models are a game changer in the cyber threat landscape. Unlike earlier generations of AI models, they can autonomously identify critical vulnerabilities, develop effective exploits and conduct increasingly complex multi-step cyber operations, thus reducing the expertise, time and resources needed to carry out sophisticated attacks. At the same time, these capabilities offer significant defensive opportunities, including faster vulnerability discovery, threat detection and incident response.",
-          "relevant": true
-        },
-        {
-          "title": "What determines banks' excess demand for reserves?",
-          "link": "https://www.bis.org/publications/working-paper-1376-what-determines-banks-excess-demand-reserves",
-          "published": "2026-09-07T00:00:00Z",
-          "description": "The amount of central bank reserves to supply has become a highly contentious policy issue for many central banks that shrink their balance sheets which were built up during quantitative easing.",
           "relevant": true
         }
       ],
