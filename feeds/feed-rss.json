@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T00:55:22.397463+00:00",
+  "generated_at": "2026-10-02T01:12:10.528331+00:00",
   "source": "rss",
   "feeds_count": 17,
   "total_entries": 90,
@@ -94,6 +94,20 @@
       "description": "Treasury Offering Announcements",
       "entries": [
         {
+          "title": "4-Week Bill Treasury Auction Results",
+          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
+          "published": "Thu, 01 Oct 2026 15:33:42 GMT",
+          "description": "CUSIP:  912797VP9  Term and Type:  4-Week Bill  CMB:  No  High Rate:  3.890%  Investment Rate:  3.956%  Price:  $99.697444  Allotted at High:  23.52%  Total Tendered:  $288,487,682,500  Total Accepted:  $105,092,402,500  Auction Date:  10/01/2026  Issue Date:  10/06/2026  Maturity Date:  11/03/2026  PDF  |  XML",
+          "relevant": true
+        },
+        {
+          "title": "8-Week Bill Treasury Auction Results",
+          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
+          "published": "Thu, 01 Oct 2026 15:33:41 GMT",
+          "description": "CUSIP:  912797VZ7  Term and Type:  8-Week Bill  CMB:  No  High Rate:  3.990%  Investment Rate:  4.071%  Price:  $99.379333  Allotted at High:  65.05%  Total Tendered:  $261,001,699,200  Total Accepted:  $99,837,524,200  Auction Date:  10/01/2026  Issue Date:  10/06/2026  Maturity Date:  12/01/2026  PDF  |  XML",
+          "relevant": true
+        },
+        {
           "title": "17-Week Bill Treasury Auction Results",
           "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
           "published": "Wed, 30 Sep 2026 15:34:18 GMT",
@@ -148,20 +162,6 @@
           "published": "Thu, 24 Sep 2026 15:33:20 GMT",
           "description": "CUSIP:  912797VN4  Term and Type:  4-Week Bill  CMB:  No  High Rate:  3.850%  Investment Rate:  3.915%  Price:  $99.700556  Allotted at High:  54.97%  Total Tendered:  $242,512,404,700  Total Accepted:  $97,439,704,700  Auction Date:  09/24/2026  Issue Date:  09/29/2026  Maturity Date:  10/27/2026  PDF  |  XML",
           "relevant": true
-        },
-        {
-          "title": "5-Year Note Treasury Auction Results",
-          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
-          "published": "Wed, 23 Sep 2026 17:03:32 GMT",
-          "description": "CUSIP:  91282CRN3  Term and Type:  5-Year Note  Series:  AD-2031  Reopening:  No  Interest Rate:  5.000%  High Yield:  5.033%  Price:  $99.855714  Allotted at High:  30.34%  Total Tendered:  $165,388,603,000  Total Accepted:  $80,538,513,000  Auction Date:  09/23/2026  Issue Date:  09/30/2026  Maturity Date:  09/30/2031  PDF  |  XML",
-          "relevant": true
-        },
-        {
-          "title": "1-Year 10-Month FRN Treasury Auction Results",
-          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
-          "published": "Wed, 23 Sep 2026 15:33:22 GMT",
-          "description": "CUSIP:  91282CRD5  Term and Type:  1-Year 10-Month FRN  Series:  BF-2028  Reopening:  Yes  Spread:  0.050%  High Discount Margin:  0.040%  Price:  $100.015499  Allotted at High:  42.15%  Total Tendered:  $73,508,324,500  Total Accepted:  $28,000,087,000  Auction Date:  09/23/2026  Issue Date:  09/25/2026  Maturity Date:  07/31/2028  PDF  |  XML",
-          "relevant": true
         }
       ],
       "count": 10,
@@ -174,6 +174,20 @@
       "channel": "ECB - European Central Bank",
       "description": "Latest releases on the ECB website - Press releases, speeches and interviews, press conferences.",
       "entries": [
+        {
+          "title": "Isabel Schnabel: Central banks on-chain",
+          "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261001_1~a0be67193b.en.pdf",
+          "published": "Thu, 01 Oct 2026 17:30:00 +0200",
+          "description": "",
+          "relevant": true
+        },
+        {
+          "title": "Christine Lagarde: Where AI risks meet",
+          "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261001~cf3c630379.en.html",
+          "published": "Thu, 01 Oct 2026 15:30:00 +0200",
+          "description": "",
+          "relevant": true
+        },
         {
           "title": "Christine Lagarde: Interview with La Croix",
           "link": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260930~10084a5f3d.en.html",
@@ -231,26 +245,11 @@
           "published": "Wed, 23 Sep 2026 18:30:00 +0200",
           "description": "",
           "relevant": true
-        },
-        {
-          "title": "The digitalisation of money, payments and finance",
-          "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260923~87850778f5.en.pdf",
-          "published": "Wed, 23 Sep 2026 18:00:00 +0200",
-          "description": "",
-          "relevant": false,
-          "_skip_reason": "no_macro_keyword"
-        },
-        {
-          "title": "Almost ten million people took part in ECB survey on new euro banknotes",
-          "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260923~6ebddaf01e.en.html",
-          "published": "Wed, 23 Sep 2026 11:00:00 +0200",
-          "description": "",
-          "relevant": true
         }
       ],
       "count": 10,
       "domain": "Europe",
-      "relevant_count": 7
+      "relevant_count": 8
     },
     {
       "name": "BOJ — Monetary Policy Statements",
@@ -258,6 +257,37 @@
       "channel": "Bank of Japan：RSS",
       "description": "",
       "entries": [
+        {
+          "title": "Average Contract Interest Rates on Loans and Discounts (Aug.)",
+          "link": "http://www.boj.or.jp/en/statistics/dl/loan/yaku/yaku2608.pdf",
+          "published": "Fri, 02 Oct 2026 08:50:00 +0900",
+          "description": "",
+          "relevant": true
+        },
+        {
+          "title": "Monetary Base (Sept.)",
+          "link": "http://www.boj.or.jp/en/statistics/boj/other/mb/mb.htm",
+          "published": "Fri, 02 Oct 2026 08:50:00 +0900",
+          "description": "",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
+        },
+        {
+          "title": "Tankan (Sept.): Comprehensive Data Set",
+          "link": "http://www.boj.or.jp/en/statistics/tk/tankan09b.htm",
+          "published": "Fri, 02 Oct 2026 08:50:00 +0900",
+          "description": "",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
+        },
+        {
+          "title": "Sources of Changes in Current Account Balances and Market Operations (Sept.)",
+          "link": "http://www.boj.or.jp/en/statistics/boj/fm/juqf/juqf09.xlsx",
+          "published": "Thu, 01 Oct 2026 13:00:00 +0900",
+          "description": "",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
+        },
         {
           "title": "Summary of Opinions at the Monetary Policy Meeting on September 17 and 18, 2026",
           "link": "http://www.boj.or.jp/en/mopo/mpmsche_minu/opinion_2026/opi260918.pdf",
@@ -301,41 +331,11 @@
           "published": "Mon, 28 Sep 2026 08:50:00 +0900",
           "description": "",
           "relevant": true
-        },
-        {
-          "title": "Services Producer Price Index (Aug.)",
-          "link": "http://www.boj.or.jp/en/statistics/pi/cspi_release/sppi2608.pdf",
-          "published": "Mon, 28 Sep 2026 08:50:00 +0900",
-          "description": "",
-          "relevant": false,
-          "_skip_reason": "no_macro_keyword"
-        },
-        {
-          "title": "Conduct of Funds-Supplying Operations against Pooled Collateral",
-          "link": "http://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/mpr260925a.pdf",
-          "published": "Fri, 25 Sep 2026 17:00:00 +0900",
-          "description": "",
-          "relevant": false,
-          "_skip_reason": "no_macro_keyword"
-        },
-        {
-          "title": "Japanese Government Bonds Held by the Bank of Japan",
-          "link": "http://www.boj.or.jp/en/statistics/boj/other/mei/release/2026/mei260918.xlsx",
-          "published": "Fri, 25 Sep 2026 17:00:00 +0900",
-          "description": "",
-          "relevant": true
-        },
-        {
-          "title": "(BOJ Review)The Expansion and Diversification of Private Credit Funds",
-          "link": "http://www.boj.or.jp/en/research/wps_rev/rev_2026/rev26e13.htm",
-          "published": "Fri, 25 Sep 2026 14:00:00 +0900",
-          "description": "",
-          "relevant": true
         }
       ],
       "count": 10,
       "domain": "Japan",
-      "relevant_count": 6
+      "relevant_count": 5
     },
     {
       "name": "BOE — News & MPC Minutes",
@@ -343,6 +343,13 @@
       "channel": "News",
       "description": "News",
       "entries": [
+        {
+          "title": "Minutes of the Meeting of the Court of Directors held on 16 July 2026",
+          "link": "https://www.bankofengland.co.uk/minutes/2026/july/court-minutes-16-july-2026",
+          "published": "Thu, 01 Oct 2026 14:00:00 +0100",
+          "description": "The Bank's Court of Directors acts as a unitary board, setting the organisation's strategy and budget and taking key decisions on resourcing and appointments. Required to meet a minimum seven times per year, it has five executive members from the Bank and up to nine non-executive members.",
+          "relevant": true
+        },
         {
           "title": "Financial Policy Committee Record – September 2026",
           "link": "https://www.bankofengland.co.uk/financial-policy-committee-record/2026/september-2026",
@@ -407,13 +414,6 @@
           "published": "Thu, 17 Sep 2026 12:00:00 +0100",
           "description": "Exchange of letters between the Governor and the Chancellor",
           "relevant": true
-        },
-        {
-          "title": "Exchange of letters between the Governor and the Chancellor regarding QT and the APF - September 2026",
-          "link": "https://www.bankofengland.co.uk/letter/2026/exchange-of-letters-between-the-governor-and-the-chancellor-regarding-qt-and-the-apf",
-          "published": "Thu, 17 Sep 2026 12:00:00 +0100",
-          "description": "Exchange of letters between the Governor and the Chancellor",
-          "relevant": true
         }
       ],
       "count": 10,
@@ -426,6 +426,20 @@
       "channel": "CBO Publications",
       "description": "Nonpartisan budgetary and economic analysis for the U.S. Congress.",
       "entries": [
+        {
+          "title": "H.R. 7427, Securing Access from Foreign Entities Visiting Internal Sites in the States Act",
+          "link": "https://www.cbo.gov/publication/62820",
+          "published": "Thu, 01 Oct 2026 14:21:00 -0400",
+          "description": "As ordered reported by the House Committee on Homeland Security on June 24, 2026",
+          "relevant": true
+        },
+        {
+          "title": "S. 2578, Strengthening the Rule of Law in the Brazilian Amazon Act",
+          "link": "https://www.cbo.gov/publication/62786",
+          "published": "Thu, 01 Oct 2026 11:22:00 -0400",
+          "description": "As reported by the Senate Committee on Foreign Relations on July 27, 2026",
+          "relevant": true
+        },
         {
           "title": "S. 4399, Geese House Site Conveyance Act",
           "link": "https://www.cbo.gov/publication/62832",
@@ -482,20 +496,6 @@
           "published": "Wed, 30 Sep 2026 12:48:00 -0400",
           "description": "As reported by the Senate Committee on Indian Affairs on September 22, 2026",
           "relevant": true
-        },
-        {
-          "title": "H.R. 3164, Main Street Pharmacy Access Act",
-          "link": "https://www.cbo.gov/publication/62827",
-          "published": "Wed, 30 Sep 2026 11:23:00 -0400",
-          "description": "As ordered reported by the House Committee on Ways and Means on May 21, 2026",
-          "relevant": true
-        },
-        {
-          "title": "H.R. 9326, USA Act",
-          "link": "https://www.cbo.gov/publication/62825",
-          "published": "Wed, 30 Sep 2026 09:48:00 -0400",
-          "description": "As ordered reported by the House Committee on Science, Space, and Technology on July 21, 2026",
-          "relevant": true
         }
       ],
       "count": 10,
@@ -518,6 +518,13 @@
       "channel": "BIS — Research Papers",
       "description": "",
       "entries": [
+        {
+          "title": "Circular relationships among AI firms",
+          "link": "https://www.bis.org/publications/bulletin-137-circular-relationships-among-ai-firms",
+          "published": "2026-10-01T00:00:00Z",
+          "description": "Between 2021 and 2025, 28.7% of artificial intelligence (AI) firms’ investment deals (by deal value) involved a target company that was also an AI firm, while 55.2% of incoming investments in AI firms came from other AI firms.",
+          "relevant": true
+        },
         {
           "title": "Core Principles for Effective Deposit Insurance Systems – Executive Summary",
           "link": "https://www.bis.org/publications/core-principles-effective-deposit-insurance-systems-executive-summary",
@@ -584,13 +591,6 @@
           "description": "",
           "relevant": false,
           "_skip_reason": "no_macro_keyword"
-        },
-        {
-          "title": "When machines attack: frontier AI cyber threats and policy responses in the financial sector",
-          "link": "https://www.bis.org/publications/fsi-paper-28-when-machines-attack-frontier-ai-cyber-threats-and-policy-responses-financial-sector",
-          "published": "2026-09-09T00:00:00Z",
-          "description": "Frontier artificial intelligence (AI) models are a game changer in the cyber threat landscape. Unlike earlier generations of AI models, they can autonomously identify critical vulnerabilities, develop effective exploits and conduct increasingly complex multi-step cyber operations, thus reducing the expertise, time and resources needed to carry out sophisticated attacks. At the same time, these capabilities offer significant defensive opportunities, including faster vulnerability discovery, threat detection and incident response.",
-          "relevant": true
         }
       ],
       "count": 10,

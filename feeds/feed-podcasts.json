@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T00:55:22.397463+00:00",
+  "generated_at": "2026-10-02T01:12:10.528331+00:00",
   "source": "podcast_rss",
   "feeds_count": 5,
   "total_episodes": 40,
@@ -192,7 +192,7 @@
           "published": "Mon, 28 Sep 2026 12:05:00 -0000",
           "description": "My guest today is Noah Shinn. Noah is the founder of Instinct, a personal assistant that you text, call, or email the same way you would a person. It has its own phone and its own computer, and it can do almost anything on your behalf that you would do yourself online. Instinct is about a year old, still invite-only, and growing roughly 10% day over day without any marketing spend.\n\nWe discuss the surprising ways people are already using Instinct, the trusted network that lets two people's agents coordinate directly, and what Noah has learned about how long it takes users to trust an agent with their credit card, inbox, and calendar. He explains why he refuses to build an ad model and why he believes a personal agent should never influence users against their own interests.\n\nWe also cover",
           "audio_url": "https://traffic.megaphone.fm/CLS4620503535.mp3",
-          "duration": "5173"
+          "duration": "4290"
         },
         {
           "title": "Gabe Stengel - Building Investing Superintelligence - [Invest Like the Best, EP.492]",
