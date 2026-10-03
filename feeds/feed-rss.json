@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T01:12:10.528331+00:00",
+  "generated_at": "2026-10-03T00:49:34.293656+00:00",
   "source": "rss",
   "feeds_count": 17,
   "total_entries": 90,
@@ -175,6 +175,20 @@
       "description": "Latest releases on the ECB website - Press releases, speeches and interviews, press conferences.",
       "entries": [
         {
+          "title": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
+          "link": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc261002~54c6b5672b.en.html",
+          "published": "Fri, 02 Oct 2026 15:00:00 +0200",
+          "description": "",
+          "relevant": true
+        },
+        {
+          "title": "Boris Vujčić: Resilience, integration and competitiveness: building the future of European banking",
+          "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261002_1~419efe18e0.en.html",
+          "published": "Fri, 02 Oct 2026 13:30:00 +0200",
+          "description": "",
+          "relevant": true
+        },
+        {
           "title": "Isabel Schnabel: Central banks on-chain",
           "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261001_1~a0be67193b.en.pdf",
           "published": "Thu, 01 Oct 2026 17:30:00 +0200",
@@ -231,20 +245,6 @@
           "published": "Thu, 24 Sep 2026 14:00:00 +0200",
           "description": "",
           "relevant": true
-        },
-        {
-          "title": "Philip R. Lane: The outlook for the euro area economy",
-          "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260924~e0eceef02c.en.pdf",
-          "published": "Thu, 24 Sep 2026 11:00:00 +0200",
-          "description": "",
-          "relevant": true
-        },
-        {
-          "title": "Philip R. Lane: The Outlook for the Euro Area Economy",
-          "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260923_1~ac21bf46e3.en.pdf",
-          "published": "Wed, 23 Sep 2026 18:30:00 +0200",
-          "description": "",
-          "relevant": true
         }
       ],
       "count": 10,
@@ -257,6 +257,20 @@
       "channel": "Bank of Japan：RSS",
       "description": "",
       "entries": [
+        {
+          "title": "Japanese Government Bonds Held by the Bank of Japan",
+          "link": "http://www.boj.or.jp/en/statistics/boj/other/mei/release/2026/mei260930.xlsx",
+          "published": "Fri, 02 Oct 2026 17:00:00 +0900",
+          "description": "",
+          "relevant": true
+        },
+        {
+          "title": "Collateral Accepted by the Bank of Japan (End of Sept.)",
+          "link": "http://www.boj.or.jp/en/statistics/boj/other/col/col2609.xlsx",
+          "published": "Fri, 02 Oct 2026 17:00:00 +0900",
+          "description": "",
+          "relevant": true
+        },
         {
           "title": "Average Contract Interest Rates on Loans and Discounts (Aug.)",
           "link": "http://www.boj.or.jp/en/statistics/dl/loan/yaku/yaku2608.pdf",
@@ -316,26 +330,11 @@
           "published": "Wed, 30 Sep 2026 16:00:00 +0900",
           "description": "",
           "relevant": true
-        },
-        {
-          "title": "Payment and Settlement Statistics (Aug.)",
-          "link": "http://www.boj.or.jp/en/statistics/set/kess/release/2026/kess2608.pdf",
-          "published": "Wed, 30 Sep 2026 11:00:00 +0900",
-          "description": "",
-          "relevant": false,
-          "_skip_reason": "no_macro_keyword"
-        },
-        {
-          "title": "Minutes of the Monetary Policy Meeting on July 30 and 31, 2026",
-          "link": "http://www.boj.or.jp/en/mopo/mpmsche_minu/minu_2026/g260731.pdf",
-          "published": "Mon, 28 Sep 2026 08:50:00 +0900",
-          "description": "",
-          "relevant": true
         }
       ],
       "count": 10,
       "domain": "Japan",
-      "relevant_count": 5
+      "relevant_count": 6
     },
     {
       "name": "BOE — News & MPC Minutes",
@@ -343,6 +342,13 @@
       "channel": "News",
       "description": "News",
       "entries": [
+        {
+          "title": "Appointment of members of the Enforcement Decision Making Committee (EDMC)",
+          "link": "https://www.bankofengland.co.uk/news/2026/october/appointment-of-members-of-the-edmc",
+          "published": "Fri, 02 Oct 2026 09:00:00 +0100",
+          "description": "Following an external recruitment process, the Bank of England has appointed Carlos Conceicao and Alexander Justham as members of its Enforcement Decision Making Committee, with effect from September 2026.",
+          "relevant": true
+        },
         {
           "title": "Minutes of the Meeting of the Court of Directors held on 16 July 2026",
           "link": "https://www.bankofengland.co.uk/minutes/2026/july/court-minutes-16-july-2026",
@@ -407,13 +413,6 @@
           "published": "Thu, 17 Sep 2026 14:30:00 +0100",
           "description": "2027 confirmed dates",
           "relevant": true
-        },
-        {
-          "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2026",
-          "link": "https://www.bankofengland.co.uk/letter/2026/cpi-inflation-september-2026",
-          "published": "Thu, 17 Sep 2026 12:00:00 +0100",
-          "description": "Exchange of letters between the Governor and the Chancellor",
-          "relevant": true
         }
       ],
       "count": 10,
@@ -426,6 +425,14 @@
       "channel": "CBO Publications",
       "description": "Nonpartisan budgetary and economic analysis for the U.S. Congress.",
       "entries": [
+        {
+          "title": "My Recent and Upcoming Speaking Engagements",
+          "link": "https://www.cbo.gov/publication/62794",
+          "published": "Fri, 02 Oct 2026 11:00:00 -0400",
+          "description": "CBO's Director, Phillip Swagel, discusses his recent and upcoming speaking engagements about the agency's work, its mission, and the U.S. economy.",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
+        },
         {
           "title": "H.R. 7427, Securing Access from Foreign Entities Visiting Internal Sites in the States Act",
           "link": "https://www.cbo.gov/publication/62820",
@@ -489,18 +496,11 @@
           "published": "Wed, 30 Sep 2026 14:25:00 -0400",
           "description": "As ordered reported by the House Committee on Transportation and Infrastructure on May 22, 2026",
           "relevant": true
-        },
-        {
-          "title": "S. 1514, Quinault Indian Nation Land Transfer Act",
-          "link": "https://www.cbo.gov/publication/62826",
-          "published": "Wed, 30 Sep 2026 12:48:00 -0400",
-          "description": "As reported by the Senate Committee on Indian Affairs on September 22, 2026",
-          "relevant": true
         }
       ],
       "count": 10,
       "domain": "US Fiscal",
-      "relevant_count": 9
+      "relevant_count": 8
     },
     {
       "name": "BIS — All Publications",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T01:12:10.528331+00:00",
+  "generated_at": "2026-10-03T00:49:34.293656+00:00",
   "source": "podcast_rss",
   "feeds_count": 5,
   "total_episodes": 40,
@@ -99,6 +99,14 @@
       "description": "What’s driving this week’s market moves – and where are the biggest opportunities? Goldman Sachs traders discuss.",
       "episodes": [
         {
+          "title": "AI Is Becoming a Stock Picker's Market",
+          "link": "",
+          "published": "Fri, 02 Oct 2026 04:00:00 -0000",
+          "description": "Trading in artificial intelligence (AI) stocks is evolving as investor interest broadens beyond semiconductor makers and companies that benefit from capital expenditures in AI, says Peter Callahan, US Technology, Media, and Telecommunications sector specialist in Goldman Sachs FICC and Equities. On The Markets podcast, he says investors are increasingly focused on companies that help organizations implement the technology and AI agents for commerce.&nbsp;Callahan also discusses how rising interest rates are impacting technology stocks, the growing dispersion among software companies, and his outlook for semiconductor stocks.\n\nThis episode was filmed on September 30, 2026.&nbsp;\n\nThe opinions and views expressed herein are as of the date of publication, subject to change without notice, and",
+          "audio_url": "https://mgln.ai/e/1720/traffic.megaphone.fm/GLD2330470894.mp3",
+          "duration": "563"
+        },
+        {
           "title": "Why the Bond Market May Be the Stock Market's Biggest Risk",
           "link": "",
           "published": "Fri, 25 Sep 2026 04:00:00 -0000",
@@ -169,14 +177,6 @@
           "description": "Tech stocks&nbsp;been buffeted by&nbsp;a reversal of momentum in US equities,&nbsp;but hedge funds&nbsp;are still&nbsp;fundamentally&nbsp;bullish on&nbsp;AI stocks, according to Vincent Lin, co-head of Prime Insights and Analytics&nbsp;in Global Banking & Markets.&nbsp;In this conversation with Chris Hussey,&nbsp;he&nbsp;explains&nbsp;why&nbsp;the greatest&nbsp;cumulative&nbsp;selling of tech stocks in&nbsp;the history of&nbsp;his data set&nbsp;looks more like a “healthy reset” amid crowded trades and high&nbsp;volatility&nbsp;rather than a loss of&nbsp;conviction&nbsp;in the&nbsp;AI trade.&nbsp;\n\nDate of recording: July 22, 2026.\n\nThe opinions and views expressed herein are as of the date of publication, subject to change without notice, and may not necessarily reflect the institutional v",
           "audio_url": "https://mgln.ai/e/1720/traffic.megaphone.fm/GLD1585719002.mp3",
           "duration": "703"
-        },
-        {
-          "title": "The 'Market of Stocks' vs. the 'Stock Market'",
-          "link": "",
-          "published": "Fri, 17 Jul 2026 04:00:00 -0000",
-          "description": "As more US companies report earnings next week,&nbsp;the&nbsp;bar is&nbsp;“very&nbsp;high” from&nbsp;the perspective of&nbsp;analysts and option market&nbsp;makers,&nbsp;says Brian Garrett, head of equities&nbsp;on&nbsp;the Cross Asset Sales desk in&nbsp;FICC & Equities.&nbsp;In this conversation&nbsp;with Chris Hussey, he&nbsp;also&nbsp;discusses&nbsp;how debt issuance from&nbsp;hyperscalers&nbsp;to fund AI capex is filtering through fixed-income markets and the divergence between&nbsp;single&nbsp;stock volatility and equity index.\n\nThis episode was recorded in July 15, 2026.\n\nThe opinions and views expressed herein are as of the date of publication, subject to change without notice, and may not necessarily reflect the institutional views of Goldman Sachs or its affiliates. The material p",
-          "audio_url": "https://mgln.ai/e/1720/traffic.megaphone.fm/GLD1244006044.mp3",
-          "duration": "747"
         }
       ]
     },
