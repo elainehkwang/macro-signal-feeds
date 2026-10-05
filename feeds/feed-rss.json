@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T00:14:24.244416+00:00",
+  "generated_at": "2026-10-05T00:19:31.515711+00:00",
   "source": "rss",
   "feeds_count": 17,
   "total_entries": 90,
@@ -258,6 +258,14 @@
       "description": "",
       "entries": [
         {
+          "title": "Sources of Changes in Current Account Balances (Projections for Oct.)",
+          "link": "http://www.boj.or.jp/en/statistics/boj/fm/juqp/juqp2610.xlsx",
+          "published": "Mon, 05 Oct 2026 08:50:00 +0900",
+          "description": "",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
+        },
+        {
           "title": "Japanese Government Bonds Held by the Bank of Japan",
           "link": "http://www.boj.or.jp/en/statistics/boj/other/mei/release/2026/mei260930.xlsx",
           "published": "Fri, 02 Oct 2026 17:00:00 +0900",
@@ -323,18 +331,11 @@
           "published": "Wed, 30 Sep 2026 17:00:00 +0900",
           "description": "",
           "relevant": true
-        },
-        {
-          "title": "Liquidity Indicators in the JGB Markets (August)",
-          "link": "http://www.boj.or.jp/en/paym/bond/ryudo.pdf",
-          "published": "Wed, 30 Sep 2026 16:00:00 +0900",
-          "description": "",
-          "relevant": true
         }
       ],
       "count": 10,
       "domain": "Japan",
-      "relevant_count": 6
+      "relevant_count": 5
     },
     {
       "name": "BOE — News & MPC Minutes",
