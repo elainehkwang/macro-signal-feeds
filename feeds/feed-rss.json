@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T00:19:31.515711+00:00",
+  "generated_at": "2026-10-06T01:59:02.361718+00:00",
   "source": "rss",
   "feeds_count": 17,
   "total_entries": 90,
@@ -94,6 +94,20 @@
       "description": "Treasury Offering Announcements",
       "entries": [
         {
+          "title": "13-Week Bill Treasury Auction Results",
+          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
+          "published": "Mon, 05 Oct 2026 15:34:07 GMT",
+          "description": "CUSIP:  912797VS3  Term and Type:  13-Week Bill  CMB:  No  High Rate:  4.050%  Investment Rate:  4.149%  Price:  $98.976250  Allotted at High:  21.30%  Total Tendered:  $245,268,069,500  Total Accepted:  $102,156,469,500  Auction Date:  10/05/2026  Issue Date:  10/08/2026  Maturity Date:  01/07/2027  PDF  |  XML",
+          "relevant": true
+        },
+        {
+          "title": "26-Week Bill Treasury Auction Results",
+          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
+          "published": "Mon, 05 Oct 2026 15:34:06 GMT",
+          "description": "CUSIP:  912797WU7  Term and Type:  26-Week Bill  CMB:  No  High Rate:  4.165%  Investment Rate:  4.314%  Price:  $97.894361  Allotted at High:  40.62%  Total Tendered:  $234,814,486,400  Total Accepted:  $88,177,146,400  Auction Date:  10/05/2026  Issue Date:  10/08/2026  Maturity Date:  04/08/2027  PDF  |  XML",
+          "relevant": true
+        },
+        {
           "title": "4-Week Bill Treasury Auction Results",
           "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
           "published": "Thu, 01 Oct 2026 15:33:42 GMT",
@@ -148,20 +162,6 @@
           "published": "Thu, 24 Sep 2026 17:03:20 GMT",
           "description": "CUSIP:  91282CRM5  Term and Type:  7-Year Note  Series:  Q-2033  Reopening:  No  Interest Rate:  5.000%  High Yield:  5.085%  Price:  $99.504596  Allotted at High:  91.11%  Total Tendered:  $113,215,981,000  Total Accepted:  $50,624,250,500  Auction Date:  09/24/2026  Issue Date:  09/30/2026  Maturity Date:  09/30/2033  PDF  |  XML",
           "relevant": true
-        },
-        {
-          "title": "8-Week Bill Treasury Auction Results",
-          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
-          "published": "Thu, 24 Sep 2026 15:33:21 GMT",
-          "description": "CUSIP:  912797VY0  Term and Type:  8-Week Bill  CMB:  No  High Rate:  3.990%  Investment Rate:  4.071%  Price:  $99.379333  Allotted at High:  23.84%  Total Tendered:  $241,527,849,800  Total Accepted:  $92,026,009,800  Auction Date:  09/24/2026  Issue Date:  09/29/2026  Maturity Date:  11/24/2026  PDF  |  XML",
-          "relevant": true
-        },
-        {
-          "title": "4-Week Bill Treasury Auction Results",
-          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
-          "published": "Thu, 24 Sep 2026 15:33:20 GMT",
-          "description": "CUSIP:  912797VN4  Term and Type:  4-Week Bill  CMB:  No  High Rate:  3.850%  Investment Rate:  3.915%  Price:  $99.700556  Allotted at High:  54.97%  Total Tendered:  $242,512,404,700  Total Accepted:  $97,439,704,700  Auction Date:  09/24/2026  Issue Date:  09/29/2026  Maturity Date:  10/27/2026  PDF  |  XML",
-          "relevant": true
         }
       ],
       "count": 10,
@@ -174,6 +174,13 @@
       "channel": "ECB - European Central Bank",
       "description": "Latest releases on the ECB website - Press releases, speeches and interviews, press conferences.",
       "entries": [
+        {
+          "title": "Philip R. Lane: Diagnostic Challenges for ECB Monetary Policy",
+          "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261005~1d8d998ef4.en.html",
+          "published": "Mon, 05 Oct 2026 10:00:00 +0200",
+          "description": "",
+          "relevant": true
+        },
         {
           "title": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
           "link": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc261002~54c6b5672b.en.html",
@@ -238,13 +245,6 @@
           "published": "Mon, 28 Sep 2026 15:30:00 +0200",
           "description": "",
           "relevant": true
-        },
-        {
-          "title": "ECB Executive Board member Isabel Schnabel to resign to take senior role at IMF",
-          "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260924~bea1dd9824.en.html",
-          "published": "Thu, 24 Sep 2026 14:00:00 +0200",
-          "description": "",
-          "relevant": true
         }
       ],
       "count": 10,
@@ -257,6 +257,28 @@
       "channel": "Bank of Japan：RSS",
       "description": "",
       "entries": [
+        {
+          "title": "Output Gap, Potential Growth Rate, and Labor Market Indicators",
+          "link": "http://www.boj.or.jp/en/research/research_data/gap/index.htm",
+          "published": "Mon, 05 Oct 2026 14:00:00 +0900",
+          "description": "",
+          "relevant": true
+        },
+        {
+          "title": "Opening Remarks by Deputy Governor UCHIDA at the ECONDAT 2026 Fall Meeting (AI, Big Data, and Monetary Policy)",
+          "link": "http://www.boj.or.jp/en/about/press/koen_2026/ko261005a.htm",
+          "published": "Mon, 05 Oct 2026 09:20:00 +0900",
+          "description": "",
+          "relevant": true
+        },
+        {
+          "title": "8th Conference on Nontraditional Data, Machine Learning, and Natural Language Processing in Macroeconomics (ECONDAT 2026 Fall Meeting)",
+          "link": "http://www.boj.or.jp/en/research/conf/conf2610a.htm",
+          "published": "Mon, 05 Oct 2026 09:20:00 +0900",
+          "description": "",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
+        },
         {
           "title": "Sources of Changes in Current Account Balances (Projections for Oct.)",
           "link": "http://www.boj.or.jp/en/statistics/boj/fm/juqp/juqp2610.xlsx",
@@ -309,28 +331,6 @@
           "description": "",
           "relevant": false,
           "_skip_reason": "no_macro_keyword"
-        },
-        {
-          "title": "Summary of Opinions at the Monetary Policy Meeting on September 17 and 18, 2026",
-          "link": "http://www.boj.or.jp/en/mopo/mpmsche_minu/opinion_2026/opi260918.pdf",
-          "published": "Thu, 01 Oct 2026 08:50:00 +0900",
-          "description": "",
-          "relevant": true
-        },
-        {
-          "title": "Tankan (Sept.): Summary and Outline",
-          "link": "http://www.boj.or.jp/en/statistics/tk/tankan09a.htm",
-          "published": "Thu, 01 Oct 2026 08:50:00 +0900",
-          "description": "",
-          "relevant": false,
-          "_skip_reason": "no_macro_keyword"
-        },
-        {
-          "title": "Quarterly Schedule of Outright Purchases of Japanese Government Bonds (Competitive Auction Method) (October-December 2026)",
-          "link": "http://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/mpr260930a.pdf",
-          "published": "Wed, 30 Sep 2026 17:00:00 +0900",
-          "description": "",
-          "relevant": true
         }
       ],
       "count": 10,
@@ -427,6 +427,27 @@
       "description": "Nonpartisan budgetary and economic analysis for the U.S. Congress.",
       "entries": [
         {
+          "title": "H.R. 9721, Fiscal Sponsorship Transparency Act of 2026",
+          "link": "https://www.cbo.gov/publication/62834",
+          "published": "Mon, 05 Oct 2026 14:31:00 -0400",
+          "description": "As ordered reported by the House Committee on Ways and Means on July 22, 2026",
+          "relevant": true
+        },
+        {
+          "title": "S. 4097, State-Based Education Loan Awareness Act",
+          "link": "https://www.cbo.gov/publication/62833",
+          "published": "Mon, 05 Oct 2026 14:30:00 -0400",
+          "description": "As reported by the Senate Committee on Health, Education, Labor and Pensions on August 4, 2026",
+          "relevant": true
+        },
+        {
+          "title": "Treasury Duration Supply and Term Premiums: Working Paper 2026-11",
+          "link": "https://www.cbo.gov/publication/62759",
+          "published": "Mon, 05 Oct 2026 14:00:00 -0400",
+          "description": "In this working paper, the effect of Treasury duration supply on term premiums is estimated by using a dynamic term structure model.",
+          "relevant": true
+        },
+        {
           "title": "My Recent and Upcoming Speaking Engagements",
           "link": "https://www.cbo.gov/publication/62794",
           "published": "Fri, 02 Oct 2026 11:00:00 -0400",
@@ -475,27 +496,6 @@
           "link": "https://www.cbo.gov/publication/62828",
           "published": "Wed, 30 Sep 2026 14:57:00 -0400",
           "description": "As reported by the House Committee on Financial Services on September 1, 2026",
-          "relevant": true
-        },
-        {
-          "title": "S. 2542, Federal Building Threat Notification Act",
-          "link": "https://www.cbo.gov/publication/62829",
-          "published": "Wed, 30 Sep 2026 14:57:00 -0400",
-          "description": "As passed by the Senate on August 7, 2026",
-          "relevant": true
-        },
-        {
-          "title": "H.R. 9468, Saving Today’s Acute-Care Resources Act",
-          "link": "https://www.cbo.gov/publication/62813",
-          "published": "Wed, 30 Sep 2026 14:36:00 -0400",
-          "description": "As ordered reported by the House Committee on Ways and Means on July 15, 2026",
-          "relevant": true
-        },
-        {
-          "title": "H.R. 8870, BUILD America 250 Act",
-          "link": "https://www.cbo.gov/publication/62817",
-          "published": "Wed, 30 Sep 2026 14:25:00 -0400",
-          "description": "As ordered reported by the House Committee on Transportation and Infrastructure on May 22, 2026",
           "relevant": true
         }
       ],

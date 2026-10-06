@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T00:19:31.515711+00:00",
+  "generated_at": "2026-10-06T01:59:02.361718+00:00",
   "source": "podcast_rss",
   "feeds_count": 5,
   "total_episodes": 40,
@@ -10,6 +10,14 @@
       "domain": "US Fiscal",
       "description": "Allocator and asset management expert, Ted Seides, conducts in-depth interviews with leaders in the institutional investing industry. Guests include Chief Investment Officers from leading allocators, asset managers, strategists, thought leaders, and many more. Our mission is to learn, share, and help implement the process of premier investors. Learn more and join our community at capitalallocators.com.",
       "episodes": [
+        {
+          "title": "Building the Total Portfolio at Ontario Teachers – Stephen McLennan (EP.518)",
+          "link": "https://tedseides.libsyn.com/building-the-total-portfolio-at-ontario-teachers-stephen-mclennan-ep518",
+          "published": "Mon, 05 Oct 2026 14:00:00 +0000",
+          "description": "Stephen McLennan is the Co-Chief Investment Officer of the Ontario Teachers' Pension Plan, where he oversees asset allocation for the $300 billion fund responsible for the retirement security of 346,000 teachers. Stephen joined OTPP in 2003 and worked across credit, natural resources, infrastructure, and Total Fund Management, before splitting the CIO seat with Gillian Brown in 2024 — a dual-CIO structure that is unique among Canada's largest pension funds.            Our conversation traces that path and discusses OTPP's total portfolio strategy, including the balance of top-down asset allocation with bottom-up investing, role of active management, liquidity, leverage, and internal and external management. We cover where private equity, credit, infrastructure, hedge funds, and inflation-s",
+          "audio_url": "https://traffic.libsyn.com/secure/tedseides/CA_-_EP.518_Stephen_McLennan_-_AUDIO_V1.mp3?dest-id=482814",
+          "duration": "56:46"
+        },
         {
           "title": "Nancy Zimmerman – People, Process, and Fixed Income Arbitrage at Bracebridge (EP.517)",
           "link": "https://tedseides.libsyn.com/nancy-zimmerman-people-process-and-fixed-income-arbitrage-at-bracebridge-ep517",
@@ -81,14 +89,6 @@
           "description": "This week's Summer Series is another two-fer, this time on negotiations. The first is with legendary former FBI-hostage negotiator Chris Voss, the author of Never Split the Difference and founder of the Black Swan group where he teaches tactical empathy in negotiations.  The second is with Yale professor Daylian Cain, who opened my eyes to the importance of walking away.        Learn more about  Capital Allocators University .        Try  ALEX  by Admired Leadership.         Learn More   Follow Ted on Twitter at  @tseides  or  LinkedIn    Subscribe to the  mailing list   Access Transcript with  Premium Membership         Editing and post-production work for this episode was provided by The Podcast Consultant (  ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://thepodcastconsultant.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠",
           "audio_url": "https://traffic.libsyn.com/secure/tedseides/CA_-_SUMMER_SERIES_2026_-_Chris_Voss_-_AUDIO_V1.mp3?dest-id=482814",
           "duration": "44:38"
-        },
-        {
-          "title": "Best of Negotiations: Daylian Cain",
-          "link": "https://tedseides.libsyn.com/best-of-negotiations-daylian-cain",
-          "published": "Mon, 31 Aug 2026 07:30:00 +0000",
-          "description": "This week's Summer Series is another two-fer, this time on negotiations. The first is with legendary former FBI-hostage negotiator Chris Voss, the author of Never Split the Difference and founder of the Black Swan group where he teaches tactical empathy in negotiations.  The second is with Yale professor Daylian Cain, who opened my eyes to the importance of walking away.        Learn more about  Capital Allocators University .        Try  ALEX  by Admired Leadership.          Learn More   Follow Ted on Twitter at  @tseides  or  LinkedIn    Subscribe to the  mailing list   Access Transcript with  Premium Membership         Editing and post-production work for this episode was provided by The Podcast Consultant (  ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://thepodcastconsultant.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠",
-          "audio_url": "https://traffic.libsyn.com/secure/tedseides/CA_-_SUMMER_SERIES_2026_-_Daylian_Cain_-_AUDIO_V1.mp3?dest-id=482814",
-          "duration": "01:03:26"
         }
       ]
     },
@@ -275,6 +275,14 @@
       "description": "Hosted by David Beckworth of the Mercatus Center, Macro Musings pulls back the curtain on the important macroeconomic issues of the past, present, and future.",
       "episodes": [
         {
+          "title": "George Selgin on the New Deal and the History of Banking Crises",
+          "link": "https://macromusings.libsyn.com/george-selgin-on-the-new-deal-and-the-history-of-banking-crises",
+          "published": "Mon, 05 Oct 2026 09:00:00 +0000",
+          "description": "George Selgin  was a senior fellow and director emeritus at the Center for Monetary and Financial Alternatives at the Cato Institute and professor emeritus of economics at the University of Georgia. George returns to the show to discuss the New Deal's record on economic recovery, the Fed's balance sheet and operating system, the Main Street Lending Program, and the history of banking crises, and much more.   Watch the  full length video  on our new YouTube Channel!   Check out the  transcript  for this week's episode, now with links.    Recorded on July 28th, 2026    Subscribe to David's Substack:  Macroeconomic Policy Nexus   Follow David Beckworth on X:  @DavidBeckworth   Follow George Selgin on X:  @GeorgeSelgin   Follow the show on X:  @Macro_Musings    Check out our Macro Musings  mer",
+          "audio_url": "https://traffic.libsyn.com/secure/macromusings/MM-559-GeorgeSelgin-Podcast_mixdown-auphonic.mp3?dest-id=865793",
+          "duration": "54:49"
+        },
+        {
           "title": "Erik Thedéen on QE, Central Bank Independence, and Digital Payments",
           "link": "https://macromusings.libsyn.com/erik-theden-on-qe-central-bank-independence-and-digital-payments",
           "published": "Mon, 28 Sep 2026 09:00:00 +0000",
@@ -345,14 +353,6 @@
           "description": "Barry Eichengreen is a is well known author, economist, and economic historian from the University of California, Berkeley. Paul Blustein is a former Washington Post and Wall Street Journal journalist who has authored several acclaimed books on global economic institutions. Brendan Greeley is a veteran journalist from the Financial Times and current PhD student at Princeton studying monetary history. They all return to the show for a special roundtable discussion where they discuss the history of dominant currencies, whether we will always end up with a single reserve currency, whether monetary sovereignty is earned or given, the question of exorbitant privilege, what there is to do about a second China Shock, the future of dollars in the digital age, and much more.       Watch  the full l",
           "audio_url": "https://traffic.libsyn.com/secure/macromusings/MM-554-PaulBrendanBarry-Audio-Final.mp3?dest-id=865793",
           "duration": "58:56"
-        },
-        {
-          "title": "David Wessel on the Fed's Current Inflection Point",
-          "link": "https://macromusings.libsyn.com/david-wessel-on-the-feds-current-inflection-point",
-          "published": "Mon, 27 Jul 2026 09:00:00 +0000",
-          "description": "David Wessel is a senior fellow in economic studies at Brookings and is the director of the Hutchins Center on Fiscal and Monetary Policy. In David's first appearance on the show, he discusses stories of the Greenspan Fed, what is was like in Europe when the euro was adopted, the legacy of the Powell Fed, his thoughts on the great man theory, the outlook for the Kevin Warsh Fed, the ongoing challenge of Fed independence, and much more.       Watch  the full length video  on our new YouTube Channel!     Check out the   transcript  for this week's episode, now with links.   Recorded on June 15th, 2026   Subscribe to David's Substack:  Macroeconomic Policy Nexus    Follow David Beckworth on X:  @DavidBeckworth    Follow David Wessel on X:  @DavidMWessel    Follow the show on X:  @Macro_Musing",
-          "audio_url": "https://traffic.libsyn.com/secure/macromusings/MM-553-DavidWessel-Podcast-Final.mp3?dest-id=865793",
-          "duration": "55:54"
         }
       ]
     },
