@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T01:59:02.361718+00:00",
+  "generated_at": "2026-10-07T01:08:51.172026+00:00",
   "source": "podcast_rss",
   "feeds_count": 5,
   "total_episodes": 40,
@@ -187,6 +187,14 @@
       "description": "Conversations with the best investors and business leaders in the world. We explore their ideas, methods, and stories to help you better invest your time and money. Hear stock market and boardroom insights you can't find anywhere else. If you're a professional investor, CEO, entrepreneur, or business strategist, this is for you. Explore all our episodes and learn more at https://www.colossus.com",
       "episodes": [
         {
+          "title": "Andrew Huberman - The Frontier of Neurotechnology - [Invest Like the Best, EP.494]",
+          "link": "http://colossus.com/episode/reading-and-writing-the-brain/",
+          "published": "Tue, 06 Oct 2026 08:00:00 -0000",
+          "description": "Andrew Huberman is a neuroscientist and professor at Stanford, the host of the Huberman Lab podcast, and the author of Protocols.\n\nMost of our conversation is about where neuroscience goes next. For decades the field has focused on reading from the brain, and Andrew believes the next era is about writing to it with precise control over specific brain states. \n\nHe explains why he thinks the leading AI companies are really building toward this, and why understanding our waking brain states is the problem he most wants to see solved.\n\nPlease enjoy my conversation with Andrew Huberman.\n\nFor the full show notes, transcript, and links to mentioned content, check out the episode page ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠here⁠⁠⁠⁠⁠.&nbsp;\n\n-----\n\nBecome a Colossus member to get our quarterly print magazine and private a",
+          "audio_url": "https://traffic.megaphone.fm/CLS1239827470.mp3",
+          "duration": "4348"
+        },
+        {
           "title": "Noah Shinn - Building Instinct: The Personal Agent - [Invest Like the Best, EP.493]",
           "link": "https://colossus.com/episode/instinct-the-personal-agent/",
           "published": "Mon, 28 Sep 2026 12:05:00 -0000",
@@ -257,14 +265,6 @@
           "description": "My guest today is Gavin Baker, founding partner and CIO of Atreides Management. This is our seventh conversation, and just two months after Gavin's last appearance.\n\nIt's about the gap between what the market is doing and what companies are seeing. It's been a tough month or so for public AI names, but there's no sign of a slowdown on the ground in Silicon Valley.\n\nWe discuss the latest moves, contracted vs. spot GPU prices, the game theory of memory supply agreements, and why Claude has become the Walter Cronkite of the stock market. We close on SpaceX, orbital compute, and what Gavin sees as the single biggest risk to all of it.\n\nPlease enjoy this conversation, from the famous table at Benchmark, with my friend Gavin Baker.\n\nFor the full show notes, transcript, and links to mentioned con",
           "audio_url": "https://traffic.megaphone.fm/CLS6565465184.mp3",
           "duration": "3904"
-        },
-        {
-          "title": "Sam Altman - How to Make an Abundant Future - [Invest Like the Best, EP.484]",
-          "link": "https://colossus.com/episode/how-to-make-an-abundant-future/",
-          "published": "Tue, 28 Jul 2026 08:00:00 -0000",
-          "description": "My guest today is Sam Altman, CEO of OpenAI.\n\nIt's a conversation spanning the history, present, and future of OpenAI, from the origin of ChatGPT through Codex, hardware, and their new Jalapeno chip.\n\nWe discuss the early decision to buy compute at a scale nobody thought was rational, and the plan to build a gigawatt of new capacity every week.&nbsp;\n\nWe talk about Kimi and distillation, the Hugging Face incident and what it means for the pace of AI development, and what it's like to raise kids who will grow up never knowing a world without abundant intelligence.&nbsp;\n\nPlease enjoy my conversation with Sam Altman.\n\nFor the full show notes, transcript, and links to mentioned content, check out the episode page ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠here⁠⁠⁠⁠⁠.&nbsp;\n\n-----\n\nBecome a Colossus member to get our quar",
-          "audio_url": "https://traffic.megaphone.fm/CLS4111343994.mp3",
-          "duration": "3213"
         }
       ]
     },

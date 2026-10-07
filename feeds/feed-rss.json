@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-06T01:59:02.361718+00:00",
+  "generated_at": "2026-10-07T01:08:51.172026+00:00",
   "source": "rss",
   "feeds_count": 17,
-  "total_entries": 90,
+  "total_entries": 80,
   "feeds": [
     {
       "name": "Fed FOMC — Monetary Policy",
@@ -94,6 +94,20 @@
       "description": "Treasury Offering Announcements",
       "entries": [
         {
+          "title": "3-Year Note Treasury Auction Results",
+          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
+          "published": "Tue, 06 Oct 2026 17:04:19 GMT",
+          "description": "CUSIP:  91282CRQ6  Term and Type:  3-Year Note  Series:  AT-2029  Reopening:  No  Interest Rate:  4.875%  High Yield:  4.932%  Price:  $99.842840  Allotted at High:  8.35%  Total Tendered:  $153,096,023,500  Total Accepted:  $59,377,561,000  Auction Date:  10/06/2026  Issue Date:  10/15/2026  Maturity Date:  10/15/2029  PDF  |  XML",
+          "relevant": true
+        },
+        {
+          "title": "6-Week Bill Treasury Auction Results",
+          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
+          "published": "Tue, 06 Oct 2026 15:34:02 GMT",
+          "description": "CUSIP:  912797UZ8  Term and Type:  6-Week Bill  CMB:  No  High Rate:  3.945%  Investment Rate:  4.018%  Price:  $99.539750  Allotted at High:  87.68%  Total Tendered:  $271,645,541,600  Total Accepted:  $102,156,421,600  Auction Date:  10/06/2026  Issue Date:  10/08/2026  Maturity Date:  11/19/2026  PDF  |  XML",
+          "relevant": true
+        },
+        {
           "title": "13-Week Bill Treasury Auction Results",
           "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
           "published": "Mon, 05 Oct 2026 15:34:07 GMT",
@@ -148,20 +162,6 @@
           "published": "Mon, 28 Sep 2026 15:33:30 GMT",
           "description": "CUSIP:  912797WM5  Term and Type:  26-Week Bill  CMB:  No  High Rate:  4.285%  Investment Rate:  4.441%  Price:  $97.833694  Allotted at High:  37.89%  Total Tendered:  $224,151,160,200  Total Accepted:  $89,845,222,700  Auction Date:  09/28/2026  Issue Date:  10/01/2026  Maturity Date:  04/01/2027  PDF  |  XML",
           "relevant": true
-        },
-        {
-          "title": "13-Week Bill Treasury Auction Results",
-          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
-          "published": "Mon, 28 Sep 2026 15:33:29 GMT",
-          "description": "CUSIP:  912797VJ3  Term and Type:  13-Week Bill  CMB:  No  High Rate:  4.110%  Investment Rate:  4.211%  Price:  $98.961083  Allotted at High:  61.14%  Total Tendered:  $292,802,908,400  Total Accepted:  $104,090,004,400  Auction Date:  09/28/2026  Issue Date:  10/01/2026  Maturity Date:  12/31/2026  PDF  |  XML",
-          "relevant": true
-        },
-        {
-          "title": "7-Year Note Treasury Auction Results",
-          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
-          "published": "Thu, 24 Sep 2026 17:03:20 GMT",
-          "description": "CUSIP:  91282CRM5  Term and Type:  7-Year Note  Series:  Q-2033  Reopening:  No  Interest Rate:  5.000%  High Yield:  5.085%  Price:  $99.504596  Allotted at High:  91.11%  Total Tendered:  $113,215,981,000  Total Accepted:  $50,624,250,500  Auction Date:  09/24/2026  Issue Date:  09/30/2026  Maturity Date:  09/30/2033  PDF  |  XML",
-          "relevant": true
         }
       ],
       "count": 10,
@@ -174,6 +174,29 @@
       "channel": "ECB - European Central Bank",
       "description": "Latest releases on the ECB website - Press releases, speeches and interviews, press conferences.",
       "entries": [
+        {
+          "title": "Frank Elderson: Effective supervision through timely remediation",
+          "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261006_1~0df91e4e44.en.html",
+          "published": "Tue, 06 Oct 2026 15:00:00 +0200",
+          "description": "",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
+        },
+        {
+          "title": "Piero Cipollone: Money in the digital age: digital euro, tokenisation and the role of central banks",
+          "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261006~0da978f159.en.html",
+          "published": "Tue, 06 Oct 2026 15:00:00 +0200",
+          "description": "",
+          "relevant": true
+        },
+        {
+          "title": "Philip R. Lane: Interview with Ansa",
+          "link": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261006~bc94400297.en.html",
+          "published": "Tue, 06 Oct 2026 09:00:00 +0200",
+          "description": "",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
+        },
         {
           "title": "Philip R. Lane: Diagnostic Challenges for ECB Monetary Policy",
           "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261005~1d8d998ef4.en.html",
@@ -223,33 +246,11 @@
           "published": "Wed, 30 Sep 2026 17:45:00 +0200",
           "description": "",
           "relevant": true
-        },
-        {
-          "title": "Frank Elderson: Supervisory risk appetite, efficiency and effectiveness",
-          "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260930~d495288355.en.html",
-          "published": "Wed, 30 Sep 2026 04:20:00 +0200",
-          "description": "",
-          "relevant": false,
-          "_skip_reason": "no_macro_keyword"
-        },
-        {
-          "title": "ECB amends monetary policy implementation guidelines as part of regular review",
-          "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260929~050089e922.en.html",
-          "published": "Tue, 29 Sep 2026 10:00:00 +0200",
-          "description": "",
-          "relevant": true
-        },
-        {
-          "title": "Christine Lagarde: Hearing of the Committee on Economic and Monetary Affairs of the European Parliament",
-          "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260928~a875675544.en.html",
-          "published": "Mon, 28 Sep 2026 15:30:00 +0200",
-          "description": "",
-          "relevant": true
         }
       ],
       "count": 10,
       "domain": "Europe",
-      "relevant_count": 8
+      "relevant_count": 7
     },
     {
       "name": "BOJ — Monetary Policy Statements",
@@ -257,6 +258,34 @@
       "channel": "Bank of Japan：RSS",
       "description": "",
       "entries": [
+        {
+          "title": "Bank of Japan Accounts (September 30)",
+          "link": "http://www.boj.or.jp/en/statistics/boj/other/acmai/release/2026/ac260930.htm",
+          "published": "Wed, 07 Oct 2026 10:00:00 +0900",
+          "description": "",
+          "relevant": true
+        },
+        {
+          "title": "Monetary Base and the Bank of Japan's Transactions (Sept.)",
+          "link": "http://www.boj.or.jp/en/statistics/boj/other/mbt/mbt2609.pdf",
+          "published": "Wed, 07 Oct 2026 08:50:00 +0900",
+          "description": "",
+          "relevant": true
+        },
+        {
+          "title": "Bank of Japan's Transactions with the Government (Sept.)",
+          "link": "http://www.boj.or.jp/en/statistics/boj/other/tseifu/release/2026/seifu2609.pdf",
+          "published": "Wed, 07 Oct 2026 08:50:00 +0900",
+          "description": "",
+          "relevant": true
+        },
+        {
+          "title": "Market Operations by the Bank of Japan (Sept.)",
+          "link": "http://www.boj.or.jp/en/statistics/boj/fm/ope/m_release/2026/ope2609.xlsx",
+          "published": "Wed, 07 Oct 2026 08:50:00 +0900",
+          "description": "",
+          "relevant": true
+        },
         {
           "title": "Output Gap, Potential Growth Rate, and Labor Market Indicators",
           "link": "http://www.boj.or.jp/en/research/research_data/gap/index.htm",
@@ -300,42 +329,11 @@
           "published": "Fri, 02 Oct 2026 17:00:00 +0900",
           "description": "",
           "relevant": true
-        },
-        {
-          "title": "Average Contract Interest Rates on Loans and Discounts (Aug.)",
-          "link": "http://www.boj.or.jp/en/statistics/dl/loan/yaku/yaku2608.pdf",
-          "published": "Fri, 02 Oct 2026 08:50:00 +0900",
-          "description": "",
-          "relevant": true
-        },
-        {
-          "title": "Monetary Base (Sept.)",
-          "link": "http://www.boj.or.jp/en/statistics/boj/other/mb/mb.htm",
-          "published": "Fri, 02 Oct 2026 08:50:00 +0900",
-          "description": "",
-          "relevant": false,
-          "_skip_reason": "no_macro_keyword"
-        },
-        {
-          "title": "Tankan (Sept.): Comprehensive Data Set",
-          "link": "http://www.boj.or.jp/en/statistics/tk/tankan09b.htm",
-          "published": "Fri, 02 Oct 2026 08:50:00 +0900",
-          "description": "",
-          "relevant": false,
-          "_skip_reason": "no_macro_keyword"
-        },
-        {
-          "title": "Sources of Changes in Current Account Balances and Market Operations (Sept.)",
-          "link": "http://www.boj.or.jp/en/statistics/boj/fm/juqf/juqf09.xlsx",
-          "published": "Thu, 01 Oct 2026 13:00:00 +0900",
-          "description": "",
-          "relevant": false,
-          "_skip_reason": "no_macro_keyword"
         }
       ],
       "count": 10,
       "domain": "Japan",
-      "relevant_count": 5
+      "relevant_count": 8
     },
     {
       "name": "BOE — News & MPC Minutes",
@@ -343,6 +341,13 @@
       "channel": "News",
       "description": "News",
       "entries": [
+        {
+          "title": "Minutes of the UK Money Markets Code Sub-Committee – September 2026",
+          "link": "https://www.bankofengland.co.uk/minutes/2026/september/uk-money-markets-committee-minutes-september-2026",
+          "published": "Tue, 06 Oct 2026 14:07:03 +0100",
+          "description": "The Money Markets Committee is a forum for market participants and authorities to discuss the UK unsecured deposits and funding market and securities lending and repo markets.",
+          "relevant": true
+        },
         {
           "title": "Appointment of members of the Enforcement Decision Making Committee (EDMC)",
           "link": "https://www.bankofengland.co.uk/news/2026/october/appointment-of-members-of-the-edmc",
@@ -407,13 +412,6 @@
           "published": "Thu, 17 Sep 2026 14:30:00 +0100",
           "description": "Following the publication of the Monetary Policy Summary and minutes of the Monetary Policy Committee meeting",
           "relevant": true
-        },
-        {
-          "title": "Monetary Policy Committee dates for 2027",
-          "link": "https://www.bankofengland.co.uk/news/2026/september/mpc-dates-for-2027",
-          "published": "Thu, 17 Sep 2026 14:30:00 +0100",
-          "description": "2027 confirmed dates",
-          "relevant": true
         }
       ],
       "count": 10,
@@ -426,6 +424,49 @@
       "channel": "CBO Publications",
       "description": "Nonpartisan budgetary and economic analysis for the U.S. Congress.",
       "entries": [
+        {
+          "title": "S. 3966, TREY’s Law",
+          "link": "https://www.cbo.gov/publication/62840",
+          "published": "Tue, 06 Oct 2026 16:36:00 -0400",
+          "description": "As passed by the Senate on May 20, 2026",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
+        },
+        {
+          "title": "H.R. 7362, Form 5500 Filing Simplification Act",
+          "link": "https://www.cbo.gov/publication/62838",
+          "published": "Tue, 06 Oct 2026 14:44:00 -0400",
+          "description": "As ordered reported by the House Committee on Education and Workforce on May 21, 2026",
+          "relevant": true
+        },
+        {
+          "title": "H.R. 9722, Fair Treatment of Religious Organizations Act of 2026",
+          "link": "https://www.cbo.gov/publication/62836",
+          "published": "Tue, 06 Oct 2026 14:21:00 -0400",
+          "description": "As reported by the House Committee on Ways and Means on August 27, 2026",
+          "relevant": true
+        },
+        {
+          "title": "How Spending for Flood Adaptations Affects the Federal Budget",
+          "link": "https://www.cbo.gov/publication/62554",
+          "published": "Tue, 06 Oct 2026 14:00:00 -0400",
+          "description": "CBO examines how spending for flood adaptations today might affect the federal government's potential costs for disaster relief later, and what households are likely to pay for flood insurance that is subsidized by the federal government.",
+          "relevant": true
+        },
+        {
+          "title": "H.R. 5437, Protection of Lawful Commerce in Stone Slab Products  Act of 2026",
+          "link": "https://www.cbo.gov/publication/62837",
+          "published": "Tue, 06 Oct 2026 13:36:00 -0400",
+          "description": "As ordered reported by the House Committee on the Judiciary on June 3, 2026",
+          "relevant": true
+        },
+        {
+          "title": "H.R. 9771, Stopping Foreign Influence in Elections Act of 2026",
+          "link": "https://www.cbo.gov/publication/62835",
+          "published": "Tue, 06 Oct 2026 13:35:00 -0400",
+          "description": "As reported by the House Committee on Ways and Means on August 27, 2026",
+          "relevant": true
+        },
         {
           "title": "H.R. 9721, Fiscal Sponsorship Transparency Act of 2026",
           "link": "https://www.cbo.gov/publication/62834",
@@ -454,49 +495,6 @@
           "description": "CBO's Director, Phillip Swagel, discusses his recent and upcoming speaking engagements about the agency's work, its mission, and the U.S. economy.",
           "relevant": false,
           "_skip_reason": "no_macro_keyword"
-        },
-        {
-          "title": "H.R. 7427, Securing Access from Foreign Entities Visiting Internal Sites in the States Act",
-          "link": "https://www.cbo.gov/publication/62820",
-          "published": "Thu, 01 Oct 2026 14:21:00 -0400",
-          "description": "As ordered reported by the House Committee on Homeland Security on June 24, 2026",
-          "relevant": true
-        },
-        {
-          "title": "S. 2578, Strengthening the Rule of Law in the Brazilian Amazon Act",
-          "link": "https://www.cbo.gov/publication/62786",
-          "published": "Thu, 01 Oct 2026 11:22:00 -0400",
-          "description": "As reported by the Senate Committee on Foreign Relations on July 27, 2026",
-          "relevant": true
-        },
-        {
-          "title": "S. 4399, Geese House Site Conveyance Act",
-          "link": "https://www.cbo.gov/publication/62832",
-          "published": "Wed, 30 Sep 2026 15:55:00 -0400",
-          "description": "As ordered reported by the Senate Committee on Energy and Natural Resources on July 29, 2026",
-          "relevant": true
-        },
-        {
-          "title": "H.R. 2555, Freedom of Association in Higher Education Act of 2026",
-          "link": "https://www.cbo.gov/publication/62830",
-          "published": "Wed, 30 Sep 2026 15:53:00 -0400",
-          "description": "As reported by the House Committee on Education and Workforce on August 27, 2026",
-          "relevant": true
-        },
-        {
-          "title": "H.R. 9394, Civil Preparedness for Agroterrorism Exercise Act of 2026",
-          "link": "https://www.cbo.gov/publication/62831",
-          "published": "Wed, 30 Sep 2026 15:53:00 -0400",
-          "description": "As passed by the House of Representatives on September 16, 2026",
-          "relevant": false,
-          "_skip_reason": "no_macro_keyword"
-        },
-        {
-          "title": "H.R. 9331, STOP Payments Fraud Act of 2026",
-          "link": "https://www.cbo.gov/publication/62828",
-          "published": "Wed, 30 Sep 2026 14:57:00 -0400",
-          "description": "As reported by the House Committee on Financial Services on September 1, 2026",
-          "relevant": true
         }
       ],
       "count": 10,
@@ -519,6 +517,13 @@
       "channel": "BIS — Research Papers",
       "description": "",
       "entries": [
+        {
+          "title": "Chasing El Dorado: gold under shifting geopolitical and financial conditions",
+          "link": "https://www.bis.org/publications/working-paper-1380-chasing-el-dorado-gold-under-shifting-geopolitical-and-financial-condition",
+          "published": "2026-10-06T00:00:00Z",
+          "description": "This paper analyses the state-dependent effects of geopolitical risks on gold prices (i.e. the safe-haven role of gold), conditional on financial conditions. Geopolitical risks are often associated with tighter financial conditions. However, recent data reveal a decoupling be tween such shocks and more restrictive financial conditions, raising the question of how gold returns are affected by geopolitical shocks, conditional on the macro-financial environment",
+          "relevant": true
+        },
         {
           "title": "Circular relationships among AI firms",
           "link": "https://www.bis.org/publications/bulletin-137-circular-relationships-among-ai-firms",
@@ -584,103 +589,21 @@
           "description": "Decentralised finance data presents a distinctive paradox: while every data point is publicly recorded and accessible, deriving meaningful insights is obscured by the scale, fragmentation and complexity of the ecosystem. Key metrics illustrate that the rapidly evolving DeFi ecosystem introduces unique challenges for economic and financial research in accurately capturing financial activity in DeFi.",
           "relevant": false,
           "_skip_reason": "no_macro_keyword"
-        },
-        {
-          "title": "BIS Quarterly Review, September 2026",
-          "link": "https://www.bis.org/publications/qr-202609",
-          "published": "2026-09-14T00:00:00Z",
-          "description": "",
-          "relevant": false,
-          "_skip_reason": "no_macro_keyword"
         }
       ],
       "count": 10,
       "domain": "Global Liquidity",
-      "relevant_count": 6
+      "relevant_count": 7
     },
     {
       "name": "Lyn Alden",
       "url": "https://www.lynalden.com/feed/",
       "channel": "Lyn Alden",
-      "description": "Investment Strategy",
-      "entries": [
-        {
-          "title": "An Alternative to Private Equity: Introducing ORANGE JUICE",
-          "link": "https://www.lynalden.com/orange-juice/",
-          "published": "Wed, 15 Jul 2026 14:16:27 +0000",
-          "description": "July 15, 2026 The rest of the team at Ego Death Capital and I have partnered with Adrian Steckel and Ruben Zweiban to launch ORANGE JUICE. It&#8217;s a company that acquires, improves, and permanently holds cash-flowing businesses, backed by a bitcoin treasury. More specifically, ORANGE JUICE seeks to acquire profitable small and mid-sized businesses at [&#8230;] \n The post  An Alternative to Private Equity: Introducing ORANGE JUICE  appeared first on  Lyn Alden .",
-          "relevant": true
-        },
-        {
-          "title": "New Book: The Stolguard Incident",
-          "link": "https://www.lynalden.com/the-stolguard-incident/",
-          "published": "Fri, 13 Mar 2026 13:29:44 +0000",
-          "description": "My new sci fi thriller, The Stolguard Incident, is now available! It can be purchased in print, ebook, or audio versions on Amazon here. You can also find the print version on Barnes &#38; Noble here, or you may be able to ask your local bookstore to order it for you. Premise: In the late [&#8230;] \n The post  New Book: The Stolguard Incident  appeared first on  Lyn Alden .",
-          "relevant": false,
-          "_skip_reason": "no_macro_keyword"
-        },
-        {
-          "title": "Fractional Reserve Banking 101",
-          "link": "https://www.lynalden.com/fractional-reserve-banking/",
-          "published": "Wed, 11 Mar 2026 23:04:33 +0000",
-          "description": "Banks work in ways that are unintuitive for a lot of people. And yet, understanding the banking system as a whole is really helpful for investing, because having a grasp of how the banking system is functioning helps you determine whether you should expect monetary inflation or disinflation, and whether the risks of widespread financial [&#8230;] \n The post  Fractional Reserve Banking 101  appeared first on  Lyn Alden .",
-          "relevant": true
-        },
-        {
-          "title": "Why Most Cryptocurrencies Won’t Accrue Value",
-          "link": "https://www.lynalden.com/why-most-cryptocurrencies-wont-accrue-value/",
-          "published": "Mon, 01 Dec 2025 17:45:10 +0000",
-          "description": "December 2025 For many years now, I&#8217;ve been bullish on bitcoin, and continue to be, but have not extended that view toward any other cryptocurrency. That decision continues to hold up well. Since I first recommended it in April 2020, it has gone from $6,900 to $126,000, and is currently back down to around $85,000. [&#8230;] \n The post  Why Most Cryptocurrencies Won&#8217;t Accrue Value  appeared first on  Lyn Alden .",
-          "relevant": true
-        },
-        {
-          "title": "The Rise of Bitcoin Stocks and Bonds",
-          "link": "https://www.lynalden.com/bitcoin-stocks-and-bonds/",
-          "published": "Sun, 06 Jul 2025 14:03:34 +0000",
-          "description": "Originally published: July 2025 During the past year or so, the Bitcoin ecosystem has largely been led by the rise of corporate bitcoin treasury strategies. Although Strategy (MSTR) pioneered the trend back in 2020, the follow-on adoption by others was slow. However, after yet another cycle of bear market and bull market activity, as well [&#8230;] \n The post  The Rise of Bitcoin Stocks and Bonds  appeared first on  Lyn Alden .",
-          "relevant": true
-        },
-        {
-          "title": "Twitter/X Restored",
-          "link": "https://www.lynalden.com/twitter-compromised/",
-          "published": "Thu, 27 Feb 2025 23:16:32 +0000",
-          "description": "My Twitter/X account was compromised from February 26th to March 3rd, but I confirm that I&#8217;ve regained control of it now. Thank you to everyone who helped make it happen. Fortunately, I still had access to Nostr during that time (e.g. primal.net/lyn), which is decentralized social media. Eight months ago, at the Oslo Freedom Forum, [&#8230;] \n The post  Twitter/X Restored  appeared first on  Lyn Alden .",
-          "relevant": false,
-          "_skip_reason": "no_macro_keyword"
-        },
-        {
-          "title": "Full Steam Ahead: All Aboard Fiscal Dominance",
-          "link": "https://www.lynalden.com/full-steam-ahead-all-aboard-fiscal-dominance/",
-          "published": "Wed, 08 Jan 2025 12:51:03 +0000",
-          "description": "This research piece on fiscal dominance in the United States was compiled and written by Sam Callahan, and commissioned and advised by Lyn Alden. Published: January 2025 Executive Summary • Structural fiscal deficits have surpassed private sector lending and monetary policy as the primary drivers of economic activity and inflation, marking a fundamental shift in [&#8230;] \n The post  Full Steam Ahead: All Aboard Fiscal Dominance  appeared first on  Lyn Alden .",
-          "relevant": true
-        },
-        {
-          "title": "Bitcoin: A Global Liquidity Barometer",
-          "link": "https://www.lynalden.com/bitcoin-a-global-liquidity-barometer/",
-          "published": "Tue, 24 Sep 2024 17:59:32 +0000",
-          "description": "This research piece on the correlation between measures of liquidity and the price of Bitcoin was compiled and written by Sam Callahan, and commissioned and advised by Lyn Alden. Published: September 2024 Executive Summary Bitcoin moves in the direction of global liquidity 83% of the time in any given 12-month period, which is higher than [&#8230;] \n The post  Bitcoin: A Global Liquidity Barometer  appeared first on  Lyn Alden .",
-          "relevant": true
-        },
-        {
-          "title": "A New Look at Corporate Treasury Strategy",
-          "link": "https://www.lynalden.com/a-new-look-at-corporate-treasury-strategy/",
-          "published": "Sun, 04 Aug 2024 16:08:13 +0000",
-          "description": "Published: August 2024 In the modern era of corporate finance, the balance sheet of a corporation has trended toward being less important relative to the income statement. Back during Benjamin Graham&#8217;s quintessential value investing days, he looked at balance sheet valuation metrics almost as much as he did income-related valuation metrics. But in modern times, [&#8230;] \n The post  A New Look at Corporate Treasury Strategy  appeared first on  Lyn Alden .",
-          "relevant": true
-        },
-        {
-          "title": "The Power of Nostr: Decentralized Social Media and More",
-          "link": "https://www.lynalden.com/the-power-of-nostr/",
-          "published": "Sat, 20 Jul 2024 19:48:33 +0000",
-          "description": "Published: July 2024 It would be powerful if you could bring your digital identity, content, and followers from one social ecosystem, such as Twitter, LinkedIn, Instagram, or Substack, to another. Imagine if you could publish content and send messages in any of those types of ecosystems, with one continuous digital identity rather than separate accounts. [&#8230;] \n The post  The Power of Nostr: Decentralized Social Media and More  appeared first on  Lyn Alden .",
-          "relevant": false,
-          "_skip_reason": "no_macro_keyword"
-        }
-      ],
-      "count": 10,
+      "entries": [],
+      "count": 0,
+      "_error": "not well-formed (invalid token): line 1, column 119",
       "domain": "US Fiscal",
-      "relevant_count": 7
+      "relevant_count": 0
     },
     {
       "name": "Doomberg — Substack",
