@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T01:08:51.172026+00:00",
+  "generated_at": "2026-10-08T01:26:46.311360+00:00",
   "source": "rss",
   "feeds_count": 17,
   "total_entries": 80,
@@ -10,6 +10,13 @@
       "channel": "FRB: Press Release - Monetary Policy",
       "description": "Press releases about monetary policy from the Federal Reserve Board",
       "entries": [
+        {
+          "title": "Minutes of the Federal Open Market Committee, September 15-16, 2026",
+          "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm",
+          "published": "Wed, 7 Oct 2026 18:00:00 GMT",
+          "description": "Minutes of the Federal Open Market Committee, September 15-16, 2026",
+          "relevant": true
+        },
         {
           "title": "Federal Reserve issues FOMC statement",
           "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
@@ -74,13 +81,6 @@
           "published": "Wed, 17 Jun 2026 18:00:00 GMT",
           "description": "Federal Reserve issues FOMC statement",
           "relevant": true
-        },
-        {
-          "title": "Federal Reserve Board and Federal Open Market Committee release economic projections from the June 16-17 FOMC meeting",
-          "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260617b.htm",
-          "published": "Wed, 17 Jun 2026 18:00:00 GMT",
-          "description": "Federal Reserve Board and Federal Open Market Committee release economic projections from the June 16-17 FOMC meeting",
-          "relevant": true
         }
       ],
       "count": 10,
@@ -93,6 +93,20 @@
       "channel": "Treasury Offering Announcements",
       "description": "Treasury Offering Announcements",
       "entries": [
+        {
+          "title": "9-Year 10-Month Note Treasury Auction Results",
+          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
+          "published": "Wed, 07 Oct 2026 17:04:02 GMT",
+          "description": "CUSIP:  91282CRF0  Term and Type:  9-Year 10-Month Note  Series:  E-2036  Reopening:  Yes  Interest Rate:  4.625%  High Yield:  5.300%  Price:  $94.864261  Allotted at High:  57.60%  Total Tendered:  $108,995,289,900  Total Accepted:  $39,926,321,900  Auction Date:  10/07/2026  Issue Date:  10/15/2026  Maturity Date:  08/15/2036  PDF  |  XML",
+          "relevant": true
+        },
+        {
+          "title": "17-Week Bill Treasury Auction Results",
+          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
+          "published": "Wed, 07 Oct 2026 15:34:05 GMT",
+          "description": "CUSIP:  912797WY9  Term and Type:  17-Week Bill  CMB:  No  High Rate:  4.105%  Investment Rate:  4.219%  Price:  $98.643069  Allotted at High:  43.02%  Total Tendered:  $238,866,776,300  Total Accepted:  $81,374,443,300  Auction Date:  10/07/2026  Issue Date:  10/13/2026  Maturity Date:  02/09/2027  PDF  |  XML",
+          "relevant": true
+        },
         {
           "title": "3-Year Note Treasury Auction Results",
           "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
@@ -148,20 +162,6 @@
           "published": "Tue, 29 Sep 2026 15:33:33 GMT",
           "description": "CUSIP:  912797WJ2  Term and Type:  52-Week Bill  CMB:  No  High Rate:  4.400%  Investment Rate:  4.616%  Price:  $95.551111  Allotted at High:  70.21%  Total Tendered:  $171,170,537,700  Total Accepted:  $59,167,062,200  Auction Date:  09/29/2026  Issue Date:  10/01/2026  Maturity Date:  09/30/2027  PDF  |  XML",
           "relevant": true
-        },
-        {
-          "title": "6-Week Bill Treasury Auction Results",
-          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
-          "published": "Tue, 29 Sep 2026 15:33:32 GMT",
-          "description": "CUSIP:  912797UY1  Term and Type:  6-Week Bill  CMB:  No  High Rate:  3.970%  Investment Rate:  4.044%  Price:  $99.536833  Allotted at High:  68.26%  Total Tendered:  $247,423,729,400  Total Accepted:  $93,132,850,200  Auction Date:  09/29/2026  Issue Date:  10/01/2026  Maturity Date:  11/12/2026  PDF  |  XML",
-          "relevant": true
-        },
-        {
-          "title": "26-Week Bill Treasury Auction Results",
-          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
-          "published": "Mon, 28 Sep 2026 15:33:30 GMT",
-          "description": "CUSIP:  912797WM5  Term and Type:  26-Week Bill  CMB:  No  High Rate:  4.285%  Investment Rate:  4.441%  Price:  $97.833694  Allotted at High:  37.89%  Total Tendered:  $224,151,160,200  Total Accepted:  $89,845,222,700  Auction Date:  09/28/2026  Issue Date:  10/01/2026  Maturity Date:  04/01/2027  PDF  |  XML",
-          "relevant": true
         }
       ],
       "count": 10,
@@ -174,6 +174,13 @@
       "channel": "ECB - European Central Bank",
       "description": "Latest releases on the ECB website - Press releases, speeches and interviews, press conferences.",
       "entries": [
+        {
+          "title": "Results of the September 2026 survey on credit terms and conditions in euro-denominated securities financing and OTC derivatives markets (SESFOD)",
+          "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261007~6447350434.en.html",
+          "published": "Wed, 07 Oct 2026 10:00:00 +0200",
+          "description": "",
+          "relevant": true
+        },
         {
           "title": "Frank Elderson: Effective supervision through timely remediation",
           "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261006_1~0df91e4e44.en.html",
@@ -239,13 +246,6 @@
           "description": "",
           "relevant": false,
           "_skip_reason": "no_macro_keyword"
-        },
-        {
-          "title": "Isabel Schnabel: Monetary policy in a world of overlapping shocks",
-          "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260930_1~7c6c120482.en.html",
-          "published": "Wed, 30 Sep 2026 17:45:00 +0200",
-          "description": "",
-          "relevant": true
         }
       ],
       "count": 10,
@@ -258,6 +258,30 @@
       "channel": "Bank of Japan：RSS",
       "description": "",
       "entries": [
+        {
+          "title": "Direct Investment by Region and Industry (2nd quarter 2026)",
+          "link": "http://www.boj.or.jp/en/statistics/br/bop_06/bpdata/diiqcy.htm",
+          "published": "Thu, 08 Oct 2026 08:50:00 +0900",
+          "description": "",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
+        },
+        {
+          "title": "Amounts Outstanding in the Call Money Market (Sept.)",
+          "link": "http://www.boj.or.jp/en/statistics/market/short/call/call.xlsx",
+          "published": "Wed, 07 Oct 2026 15:00:00 +0900",
+          "description": "",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
+        },
+        {
+          "title": "Consumption Activity Index",
+          "link": "http://www.boj.or.jp/en/research/research_data/cai/index.htm",
+          "published": "Wed, 07 Oct 2026 14:00:00 +0900",
+          "description": "",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
+        },
         {
           "title": "Bank of Japan Accounts (September 30)",
           "link": "http://www.boj.or.jp/en/statistics/boj/other/acmai/release/2026/ac260930.htm",
@@ -294,13 +318,6 @@
           "relevant": true
         },
         {
-          "title": "Opening Remarks by Deputy Governor UCHIDA at the ECONDAT 2026 Fall Meeting (AI, Big Data, and Monetary Policy)",
-          "link": "http://www.boj.or.jp/en/about/press/koen_2026/ko261005a.htm",
-          "published": "Mon, 05 Oct 2026 09:20:00 +0900",
-          "description": "",
-          "relevant": true
-        },
-        {
           "title": "8th Conference on Nontraditional Data, Machine Learning, and Natural Language Processing in Macroeconomics (ECONDAT 2026 Fall Meeting)",
           "link": "http://www.boj.or.jp/en/research/conf/conf2610a.htm",
           "published": "Mon, 05 Oct 2026 09:20:00 +0900",
@@ -315,25 +332,11 @@
           "description": "",
           "relevant": false,
           "_skip_reason": "no_macro_keyword"
-        },
-        {
-          "title": "Japanese Government Bonds Held by the Bank of Japan",
-          "link": "http://www.boj.or.jp/en/statistics/boj/other/mei/release/2026/mei260930.xlsx",
-          "published": "Fri, 02 Oct 2026 17:00:00 +0900",
-          "description": "",
-          "relevant": true
-        },
-        {
-          "title": "Collateral Accepted by the Bank of Japan (End of Sept.)",
-          "link": "http://www.boj.or.jp/en/statistics/boj/other/col/col2609.xlsx",
-          "published": "Fri, 02 Oct 2026 17:00:00 +0900",
-          "description": "",
-          "relevant": true
         }
       ],
       "count": 10,
       "domain": "Japan",
-      "relevant_count": 8
+      "relevant_count": 5
     },
     {
       "name": "BOE — News & MPC Minutes",
@@ -341,6 +344,42 @@
       "channel": "News",
       "description": "News",
       "entries": [
+        {
+          "title": "Bank of England announces the four animals that will feature on our next series of banknotes",
+          "link": "https://www.bankofengland.co.uk/news/2026/october/boe-announces-the-four-animals-that-will-feature-on-next-series-of-banknotes",
+          "published": "Thu, 08 Oct 2026 00:01:00 +0100",
+          "description": "The Atlantic puffin, barn owl, buff-tailed bumblebee and European hedgehog will represent UK wildlife and feature as the central images on our next series of banknotes.",
+          "relevant": true
+        },
+        {
+          "title": "Minutes of the London FXJSC Legal Sub Committee Meeting – 16 June 2026",
+          "link": "https://www.bankofengland.co.uk/minutes/2026/june/fxjsc-legal-sub-committee-meeting-16-june-26",
+          "published": "Wed, 07 Oct 2026 14:36:25 +0100",
+          "description": "The Bank of England provides the Secretariat to the London Foreign Exchange Joint Standing Committee (FXJSC) Legal Sub-Committee. The FXJSC is made up of market participants, infrastructure providers and the UK financial regulators.",
+          "relevant": true
+        },
+        {
+          "title": "Minutes of the London FXJSC Operations Sub-Committee Meeting – 16 June 2026",
+          "link": "https://www.bankofengland.co.uk/minutes/2026/june/fxjsc-operations-sub-committee-meeting-16-june-2026",
+          "published": "Wed, 07 Oct 2026 10:49:25 +0100",
+          "description": "The Bank of England chairs the London Foreign Exchange Joint Standing Committee (FXJSC) Operations and Legal Sub-Committees. The FXJSC is made up of market participants, infrastructure providers and the UK financial regulators.",
+          "relevant": true
+        },
+        {
+          "title": "Minutes of the London FXJSC Main Committee Meeting – 24 June 2026",
+          "link": "https://www.bankofengland.co.uk/minutes/2026/june/fxjsc-main-committee-meeting-24-june-2026",
+          "published": "Wed, 07 Oct 2026 10:08:40 +0100",
+          "description": "The Bank of England chairs the London Foreign Exchange Joint Standing Committee (FXJSC), which is a forum for discussion of the wholesale foreign exchange market. The FXJSC is made up of market participants, infrastructure providers and the UK financial regulators.",
+          "relevant": true
+        },
+        {
+          "title": "Regulatory thresholds set to shift to automatic increases",
+          "link": "https://www.bankofengland.co.uk/news/2026/october/regulatory-thresholds-set-to-shift-to-automatic-increases",
+          "published": "Wed, 07 Oct 2026 10:00:00 +0100",
+          "description": "Proportionality is set to be improved for firms as over 100 regulatory thresholds could be automatically increased periodically.",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
+        },
         {
           "title": "Minutes of the UK Money Markets Code Sub-Committee – September 2026",
           "link": "https://www.bankofengland.co.uk/minutes/2026/september/uk-money-markets-committee-minutes-september-2026",
@@ -375,48 +414,11 @@
           "published": "Fri, 25 Sep 2026 07:30:00 +0100",
           "description": "The Market Participants Group (MPG) is a senior-level forum for financial market participants to share their views on relevant themes and narratives in financial markets with members of the Bank of England’s Monetary Policy Committee.",
           "relevant": true
-        },
-        {
-          "title": "Foreign Currency Reserves 2026 – Market Notice 22 September 2026",
-          "link": "https://www.bankofengland.co.uk/markets/market-notices/2026/september/foreign-currency-reserves-2026-market-notice-22-september-2026",
-          "published": "Tue, 22 Sep 2026 16:30:00 +0100",
-          "description": "Not for distribution, directly or indirectly, in or into the United States, Canada, Australia, Japan or any other jurisdiction where it is unlawful to distribute this announcement",
-          "relevant": false,
-          "_skip_reason": "non_macro_pattern"
-        },
-        {
-          "title": "Bank of England announces new office space in Leeds",
-          "link": "https://www.bankofengland.co.uk/news/2026/september/bank-of-england-announces-new-office-space-in-leeds",
-          "published": "Mon, 21 Sep 2026 13:00:00 +0100",
-          "description": "The Bank of England has secured a new long-term premises in Leeds, marking a major milestone in its commitment to build its presence in the region.",
-          "relevant": true
-        },
-        {
-          "title": "Foreign Currency Reserves 2026 – Market Notice 21 September 2026",
-          "link": "https://www.bankofengland.co.uk/markets/market-notices/2026/september/foreign-currency-reserves-2026-market-notice-21-september-2026",
-          "published": "Mon, 21 Sep 2026 12:30:00 +0100",
-          "description": "Not for distribution, directly or indirectly, in or into the United States, Canada, Australia, Japan or any other jurisdiction where it is unlawful to distribute this announcement",
-          "relevant": false,
-          "_skip_reason": "non_macro_pattern"
-        },
-        {
-          "title": "Minutes of the Transaction and Post-trade Reporting Harmonisation Taskforce - July 2026",
-          "link": "https://www.bankofengland.co.uk/minutes/2026/july/minutes-of-the-transaction-and-post-trade-reporting-harmonisation-taskforce-july-2026",
-          "published": "Fri, 18 Sep 2026 12:00:00 +0100",
-          "description": "The Transaction and Post-trade Reporting Harmonisation Taskforce, through its three working groups, will help inform the design of the Bank and FCA’s long-term approach to harmonising UK MiFIR, UK EMIR and UK SFTR reporting requirements",
-          "relevant": true
-        },
-        {
-          "title": "Transcript of the Governor's pooled broadcast interview given on 17 September 2026",
-          "link": "https://www.bankofengland.co.uk/news/2026/september/the-governor-interview-transcript-17-september-2026",
-          "published": "Thu, 17 Sep 2026 14:30:00 +0100",
-          "description": "Following the publication of the Monetary Policy Summary and minutes of the Monetary Policy Committee meeting",
-          "relevant": true
         }
       ],
       "count": 10,
       "domain": "Europe",
-      "relevant_count": 8
+      "relevant_count": 9
     },
     {
       "name": "CBO — Budget & Economic Outlook",
@@ -424,6 +426,13 @@
       "channel": "CBO Publications",
       "description": "Nonpartisan budgetary and economic analysis for the U.S. Congress.",
       "entries": [
+        {
+          "title": "H.R. 5267, American Franchise Act",
+          "link": "https://www.cbo.gov/publication/62842",
+          "published": "Wed, 07 Oct 2026 13:57:00 -0400",
+          "description": "As reported by the House Committee on Education and Workforce on September 8, 2026",
+          "relevant": true
+        },
         {
           "title": "S. 3966, TREY’s Law",
           "link": "https://www.cbo.gov/publication/62840",
@@ -487,19 +496,11 @@
           "published": "Mon, 05 Oct 2026 14:00:00 -0400",
           "description": "In this working paper, the effect of Treasury duration supply on term premiums is estimated by using a dynamic term structure model.",
           "relevant": true
-        },
-        {
-          "title": "My Recent and Upcoming Speaking Engagements",
-          "link": "https://www.cbo.gov/publication/62794",
-          "published": "Fri, 02 Oct 2026 11:00:00 -0400",
-          "description": "CBO's Director, Phillip Swagel, discusses his recent and upcoming speaking engagements about the agency's work, its mission, and the U.S. economy.",
-          "relevant": false,
-          "_skip_reason": "no_macro_keyword"
         }
       ],
       "count": 10,
       "domain": "US Fiscal",
-      "relevant_count": 8
+      "relevant_count": 9
     },
     {
       "name": "BIS — All Publications",
