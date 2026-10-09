@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T01:26:46.311360+00:00",
+  "generated_at": "2026-10-09T01:34:08.686914+00:00",
   "source": "podcast_rss",
   "feeds_count": 5,
   "total_episodes": 40,
@@ -10,6 +10,14 @@
       "domain": "US Fiscal",
       "description": "Allocator and asset management expert, Ted Seides, conducts in-depth interviews with leaders in the institutional investing industry. Guests include Chief Investment Officers from leading allocators, asset managers, strategists, thought leaders, and many more. Our mission is to learn, share, and help implement the process of premier investors. Learn more and join our community at capitalallocators.com.",
       "episodes": [
+        {
+          "title": "Real Estate Credit Over Yield at Invesco – Charlie Rose (EP.519)",
+          "link": "https://tedseides.libsyn.com/real-estate-credit-over-yield-at-invesco-charlie-rose-ep519",
+          "published": "Thu, 08 Oct 2026 08:00:00 +0000",
+          "description": "Charlie Rose is the Global Head of Real Estate Credit at Invesco, where he oversees an $85 billion global platform. Before joining Invesco, Charlie worked in real estate as an academic researcher, jack-of-all-trades through the financial crisis, and investor up and down the capital stack for eight years at Canyon Partners.       Our conversation covers Invesco's \"credit over yield\" approach, property-first underwriting, collaborative work inside the firm, and relationship-based focus. We discuss sourcing through repeat borrowers, risk management, portfolio construction, contrarian calls, including avoiding data centers and AI exposure, and \"sheds and beds\" theme of industrial and multifamily loans. We close with lessons from the 2022–23 real estate correction, managing troubled loans, and",
+          "audio_url": "https://traffic.libsyn.com/secure/tedseides/CA_-_EP.519_Charlie_Rose_-_AUDIO_V1.mp3?dest-id=482814",
+          "duration": "59:35"
+        },
         {
           "title": "Building the Total Portfolio at Ontario Teachers – Stephen McLennan (EP.518)",
           "link": "https://tedseides.libsyn.com/building-the-total-portfolio-at-ontario-teachers-stephen-mclennan-ep518",
@@ -81,14 +89,6 @@
           "description": "We're excited to share something we've been working on for a while: we're bringing Capital Allocators University online.      For years, CAU has been an in-person, once-a-year cohort of 25 or 30 professionals, built around a set of disciplines that matter enormously for investors and investor relations professionals but rarely get taught explicitly. We put together a brief conversation to share more on what the course covers, who it's for, what we learned from the past five years, and why we decided to move it online.        Full details here . We look forward to welcoming you as a member.      Special thanks to our production partner,   Fondu .",
           "audio_url": "https://traffic.libsyn.com/secure/tedseides/CA_-_Special_Announcement_CAU_Online_-_AUDIO_V1.mp3?dest-id=482814",
           "duration": "15:22"
-        },
-        {
-          "title": "Best of Negotiations: Chris Voss",
-          "link": "https://tedseides.libsyn.com/best-of-negotiations-chris-voss",
-          "published": "Mon, 31 Aug 2026 08:00:00 +0000",
-          "description": "This week's Summer Series is another two-fer, this time on negotiations. The first is with legendary former FBI-hostage negotiator Chris Voss, the author of Never Split the Difference and founder of the Black Swan group where he teaches tactical empathy in negotiations.  The second is with Yale professor Daylian Cain, who opened my eyes to the importance of walking away.        Learn more about  Capital Allocators University .        Try  ALEX  by Admired Leadership.         Learn More   Follow Ted on Twitter at  @tseides  or  LinkedIn    Subscribe to the  mailing list   Access Transcript with  Premium Membership         Editing and post-production work for this episode was provided by The Podcast Consultant (  ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://thepodcastconsultant.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠",
-          "audio_url": "https://traffic.libsyn.com/secure/tedseides/CA_-_SUMMER_SERIES_2026_-_Chris_Voss_-_AUDIO_V1.mp3?dest-id=482814",
-          "duration": "44:38"
         }
       ]
     },

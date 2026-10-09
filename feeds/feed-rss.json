@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T01:26:46.311360+00:00",
+  "generated_at": "2026-10-09T01:34:08.686914+00:00",
   "source": "rss",
   "feeds_count": 17,
   "total_entries": 80,
@@ -94,6 +94,27 @@
       "description": "Treasury Offering Announcements",
       "entries": [
         {
+          "title": "29-Year 10-Month Bond Treasury Auction Results",
+          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
+          "published": "Thu, 08 Oct 2026 17:04:12 GMT",
+          "description": "CUSIP:  912810UW6  Term and Type:  29-Year 10-Month Bond  Series:  Bonds of August 2056  Reopening:  Yes  Interest Rate:  5.125%  High Yield:  5.618%  Price:  $92.889131  Allotted at High:  26.77%  Total Tendered:  $56,435,875,700  Total Accepted:  $22,522,535,300  Auction Date:  10/08/2026  Issue Date:  10/15/2026  Maturity Date:  08/15/2056  PDF  |  XML",
+          "relevant": true
+        },
+        {
+          "title": "8-Week Bill Treasury Auction Results",
+          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
+          "published": "Thu, 08 Oct 2026 15:34:04 GMT",
+          "description": "CUSIP:  912797WE3  Term and Type:  8-Week Bill  CMB:  No  High Rate:  3.980%  Investment Rate:  4.060%  Price:  $99.380889  Allotted at High:  8.93%  Total Tendered:  $299,764,607,000  Total Accepted:  $113,924,264,500  Auction Date:  10/08/2026  Issue Date:  10/13/2026  Maturity Date:  12/08/2026  PDF  |  XML",
+          "relevant": true
+        },
+        {
+          "title": "4-Week Bill Treasury Auction Results",
+          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
+          "published": "Thu, 08 Oct 2026 15:34:03 GMT",
+          "description": "CUSIP:  912797VW4  Term and Type:  4-Week Bill  CMB:  No  High Rate:  3.980%  Investment Rate:  4.048%  Price:  $99.690444  Allotted at High:  50.05%  Total Tendered:  $273,159,883,800  Total Accepted:  $119,348,758,800  Auction Date:  10/08/2026  Issue Date:  10/13/2026  Maturity Date:  11/10/2026  PDF  |  XML",
+          "relevant": true
+        },
+        {
           "title": "9-Year 10-Month Note Treasury Auction Results",
           "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
           "published": "Wed, 07 Oct 2026 17:04:02 GMT",
@@ -141,27 +162,6 @@
           "published": "Thu, 01 Oct 2026 15:33:42 GMT",
           "description": "CUSIP:  912797VP9  Term and Type:  4-Week Bill  CMB:  No  High Rate:  3.890%  Investment Rate:  3.956%  Price:  $99.697444  Allotted at High:  23.52%  Total Tendered:  $288,487,682,500  Total Accepted:  $105,092,402,500  Auction Date:  10/01/2026  Issue Date:  10/06/2026  Maturity Date:  11/03/2026  PDF  |  XML",
           "relevant": true
-        },
-        {
-          "title": "8-Week Bill Treasury Auction Results",
-          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
-          "published": "Thu, 01 Oct 2026 15:33:41 GMT",
-          "description": "CUSIP:  912797VZ7  Term and Type:  8-Week Bill  CMB:  No  High Rate:  3.990%  Investment Rate:  4.071%  Price:  $99.379333  Allotted at High:  65.05%  Total Tendered:  $261,001,699,200  Total Accepted:  $99,837,524,200  Auction Date:  10/01/2026  Issue Date:  10/06/2026  Maturity Date:  12/01/2026  PDF  |  XML",
-          "relevant": true
-        },
-        {
-          "title": "17-Week Bill Treasury Auction Results",
-          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
-          "published": "Wed, 30 Sep 2026 15:34:18 GMT",
-          "description": "CUSIP:  912797WS2  Term and Type:  17-Week Bill  CMB:  No  High Rate:  4.115%  Investment Rate:  4.230%  Price:  $98.639764  Allotted at High:  59.30%  Total Tendered:  $220,889,238,800  Total Accepted:  $78,818,888,800  Auction Date:  09/30/2026  Issue Date:  10/06/2026  Maturity Date:  02/02/2027  PDF  |  XML",
-          "relevant": true
-        },
-        {
-          "title": "52-Week Bill Treasury Auction Results",
-          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
-          "published": "Tue, 29 Sep 2026 15:33:33 GMT",
-          "description": "CUSIP:  912797WJ2  Term and Type:  52-Week Bill  CMB:  No  High Rate:  4.400%  Investment Rate:  4.616%  Price:  $95.551111  Allotted at High:  70.21%  Total Tendered:  $171,170,537,700  Total Accepted:  $59,167,062,200  Auction Date:  09/29/2026  Issue Date:  10/01/2026  Maturity Date:  09/30/2027  PDF  |  XML",
-          "relevant": true
         }
       ],
       "count": 10,
@@ -174,6 +174,22 @@
       "channel": "ECB - European Central Bank",
       "description": "Latest releases on the ECB website - Press releases, speeches and interviews, press conferences.",
       "entries": [
+        {
+          "title": "Meeting of 9-10 September 2026",
+          "link": "https://www.ecb.europa.eu//press/accounts/2026/html/ecb.mg261008~a10153d090.en.html",
+          "published": "Thu, 08 Oct 2026 13:30:00 +0200",
+          "description": "",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
+        },
+        {
+          "title": "Piero Cipollone: Interview with Corriere della Sera",
+          "link": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261008~3184e7d0d0.en.html",
+          "published": "Thu, 08 Oct 2026 08:00:00 +0200",
+          "description": "",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
+        },
         {
           "title": "Results of the September 2026 survey on credit terms and conditions in euro-denominated securities financing and OTC derivatives markets (SESFOD)",
           "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261007~6447350434.en.html",
@@ -231,26 +247,11 @@
           "published": "Thu, 01 Oct 2026 17:30:00 +0200",
           "description": "",
           "relevant": true
-        },
-        {
-          "title": "Christine Lagarde: Where AI risks meet",
-          "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261001~cf3c630379.en.html",
-          "published": "Thu, 01 Oct 2026 15:30:00 +0200",
-          "description": "",
-          "relevant": true
-        },
-        {
-          "title": "Christine Lagarde: Interview with La Croix",
-          "link": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260930~10084a5f3d.en.html",
-          "published": "Wed, 30 Sep 2026 19:00:00 +0200",
-          "description": "",
-          "relevant": false,
-          "_skip_reason": "no_macro_keyword"
         }
       ],
       "count": 10,
       "domain": "Europe",
-      "relevant_count": 7
+      "relevant_count": 6
     },
     {
       "name": "BOJ — Monetary Policy Statements",
@@ -259,8 +260,15 @@
       "description": "",
       "entries": [
         {
+          "title": "Regional Economic Report (Summary) (Oct. 2026)",
+          "link": "https://www.boj.or.jp/en/research/brp/rer/rer261008.htm",
+          "published": "Thu, 08 Oct 2026 14:00:00 +0900",
+          "description": "",
+          "relevant": true
+        },
+        {
           "title": "Direct Investment by Region and Industry (2nd quarter 2026)",
-          "link": "http://www.boj.or.jp/en/statistics/br/bop_06/bpdata/diiqcy.htm",
+          "link": "https://www.boj.or.jp/en/statistics/br/bop_06/bpdata/diiqcy.htm",
           "published": "Thu, 08 Oct 2026 08:50:00 +0900",
           "description": "",
           "relevant": false,
@@ -268,7 +276,7 @@
         },
         {
           "title": "Amounts Outstanding in the Call Money Market (Sept.)",
-          "link": "http://www.boj.or.jp/en/statistics/market/short/call/call.xlsx",
+          "link": "https://www.boj.or.jp/en/statistics/market/short/call/call.xlsx",
           "published": "Wed, 07 Oct 2026 15:00:00 +0900",
           "description": "",
           "relevant": false,
@@ -276,7 +284,7 @@
         },
         {
           "title": "Consumption Activity Index",
-          "link": "http://www.boj.or.jp/en/research/research_data/cai/index.htm",
+          "link": "https://www.boj.or.jp/en/research/research_data/cai/index.htm",
           "published": "Wed, 07 Oct 2026 14:00:00 +0900",
           "description": "",
           "relevant": false,
@@ -284,51 +292,43 @@
         },
         {
           "title": "Bank of Japan Accounts (September 30)",
-          "link": "http://www.boj.or.jp/en/statistics/boj/other/acmai/release/2026/ac260930.htm",
+          "link": "https://www.boj.or.jp/en/statistics/boj/other/acmai/release/2026/ac260930.htm",
           "published": "Wed, 07 Oct 2026 10:00:00 +0900",
           "description": "",
           "relevant": true
         },
         {
           "title": "Monetary Base and the Bank of Japan's Transactions (Sept.)",
-          "link": "http://www.boj.or.jp/en/statistics/boj/other/mbt/mbt2609.pdf",
+          "link": "https://www.boj.or.jp/en/statistics/boj/other/mbt/mbt2609.pdf",
           "published": "Wed, 07 Oct 2026 08:50:00 +0900",
           "description": "",
           "relevant": true
         },
         {
           "title": "Bank of Japan's Transactions with the Government (Sept.)",
-          "link": "http://www.boj.or.jp/en/statistics/boj/other/tseifu/release/2026/seifu2609.pdf",
+          "link": "https://www.boj.or.jp/en/statistics/boj/other/tseifu/release/2026/seifu2609.pdf",
           "published": "Wed, 07 Oct 2026 08:50:00 +0900",
           "description": "",
           "relevant": true
         },
         {
           "title": "Market Operations by the Bank of Japan (Sept.)",
-          "link": "http://www.boj.or.jp/en/statistics/boj/fm/ope/m_release/2026/ope2609.xlsx",
+          "link": "https://www.boj.or.jp/en/statistics/boj/fm/ope/m_release/2026/ope2609.xlsx",
           "published": "Wed, 07 Oct 2026 08:50:00 +0900",
           "description": "",
           "relevant": true
         },
         {
           "title": "Output Gap, Potential Growth Rate, and Labor Market Indicators",
-          "link": "http://www.boj.or.jp/en/research/research_data/gap/index.htm",
+          "link": "https://www.boj.or.jp/en/research/research_data/gap/index.htm",
           "published": "Mon, 05 Oct 2026 14:00:00 +0900",
           "description": "",
           "relevant": true
         },
         {
           "title": "8th Conference on Nontraditional Data, Machine Learning, and Natural Language Processing in Macroeconomics (ECONDAT 2026 Fall Meeting)",
-          "link": "http://www.boj.or.jp/en/research/conf/conf2610a.htm",
+          "link": "https://www.boj.or.jp/en/research/conf/conf2610a.htm",
           "published": "Mon, 05 Oct 2026 09:20:00 +0900",
-          "description": "",
-          "relevant": false,
-          "_skip_reason": "no_macro_keyword"
-        },
-        {
-          "title": "Sources of Changes in Current Account Balances (Projections for Oct.)",
-          "link": "http://www.boj.or.jp/en/statistics/boj/fm/juqp/juqp2610.xlsx",
-          "published": "Mon, 05 Oct 2026 08:50:00 +0900",
           "description": "",
           "relevant": false,
           "_skip_reason": "no_macro_keyword"
@@ -336,7 +336,7 @@
       ],
       "count": 10,
       "domain": "Japan",
-      "relevant_count": 5
+      "relevant_count": 6
     },
     {
       "name": "BOE — News & MPC Minutes",
@@ -427,6 +427,41 @@
       "description": "Nonpartisan budgetary and economic analysis for the U.S. Congress.",
       "entries": [
         {
+          "title": "S. 675, Theodore Roosevelt Presidential Library Act",
+          "link": "https://www.cbo.gov/publication/62845",
+          "published": "Thu, 08 Oct 2026 14:21:00 -0400",
+          "description": "As ordered reported by the House Committee on Natural Resources on September 15, 2026",
+          "relevant": true
+        },
+        {
+          "title": "Monthly Budget Review: September 2026",
+          "link": "https://www.cbo.gov/publication/61985",
+          "published": "Thu, 08 Oct 2026 14:00:00 -0400",
+          "description": "The federal budget deficit totaled $2.0 trillion in fiscal year 2026, CBO estimates, $218 billion more than the deficit recorded in fiscal year 2025.",
+          "relevant": true
+        },
+        {
+          "title": "Projections of Deficits and Debt Under Two Scenarios With Higher Interest Rates",
+          "link": "https://www.cbo.gov/publication/62809",
+          "published": "Thu, 08 Oct 2026 14:00:00 -0400",
+          "description": "CBO analyzed the budgetary outcomes under two alternative scenarios in which interest rates are higher than those underlying CBO's February 2026 baseline.",
+          "relevant": true
+        },
+        {
+          "title": "H.R. 8141, Fair Credit Reporting Reseller Accuracy Act",
+          "link": "https://www.cbo.gov/publication/62844",
+          "published": "Thu, 08 Oct 2026 12:07:00 -0400",
+          "description": "As reported by the House Committee on Financial Services on September 1, 2026",
+          "relevant": true
+        },
+        {
+          "title": "H.R. 9613, Nuclear Advisory Committee Reform Act",
+          "link": "https://www.cbo.gov/publication/62843",
+          "published": "Thu, 08 Oct 2026 12:07:00 -0400",
+          "description": "As ordered reported by the House Committee on Energy and Commerce on September 2, 2026",
+          "relevant": true
+        },
+        {
           "title": "H.R. 5267, American Franchise Act",
           "link": "https://www.cbo.gov/publication/62842",
           "published": "Wed, 07 Oct 2026 13:57:00 -0400",
@@ -461,41 +496,6 @@
           "published": "Tue, 06 Oct 2026 14:00:00 -0400",
           "description": "CBO examines how spending for flood adaptations today might affect the federal government's potential costs for disaster relief later, and what households are likely to pay for flood insurance that is subsidized by the federal government.",
           "relevant": true
-        },
-        {
-          "title": "H.R. 5437, Protection of Lawful Commerce in Stone Slab Products  Act of 2026",
-          "link": "https://www.cbo.gov/publication/62837",
-          "published": "Tue, 06 Oct 2026 13:36:00 -0400",
-          "description": "As ordered reported by the House Committee on the Judiciary on June 3, 2026",
-          "relevant": true
-        },
-        {
-          "title": "H.R. 9771, Stopping Foreign Influence in Elections Act of 2026",
-          "link": "https://www.cbo.gov/publication/62835",
-          "published": "Tue, 06 Oct 2026 13:35:00 -0400",
-          "description": "As reported by the House Committee on Ways and Means on August 27, 2026",
-          "relevant": true
-        },
-        {
-          "title": "H.R. 9721, Fiscal Sponsorship Transparency Act of 2026",
-          "link": "https://www.cbo.gov/publication/62834",
-          "published": "Mon, 05 Oct 2026 14:31:00 -0400",
-          "description": "As ordered reported by the House Committee on Ways and Means on July 22, 2026",
-          "relevant": true
-        },
-        {
-          "title": "S. 4097, State-Based Education Loan Awareness Act",
-          "link": "https://www.cbo.gov/publication/62833",
-          "published": "Mon, 05 Oct 2026 14:30:00 -0400",
-          "description": "As reported by the Senate Committee on Health, Education, Labor and Pensions on August 4, 2026",
-          "relevant": true
-        },
-        {
-          "title": "Treasury Duration Supply and Term Premiums: Working Paper 2026-11",
-          "link": "https://www.cbo.gov/publication/62759",
-          "published": "Mon, 05 Oct 2026 14:00:00 -0400",
-          "description": "In this working paper, the effect of Treasury duration supply on term premiums is estimated by using a dynamic term structure model.",
-          "relevant": true
         }
       ],
       "count": 10,
@@ -518,6 +518,13 @@
       "channel": "BIS — Research Papers",
       "description": "",
       "entries": [
+        {
+          "title": "Artificial intelligence and  climate change: balancing  innovation and  sustainability",
+          "link": "https://www.bis.org/publications/paper-174-artificial-intelligence-and-climate-change-balancing-innovation-and-sustainability",
+          "published": "2026-10-08T00:00:00Z",
+          "description": "Artificial intelligence (AI) is becoming an increasingly important factor in the climate transition. AI can improve energy efficiency, optimise resource use, accelerate climate innovation and strengthen climate forecasting, adaptation and risk management. At the same time, the development and deployment of AI require substantial computational resources, increasing electricity demand and, depending on the carbon intensity and timing of electricity use, associated emissions.",
+          "relevant": true
+        },
         {
           "title": "Chasing El Dorado: gold under shifting geopolitical and financial conditions",
           "link": "https://www.bis.org/publications/working-paper-1380-chasing-el-dorado-gold-under-shifting-geopolitical-and-financial-condition",
@@ -582,19 +589,11 @@
           "published": "2026-09-17T00:00:00Z",
           "description": "The conflict in the Middle East and the subsequent disruption of traffic in the Strait of Hormuz have triggered an unprecedented shock to the global economy. Using historical data from the IMF/University of Oxford Portwatch database on maritime traffic, this paper empirically examines some of the potential economic and financial consequences of disruptions to traffic in the Strait of Hormuz.",
           "relevant": true
-        },
-        {
-          "title": "Hidden by complexity?  Measuring stablecoin, crypto  and decentralised finance  ecosystems",
-          "link": "https://www.bis.org/publications/working-paper-1377-hidden-complexity-measuring-stablecoin-crypto-and-decentralised-finance-ecosystems",
-          "published": "2026-09-15T00:00:00Z",
-          "description": "Decentralised finance data presents a distinctive paradox: while every data point is publicly recorded and accessible, deriving meaningful insights is obscured by the scale, fragmentation and complexity of the ecosystem. Key metrics illustrate that the rapidly evolving DeFi ecosystem introduces unique challenges for economic and financial research in accurately capturing financial activity in DeFi.",
-          "relevant": false,
-          "_skip_reason": "no_macro_keyword"
         }
       ],
       "count": 10,
       "domain": "Global Liquidity",
-      "relevant_count": 7
+      "relevant_count": 8
     },
     {
       "name": "Lyn Alden",
