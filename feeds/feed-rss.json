@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T00:50:55.174824+00:00",
+  "generated_at": "2026-10-13T02:46:27.555678+00:00",
   "source": "rss",
   "feeds_count": 17,
   "total_entries": 90,
@@ -260,6 +260,22 @@
       "description": "",
       "entries": [
         {
+          "title": "Principal Figures of Financial Institutions (Sept.)",
+          "link": "http://www.boj.or.jp/en/statistics/dl/depo/kashi/kasi2609.pdf",
+          "published": "Tue, 13 Oct 2026 08:50:00 +0900",
+          "description": "",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
+        },
+        {
+          "title": "Corporate Goods Price Index (Sept.)",
+          "link": "http://www.boj.or.jp/en/statistics/pi/cgpi_release/cgpi2609.pdf",
+          "published": "Tue, 13 Oct 2026 08:50:00 +0900",
+          "description": "",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
+        },
+        {
           "title": "Twenty-fifth Meeting of the \"Council for Cooperation on Financial Stability\"",
           "link": "http://www.boj.or.jp/en/finsys/macpru/mac261009a.pdf",
           "published": "Fri, 09 Oct 2026 18:00:00 +0900",
@@ -319,25 +335,11 @@
           "published": "Wed, 07 Oct 2026 10:00:00 +0900",
           "description": "",
           "relevant": true
-        },
-        {
-          "title": "Monetary Base and the Bank of Japan's Transactions (Sept.)",
-          "link": "http://www.boj.or.jp/en/statistics/boj/other/mbt/mbt2609.pdf",
-          "published": "Wed, 07 Oct 2026 08:50:00 +0900",
-          "description": "",
-          "relevant": true
-        },
-        {
-          "title": "Bank of Japan's Transactions with the Government (Sept.)",
-          "link": "http://www.boj.or.jp/en/statistics/boj/other/tseifu/release/2026/seifu2609.pdf",
-          "published": "Wed, 07 Oct 2026 08:50:00 +0900",
-          "description": "",
-          "relevant": true
         }
       ],
       "count": 10,
       "domain": "Japan",
-      "relevant_count": 5
+      "relevant_count": 3
     },
     {
       "name": "BOE — News & MPC Minutes",
@@ -521,6 +523,13 @@
       "description": "",
       "entries": [
         {
+          "title": "Transformative AI and demand bottlenecks",
+          "link": "https://www.bis.org/publications/working-paper-1381-transformative-ai-and-demand-bottlenecks",
+          "published": "2026-10-12T00:00:00Z",
+          "description": "Transformative AI promises to accelerate growth through productivity enhancement and automation. Yet automation on such a scale would raise the share of investment in output, potentially starving AI innovation of returns from a shrinking consumer market.",
+          "relevant": true
+        },
+        {
           "title": "Artificial intelligence and  climate change: balancing  innovation and  sustainability",
           "link": "https://www.bis.org/publications/paper-174-artificial-intelligence-and-climate-change-balancing-innovation-and-sustainability",
           "published": "2026-10-08T00:00:00Z",
@@ -584,13 +593,6 @@
           "description": "This paper analyses the evolution and drivers of the stock of global imbalances in order to assess associated vulnerabilities and potential adjustment scenarios. These imbalances have recently increased sharply, with a deterioration in the US net international investment position (NIIP) mirrored by NIIP improvements in most other major economies.",
           "relevant": false,
           "_skip_reason": "no_macro_keyword"
-        },
-        {
-          "title": "Maritime chokepoints and the  global economy: evidence  from the Strait of Hormuz",
-          "link": "https://www.bis.org/publications/working-paper-1378-maritime-chokepoints-and-the-global-economy-evidence-strait-hormuz",
-          "published": "2026-09-17T00:00:00Z",
-          "description": "The conflict in the Middle East and the subsequent disruption of traffic in the Strait of Hormuz have triggered an unprecedented shock to the global economy. Using historical data from the IMF/University of Oxford Portwatch database on maritime traffic, this paper empirically examines some of the potential economic and financial consequences of disruptions to traffic in the Strait of Hormuz.",
-          "relevant": true
         }
       ],
       "count": 10,

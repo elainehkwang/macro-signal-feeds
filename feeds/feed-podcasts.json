@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T00:50:55.174824+00:00",
+  "generated_at": "2026-10-13T02:46:27.555678+00:00",
   "source": "podcast_rss",
   "feeds_count": 5,
   "total_episodes": 40,
@@ -10,6 +10,14 @@
       "domain": "US Fiscal",
       "description": "Allocator and asset management expert, Ted Seides, conducts in-depth interviews with leaders in the institutional investing industry. Guests include Chief Investment Officers from leading allocators, asset managers, strategists, thought leaders, and many more. Our mission is to learn, share, and help implement the process of premier investors. Learn more and join our community at capitalallocators.com.",
       "episodes": [
+        {
+          "title": "Senior Decision Makers: Erlina Yeo Terwelp, Columbia Investment Management Company (EP.520)",
+          "link": "https://tedseides.libsyn.com/senior-decision-makers-erlina-yeo-terwelp-columbia-investment-management-ep520",
+          "published": "Mon, 12 Oct 2026 08:00:00 +0000",
+          "description": "Our next guest on the Senior Decision Makers series is Erlina Yeo Terwelp, a Managing Director at Columbia Investment Management Company, where she oversees the endowment's private markets portfolio.       Erlina's path spans investment banking, private equity, growth equity, and family office investing before she joined Columbia nearly a decade ago. Our conversation covers her evolution as an allocator, how she thinks about manager selection and portfolio construction, the growing role of leadership and team development in her seat, and her perspective on generalist versus specialist team models after working within both.       Erlina is candid, thoughtful, and funny — with a deep commitment to intellectual honesty, an openness to changing her mind, and a willingness to continually put he",
+          "audio_url": "https://traffic.libsyn.com/secure/tedseides/CA_-_EP.520_SDM_Erlina_Yeo_Terwelp_-_AUDIO_V2.mp3?dest-id=482814",
+          "duration": "51:29"
+        },
         {
           "title": "Real Estate Credit Over Yield at Invesco – Charlie Rose (EP.519)",
           "link": "https://tedseides.libsyn.com/real-estate-credit-over-yield-at-invesco-charlie-rose-ep519",
@@ -81,14 +89,6 @@
           "description": "This week's Summer Series concludes with a two-fer on habits. There may be no better way to improve the investment process than to understand what it takes to improve ourselves.  We've got two of the best – James Clear and Katy Milkman, experts and authors of wildly bestselling books Atomic Habits and How to Change.         Please enjoy my conversations with James Clear and Katy Milkman, both from 2021.         We hope you've enjoyed this summer exploration in improving the investment process with some of the best conversations over the last nine years.         Learn more about  Capital Allocators University .         Try  ALEX  by Admired Leadership.          Learn More   Follow Ted on Twitter at  @tseides  or  LinkedIn    Subscribe to the  mailing list   Access Transcript with  Premium M",
           "audio_url": "https://traffic.libsyn.com/secure/tedseides/CA_-_SUMMER_SERIES_2026_-_Katy_Milkman_-_AUDIO_V2.mp3?dest-id=482814",
           "duration": "57:55"
-        },
-        {
-          "title": "SPECIAL ANNOUNCEMENT: Capital Allocators University Online",
-          "link": "https://tedseides.libsyn.com/special-annoucement-capital-allocators-university-online",
-          "published": "Thu, 03 Sep 2026 08:00:00 +0000",
-          "description": "We're excited to share something we've been working on for a while: we're bringing Capital Allocators University online.      For years, CAU has been an in-person, once-a-year cohort of 25 or 30 professionals, built around a set of disciplines that matter enormously for investors and investor relations professionals but rarely get taught explicitly. We put together a brief conversation to share more on what the course covers, who it's for, what we learned from the past five years, and why we decided to move it online.        Full details here . We look forward to welcoming you as a member.      Special thanks to our production partner,   Fondu .",
-          "audio_url": "https://traffic.libsyn.com/secure/tedseides/CA_-_Special_Announcement_CAU_Online_-_AUDIO_V1.mp3?dest-id=482814",
-          "duration": "15:22"
         }
       ]
     },
@@ -275,6 +275,14 @@
       "description": "Hosted by David Beckworth of the Mercatus Center, Macro Musings pulls back the curtain on the important macroeconomic issues of the past, present, and future.",
       "episodes": [
         {
+          "title": "John Rolle on The Bahamas' Fixed Exchange Rate and the First Nationwide Central Bank Digital Currency",
+          "link": "https://macromusings.libsyn.com/john-rolle-on-the-bahamas-fixed-exchange-rate-and-the-first-nationwide-central-bank-digital-currency",
+          "published": "Mon, 12 Oct 2026 09:00:00 +0000",
+          "description": "John Rolle is governor of the Central Bank of The Bahamas and is the second sitting central bank governor to appear on  Macro Musings . In his first appearance on the show, John joins the program to discuss what it's like to manage a central bank in a small open economy with a fixed exchange rate, the economic vulnerabilities of a tourism-dependent economy, the SandDollar, the future of digital payments and financial resilience, and much more.   Watch the  full length video  on our new YouTube Channel!   Check out the  transcript  for this week's episode, now with links.    Recorded on September 8th, 2026    Subscribe to David's Substack:  Macroeconomic Policy Nexus   Follow David Beckworth on X:  @DavidBeckworth   Follow the show on X:  @Macro_Musings    Check out our Macro Musings  merch",
+          "audio_url": "https://traffic.libsyn.com/secure/macromusings/MM-564-JohnRolle-Podcast_mixdown-auphonic.mp3?dest-id=865793",
+          "duration": "52:48"
+        },
+        {
           "title": "George Selgin on the New Deal and the History of Banking Crises",
           "link": "https://macromusings.libsyn.com/george-selgin-on-the-new-deal-and-the-history-of-banking-crises",
           "published": "Mon, 05 Oct 2026 09:00:00 +0000",
@@ -345,14 +353,6 @@
           "description": "Gianluca Benigno is a professor of economics at the University of Lausanne. Previously, he was a senior economist at the Federal Reserve Bank of New York and an economist at the Bank of England. Gianluca returns to the program to discuss financial r-star, the changing landscape of central bank balance sheets, the unique challenges facing the Swiss National Bank, how stablecoins could affect Treasury markets and the demand for reserves, the return of nonlinear inflation, its implications for monetary policy, and much more.   Watch  the full length video  on our new YouTube Channel!   Check out the  transcript  for this week's episode, now with links.    Recorded on June 22nd, 2026    Subscribe to David's Substack:  Macroeconomic Policy Nexus    Follow David Beckworth on X:  @DavidBeckworth",
           "audio_url": "https://traffic.libsyn.com/secure/macromusings/MM-555-GianlucaBenigno-Podcast-auphonic.mp3?dest-id=865793",
           "duration": "54:04"
-        },
-        {
-          "title": "Barry Eichengreen, Paul Blustein, and Brendan Greeley on Dollar Dominance",
-          "link": "https://macromusings.libsyn.com/barry-eichengreen-paul-blustein-and-brendan-greeley-on-dollar-dominance",
-          "published": "Mon, 03 Aug 2026 09:00:00 +0000",
-          "description": "Barry Eichengreen is a is well known author, economist, and economic historian from the University of California, Berkeley. Paul Blustein is a former Washington Post and Wall Street Journal journalist who has authored several acclaimed books on global economic institutions. Brendan Greeley is a veteran journalist from the Financial Times and current PhD student at Princeton studying monetary history. They all return to the show for a special roundtable discussion where they discuss the history of dominant currencies, whether we will always end up with a single reserve currency, whether monetary sovereignty is earned or given, the question of exorbitant privilege, what there is to do about a second China Shock, the future of dollars in the digital age, and much more.       Watch  the full l",
-          "audio_url": "https://traffic.libsyn.com/secure/macromusings/MM-554-PaulBrendanBarry-Audio-Final.mp3?dest-id=865793",
-          "duration": "58:56"
         }
       ]
     },
