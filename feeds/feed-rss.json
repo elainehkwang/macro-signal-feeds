@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T00:11:35.613488+00:00",
+  "generated_at": "2026-10-15T23:58:16.688568+00:00",
   "source": "rss",
   "feeds_count": 17,
   "total_entries": 80,
@@ -95,6 +95,20 @@
       "description": "Treasury Offering Announcements",
       "entries": [
         {
+          "title": "4-Week Bill Treasury Auction Results",
+          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
+          "published": "Thu, 15 Oct 2026 15:34:23 GMT",
+          "description": "CUSIP:  912797VX2  Term and Type:  4-Week Bill  CMB:  No  High Rate:  4.000%  Investment Rate:  4.068%  Price:  $99.688889  Allotted at High:  15.67%  Total Tendered:  $289,404,764,400  Total Accepted:  $117,413,204,400  Auction Date:  10/15/2026  Issue Date:  10/20/2026  Maturity Date:  11/17/2026  PDF  |  XML",
+          "relevant": true
+        },
+        {
+          "title": "8-Week Bill Treasury Auction Results",
+          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
+          "published": "Thu, 15 Oct 2026 15:34:22 GMT",
+          "description": "CUSIP:  912797WF0  Term and Type:  8-Week Bill  CMB:  No  High Rate:  4.050%  Investment Rate:  4.132%  Price:  $99.370000  Allotted at High:  50.08%  Total Tendered:  $244,853,623,300  Total Accepted:  $112,075,623,300  Auction Date:  10/15/2026  Issue Date:  10/20/2026  Maturity Date:  12/15/2026  PDF  |  XML",
+          "relevant": true
+        },
+        {
           "title": "17-Week Bill Treasury Auction Results",
           "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
           "published": "Wed, 14 Oct 2026 15:34:19 GMT",
@@ -148,20 +162,6 @@
           "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
           "published": "Wed, 07 Oct 2026 17:04:02 GMT",
           "description": "CUSIP:  91282CRF0  Term and Type:  9-Year 10-Month Note  Series:  E-2036  Reopening:  Yes  Interest Rate:  4.625%  High Yield:  5.300%  Price:  $94.864261  Allotted at High:  57.60%  Total Tendered:  $108,995,289,900  Total Accepted:  $39,926,321,900  Auction Date:  10/07/2026  Issue Date:  10/15/2026  Maturity Date:  08/15/2036  PDF  |  XML",
-          "relevant": true
-        },
-        {
-          "title": "17-Week Bill Treasury Auction Results",
-          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
-          "published": "Wed, 07 Oct 2026 15:34:05 GMT",
-          "description": "CUSIP:  912797WY9  Term and Type:  17-Week Bill  CMB:  No  High Rate:  4.105%  Investment Rate:  4.219%  Price:  $98.643069  Allotted at High:  43.02%  Total Tendered:  $238,866,776,300  Total Accepted:  $81,374,443,300  Auction Date:  10/07/2026  Issue Date:  10/13/2026  Maturity Date:  02/09/2027  PDF  |  XML",
-          "relevant": true
-        },
-        {
-          "title": "3-Year Note Treasury Auction Results",
-          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
-          "published": "Tue, 06 Oct 2026 17:04:19 GMT",
-          "description": "CUSIP:  91282CRQ6  Term and Type:  3-Year Note  Series:  AT-2029  Reopening:  No  Interest Rate:  4.875%  High Yield:  4.932%  Price:  $99.842840  Allotted at High:  8.35%  Total Tendered:  $153,096,023,500  Total Accepted:  $59,377,561,000  Auction Date:  10/06/2026  Issue Date:  10/15/2026  Maturity Date:  10/15/2029  PDF  |  XML",
           "relevant": true
         }
       ],
@@ -262,6 +262,21 @@
       "description": "",
       "entries": [
         {
+          "title": "Speech by Board Member KOEDA in Kumamoto (Economic Activity, Prices, and Monetary Policy in Japan)",
+          "link": "http://www.boj.or.jp/en/about/press/koen_2026/ko261015a.htm",
+          "published": "Thu, 15 Oct 2026 10:30:00 +0900",
+          "description": "",
+          "relevant": true
+        },
+        {
+          "title": "Summary of the \"Meeting on Market Operations\" (October 2026)",
+          "link": "http://www.boj.or.jp/en/paym/market/mkt261015a.pdf",
+          "published": "Thu, 15 Oct 2026 10:00:00 +0900",
+          "description": "",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
+        },
+        {
           "title": "The Fifteenth Tripartite Governors' Meeting among PBOC, BOJ, and BOK",
           "link": "http://www.boj.or.jp/en/intl_finance/cooperate/coop261014a.pdf",
           "published": "Wed, 14 Oct 2026 20:00:00 +0900",
@@ -321,21 +336,6 @@
           "description": "",
           "relevant": false,
           "_skip_reason": "no_macro_keyword"
-        },
-        {
-          "title": "Twenty-fifth Meeting of the \"Council for Cooperation on Financial Stability\"",
-          "link": "http://www.boj.or.jp/en/finsys/macpru/mac261009a.pdf",
-          "published": "Fri, 09 Oct 2026 18:00:00 +0900",
-          "description": "",
-          "relevant": true
-        },
-        {
-          "title": "Amendment to \"Prices of Eligible Collateral\"",
-          "link": "http://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/mpr261009a.pdf",
-          "published": "Fri, 09 Oct 2026 16:00:00 +0900",
-          "description": "",
-          "relevant": false,
-          "_skip_reason": "no_macro_keyword"
         }
       ],
       "count": 10,
@@ -348,6 +348,20 @@
       "channel": "News",
       "description": "News",
       "entries": [
+        {
+          "title": "David Roberts CV and questionnaire for the Treasury Select Committee",
+          "link": "https://www.bankofengland.co.uk/news/2026/october/david-roberts-tsc-reappointment",
+          "published": "Thu, 15 Oct 2026 10:52:41 +0100",
+          "description": "Published for the Treasury Select Committee",
+          "relevant": true
+        },
+        {
+          "title": "Minutes of the SONIA Stakeholder Advisory Group - 25 September 2026",
+          "link": "https://www.bankofengland.co.uk/minutes/2026/september/sonia-stakeholder-advisory-group-25-september-2026",
+          "published": "Thu, 15 Oct 2026 09:27:59 +0100",
+          "description": "The SONIA Stakeholder Advisory Group supports the Bank’s administration of SONIA by providing advice and technical input to the Bank and the SONIA Oversight Committee",
+          "relevant": true
+        },
         {
           "title": "Minutes of the Money Market Committee meeting – September 2026",
           "link": "https://www.bankofengland.co.uk/minutes/2026/september/money-markets-committee-minutes-september-2026",
@@ -404,20 +418,6 @@
           "link": "https://www.bankofengland.co.uk/minutes/2026/september/uk-money-markets-committee-minutes-september-2026",
           "published": "Tue, 06 Oct 2026 14:07:03 +0100",
           "description": "The Money Markets Committee is a forum for market participants and authorities to discuss the UK unsecured deposits and funding market and securities lending and repo markets.",
-          "relevant": true
-        },
-        {
-          "title": "Appointment of members of the Enforcement Decision Making Committee (EDMC)",
-          "link": "https://www.bankofengland.co.uk/news/2026/october/appointment-of-members-of-the-edmc",
-          "published": "Fri, 02 Oct 2026 09:00:00 +0100",
-          "description": "Following an external recruitment process, the Bank of England has appointed Carlos Conceicao and Alexander Justham as members of its Enforcement Decision Making Committee, with effect from September 2026.",
-          "relevant": true
-        },
-        {
-          "title": "Minutes of the Meeting of the Court of Directors held on 16 July 2026",
-          "link": "https://www.bankofengland.co.uk/minutes/2026/july/court-minutes-16-july-2026",
-          "published": "Thu, 01 Oct 2026 14:00:00 +0100",
-          "description": "The Bank's Court of Directors acts as a unitary board, setting the organisation's strategy and budget and taking key decisions on resourcing and appointments. Required to meet a minimum seven times per year, it has five executive members from the Bank and up to nine non-executive members.",
           "relevant": true
         }
       ],
@@ -523,6 +523,13 @@
       "description": "",
       "entries": [
         {
+          "title": "Chokepoint disruptions and their  macroeconomic consequences",
+          "link": "https://www.bis.org/publications/bulletin-138-chokepoint-disruptions-and-their-macroeconomic-consequences",
+          "published": "2026-10-15T00:00:00Z",
+          "description": "Rising geopolitical tensions, including trade restrictions and conflicts, are increasingly disrupting global supply chains, posing significant risks at critical chokepoints. Strong substitution effects and the use of inventories have helped to mitigate adverse output effects of chokepoint disruptions, but they often come at the cost of higher input prices. An effective policy response to chokepoint disruptions requires a tailored approach that takes account of the cause, centrality and the private sector’s ability to substitute and draw on buffers.",
+          "relevant": true
+        },
+        {
           "title": "Money and the architecture of trust",
           "link": "https://www.bis.org/publications/paper-175-money-and-architecture-trust",
           "published": "2026-10-14T00:00:00Z",
@@ -585,13 +592,6 @@
           "description": "This paper examines analytically and empirically whether the Basel III leverage ratio (LR) and output floor (OF) requirements act as substitutes for or complements to each other and how they interact with risk‑based regulatory requirements.",
           "relevant": false,
           "_skip_reason": "no_macro_keyword"
-        },
-        {
-          "title": "Trusted execution environments for central banks",
-          "link": "https://www.bis.org/publications/paper-173-trusted-execution-environments-central-banks",
-          "published": "2026-09-25T00:00:00Z",
-          "description": "This paper considers what TEEs can responsibly deliver for central banks, the conditions under which they are most effective and how they can be deployed without widening who must be trusted. It takes a balanced view, outlining core assurances and boundaries, highlighting implementation and governance dependencies and situating TEEs alongside alternative approaches to confidential computing.",
-          "relevant": true
         }
       ],
       "count": 10,
