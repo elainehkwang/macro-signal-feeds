@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T00:44:55.000983+00:00",
+  "generated_at": "2026-10-15T00:11:35.613488+00:00",
   "source": "rss",
   "feeds_count": 17,
   "total_entries": 80,
@@ -95,6 +95,13 @@
       "description": "Treasury Offering Announcements",
       "entries": [
         {
+          "title": "17-Week Bill Treasury Auction Results",
+          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
+          "published": "Wed, 14 Oct 2026 15:34:19 GMT",
+          "description": "CUSIP:  912797WZ6  Term and Type:  17-Week Bill  CMB:  No  High Rate:  4.195%  Investment Rate:  4.313%  Price:  $98.613319  Allotted at High:  83.69%  Total Tendered:  $214,414,714,400  Total Accepted:  $80,054,540,100  Auction Date:  10/14/2026  Issue Date:  10/20/2026  Maturity Date:  02/16/2027  PDF  |  XML",
+          "relevant": true
+        },
+        {
           "title": "6-Week Bill Treasury Auction Results",
           "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
           "published": "Tue, 13 Oct 2026 17:03:59 GMT",
@@ -156,13 +163,6 @@
           "published": "Tue, 06 Oct 2026 17:04:19 GMT",
           "description": "CUSIP:  91282CRQ6  Term and Type:  3-Year Note  Series:  AT-2029  Reopening:  No  Interest Rate:  4.875%  High Yield:  4.932%  Price:  $99.842840  Allotted at High:  8.35%  Total Tendered:  $153,096,023,500  Total Accepted:  $59,377,561,000  Auction Date:  10/06/2026  Issue Date:  10/15/2026  Maturity Date:  10/15/2029  PDF  |  XML",
           "relevant": true
-        },
-        {
-          "title": "6-Week Bill Treasury Auction Results",
-          "link": "https://www.treasurydirect.gov/instit/annceresult/press/press_secannpr.htm",
-          "published": "Tue, 06 Oct 2026 15:34:02 GMT",
-          "description": "CUSIP:  912797UZ8  Term and Type:  6-Week Bill  CMB:  No  High Rate:  3.945%  Investment Rate:  4.018%  Price:  $99.539750  Allotted at High:  87.68%  Total Tendered:  $271,645,541,600  Total Accepted:  $102,156,421,600  Auction Date:  10/06/2026  Issue Date:  10/08/2026  Maturity Date:  11/19/2026  PDF  |  XML",
-          "relevant": true
         }
       ],
       "count": 10,
@@ -175,6 +175,14 @@
       "channel": "ECB - European Central Bank",
       "description": "Latest releases on the ECB website - Press releases, speeches and interviews, press conferences.",
       "entries": [
+        {
+          "title": "Frank Elderson: Ensuring resilience in the face of uncertainty",
+          "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261014~e4ca33588e.en.html",
+          "published": "Wed, 14 Oct 2026 02:00:00 +0200",
+          "description": "",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
+        },
         {
           "title": "Philip R. Lane: The AI opportunity for Europe",
           "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261013~9db9bf4fd6.en.html",
@@ -241,18 +249,11 @@
           "published": "Fri, 02 Oct 2026 15:00:00 +0200",
           "description": "",
           "relevant": true
-        },
-        {
-          "title": "Boris Vujčić: Resilience, integration and competitiveness: building the future of European banking",
-          "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261002_1~419efe18e0.en.html",
-          "published": "Fri, 02 Oct 2026 13:30:00 +0200",
-          "description": "",
-          "relevant": true
         }
       ],
       "count": 10,
       "domain": "Europe",
-      "relevant_count": 6
+      "relevant_count": 5
     },
     {
       "name": "BOJ — Monetary Policy Statements",
@@ -260,6 +261,27 @@
       "channel": "Bank of Japan：RSS",
       "description": "",
       "entries": [
+        {
+          "title": "The Fifteenth Tripartite Governors' Meeting among PBOC, BOJ, and BOK",
+          "link": "http://www.boj.or.jp/en/intl_finance/cooperate/coop261014a.pdf",
+          "published": "Wed, 14 Oct 2026 20:00:00 +0900",
+          "description": "",
+          "relevant": true
+        },
+        {
+          "title": "Japanese Government Bonds Held by the Bank of Japan",
+          "link": "http://www.boj.or.jp/en/statistics/boj/other/mei/release/2026/mei261009.xlsx",
+          "published": "Wed, 14 Oct 2026 17:00:00 +0900",
+          "description": "",
+          "relevant": true
+        },
+        {
+          "title": "Bank of Japan Accounts (October 10)",
+          "link": "http://www.boj.or.jp/en/statistics/boj/other/acmai/release/2026/ac261010.htm",
+          "published": "Wed, 14 Oct 2026 10:00:00 +0900",
+          "description": "",
+          "relevant": true
+        },
         {
           "title": "Money Stock (Sept.)",
           "link": "http://www.boj.or.jp/en/statistics/money/ms/ms2609.pdf",
@@ -314,34 +336,11 @@
           "description": "",
           "relevant": false,
           "_skip_reason": "no_macro_keyword"
-        },
-        {
-          "title": "IMES Discussion Paper Series (2026)",
-          "link": "http://www.boj.or.jp/en/research/imes/dps/dps26.htm",
-          "published": "Fri, 09 Oct 2026 11:00:00 +0900",
-          "description": "",
-          "relevant": false,
-          "_skip_reason": "no_macro_keyword"
-        },
-        {
-          "title": "Regional Economic Report (Summary) (Oct. 2026)",
-          "link": "http://www.boj.or.jp/en/research/brp/rer/rer261008.htm",
-          "published": "Thu, 08 Oct 2026 14:00:00 +0900",
-          "description": "",
-          "relevant": true
-        },
-        {
-          "title": "Direct Investment by Region and Industry (2nd quarter 2026)",
-          "link": "http://www.boj.or.jp/en/statistics/br/bop_06/bpdata/diiqcy.htm",
-          "published": "Thu, 08 Oct 2026 08:50:00 +0900",
-          "description": "",
-          "relevant": false,
-          "_skip_reason": "no_macro_keyword"
         }
       ],
       "count": 10,
       "domain": "Japan",
-      "relevant_count": 2
+      "relevant_count": 4
     },
     {
       "name": "BOE — News & MPC Minutes",
@@ -433,6 +432,27 @@
       "description": "Nonpartisan budgetary and economic analysis for the U.S. Congress.",
       "entries": [
         {
+          "title": "S. 4166, SECURE Grid Act",
+          "link": "https://www.cbo.gov/publication/62854",
+          "published": "Wed, 14 Oct 2026 15:19:00 -0400",
+          "description": "As ordered reported by the Senate Committee on Energy and Natural Resources on September 30, 2026",
+          "relevant": true
+        },
+        {
+          "title": "H.R. 941, Small LENDER Act",
+          "link": "https://www.cbo.gov/publication/62853",
+          "published": "Wed, 14 Oct 2026 15:18:00 -0400",
+          "description": "As reported by the House Committee on Financial Services on June 18, 2026",
+          "relevant": true
+        },
+        {
+          "title": "CBO's Recent Publications and Work in Progress as of September 30, 2026",
+          "link": "https://www.cbo.gov/publication/62777",
+          "published": "Wed, 14 Oct 2026 14:00:00 -0400",
+          "description": "In this report, the latest in a quarterly series, CBO highlights its recent publications and summarizes its work in progress.",
+          "relevant": true
+        },
+        {
           "title": "H.R. 9530, Quiet Skies Act",
           "link": "https://www.cbo.gov/publication/62851",
           "published": "Tue, 13 Oct 2026 16:47:00 -0400",
@@ -480,27 +500,6 @@
           "published": "Thu, 08 Oct 2026 14:21:00 -0400",
           "description": "As ordered reported by the House Committee on Natural Resources on September 15, 2026",
           "relevant": true
-        },
-        {
-          "title": "Monthly Budget Review: September 2026",
-          "link": "https://www.cbo.gov/publication/61985",
-          "published": "Thu, 08 Oct 2026 14:00:00 -0400",
-          "description": "The federal budget deficit totaled $2.0 trillion in fiscal year 2026, CBO estimates, $218 billion more than the deficit recorded in fiscal year 2025.",
-          "relevant": true
-        },
-        {
-          "title": "Projections of Deficits and Debt Under Two Scenarios With Higher Interest Rates",
-          "link": "https://www.cbo.gov/publication/62809",
-          "published": "Thu, 08 Oct 2026 14:00:00 -0400",
-          "description": "CBO analyzed the budgetary outcomes under two alternative scenarios in which interest rates are higher than those underlying CBO's February 2026 baseline.",
-          "relevant": true
-        },
-        {
-          "title": "H.R. 8141, Fair Credit Reporting Reseller Accuracy Act",
-          "link": "https://www.cbo.gov/publication/62844",
-          "published": "Thu, 08 Oct 2026 12:07:00 -0400",
-          "description": "As reported by the House Committee on Financial Services on September 1, 2026",
-          "relevant": true
         }
       ],
       "count": 10,
@@ -523,6 +522,13 @@
       "channel": "BIS — Research Papers",
       "description": "",
       "entries": [
+        {
+          "title": "Money and the architecture of trust",
+          "link": "https://www.bis.org/publications/paper-175-money-and-architecture-trust",
+          "published": "2026-10-14T00:00:00Z",
+          "description": "Money is one of the most consequential social institutions humanity has built. Starting from the most elementary monetary act, a payment, this paper provides an account of how money works, grounded in the tradition of credit theories of money.",
+          "relevant": true
+        },
         {
           "title": "Are stablecoins and bank deposits substitutes?",
           "link": "https://www.bis.org/publications/working-paper-1382-are-stablecoins-and-bank-deposits-substitutes",
@@ -548,7 +554,7 @@
           "title": "Chasing El Dorado: gold under shifting geopolitical and financial conditions",
           "link": "https://www.bis.org/publications/working-paper-1380-chasing-el-dorado-gold-under-shifting-geopolitical-and-financial-condition",
           "published": "2026-10-06T00:00:00Z",
-          "description": "This paper analyses the state-dependent effects of geopolitical risks on gold prices (i.e. the safe-haven role of gold), conditional on financial conditions. Geopolitical risks are often associated with tighter financial conditions. However, recent data reveal a decoupling be tween such shocks and more restrictive financial conditions, raising the question of how gold returns are affected by geopolitical shocks, conditional on the macro-financial environment",
+          "description": "This paper analyses the state-dependent effects of geopolitical risks on gold prices (i.e. the safe-haven role of gold), conditional on financial conditions. Geopolitical risks are often associated with tighter financial conditions. However, recent data reveal a decoupling between such shocks and more restrictive financial conditions, raising the question of how gold returns are affected by geopolitical shocks, conditional on the macro-financial environment.",
           "relevant": true
         },
         {
@@ -585,13 +591,6 @@
           "link": "https://www.bis.org/publications/paper-173-trusted-execution-environments-central-banks",
           "published": "2026-09-25T00:00:00Z",
           "description": "This paper considers what TEEs can responsibly deliver for central banks, the conditions under which they are most effective and how they can be deployed without widening who must be trusted. It takes a balanced view, outlining core assurances and boundaries, highlighting implementation and governance dependencies and situating TEEs alongside alternative approaches to confidential computing.",
-          "relevant": true
-        },
-        {
-          "title": "Old workers, young machines: can AI and automation offset population ageing?",
-          "link": "https://www.bis.org/publications/bulletin-135-old-workers-young-machines-can-ai-and-automation-offset-population-ageing",
-          "published": "2026-09-24T00:00:00Z",
-          "description": "Key takeawaysArtificial intelligence (AI) and robots have the potential to offset the macroeconomic consequences of an ageing workforce, but the ability to automate jobs depends on which industries are ageing.AI and robots substitute most readily for jobs in industries with younger workforces (eg finance), while older, high-employment industries (eg agriculture, health) have less scope for automation.A new ageing–automation scorecard for over 130 economies shows that some of the fastest-ageing…",
           "relevant": true
         }
       ],
