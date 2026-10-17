@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T23:58:16.688568+00:00",
+  "generated_at": "2026-10-17T00:03:45.230791+00:00",
   "source": "rss",
   "feeds_count": 17,
   "total_entries": 80,
@@ -262,6 +262,13 @@
       "description": "",
       "entries": [
         {
+          "title": "BOJ Current Account Balances by Sector (Sept.)",
+          "link": "http://www.boj.or.jp/en/statistics/boj/other/cabs/cabs.xlsx",
+          "published": "Fri, 16 Oct 2026 17:00:00 +0900",
+          "description": "",
+          "relevant": true
+        },
+        {
           "title": "Speech by Board Member KOEDA in Kumamoto (Economic Activity, Prices, and Monetary Policy in Japan)",
           "link": "http://www.boj.or.jp/en/about/press/koen_2026/ko261015a.htm",
           "published": "Thu, 15 Oct 2026 10:30:00 +0900",
@@ -328,19 +335,11 @@
           "description": "",
           "relevant": false,
           "_skip_reason": "no_macro_keyword"
-        },
-        {
-          "title": "Corporate Goods Price Index (Sept.)",
-          "link": "http://www.boj.or.jp/en/statistics/pi/cgpi_release/cgpi2609.pdf",
-          "published": "Tue, 13 Oct 2026 08:50:00 +0900",
-          "description": "",
-          "relevant": false,
-          "_skip_reason": "no_macro_keyword"
         }
       ],
       "count": 10,
       "domain": "Japan",
-      "relevant_count": 4
+      "relevant_count": 5
     },
     {
       "name": "BOE — News & MPC Minutes",
@@ -348,6 +347,13 @@
       "channel": "News",
       "description": "News",
       "entries": [
+        {
+          "title": "Banknote imagery advisory group minutes – 15 July 2026",
+          "link": "https://www.bankofengland.co.uk/minutes/2026/july/banknote-advisory-minutes-15-july",
+          "published": "Fri, 16 Oct 2026 12:00:00 +0100",
+          "description": "Meeting held 15 July 2026",
+          "relevant": true
+        },
         {
           "title": "David Roberts CV and questionnaire for the Treasury Select Committee",
           "link": "https://www.bankofengland.co.uk/news/2026/october/david-roberts-tsc-reappointment",
@@ -412,13 +418,6 @@
           "description": "Proportionality is set to be improved for firms as over 100 regulatory thresholds could be automatically increased periodically.",
           "relevant": false,
           "_skip_reason": "no_macro_keyword"
-        },
-        {
-          "title": "Minutes of the UK Money Markets Code Sub-Committee – September 2026",
-          "link": "https://www.bankofengland.co.uk/minutes/2026/september/uk-money-markets-committee-minutes-september-2026",
-          "published": "Tue, 06 Oct 2026 14:07:03 +0100",
-          "description": "The Money Markets Committee is a forum for market participants and authorities to discuss the UK unsecured deposits and funding market and securities lending and repo markets.",
-          "relevant": true
         }
       ],
       "count": 10,
@@ -431,6 +430,55 @@
       "channel": "CBO Publications",
       "description": "Nonpartisan budgetary and economic analysis for the U.S. Congress.",
       "entries": [
+        {
+          "title": "H.R. 5967, Strategic Task Force on Scam Prevention Act",
+          "link": "https://www.cbo.gov/publication/62864",
+          "published": "Fri, 16 Oct 2026 15:44:00 -0400",
+          "description": "As ordered reported by the House Committee on Energy and Commerce on September 16, 2026",
+          "relevant": true
+        },
+        {
+          "title": "H.R. 2805, PLAN for Broadband Act",
+          "link": "https://www.cbo.gov/publication/62863",
+          "published": "Fri, 16 Oct 2026 15:43:00 -0400",
+          "description": "As ordered reported by the House Committee on Energy and Commerce on September 16, 2026",
+          "relevant": true
+        },
+        {
+          "title": "S. 3923, Weather Research and Forecasting Innovation Reauthorization Act of 2026",
+          "link": "https://www.cbo.gov/publication/62862",
+          "published": "Fri, 16 Oct 2026 15:43:00 -0400",
+          "description": "As reported by the Senate Committee on Commerce, Science, and Transportation on September 28, 2026",
+          "relevant": true
+        },
+        {
+          "title": "H.R. 7254, a bill to amend the National Trails System Act to direct the Secretary of the Interior to conduct a study on the feasibility of designating the Bay Area Ridge National Scenic Trail, and for other purposes",
+          "link": "https://www.cbo.gov/publication/62859",
+          "published": "Fri, 16 Oct 2026 15:42:00 -0400",
+          "description": "As ordered reported by the House Committee on Natural Resources on September 15, 2026",
+          "relevant": true
+        },
+        {
+          "title": "S. 4448, Accelerating Broadband Permits Act of 2026",
+          "link": "https://www.cbo.gov/publication/62861",
+          "published": "Fri, 16 Oct 2026 12:55:00 -0400",
+          "description": "As ordered reported by the Senate Committee on Commerce, Science, and Transportation on \nJuly 22, 2026",
+          "relevant": true
+        },
+        {
+          "title": "H.R. 9720, D.C. Taxing Authority Review Act",
+          "link": "https://www.cbo.gov/publication/62841",
+          "published": "Fri, 16 Oct 2026 12:54:00 -0400",
+          "description": "As ordered reported by the House Committee on Oversight and Government Reform on July 22, 2026",
+          "relevant": true
+        },
+        {
+          "title": "H.R. 3756, FISH Act of 2025",
+          "link": "https://www.cbo.gov/publication/62858",
+          "published": "Fri, 16 Oct 2026 09:22:00 -0400",
+          "description": "As ordered reported by the House Committee on Natural Resources on April 21, 2026",
+          "relevant": true
+        },
         {
           "title": "S. 4166, SECURE Grid Act",
           "link": "https://www.cbo.gov/publication/62854",
@@ -450,55 +498,6 @@
           "link": "https://www.cbo.gov/publication/62777",
           "published": "Wed, 14 Oct 2026 14:00:00 -0400",
           "description": "In this report, the latest in a quarterly series, CBO highlights its recent publications and summarizes its work in progress.",
-          "relevant": true
-        },
-        {
-          "title": "H.R. 9530, Quiet Skies Act",
-          "link": "https://www.cbo.gov/publication/62851",
-          "published": "Tue, 13 Oct 2026 16:47:00 -0400",
-          "description": "As ordered reported by the House Committee on Transportation and Infrastructure on September 15, 2026",
-          "relevant": true
-        },
-        {
-          "title": "H.R. 9772, Foreign Funding Transparency Act",
-          "link": "https://www.cbo.gov/publication/62852",
-          "published": "Tue, 13 Oct 2026 16:47:00 -0400",
-          "description": "As reported by the House Committee on Ways and Means on August 27, 2026",
-          "relevant": true
-        },
-        {
-          "title": "H.R. 2592, Aviation Medication Transparency Act of 2026",
-          "link": "https://www.cbo.gov/publication/62850",
-          "published": "Tue, 13 Oct 2026 16:46:00 -0400",
-          "description": "As ordered reported by the House Committee on Transportation and Infrastructure on September 15, 2026",
-          "relevant": true
-        },
-        {
-          "title": "H.R. 7257, SECURE Grid Act",
-          "link": "https://www.cbo.gov/publication/62849",
-          "published": "Tue, 13 Oct 2026 11:59:00 -0400",
-          "description": "As ordered reported by the Senate Committee on Energy and Natural Resources on September 30, 2026",
-          "relevant": true
-        },
-        {
-          "title": "H.R. 6652, U.S. Vets of the FAS Act",
-          "link": "https://www.cbo.gov/publication/62848",
-          "published": "Fri, 09 Oct 2026 16:43:00 -0400",
-          "description": "As ordered reported by the House Committee on Veterans’ Affairs on May 14, 2026",
-          "relevant": true
-        },
-        {
-          "title": "H.R. 9642, Medicare Access to Rural Anesthesiology Act",
-          "link": "https://www.cbo.gov/publication/62846",
-          "published": "Fri, 09 Oct 2026 16:42:00 -0400",
-          "description": "As ordered reported by the House Committee on Ways and Means on July 15, 2026",
-          "relevant": true
-        },
-        {
-          "title": "S. 675, Theodore Roosevelt Presidential Library Act",
-          "link": "https://www.cbo.gov/publication/62845",
-          "published": "Thu, 08 Oct 2026 14:21:00 -0400",
-          "description": "As ordered reported by the House Committee on Natural Resources on September 15, 2026",
           "relevant": true
         }
       ],
@@ -522,6 +521,13 @@
       "channel": "BIS — Research Papers",
       "description": "",
       "entries": [
+        {
+          "title": "Offshore forwards and exchange rate transmission in emerging markets",
+          "link": "https://www.bis.org/publications/working-paper-1383-offshore-forwards-and-exchange-rate-transmission-emerging-markets",
+          "published": "2026-10-16T00:00:00Z",
+          "description": "We study how offshore non-deliverable forward (NDF) markets transmit exchange-rate pressures to domestic currency markets. Using unique transaction-level data on the universe of centrally cleared NDFs for ten emerging-market currencies over 2013–2025, we show that offshore NDF order flow moves both offshore forward and domestic spot exchange rates and widens the offshore–onshore forward spread.",
+          "relevant": true
+        },
         {
           "title": "Chokepoint disruptions and their  macroeconomic consequences",
           "link": "https://www.bis.org/publications/bulletin-138-chokepoint-disruptions-and-their-macroeconomic-consequences",
@@ -584,19 +590,11 @@
           "published": "2026-09-29T00:00:00Z",
           "description": "Near record-high government debt levels and the growing role of non-banks have reshaped government debt markets in recent years. High levels of government sector debt are expected to worsen future government debt market liquidity conditions in general, including by increasing the risk of market dysfunction. A large non-bank financial institution footprint heightens the risk of market dysfunction while also making very favourable liquidity conditions more likely.",
           "relevant": true
-        },
-        {
-          "title": "The leverage ratio and the output floor: complementarities and overlaps",
-          "link": "https://www.bis.org/publications/fsi-paper-29-leverage-ratio-and-output-floor-complementarities-and-overlaps",
-          "published": "2026-09-28T00:00:00Z",
-          "description": "This paper examines analytically and empirically whether the Basel III leverage ratio (LR) and output floor (OF) requirements act as substitutes for or complements to each other and how they interact with risk‑based regulatory requirements.",
-          "relevant": false,
-          "_skip_reason": "no_macro_keyword"
         }
       ],
       "count": 10,
       "domain": "Global Liquidity",
-      "relevant_count": 9
+      "relevant_count": 10
     },
     {
       "name": "Lyn Alden",
