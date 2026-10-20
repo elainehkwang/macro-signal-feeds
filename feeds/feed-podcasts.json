@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T23:48:25.884281+00:00",
+  "generated_at": "2026-10-20T00:49:22.278169+00:00",
   "source": "podcast_rss",
   "feeds_count": 5,
   "total_episodes": 40,
@@ -10,6 +10,14 @@
       "domain": "US Fiscal",
       "description": "Allocator and asset management expert, Ted Seides, conducts in-depth interviews with leaders in the institutional investing industry. Guests include Chief Investment Officers from leading allocators, asset managers, strategists, thought leaders, and many more. Our mission is to learn, share, and help implement the process of premier investors. Learn more and join our community at capitalallocators.com.",
       "episodes": [
+        {
+          "title": "Building a Berkshire for the Middle Market – Tracy Britt Cool (EP.521)",
+          "link": "https://tedseides.libsyn.com/building-a-berkshire-for-the-middle-market-tracy-britt-cool-ep521",
+          "published": "Mon, 19 Oct 2026 08:00:00 +0000",
+          "description": "My guest on today's show is Tracy Britt Cool, co-founder of Kanbrick, a long-term investment partnership that provides owners of family-owned, midsized businesses with a differentiated option from traditional private equity.           Tracy launched the business after spending ten years at Berkshire Hathaway as one of Warren Buffett's few deputies. She started out of business school as a financial assistant to Buffett, served as Chair of several Berkshire portfolio companies, and later became CEO of Pampered Chef.           Our conversation covers Tracy's journey, including lessons from Buffett and the value of operating experience. We turn to the application of those lessons at Kanbrick across its strategy, sourcing, deal dynamics, operational improvements, and long-term holding periods,",
+          "audio_url": "https://traffic.libsyn.com/secure/tedseides/CA_-_EP.521_Tracy_Britt_Cool_-_AUDIO_V1.mp3?dest-id=482814",
+          "duration": "52:19"
+        },
         {
           "title": "Senior Decision Makers: Erlina Yeo Terwelp, Columbia Investment Management Company (EP.520)",
           "link": "https://tedseides.libsyn.com/senior-decision-makers-erlina-yeo-terwelp-columbia-investment-management-ep520",
@@ -81,14 +89,6 @@
           "description": "This week's Summer Series concludes with a two-fer on habits. There may be no better way to improve the investment process than to understand what it takes to improve ourselves.  We've got two of the best – James Clear and Katy Milkman, experts and authors of wildly bestselling books Atomic Habits and How to Change.        Please enjoy my conversations with James Clear and Katy Milkman, both from 2021.        We hope you've enjoyed this summer exploration in improving the investment process with some of the best conversations over the last nine years.        Learn more about  Capital Allocators University .        Try  ALEX  by Admired Leadership.          Learn More   Follow Ted on Twitter at  @tseides  or  LinkedIn    Subscribe to the  mailing list   Access Transcript with  Premium Membe",
           "audio_url": "https://traffic.libsyn.com/secure/tedseides/CA_-_SUMMER_SERIES_2026_-_James_Clear_-_AUDIO_V2.mp3?dest-id=482814",
           "duration": "01:11:11"
-        },
-        {
-          "title": "Best of Habit Formation: Katy Milkman",
-          "link": "https://tedseides.libsyn.com/best-of-habit-formation-katy-milkman",
-          "published": "Mon, 07 Sep 2026 07:30:00 +0000",
-          "description": "This week's Summer Series concludes with a two-fer on habits. There may be no better way to improve the investment process than to understand what it takes to improve ourselves.  We've got two of the best – James Clear and Katy Milkman, experts and authors of wildly bestselling books Atomic Habits and How to Change.         Please enjoy my conversations with James Clear and Katy Milkman, both from 2021.         We hope you've enjoyed this summer exploration in improving the investment process with some of the best conversations over the last nine years.         Learn more about  Capital Allocators University .         Try  ALEX  by Admired Leadership.          Learn More   Follow Ted on Twitter at  @tseides  or  LinkedIn    Subscribe to the  mailing list   Access Transcript with  Premium M",
-          "audio_url": "https://traffic.libsyn.com/secure/tedseides/CA_-_SUMMER_SERIES_2026_-_Katy_Milkman_-_AUDIO_V2.mp3?dest-id=482814",
-          "duration": "57:55"
         }
       ]
     },
@@ -275,6 +275,14 @@
       "description": "Hosted by David Beckworth of the Mercatus Center, Macro Musings pulls back the curtain on the important macroeconomic issues of the past, present, and future.",
       "episodes": [
         {
+          "title": "Christina Skinner on the Financial Stability Oversight Council and Central Bank Independence",
+          "link": "https://macromusings.libsyn.com/christina-skinner-on",
+          "published": "Mon, 19 Oct 2026 09:00:00 +0000",
+          "description": "Christina Skinner is a legal and financial scholar at the University of Pennsylvania, a former Bank of England official, and recently stepped down from her role as deputy assistant secretary in the FSOC office at the Treasury. Christina returns to the program to discuss her work with FSOC, the relationship between economic growth and financial stability, AI and financial regulation, central bank independence, the importance of democratic accountability, and much more.   Watch the  full length video  on our new YouTube Channel!   Check out the  transcript  for this week's episode, now with links.    Recorded on September 10th, 2026    Subscribe to David's Substack:  Macroeconomic Policy Nexus   Follow David Beckworth on X:  @DavidBeckworth   Follow Christina Skinner on X:  @CParaSkinner   F",
+          "audio_url": "https://traffic.libsyn.com/secure/macromusings/MM-565-ChristinaSkinner-Podcast_mixdown-auphonic.mp3?dest-id=865793",
+          "duration": "56:52"
+        },
+        {
           "title": "John Rolle on The Bahamas' Fixed Exchange Rate and the First Nationwide Central Bank Digital Currency",
           "link": "https://macromusings.libsyn.com/john-rolle-on-the-bahamas-fixed-exchange-rate-and-the-first-nationwide-central-bank-digital-currency",
           "published": "Mon, 12 Oct 2026 09:00:00 +0000",
@@ -345,14 +353,6 @@
           "description": "Bill Nelson is chief research officer and chief economist at the Bank Policy Institute and a former deputy director of the Division of Monetary Affairs at the Federal Reserve Board. In Bill's 11th appearance on the show, he discusses how central banks are rethinking their operating systems, the case for a smaller Fed balance sheet and more routine discount window borrowing, the revival of interbank markets, lessons from Silicon Valley Bank, and much more.   Watch the  full length video  on our new YouTube Channel!   Check out the  transcript  for this week's episode, now with links.    Recorded on July 20th, 2026    Subscribe to David's Substack:  Macroeconomic Policy Nexus    Follow David Beckworth on X:  @DavidBeckworth    Follow the show on X:  @Macro_Musings    Check out our Macro Musi",
           "audio_url": "https://traffic.libsyn.com/secure/macromusings/MM-556-BillNelson-Podcast-auphonic.mp3?dest-id=865793",
           "duration": "55:16"
-        },
-        {
-          "title": "Gianluca Benigno on Central Bank Balance Sheets, Stablecoins, and Nonlinear Inflation",
-          "link": "https://macromusings.libsyn.com/gianluca-benigno-on-central-bank-balance-sheets-stablecoins-and-nonlinear-inflation",
-          "published": "Mon, 10 Aug 2026 09:00:00 +0000",
-          "description": "Gianluca Benigno is a professor of economics at the University of Lausanne. Previously, he was a senior economist at the Federal Reserve Bank of New York and an economist at the Bank of England. Gianluca returns to the program to discuss financial r-star, the changing landscape of central bank balance sheets, the unique challenges facing the Swiss National Bank, how stablecoins could affect Treasury markets and the demand for reserves, the return of nonlinear inflation, its implications for monetary policy, and much more.   Watch  the full length video  on our new YouTube Channel!   Check out the  transcript  for this week's episode, now with links.    Recorded on June 22nd, 2026    Subscribe to David's Substack:  Macroeconomic Policy Nexus    Follow David Beckworth on X:  @DavidBeckworth",
-          "audio_url": "https://traffic.libsyn.com/secure/macromusings/MM-555-GianlucaBenigno-Podcast-auphonic.mp3?dest-id=865793",
-          "duration": "54:04"
         }
       ]
     },

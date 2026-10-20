@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-18T23:48:25.884281+00:00",
+  "generated_at": "2026-10-20T00:49:22.278169+00:00",
   "source": "rss",
   "feeds_count": 17,
-  "total_entries": 90,
+  "total_entries": 80,
   "feeds": [
     {
       "name": "Fed FOMC — Monetary Policy",
@@ -95,6 +95,20 @@
       "description": "Treasury Auction Results",
       "entries": [
         {
+          "title": "13-Week Bill Treasury Auction Results",
+          "link": "https://www.treasurydirect.gov/auctions/auction-results/",
+          "published": "Mon, 19 Oct 2026 15:34:17 GMT",
+          "description": "CUSIP:  912797TM9  Term and Type:  13-Week Bill  CMB:  No  High Rate:  4.095%  Investment Rate:  4.195%  Price:  $98.964875  Allotted at High:  29.44%  Total Tendered:  $269,446,394,000  Total Accepted:  $101,701,941,200  Auction Date:  10/19/2026  Issue Date:  10/22/2026  Maturity Date:  01/21/2027  CUSIP:  912797TM9  Term and Type:  13-Week Bill  CMB:  No  High Rate:  4.095%  Investment Rate:  4.195%  Price:  $98.964875  Allotted at High:  29.44%  Total Tendered:  $269,446,394,000  Total Accepted:  $101,701,941,200  Auction Date:  10/19/2026  Issue Date:  10/22/2026  Maturity Date:  01/21/2027  PDF  |  XML",
+          "relevant": true
+        },
+        {
+          "title": "26-Week Bill Treasury Auction Results",
+          "link": "https://www.treasurydirect.gov/auctions/auction-results/",
+          "published": "Mon, 19 Oct 2026 15:33:23 GMT",
+          "description": "CUSIP:  912797WV5  Term and Type:  26-Week Bill  CMB:  No  High Rate:  4.220%  Investment Rate:  4.372%  Price:  $97.866556  Allotted at High:  86.09%  Total Tendered:  $238,878,202,500  Total Accepted:  $87,784,492,500  Auction Date:  10/19/2026  Issue Date:  10/22/2026  Maturity Date:  04/22/2027  CUSIP:  912797WV5  Term and Type:  26-Week Bill  CMB:  No  High Rate:  4.220%  Investment Rate:  4.372%  Price:  $97.866556  Allotted at High:  86.09%  Total Tendered:  $238,878,202,500  Total Accepted:  $87,784,492,500  Auction Date:  10/19/2026  Issue Date:  10/22/2026  Maturity Date:  04/22/2027  PDF  |  XML",
+          "relevant": true
+        },
+        {
           "title": "4-Week Bill Treasury Auction Results",
           "link": "https://www.treasurydirect.gov/auctions/auction-results/",
           "published": "Thu, 15 Oct 2026 15:34:23 GMT",
@@ -149,20 +163,6 @@
           "published": "Thu, 08 Oct 2026 15:34:04 GMT",
           "description": "CUSIP:  912797WE3  Term and Type:  8-Week Bill  CMB:  No  High Rate:  3.980%  Investment Rate:  4.060%  Price:  $99.380889  Allotted at High:  8.93%  Total Tendered:  $299,764,607,000  Total Accepted:  $113,924,264,500  Auction Date:  10/08/2026  Issue Date:  10/13/2026  Maturity Date:  12/08/2026  CUSIP:  912797WE3  Term and Type:  8-Week Bill  CMB:  No  High Rate:  3.980%  Investment Rate:  4.060%  Price:  $99.380889  Allotted at High:  8.93%  Total Tendered:  $299,764,607,000  Total Accepted:  $113,924,264,500  Auction Date:  10/08/2026  Issue Date:  10/13/2026  Maturity Date:  12/08/2026  PDF  |  XML",
           "relevant": true
-        },
-        {
-          "title": "4-Week Bill Treasury Auction Results",
-          "link": "https://www.treasurydirect.gov/auctions/auction-results/",
-          "published": "Thu, 08 Oct 2026 15:34:03 GMT",
-          "description": "CUSIP:  912797VW4  Term and Type:  4-Week Bill  CMB:  No  High Rate:  3.980%  Investment Rate:  4.048%  Price:  $99.690444  Allotted at High:  50.05%  Total Tendered:  $273,159,883,800  Total Accepted:  $119,348,758,800  Auction Date:  10/08/2026  Issue Date:  10/13/2026  Maturity Date:  11/10/2026  CUSIP:  912797VW4  Term and Type:  4-Week Bill  CMB:  No  High Rate:  3.980%  Investment Rate:  4.048%  Price:  $99.690444  Allotted at High:  50.05%  Total Tendered:  $273,159,883,800  Total Accepted:  $119,348,758,800  Auction Date:  10/08/2026  Issue Date:  10/13/2026  Maturity Date:  11/10/2026  PDF  |  XML",
-          "relevant": true
-        },
-        {
-          "title": "9-Year 10-Month Note Treasury Auction Results",
-          "link": "https://www.treasurydirect.gov/auctions/auction-results/",
-          "published": "Wed, 07 Oct 2026 17:04:02 GMT",
-          "description": "CUSIP:  91282CRF0  Term and Type:  9-Year 10-Month Note  Series:  E-2036  Reopening:  Yes  Interest Rate:  4.625%  High Yield:  5.300%  Price:  $94.864261  Allotted at High:  57.60%  Total Tendered:  $108,995,289,900  Total Accepted:  $39,926,321,900  Auction Date:  10/07/2026  Issue Date:  10/15/2026  Maturity Date:  08/15/2036  CUSIP:  91282CRF0  Term and Type:  9-Year 10-Month Note  Series:  E-2036  Reopening:  Yes  Interest Rate:  4.625%  High Yield:  5.300%  Price:  $94.864261  Allotted at High:  57.60%  Total Tendered:  $108,995,289,900  Total Accepted:  $39,926,321,900  Auction Date:  10/07/2026  Issue Date:  10/15/2026  Maturity Date:  08/15/2036  PDF  |  XML",
-          "relevant": true
         }
       ],
       "count": 10,
@@ -175,6 +175,14 @@
       "channel": "ECB - European Central Bank",
       "description": "Latest releases on the ECB website - Press releases, speeches and interviews, press conferences.",
       "entries": [
+        {
+          "title": "Frank Elderson: From climate and nature risks to economic resilience and competitiveness",
+          "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261019~f0a3e053de.en.html",
+          "published": "Mon, 19 Oct 2026 08:00:00 +0200",
+          "description": "",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
+        },
         {
           "title": "Christine Lagarde: IMFC Statement",
           "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261017~7015ea3099.en.html",
@@ -243,18 +251,11 @@
           "description": "",
           "relevant": false,
           "_skip_reason": "no_macro_keyword"
-        },
-        {
-          "title": "Philip R. Lane: Diagnostic Challenges for ECB Monetary Policy",
-          "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261005~1d8d998ef4.en.html",
-          "published": "Mon, 05 Oct 2026 10:00:00 +0200",
-          "description": "",
-          "relevant": true
         }
       ],
       "count": 10,
       "domain": "Europe",
-      "relevant_count": 4
+      "relevant_count": 3
     },
     {
       "name": "BOJ — Monetary Policy Statements",
@@ -432,6 +433,48 @@
       "description": "Nonpartisan budgetary and economic analysis for the U.S. Congress.",
       "entries": [
         {
+          "title": "S. 4573, Regional Great Lakes Partnership Act of 2026",
+          "link": "https://www.cbo.gov/publication/62870",
+          "published": "Mon, 19 Oct 2026 16:24:00 -0400",
+          "description": "As ordered reported by the Senate Committee on Commerce, Science, and Transportation on September 16, 2026",
+          "relevant": true
+        },
+        {
+          "title": "S. 3518, FLOWS Act",
+          "link": "https://www.cbo.gov/publication/62869",
+          "published": "Mon, 19 Oct 2026 16:23:00 -0400",
+          "description": "As ordered reported by the Senate Committee on Energy and Natural Resources on June 10, 2026",
+          "relevant": true
+        },
+        {
+          "title": "S. 789, a bill to require reports on critical mineral and rare earth element resources around the world and a strategy for the development of advanced mining, refining, separation, and processing technologies, and for other purposes",
+          "link": "https://www.cbo.gov/publication/62868",
+          "published": "Mon, 19 Oct 2026 16:22:00 -0400",
+          "description": "As ordered reported by the Senate Committee on Energy and Natural Resources on June 10, 2026",
+          "relevant": true
+        },
+        {
+          "title": "H.R. 3194, LOCOMOTIVES Act",
+          "link": "https://www.cbo.gov/publication/62867",
+          "published": "Mon, 19 Oct 2026 16:21:00 -0400",
+          "description": "As ordered reported by the House Committee on Energy and Commerce on September 2, 2026",
+          "relevant": true
+        },
+        {
+          "title": "H.R. 9367, Stop Lawmakers From Predicting Act",
+          "link": "https://www.cbo.gov/publication/62866",
+          "published": "Mon, 19 Oct 2026 15:34:00 -0400",
+          "description": "As ordered reported by the House Committee on House Administration on June 24, 2026",
+          "relevant": true
+        },
+        {
+          "title": "H.R. 9785, South Dakota Water Feasibility Studies Act",
+          "link": "https://www.cbo.gov/publication/62865",
+          "published": "Mon, 19 Oct 2026 15:34:00 -0400",
+          "description": "As ordered reported by the House Committee on Natural Resources on September 15, 2026",
+          "relevant": true
+        },
+        {
           "title": "H.R. 5967, Strategic Task Force on Scam Prevention Act",
           "link": "https://www.cbo.gov/publication/62864",
           "published": "Fri, 16 Oct 2026 15:44:00 -0400",
@@ -458,48 +501,6 @@
           "published": "Fri, 16 Oct 2026 15:42:00 -0400",
           "description": "As ordered reported by the House Committee on Natural Resources on September 15, 2026",
           "relevant": true
-        },
-        {
-          "title": "S. 4448, Accelerating Broadband Permits Act of 2026",
-          "link": "https://www.cbo.gov/publication/62861",
-          "published": "Fri, 16 Oct 2026 12:55:00 -0400",
-          "description": "As ordered reported by the Senate Committee on Commerce, Science, and Transportation on \nJuly 22, 2026",
-          "relevant": true
-        },
-        {
-          "title": "H.R. 9720, D.C. Taxing Authority Review Act",
-          "link": "https://www.cbo.gov/publication/62841",
-          "published": "Fri, 16 Oct 2026 12:54:00 -0400",
-          "description": "As ordered reported by the House Committee on Oversight and Government Reform on July 22, 2026",
-          "relevant": true
-        },
-        {
-          "title": "H.R. 3756, FISH Act of 2025",
-          "link": "https://www.cbo.gov/publication/62858",
-          "published": "Fri, 16 Oct 2026 09:22:00 -0400",
-          "description": "As ordered reported by the House Committee on Natural Resources on April 21, 2026",
-          "relevant": true
-        },
-        {
-          "title": "S. 4166, SECURE Grid Act",
-          "link": "https://www.cbo.gov/publication/62854",
-          "published": "Wed, 14 Oct 2026 15:19:00 -0400",
-          "description": "As ordered reported by the Senate Committee on Energy and Natural Resources on September 30, 2026",
-          "relevant": true
-        },
-        {
-          "title": "H.R. 941, Small LENDER Act",
-          "link": "https://www.cbo.gov/publication/62853",
-          "published": "Wed, 14 Oct 2026 15:18:00 -0400",
-          "description": "As reported by the House Committee on Financial Services on June 18, 2026",
-          "relevant": true
-        },
-        {
-          "title": "CBO's Recent Publications and Work in Progress as of September 30, 2026",
-          "link": "https://www.cbo.gov/publication/62777",
-          "published": "Wed, 14 Oct 2026 14:00:00 -0400",
-          "description": "In this report, the latest in a quarterly series, CBO highlights its recent publications and summarizes its work in progress.",
-          "relevant": true
         }
       ],
       "count": 10,
@@ -522,6 +523,34 @@
       "channel": "BIS — Research Papers",
       "description": "",
       "entries": [
+        {
+          "title": "Inflation after the Iran war",
+          "link": "https://www.bis.org/publications/working-paper-1384-inflation-after-iran-war",
+          "published": "2026-10-19T00:00:00Z",
+          "description": "An unexpected increase in energy costs raises inflation directly through flexibly-set prices. Whether that shock amplifies to a larger and persistent rise in inflation depends on its transmission through the economy.",
+          "relevant": true
+        },
+        {
+          "title": "Competing rails for crossborder payments: banks, fintechs, and stablecoins",
+          "link": "https://www.bis.org/publications/working-paper-1385-competing-rails-crossborder-payments-banks-fintechs-and-stablecoins",
+          "published": "2026-10-19T00:00:00Z",
+          "description": "Cross-border payments remain slow and expensive despite significant improvements in digital financial infrastructure over the past several decades.",
+          "relevant": true
+        },
+        {
+          "title": "Geoeconomic pressure",
+          "link": "https://www.bis.org/publications/working-paper-1386-geoeconomic-pressure",
+          "published": "2026-10-19T00:00:00Z",
+          "description": "The increasing use of geoeconomic pressure is reshaping the global economy.",
+          "relevant": true
+        },
+        {
+          "title": "Central banks and macro financial stability in a fragmented global economy",
+          "link": "https://www.bis.org/publications/paper-176-central-banks-and-macro-financial-stability-fragmented-global-economy",
+          "published": "2026-10-19T00:00:00Z",
+          "description": "The 25th BIS Annual Conference took place in Basel, Switzerland on 26 June 2026. The event brought together a distinguished group of central bank Governors, leading academics and former public officials to exchange views on the theme “Central banks and macro-financial stability in a fragmented global economy”.",
+          "relevant": true
+        },
         {
           "title": "Offshore forwards and exchange rate transmission in emerging markets",
           "link": "https://www.bis.org/publications/working-paper-1383-offshore-forwards-and-exchange-rate-transmission-emerging-markets",
@@ -547,7 +576,7 @@
           "title": "Are stablecoins and bank deposits substitutes?",
           "link": "https://www.bis.org/publications/working-paper-1382-are-stablecoins-and-bank-deposits-substitutes",
           "published": "2026-10-13T00:00:00Z",
-          "description": "We test whether stablecoins and bank deposits act as substitutes by estimating the semi-elasticity of stablecoin market capitalization with respect to deposit rate changes. Using local projections fit to weekly U.S. data from January 2019 to June 2025, we find that deposit rate increases predict slower stablecoin growth. To address endogeneity, we exploit a nonlinearity in deposit rate pass-through. Whereas other money market rates track the federal funds rate roughly linearly, banksreprice deposits more aggressively once it exceeds approximately 3%.",
+          "description": "We test whether stablecoins and bank deposits act as substitutes by estimating the semi-elasticity of stablecoin market capitalization with respect to deposit rate changes. Using local projections fit to weekly U.S. data from January 2019 to June 2025, we find that deposit rate increases predict slower stablecoin growth. To address endogeneity, we exploit a nonlinearity in deposit rate pass-through.",
           "relevant": true
         },
         {
@@ -563,34 +592,6 @@
           "published": "2026-10-08T00:00:00Z",
           "description": "Artificial intelligence (AI) is becoming an increasingly important factor in the climate transition. AI can improve energy efficiency, optimise resource use, accelerate climate innovation and strengthen climate forecasting, adaptation and risk management. At the same time, the development and deployment of AI require substantial computational resources, increasing electricity demand and, depending on the carbon intensity and timing of electricity use, associated emissions.",
           "relevant": true
-        },
-        {
-          "title": "Chasing El Dorado: gold under shifting geopolitical and financial conditions",
-          "link": "https://www.bis.org/publications/working-paper-1380-chasing-el-dorado-gold-under-shifting-geopolitical-and-financial-condition",
-          "published": "2026-10-06T00:00:00Z",
-          "description": "This paper analyses the state-dependent effects of geopolitical risks on gold prices (i.e. the safe-haven role of gold), conditional on financial conditions. Geopolitical risks are often associated with tighter financial conditions. However, recent data reveal a decoupling between such shocks and more restrictive financial conditions, raising the question of how gold returns are affected by geopolitical shocks, conditional on the macro-financial environment.",
-          "relevant": true
-        },
-        {
-          "title": "Circular relationships among AI firms",
-          "link": "https://www.bis.org/publications/bulletin-137-circular-relationships-among-ai-firms",
-          "published": "2026-10-01T00:00:00Z",
-          "description": "Between 2021 and 2025, 28.7% of artificial intelligence (AI) firms’ investment deals (by deal value) involved a target company that was also an AI firm, while 55.2% of incoming investments in AI firms came from other AI firms.",
-          "relevant": true
-        },
-        {
-          "title": "Core Principles for Effective Deposit Insurance Systems – Executive Summary",
-          "link": "https://www.bis.org/publications/core-principles-effective-deposit-insurance-systems-executive-summary",
-          "published": "2026-09-30T00:00:00Z",
-          "description": "The Core Principles for Effective Deposit Insurance Systems (core principles) of the International Association of Deposit Insurers are the international standard for the design, implementation and assessment of deposit insurance systems. They provide a benchmark for jurisdictions to evaluate and enhance their deposit insurance frameworks, with the dual objectives of safeguarding depositors and promoting financial stability.",
-          "relevant": true
-        },
-        {
-          "title": "High public debt, NBFIs and the risk of market dysfunction",
-          "link": "https://www.bis.org/publications/bulletin-136-high-public-debt-nbfis-and-risk-market-dysfunction",
-          "published": "2026-09-29T00:00:00Z",
-          "description": "Near record-high government debt levels and the growing role of non-banks have reshaped government debt markets in recent years. High levels of government sector debt are expected to worsen future government debt market liquidity conditions in general, including by increasing the risk of market dysfunction. A large non-bank financial institution footprint heightens the risk of market dysfunction while also making very favourable liquidity conditions more likely.",
-          "relevant": true
         }
       ],
       "count": 10,
@@ -601,85 +602,11 @@
       "name": "Lyn Alden",
       "url": "https://www.lynalden.com/feed/",
       "channel": "Lyn Alden",
-      "description": "Investment Strategy",
-      "entries": [
-        {
-          "title": "An Alternative to Private Equity: Introducing ORANGE JUICE",
-          "link": "https://www.lynalden.com/orange-juice/",
-          "published": "Wed, 15 Jul 2026 14:16:27 +0000",
-          "description": "July 15, 2026 The rest of the team at Ego Death Capital and I have partnered with Adrian Steckel and Ruben Zweiban to launch ORANGE JUICE. It&#8217;s a company that acquires, improves, and permanently holds cash-flowing businesses, backed by a bitcoin treasury. More specifically, ORANGE JUICE seeks to acquire profitable small and mid-sized businesses at [&#8230;] \n The post  An Alternative to Private Equity: Introducing ORANGE JUICE  appeared first on  Lyn Alden .",
-          "relevant": true
-        },
-        {
-          "title": "New Book: The Stolguard Incident",
-          "link": "https://www.lynalden.com/the-stolguard-incident/",
-          "published": "Fri, 13 Mar 2026 13:29:44 +0000",
-          "description": "My new sci fi thriller, The Stolguard Incident, is now available! It can be purchased in print, ebook, or audio versions on Amazon here. You can also find the print version on Barnes &#38; Noble here, or you may be able to ask your local bookstore to order it for you. Premise: In the late [&#8230;] \n The post  New Book: The Stolguard Incident  appeared first on  Lyn Alden .",
-          "relevant": false,
-          "_skip_reason": "no_macro_keyword"
-        },
-        {
-          "title": "Fractional Reserve Banking 101",
-          "link": "https://www.lynalden.com/fractional-reserve-banking/",
-          "published": "Wed, 11 Mar 2026 23:04:33 +0000",
-          "description": "Banks work in ways that are unintuitive for a lot of people. And yet, understanding the banking system as a whole is really helpful for investing, because having a grasp of how the banking system is functioning helps you determine whether you should expect monetary inflation or disinflation, and whether the risks of widespread financial [&#8230;] \n The post  Fractional Reserve Banking 101  appeared first on  Lyn Alden .",
-          "relevant": true
-        },
-        {
-          "title": "Why Most Cryptocurrencies Won’t Accrue Value",
-          "link": "https://www.lynalden.com/why-most-cryptocurrencies-wont-accrue-value/",
-          "published": "Mon, 01 Dec 2025 17:45:10 +0000",
-          "description": "December 2025 For many years now, I&#8217;ve been bullish on bitcoin, and continue to be, but have not extended that view toward any other cryptocurrency. That decision continues to hold up well. Since I first recommended it in April 2020, it has gone from $6,900 to $126,000, and is currently back down to around $85,000. [&#8230;] \n The post  Why Most Cryptocurrencies Won&#8217;t Accrue Value  appeared first on  Lyn Alden .",
-          "relevant": true
-        },
-        {
-          "title": "The Rise of Bitcoin Stocks and Bonds",
-          "link": "https://www.lynalden.com/bitcoin-stocks-and-bonds/",
-          "published": "Sun, 06 Jul 2025 14:03:34 +0000",
-          "description": "Originally published: July 2025 During the past year or so, the Bitcoin ecosystem has largely been led by the rise of corporate bitcoin treasury strategies. Although Strategy (MSTR) pioneered the trend back in 2020, the follow-on adoption by others was slow. However, after yet another cycle of bear market and bull market activity, as well [&#8230;] \n The post  The Rise of Bitcoin Stocks and Bonds  appeared first on  Lyn Alden .",
-          "relevant": true
-        },
-        {
-          "title": "Twitter/X Restored",
-          "link": "https://www.lynalden.com/twitter-compromised/",
-          "published": "Thu, 27 Feb 2025 23:16:32 +0000",
-          "description": "My Twitter/X account was compromised from February 26th to March 3rd, but I confirm that I&#8217;ve regained control of it now. Thank you to everyone who helped make it happen. Fortunately, I still had access to Nostr during that time (e.g. primal.net/lyn), which is decentralized social media. Eight months ago, at the Oslo Freedom Forum, [&#8230;] \n The post  Twitter/X Restored  appeared first on  Lyn Alden .",
-          "relevant": false,
-          "_skip_reason": "no_macro_keyword"
-        },
-        {
-          "title": "Full Steam Ahead: All Aboard Fiscal Dominance",
-          "link": "https://www.lynalden.com/full-steam-ahead-all-aboard-fiscal-dominance/",
-          "published": "Wed, 08 Jan 2025 12:51:03 +0000",
-          "description": "This research piece on fiscal dominance in the United States was compiled and written by Sam Callahan, and commissioned and advised by Lyn Alden. Published: January 2025 Executive Summary • Structural fiscal deficits have surpassed private sector lending and monetary policy as the primary drivers of economic activity and inflation, marking a fundamental shift in [&#8230;] \n The post  Full Steam Ahead: All Aboard Fiscal Dominance  appeared first on  Lyn Alden .",
-          "relevant": true
-        },
-        {
-          "title": "Bitcoin: A Global Liquidity Barometer",
-          "link": "https://www.lynalden.com/bitcoin-a-global-liquidity-barometer/",
-          "published": "Tue, 24 Sep 2024 17:59:32 +0000",
-          "description": "This research piece on the correlation between measures of liquidity and the price of Bitcoin was compiled and written by Sam Callahan, and commissioned and advised by Lyn Alden. Published: September 2024 Executive Summary Bitcoin moves in the direction of global liquidity 83% of the time in any given 12-month period, which is higher than [&#8230;] \n The post  Bitcoin: A Global Liquidity Barometer  appeared first on  Lyn Alden .",
-          "relevant": true
-        },
-        {
-          "title": "A New Look at Corporate Treasury Strategy",
-          "link": "https://www.lynalden.com/a-new-look-at-corporate-treasury-strategy/",
-          "published": "Sun, 04 Aug 2024 16:08:13 +0000",
-          "description": "Published: August 2024 In the modern era of corporate finance, the balance sheet of a corporation has trended toward being less important relative to the income statement. Back during Benjamin Graham&#8217;s quintessential value investing days, he looked at balance sheet valuation metrics almost as much as he did income-related valuation metrics. But in modern times, [&#8230;] \n The post  A New Look at Corporate Treasury Strategy  appeared first on  Lyn Alden .",
-          "relevant": true
-        },
-        {
-          "title": "The Power of Nostr: Decentralized Social Media and More",
-          "link": "https://www.lynalden.com/the-power-of-nostr/",
-          "published": "Sat, 20 Jul 2024 19:48:33 +0000",
-          "description": "Published: July 2024 It would be powerful if you could bring your digital identity, content, and followers from one social ecosystem, such as Twitter, LinkedIn, Instagram, or Substack, to another. Imagine if you could publish content and send messages in any of those types of ecosystems, with one continuous digital identity rather than separate accounts. [&#8230;] \n The post  The Power of Nostr: Decentralized Social Media and More  appeared first on  Lyn Alden .",
-          "relevant": false,
-          "_skip_reason": "no_macro_keyword"
-        }
-      ],
-      "count": 10,
+      "entries": [],
+      "count": 0,
+      "_error": "not well-formed (invalid token): line 1, column 119",
       "domain": "US Fiscal",
-      "relevant_count": 7
+      "relevant_count": 0
     },
     {
       "name": "Doomberg — Substack",
