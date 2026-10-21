@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T00:49:22.278169+00:00",
+  "generated_at": "2026-10-21T00:14:29.324115+00:00",
   "source": "podcast_rss",
   "feeds_count": 5,
   "total_episodes": 40,
@@ -187,6 +187,14 @@
       "description": "Conversations with the best investors and business leaders in the world. We explore their ideas, methods, and stories to help you better invest your time and money. Hear stock market and boardroom insights you can't find anywhere else. If you're a professional investor, CEO, entrepreneur, or business strategist, this is for you. Explore all our episodes and learn more at https://www.colossus.com",
       "episodes": [
         {
+          "title": "Christina Cacioppo - Building an Enduring Software Company in the Age of AI - [Invest Like the Best, EP.496]",
+          "link": "https://colossus.com/episode/becoming-a-category-winner/",
+          "published": "Tue, 20 Oct 2026 08:00:00 -0000",
+          "description": "My guest today is Christina Cacioppo, founder and CEO of Vanta, which helps more than 16,000 companies manage security and compliance.&nbsp;\n\nFive years after our first conversation, we discuss how Vanta became a category leader, what it takes to reinvent a successful software business in the age of AI, and why Christina is betting on agents to do the work rather than simply assist users.&nbsp;\n\nWe also explore the changing economics of software, the war for exceptional talent, AI's impact on cybersecurity, and what it takes to build an enduring company in Silicon Valley's rapidly changing environment.&nbsp;\n\nPlease enjoy my conversation with Christina Cacioppo.\n\nFor the full show notes, transcript, and links to mentioned content, check out the episode page here.\n\n-----\n\nBecome a Colossus",
+          "audio_url": "https://traffic.megaphone.fm/CLS1049065818.mp3",
+          "duration": "3449"
+        },
+        {
           "title": "David Vélez - Building Nubank and the Future of Global Banking - [Invest Like the Best, EP.495]",
           "link": "https://colossus.com/episode/david-v-goliath/",
           "published": "Tue, 13 Oct 2026 08:00:00 -0000",
@@ -257,14 +265,6 @@
           "description": "My guest today is Ben Thompson, the founder and author of Stratechery. Ben is one of my favorite business thinkers and I love talking to him about everything happening in markets and technology.&nbsp;\n\nWe go through every important company, including OpenAI, Nvidia, Intel, Apple, Microsoft, Google, and Amazon. We also discuss why he thinks it would be dangerous for the United States to win the AI race outright, what container shipping and the railroads of the 1870s tell us about the buildout, and why the binding constraint on all of this may be capital rather than compute.&nbsp;\n\nPlease enjoy my conversation with Ben Thompson.\n\nFor the full show notes, transcript, and links to mentioned content, check out the episode page ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠here⁠⁠⁠⁠⁠.&nbsp;\n\n-----\n\nBecome a Colossus member to",
           "audio_url": "https://traffic.megaphone.fm/CLS4584299095.mp3",
           "duration": "4576"
-        },
-        {
-          "title": "Eric Vishria - A Decade of Lessons Investing in Software & Hardware - [Invest Like the Best, EP.486]",
-          "link": "https://colossus.com/episode/sandcastles-and-silicon/",
-          "published": "Tue, 11 Aug 2026 08:00:00 -0000",
-          "description": "My guest today is Eric Vishria, a General Partner at Benchmark.&nbsp;\n\nEric has spent his career in software and cloud, and few people know the history of these markets as well as he does. What makes him special is his ability to use that history to make sense of today.&nbsp;\n\nWe discuss what the rise of AWS teaches us about AI, what he has learned from investing in Fireworks, Sierra, and Cerebras, and how the criteria for winning have changed for founders and investors.&nbsp;\n\nPlease enjoy my conversation with Eric Vishria.\n\nFor the full show notes, transcript, and links to mentioned content, check out the episode page ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠here⁠⁠⁠⁠⁠.&nbsp;\n\n-----\n\nBecome a Colossus member to get our quarterly print magazine and private audio experience, including exclusive profiles and early ac",
-          "audio_url": "https://traffic.megaphone.fm/CLS6500696931.mp3",
-          "duration": "3954"
         }
       ]
     },
