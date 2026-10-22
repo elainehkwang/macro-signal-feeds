@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T00:14:29.324115+00:00",
+  "generated_at": "2026-10-22T00:19:28.798737+00:00",
   "source": "rss",
   "feeds_count": 17,
   "total_entries": 90,
@@ -95,6 +95,20 @@
       "description": "Treasury Auction Results",
       "entries": [
         {
+          "title": "19-Year 10-Month Bond Treasury Auction Results",
+          "link": "https://www.treasurydirect.gov/auctions/auction-results/",
+          "published": "Wed, 21 Oct 2026 17:03:15 GMT",
+          "description": "CUSIP:  912810UX4  Term and Type:  19-Year 10-Month Bond  Series:  Bonds of August 2046  Reopening:  Yes  Interest Rate:  5.125%  High Yield:  5.469%  Price:  $95.853363  Allotted at High:  60.05%  Total Tendered:  $35,479,550,900  Total Accepted:  $13,000,000,900  Auction Date:  10/21/2026  Issue Date:  10/23/2026  Maturity Date:  08/15/2046  CUSIP:  912810UX4  Term and Type:  19-Year 10-Month Bond  Series:  Bonds of August 2046  Reopening:  Yes  Interest Rate:  5.125%  High Yield:  5.469%  Price:  $95.853363  Allotted at High:  60.05%  Total Tendered:  $35,479,550,900  Total Accepted:  $13,000,000,900  Auction Date:  10/21/2026  Issue Date:  10/23/2026  Maturity Date:  08/15/2046  PDF  |  XML",
+          "relevant": true
+        },
+        {
+          "title": "17-Week Bill Treasury Auction Results",
+          "link": "https://www.treasurydirect.gov/auctions/auction-results/",
+          "published": "Wed, 21 Oct 2026 15:33:10 GMT",
+          "description": "CUSIP:  912797XA0  Term and Type:  17-Week Bill  CMB:  No  High Rate:  4.155%  Investment Rate:  4.271%  Price:  $98.626542  Allotted at High:  48.24%  Total Tendered:  $212,632,108,900  Total Accepted:  $80,403,308,900  Auction Date:  10/21/2026  Issue Date:  10/27/2026  Maturity Date:  02/23/2027  CUSIP:  912797XA0  Term and Type:  17-Week Bill  CMB:  No  High Rate:  4.155%  Investment Rate:  4.271%  Price:  $98.626542  Allotted at High:  48.24%  Total Tendered:  $212,632,108,900  Total Accepted:  $80,403,308,900  Auction Date:  10/21/2026  Issue Date:  10/27/2026  Maturity Date:  02/23/2027  PDF  |  XML",
+          "relevant": true
+        },
+        {
           "title": "6-Week Bill Treasury Auction Results",
           "link": "https://www.treasurydirect.gov/auctions/auction-results/",
           "published": "Tue, 20 Oct 2026 15:33:11 GMT",
@@ -149,20 +163,6 @@
           "published": "Tue, 13 Oct 2026 15:33:29 GMT",
           "description": "CUSIP:  912797VT1  Term and Type:  13-Week Bill  CMB:  No  High Rate:  4.085%  Investment Rate:  4.185%  Price:  $98.967403  Allotted at High:  36.71%  Total Tendered:  $260,234,408,200  Total Accepted:  $100,404,693,200  Auction Date:  10/13/2026  Issue Date:  10/15/2026  Maturity Date:  01/14/2027  CUSIP:  912797VT1  Term and Type:  13-Week Bill  CMB:  No  High Rate:  4.085%  Investment Rate:  4.185%  Price:  $98.967403  Allotted at High:  36.71%  Total Tendered:  $260,234,408,200  Total Accepted:  $100,404,693,200  Auction Date:  10/13/2026  Issue Date:  10/15/2026  Maturity Date:  01/14/2027  PDF  |  XML",
           "relevant": true
-        },
-        {
-          "title": "26-Week Bill Treasury Auction Results",
-          "link": "https://www.treasurydirect.gov/auctions/auction-results/",
-          "published": "Tue, 13 Oct 2026 15:33:28 GMT",
-          "description": "CUSIP:  912797UE5  Term and Type:  26-Week Bill  CMB:  No  High Rate:  4.200%  Investment Rate:  4.351%  Price:  $97.876667  Allotted at High:  78.17%  Total Tendered:  $231,353,452,000  Total Accepted:  $86,664,987,000  Auction Date:  10/13/2026  Issue Date:  10/15/2026  Maturity Date:  04/15/2027  CUSIP:  912797UE5  Term and Type:  26-Week Bill  CMB:  No  High Rate:  4.200%  Investment Rate:  4.351%  Price:  $97.876667  Allotted at High:  78.17%  Total Tendered:  $231,353,452,000  Total Accepted:  $86,664,987,000  Auction Date:  10/13/2026  Issue Date:  10/15/2026  Maturity Date:  04/15/2027  PDF  |  XML",
-          "relevant": true
-        },
-        {
-          "title": "29-Year 10-Month Bond Treasury Auction Results",
-          "link": "https://www.treasurydirect.gov/auctions/auction-results/",
-          "published": "Thu, 08 Oct 2026 17:04:12 GMT",
-          "description": "CUSIP:  912810UW6  Term and Type:  29-Year 10-Month Bond  Series:  Bonds of August 2056  Reopening:  Yes  Interest Rate:  5.125%  High Yield:  5.618%  Price:  $92.889131  Allotted at High:  26.77%  Total Tendered:  $56,435,875,700  Total Accepted:  $22,522,535,300  Auction Date:  10/08/2026  Issue Date:  10/15/2026  Maturity Date:  08/15/2056  CUSIP:  912810UW6  Term and Type:  29-Year 10-Month Bond  Series:  Bonds of August 2056  Reopening:  Yes  Interest Rate:  5.125%  High Yield:  5.618%  Price:  $92.889131  Allotted at High:  26.77%  Total Tendered:  $56,435,875,700  Total Accepted:  $22,522,535,300  Auction Date:  10/08/2026  Issue Date:  10/15/2026  Maturity Date:  08/15/2056  PDF  |  XML",
-          "relevant": true
         }
       ],
       "count": 10,
@@ -175,6 +175,20 @@
       "channel": "ECB - European Central Bank",
       "description": "Latest releases on the ECB website - Press releases, speeches and interviews, press conferences.",
       "entries": [
+        {
+          "title": "Piero Cipollone: Pontes and Appia: unlocking opportunities for banks",
+          "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261021_1~d190f2c349.en.pdf",
+          "published": "Wed, 21 Oct 2026 10:00:00 +0200",
+          "description": "",
+          "relevant": true
+        },
+        {
+          "title": "Philip R. Lane: Euro liquidity lines and the international monetary system",
+          "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261021~401d6c4b70.en.html",
+          "published": "Wed, 21 Oct 2026 06:15:00 +0200",
+          "description": "",
+          "relevant": true
+        },
         {
           "title": "Frank Elderson: Interview with Die Presse",
           "link": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261020~97e2e4bc38.en.html",
@@ -236,26 +250,11 @@
           "published": "Wed, 07 Oct 2026 10:00:00 +0200",
           "description": "",
           "relevant": true
-        },
-        {
-          "title": "Frank Elderson: Effective supervision through timely remediation",
-          "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261006_1~0df91e4e44.en.html",
-          "published": "Tue, 06 Oct 2026 15:00:00 +0200",
-          "description": "",
-          "relevant": false,
-          "_skip_reason": "no_macro_keyword"
-        },
-        {
-          "title": "Piero Cipollone: Money in the digital age: digital euro, tokenisation and the role of central banks",
-          "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261006~0da978f159.en.html",
-          "published": "Tue, 06 Oct 2026 15:00:00 +0200",
-          "description": "",
-          "relevant": true
         }
       ],
       "count": 10,
       "domain": "Europe",
-      "relevant_count": 3
+      "relevant_count": 4
     },
     {
       "name": "BOJ — Monetary Policy Statements",
@@ -263,6 +262,21 @@
       "channel": "Bank of Japan：RSS",
       "description": "",
       "entries": [
+        {
+          "title": "Senior Loan Officer Opinion Survey (Oct.)",
+          "link": "http://www.boj.or.jp/en/statistics/dl/loan/loos/release/loos2610.pdf",
+          "published": "Thu, 22 Oct 2026 08:50:00 +0900",
+          "description": "",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
+        },
+        {
+          "title": "Statistics on Securities Financing Transactions in Japan",
+          "link": "http://www.boj.or.jp/en/statistics/bis/repo/index.htm",
+          "published": "Thu, 22 Oct 2026 08:50:00 +0900",
+          "description": "",
+          "relevant": true
+        },
         {
           "title": "BOJ Current Account Balances by Sector (Sept.)",
           "link": "http://www.boj.or.jp/en/statistics/boj/other/cabs/cabs.xlsx",
@@ -321,27 +335,11 @@
           "description": "",
           "relevant": false,
           "_skip_reason": "no_macro_keyword"
-        },
-        {
-          "title": "Results of the 107th Opinion Survey on the General Public's Views and Behavior",
-          "link": "http://www.boj.or.jp/en/research/o_survey/ishiki2610.htm",
-          "published": "Tue, 13 Oct 2026 13:30:00 +0900",
-          "description": "",
-          "relevant": false,
-          "_skip_reason": "no_macro_keyword"
-        },
-        {
-          "title": "Principal Figures of Financial Institutions (Sept.)",
-          "link": "http://www.boj.or.jp/en/statistics/dl/depo/kashi/kasi2609.pdf",
-          "published": "Tue, 13 Oct 2026 08:50:00 +0900",
-          "description": "",
-          "relevant": false,
-          "_skip_reason": "no_macro_keyword"
         }
       ],
       "count": 10,
       "domain": "Japan",
-      "relevant_count": 5
+      "relevant_count": 6
     },
     {
       "name": "BOE — News & MPC Minutes",
@@ -531,6 +529,13 @@
           "relevant": true
         },
         {
+          "title": "Central banks and macro financial stability in a fragmented global economy",
+          "link": "https://www.bis.org/publications/paper-176-central-banks-and-macro-financial-stability-fragmented-global-economy",
+          "published": "2026-10-19T00:00:00Z",
+          "description": "The 25th BIS Annual Conference took place in Basel, Switzerland on 26 June 2026. The event brought together a distinguished group of central bank Governors, leading academics and former public officials to exchange views on the theme “Central banks and macro-financial stability in a fragmented global economy”.",
+          "relevant": true
+        },
+        {
           "title": "Inflation after the Iran war",
           "link": "https://www.bis.org/publications/working-paper-1384-inflation-after-iran-war",
           "published": "2026-10-19T00:00:00Z",
@@ -549,13 +554,6 @@
           "link": "https://www.bis.org/publications/working-paper-1386-geoeconomic-pressure",
           "published": "2026-10-19T00:00:00Z",
           "description": "The increasing use of geoeconomic pressure is reshaping the global economy.",
-          "relevant": true
-        },
-        {
-          "title": "Central banks and macro financial stability in a fragmented global economy",
-          "link": "https://www.bis.org/publications/paper-176-central-banks-and-macro-financial-stability-fragmented-global-economy",
-          "published": "2026-10-19T00:00:00Z",
-          "description": "The 25th BIS Annual Conference took place in Basel, Switzerland on 26 June 2026. The event brought together a distinguished group of central bank Governors, leading academics and former public officials to exchange views on the theme “Central banks and macro-financial stability in a fragmented global economy”.",
           "relevant": true
         },
         {
