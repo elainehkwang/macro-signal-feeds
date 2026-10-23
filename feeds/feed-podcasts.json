@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T00:19:28.798737+00:00",
+  "generated_at": "2026-10-23T00:15:04.598012+00:00",
   "source": "podcast_rss",
   "feeds_count": 5,
   "total_episodes": 40,
@@ -10,6 +10,22 @@
       "domain": "US Fiscal",
       "description": "Allocator and asset management expert, Ted Seides, conducts in-depth interviews with leaders in the institutional investing industry. Guests include Chief Investment Officers from leading allocators, asset managers, strategists, thought leaders, and many more. Our mission is to learn, share, and help implement the process of premier investors. Learn more and join our community at capitalallocators.com.",
       "episodes": [
+        {
+          "title": "AI Tools for the Investment Firm – Ben Harrison (EP.522)",
+          "link": "https://tedseides.libsyn.com/ai-in-the-investment-firm-ben-harrison-ep522",
+          "published": "Thu, 22 Oct 2026 08:00:00 +0000",
+          "description": "Ben Harrison is President of Industries at Intapp, a leading provider of software solutions to professional and financial services firms. Ben first joined me three years ago to discuss DealCloud, Intapp's platform serving the private capital community. Since then, Intapp has nearly tripled in size, and the rapid development of AI has created an entirely new opportunity for the business.           Our conversation explores what Ben calls \"firm AI\" — moving beyond using AI to conduct research, build models, or create presentations to deploying agents that draw on a firm's institutional memory and execute its workflows.           We discuss how AI is changing sourcing and origination, fundraising, deal lifecycle management, and the staffing of investment firms. We also cover the critical impo",
+          "audio_url": "https://traffic.libsyn.com/secure/tedseides/CA_-_EP.522_Intapp_Sponsored_Ben_Harrison_-_AUDIO_V1.mp3?dest-id=482814",
+          "duration": "39:56"
+        },
+        {
+          "title": "[REPLAY] DealCloud - Ben Harrison (Dealcloud), (S3. Sponsored Insight)",
+          "link": "https://tedseides.libsyn.com/replay-dealcloud-ben-harrison-dealcloud-s3-sponsored-insight",
+          "published": "Thu, 22 Oct 2026 07:50:00 +0000",
+          "description": "This Sponsored Insight features Ben Harrison, Founder and Co-President of DealCloud, our sponsor for Season 3 of Private Equity Deals.             Ben discusses how DealCloud's vertical software supports alternative investment professionals through deal sourcing, relationship and pipeline management, and workflow efficiencies.             We are incredibly grateful of DealCloud for sponsoring Private Equity Deals, and we are eager to highlight their value to the alternative investment community.                Learn More   Follow Ted on Twitter at  @tseides  or  LinkedIn   Subscribe to the  mailing list   Access Transcript with  Premium Membership                Editing and post-production work for this episode was provided by The Podcast Consultant (  ⁠https://thepodcastconsultant.com⁠  )",
+          "audio_url": "https://traffic.libsyn.com/secure/tedseides/S03EP0X_Ben_DealCloud_enhanced_FINAL-replay.mp3?dest-id=482814",
+          "duration": "30:08"
+        },
         {
           "title": "Building a Berkshire for the Middle Market – Tracy Britt Cool (EP.521)",
           "link": "https://tedseides.libsyn.com/building-a-berkshire-for-the-middle-market-tracy-britt-cool-ep521",
@@ -73,22 +89,6 @@
           "description": "André Perold is the Chief Investment Officer and Co-Managing Partner at HighVista Strategies, where for the last dozen years he has sat at the helm of a now $3 billion fund that takes a multi-asset class, endowment-like approach emphasizing broad diversification and risk management.    Over this period, André has definitively rebuffed the cliché that those who can't do, teach. In his prior career, he spent over 30 years teaching at the HBS, where he is the George Gund Professor of Finance and Banking, Emeritus.    André had a distinguished career teaching investment management at Harvard and is a legendary master of the case study classroom. Just about everyone in the investment profession with Harvard Business School on their resume took a seat in his classroom at one point in time. André",
           "audio_url": "https://traffic.libsyn.com/secure/tedseides/REPLAY_9.21_-_EP.02_-_Andre_Perold_FINAL.mp3?dest-id=482814",
           "duration": "49:27"
-        },
-        {
-          "title": "AI in the Investment Office – Abby Barlow, Laura Hill, Brian Sugrue, Jenny Heller, John Lawrence, Matt Bank, Kristin Kallergis Rowland, Jon Webster (EP.515)",
-          "link": "https://tedseides.libsyn.com/ai-in-the-investment-office-abby-barlow-laura-hill-brian-sugrue-jenny-heller-john-lawrence-matt-bank-kristin-kallergis-rowland-jon-webster-ep515",
-          "published": "Mon, 14 Sep 2026 08:00:00 +0000",
-          "description": "AI is top of mind for everyone in the investment business. Our Summits are abuzz with curiosity about what others are doing.        I asked 8 CIOs to share how they're using AI today, including what's working and what isn't, the tools they've adopted, and where they're headed next. They range from a single-family office with one investment professional to one of the largest pension funds in the world with thousands.        What emerged is a range of use cases — from using AI as a personal productivity tool, to changing investment workflows, organizing institutional knowledge, improving decisions, and ultimately trying to generate alpha.        You'll also hear some consistency in the tools currently used and different views on how far AI should go in the investment process.        Featured",
-          "audio_url": "https://traffic.libsyn.com/secure/tedseides/CA_-_AI_Comp_-_AUDIO_FINAL_V2.mp3?dest-id=482814",
-          "duration": "01:01:58"
-        },
-        {
-          "title": "Best of Habit Formation: James Clear",
-          "link": "https://tedseides.libsyn.com/best-of-habit-formation-james-clear",
-          "published": "Mon, 07 Sep 2026 08:00:00 +0000",
-          "description": "This week's Summer Series concludes with a two-fer on habits. There may be no better way to improve the investment process than to understand what it takes to improve ourselves.  We've got two of the best – James Clear and Katy Milkman, experts and authors of wildly bestselling books Atomic Habits and How to Change.        Please enjoy my conversations with James Clear and Katy Milkman, both from 2021.        We hope you've enjoyed this summer exploration in improving the investment process with some of the best conversations over the last nine years.        Learn more about  Capital Allocators University .        Try  ALEX  by Admired Leadership.          Learn More   Follow Ted on Twitter at  @tseides  or  LinkedIn    Subscribe to the  mailing list   Access Transcript with  Premium Membe",
-          "audio_url": "https://traffic.libsyn.com/secure/tedseides/CA_-_SUMMER_SERIES_2026_-_James_Clear_-_AUDIO_V2.mp3?dest-id=482814",
-          "duration": "01:11:11"
         }
       ]
     },

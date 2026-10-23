@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T00:19:28.798737+00:00",
+  "generated_at": "2026-10-23T00:15:04.598012+00:00",
   "source": "rss",
   "feeds_count": 17,
   "total_entries": 90,
@@ -95,6 +95,34 @@
       "description": "Treasury Auction Results",
       "entries": [
         {
+          "title": "5-Year TIPS Treasury Auction Results",
+          "link": "https://www.treasurydirect.gov/auctions/auction-results/",
+          "published": "Thu, 22 Oct 2026 18:49:14 GMT",
+          "description": "CUSIP:  91282CRR4  Term and Type:  5-Year TIPS  Series:  AE-2031  Reopening:  No  Interest Rate:  2.250%  High Yield:  2.367%  Price:  $99.607747  Allotted at High:  68.33%  Total Tendered:  $62,605,441,200  Total Accepted:  $26,000,028,500  Auction Date:  10/22/2026  Issue Date:  10/30/2026  Maturity Date:  10/15/2031  CUSIP:  91282CRR4  Term and Type:  5-Year TIPS  Series:  AE-2031  Reopening:  No  Interest Rate:  2.250%  High Yield:  2.367%  Price:  $99.607747  Allotted at High:  68.33%  Total Tendered:  $62,605,441,200  Total Accepted:  $26,000,028,500  Auction Date:  10/22/2026  Issue Date:  10/30/2026  Maturity Date:  10/15/2031  PDF  |  XML",
+          "relevant": true
+        },
+        {
+          "title": "10-Day Bill Treasury Auction Results",
+          "link": "https://www.treasurydirect.gov/auctions/auction-results/",
+          "published": "Thu, 22 Oct 2026 17:16:11 GMT",
+          "description": "CUSIP:  912797UM7  Term and Type:  10-Day Bill  CMB:  Yes  High Rate:  3.925%  Investment Rate:  3.984%  Price:  $99.890972  Allotted at High:  71.99%  Total Tendered:  $96,668,388,000  Total Accepted:  $25,000,128,000  Auction Date:  10/22/2026  Issue Date:  10/26/2026  Maturity Date:  11/05/2026  CUSIP:  912797UM7  Term and Type:  10-Day Bill  CMB:  Yes  High Rate:  3.925%  Investment Rate:  3.984%  Price:  $99.890972  Allotted at High:  71.99%  Total Tendered:  $96,668,388,000  Total Accepted:  $25,000,128,000  Auction Date:  10/22/2026  Issue Date:  10/26/2026  Maturity Date:  11/05/2026  PDF  |  XML",
+          "relevant": true
+        },
+        {
+          "title": "8-Week Bill Treasury Auction Results",
+          "link": "https://www.treasurydirect.gov/auctions/auction-results/",
+          "published": "Thu, 22 Oct 2026 15:33:52 GMT",
+          "description": "CUSIP:  912797WG8  Term and Type:  8-Week Bill  CMB:  No  High Rate:  4.015%  Investment Rate:  4.096%  Price:  $99.375444  Allotted at High:  93.95%  Total Tendered:  $277,588,546,900  Total Accepted:  $112,564,496,900  Auction Date:  10/22/2026  Issue Date:  10/27/2026  Maturity Date:  12/22/2026  CUSIP:  912797WG8  Term and Type:  8-Week Bill  CMB:  No  High Rate:  4.015%  Investment Rate:  4.096%  Price:  $99.375444  Allotted at High:  93.95%  Total Tendered:  $277,588,546,900  Total Accepted:  $112,564,496,900  Auction Date:  10/22/2026  Issue Date:  10/27/2026  Maturity Date:  12/22/2026  PDF  |  XML",
+          "relevant": true
+        },
+        {
+          "title": "4-Week Bill Treasury Auction Results",
+          "link": "https://www.treasurydirect.gov/auctions/auction-results/",
+          "published": "Thu, 22 Oct 2026 15:33:05 GMT",
+          "description": "CUSIP:  912797VY0  Term and Type:  4-Week Bill  CMB:  No  High Rate:  3.945%  Investment Rate:  4.012%  Price:  $99.693167  Allotted at High:  32.92%  Total Tendered:  $318,025,569,600  Total Accepted:  $117,924,617,600  Auction Date:  10/22/2026  Issue Date:  10/27/2026  Maturity Date:  11/24/2026  CUSIP:  912797VY0  Term and Type:  4-Week Bill  CMB:  No  High Rate:  3.945%  Investment Rate:  4.012%  Price:  $99.693167  Allotted at High:  32.92%  Total Tendered:  $318,025,569,600  Total Accepted:  $117,924,617,600  Auction Date:  10/22/2026  Issue Date:  10/27/2026  Maturity Date:  11/24/2026  PDF  |  XML",
+          "relevant": true
+        },
+        {
           "title": "19-Year 10-Month Bond Treasury Auction Results",
           "link": "https://www.treasurydirect.gov/auctions/auction-results/",
           "published": "Wed, 21 Oct 2026 17:03:15 GMT",
@@ -134,34 +162,6 @@
           "link": "https://www.treasurydirect.gov/auctions/auction-results/",
           "published": "Thu, 15 Oct 2026 15:34:23 GMT",
           "description": "CUSIP:  912797VX2  Term and Type:  4-Week Bill  CMB:  No  High Rate:  4.000%  Investment Rate:  4.068%  Price:  $99.688889  Allotted at High:  15.67%  Total Tendered:  $289,404,764,400  Total Accepted:  $117,413,204,400  Auction Date:  10/15/2026  Issue Date:  10/20/2026  Maturity Date:  11/17/2026  CUSIP:  912797VX2  Term and Type:  4-Week Bill  CMB:  No  High Rate:  4.000%  Investment Rate:  4.068%  Price:  $99.688889  Allotted at High:  15.67%  Total Tendered:  $289,404,764,400  Total Accepted:  $117,413,204,400  Auction Date:  10/15/2026  Issue Date:  10/20/2026  Maturity Date:  11/17/2026  PDF  |  XML",
-          "relevant": true
-        },
-        {
-          "title": "8-Week Bill Treasury Auction Results",
-          "link": "https://www.treasurydirect.gov/auctions/auction-results/",
-          "published": "Thu, 15 Oct 2026 15:34:22 GMT",
-          "description": "CUSIP:  912797WF0  Term and Type:  8-Week Bill  CMB:  No  High Rate:  4.050%  Investment Rate:  4.132%  Price:  $99.370000  Allotted at High:  50.08%  Total Tendered:  $244,853,623,300  Total Accepted:  $112,075,623,300  Auction Date:  10/15/2026  Issue Date:  10/20/2026  Maturity Date:  12/15/2026  CUSIP:  912797WF0  Term and Type:  8-Week Bill  CMB:  No  High Rate:  4.050%  Investment Rate:  4.132%  Price:  $99.370000  Allotted at High:  50.08%  Total Tendered:  $244,853,623,300  Total Accepted:  $112,075,623,300  Auction Date:  10/15/2026  Issue Date:  10/20/2026  Maturity Date:  12/15/2026  PDF  |  XML",
-          "relevant": true
-        },
-        {
-          "title": "17-Week Bill Treasury Auction Results",
-          "link": "https://www.treasurydirect.gov/auctions/auction-results/",
-          "published": "Wed, 14 Oct 2026 15:34:19 GMT",
-          "description": "CUSIP:  912797WZ6  Term and Type:  17-Week Bill  CMB:  No  High Rate:  4.195%  Investment Rate:  4.313%  Price:  $98.613319  Allotted at High:  83.69%  Total Tendered:  $214,414,714,400  Total Accepted:  $80,054,540,100  Auction Date:  10/14/2026  Issue Date:  10/20/2026  Maturity Date:  02/16/2027  CUSIP:  912797WZ6  Term and Type:  17-Week Bill  CMB:  No  High Rate:  4.195%  Investment Rate:  4.313%  Price:  $98.613319  Allotted at High:  83.69%  Total Tendered:  $214,414,714,400  Total Accepted:  $80,054,540,100  Auction Date:  10/14/2026  Issue Date:  10/20/2026  Maturity Date:  02/16/2027  PDF  |  XML",
-          "relevant": true
-        },
-        {
-          "title": "6-Week Bill Treasury Auction Results",
-          "link": "https://www.treasurydirect.gov/auctions/auction-results/",
-          "published": "Tue, 13 Oct 2026 17:03:59 GMT",
-          "description": "CUSIP:  912797SU2  Term and Type:  6-Week Bill  CMB:  No  High Rate:  3.980%  Investment Rate:  4.055%  Price:  $99.524611  Allotted at High:  81.33%  Total Tendered:  $250,877,177,700  Total Accepted:  $100,405,610,300  Auction Date:  10/13/2026  Issue Date:  10/15/2026  Maturity Date:  11/27/2026  CUSIP:  912797SU2  Term and Type:  6-Week Bill  CMB:  No  High Rate:  3.980%  Investment Rate:  4.055%  Price:  $99.524611  Allotted at High:  81.33%  Total Tendered:  $250,877,177,700  Total Accepted:  $100,405,610,300  Auction Date:  10/13/2026  Issue Date:  10/15/2026  Maturity Date:  11/27/2026  PDF  |  XML",
-          "relevant": true
-        },
-        {
-          "title": "13-Week Bill Treasury Auction Results",
-          "link": "https://www.treasurydirect.gov/auctions/auction-results/",
-          "published": "Tue, 13 Oct 2026 15:33:29 GMT",
-          "description": "CUSIP:  912797VT1  Term and Type:  13-Week Bill  CMB:  No  High Rate:  4.085%  Investment Rate:  4.185%  Price:  $98.967403  Allotted at High:  36.71%  Total Tendered:  $260,234,408,200  Total Accepted:  $100,404,693,200  Auction Date:  10/13/2026  Issue Date:  10/15/2026  Maturity Date:  01/14/2027  CUSIP:  912797VT1  Term and Type:  13-Week Bill  CMB:  No  High Rate:  4.085%  Investment Rate:  4.185%  Price:  $98.967403  Allotted at High:  36.71%  Total Tendered:  $260,234,408,200  Total Accepted:  $100,404,693,200  Auction Date:  10/13/2026  Issue Date:  10/15/2026  Maturity Date:  01/14/2027  PDF  |  XML",
           "relevant": true
         }
       ],
@@ -263,6 +263,28 @@
       "description": "",
       "entries": [
         {
+          "title": "Japanese Government Bonds Held by the Bank of Japan",
+          "link": "http://www.boj.or.jp/en/statistics/boj/other/mei/release/2026/mei261020.xlsx",
+          "published": "Thu, 22 Oct 2026 17:00:00 +0900",
+          "description": "",
+          "relevant": true
+        },
+        {
+          "title": "Developments in Real Exports and Real Imports",
+          "link": "http://www.boj.or.jp/en/research/research_data/reri/index.htm",
+          "published": "Thu, 22 Oct 2026 16:00:00 +0900",
+          "description": "",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
+        },
+        {
+          "title": "Bank of Japan Accounts (October 20)",
+          "link": "http://www.boj.or.jp/en/statistics/boj/other/acmai/release/2026/ac261020.htm",
+          "published": "Thu, 22 Oct 2026 10:00:00 +0900",
+          "description": "",
+          "relevant": true
+        },
+        {
           "title": "Senior Loan Officer Opinion Survey (Oct.)",
           "link": "http://www.boj.or.jp/en/statistics/dl/loan/loos/release/loos2610.pdf",
           "published": "Thu, 22 Oct 2026 08:50:00 +0900",
@@ -312,34 +334,11 @@
           "published": "Wed, 14 Oct 2026 17:00:00 +0900",
           "description": "",
           "relevant": true
-        },
-        {
-          "title": "Bank of Japan Accounts (October 10)",
-          "link": "http://www.boj.or.jp/en/statistics/boj/other/acmai/release/2026/ac261010.htm",
-          "published": "Wed, 14 Oct 2026 10:00:00 +0900",
-          "description": "",
-          "relevant": true
-        },
-        {
-          "title": "Money Stock (Sept.)",
-          "link": "http://www.boj.or.jp/en/statistics/money/ms/ms2609.pdf",
-          "published": "Wed, 14 Oct 2026 08:50:00 +0900",
-          "description": "",
-          "relevant": false,
-          "_skip_reason": "no_macro_keyword"
-        },
-        {
-          "title": "Basic Figures on Fails (Sept.)",
-          "link": "http://www.boj.or.jp/en/statistics/set/bffail/sjgb2609.pdf",
-          "published": "Tue, 13 Oct 2026 16:30:00 +0900",
-          "description": "",
-          "relevant": false,
-          "_skip_reason": "no_macro_keyword"
         }
       ],
       "count": 10,
       "domain": "Japan",
-      "relevant_count": 6
+      "relevant_count": 7
     },
     {
       "name": "BOE — News & MPC Minutes",
@@ -347,6 +346,13 @@
       "channel": "News",
       "description": "News",
       "entries": [
+        {
+          "title": "Regulators unveil plans to simplify Senior Manager and Certification Regime",
+          "link": "https://www.bankofengland.co.uk/news/2026/october/regulators-unveil-plans-to-simplify-senior-manager-and-certification-regime",
+          "published": "Thu, 22 Oct 2026 21:00:00 +0100",
+          "description": "The number of financial services roles required to face enhanced checks from regulators will fall significantly under proposals that will support growth.",
+          "relevant": true
+        },
         {
           "title": "Banknote imagery advisory group minutes – 15 July 2026",
           "link": "https://www.bankofengland.co.uk/minutes/2026/july/banknote-advisory-minutes-15-july",
@@ -410,19 +416,11 @@
           "published": "Wed, 07 Oct 2026 10:08:40 +0100",
           "description": "The Bank of England chairs the London Foreign Exchange Joint Standing Committee (FXJSC), which is a forum for discussion of the wholesale foreign exchange market. The FXJSC is made up of market participants, infrastructure providers and the UK financial regulators.",
           "relevant": true
-        },
-        {
-          "title": "Regulatory thresholds set to shift to automatic increases",
-          "link": "https://www.bankofengland.co.uk/news/2026/october/regulatory-thresholds-set-to-shift-to-automatic-increases",
-          "published": "Wed, 07 Oct 2026 10:00:00 +0100",
-          "description": "Proportionality is set to be improved for firms as over 100 regulatory thresholds could be automatically increased periodically.",
-          "relevant": false,
-          "_skip_reason": "no_macro_keyword"
         }
       ],
       "count": 10,
       "domain": "Europe",
-      "relevant_count": 8
+      "relevant_count": 9
     },
     {
       "name": "CBO — Budget & Economic Outlook",
@@ -430,6 +428,14 @@
       "channel": "CBO Publications",
       "description": "Nonpartisan budgetary and economic analysis for the U.S. Congress.",
       "entries": [
+        {
+          "title": "S. 3897, Officer John Barnes and Chief Michael Ansbro Public Safety Officers’ Benefit Program Expansion Act of 2026",
+          "link": "https://www.cbo.gov/publication/62875",
+          "published": "Thu, 22 Oct 2026 14:50:00 -0400",
+          "description": "As passed by the Senate on August 7, 2026",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
+        },
         {
           "title": "H.R. 4464, Preventive Health Savings Act",
           "link": "https://www.cbo.gov/publication/62871",
@@ -492,18 +498,11 @@
           "published": "Fri, 16 Oct 2026 15:44:00 -0400",
           "description": "As ordered reported by the House Committee on Energy and Commerce on September 16, 2026",
           "relevant": true
-        },
-        {
-          "title": "H.R. 2805, PLAN for Broadband Act",
-          "link": "https://www.cbo.gov/publication/62863",
-          "published": "Fri, 16 Oct 2026 15:43:00 -0400",
-          "description": "As ordered reported by the House Committee on Energy and Commerce on September 16, 2026",
-          "relevant": true
         }
       ],
       "count": 10,
       "domain": "US Fiscal",
-      "relevant_count": 10
+      "relevant_count": 9
     },
     {
       "name": "BIS — All Publications",
@@ -529,6 +528,13 @@
           "relevant": true
         },
         {
+          "title": "Geoeconomic pressure",
+          "link": "https://www.bis.org/publications/working-paper-1386-geoeconomic-pressure",
+          "published": "2026-10-19T00:00:00Z",
+          "description": "The increasing use of geoeconomic pressure is reshaping the global economy.",
+          "relevant": true
+        },
+        {
           "title": "Central banks and macro financial stability in a fragmented global economy",
           "link": "https://www.bis.org/publications/paper-176-central-banks-and-macro-financial-stability-fragmented-global-economy",
           "published": "2026-10-19T00:00:00Z",
@@ -547,13 +553,6 @@
           "link": "https://www.bis.org/publications/working-paper-1385-competing-rails-crossborder-payments-banks-fintechs-and-stablecoins",
           "published": "2026-10-19T00:00:00Z",
           "description": "Cross-border payments remain slow and expensive despite significant improvements in digital financial infrastructure over the past several decades.",
-          "relevant": true
-        },
-        {
-          "title": "Geoeconomic pressure",
-          "link": "https://www.bis.org/publications/working-paper-1386-geoeconomic-pressure",
-          "published": "2026-10-19T00:00:00Z",
-          "description": "The increasing use of geoeconomic pressure is reshaping the global economy.",
           "relevant": true
         },
         {
