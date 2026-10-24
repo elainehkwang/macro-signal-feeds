@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T00:15:04.598012+00:00",
+  "generated_at": "2026-10-24T00:08:41.211933+00:00",
   "source": "rss",
   "feeds_count": 17,
   "total_entries": 90,
@@ -176,6 +176,13 @@
       "description": "Latest releases on the ECB website - Press releases, speeches and interviews, press conferences.",
       "entries": [
         {
+          "title": "ECB Consumer Expectations Survey results – September 2026",
+          "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261023~a3d201c97c.en.html",
+          "published": "Fri, 23 Oct 2026 10:00:00 +0200",
+          "description": "",
+          "relevant": true
+        },
+        {
           "title": "Piero Cipollone: Pontes and Appia: unlocking opportunities for banks",
           "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261021_1~d190f2c349.en.pdf",
           "published": "Wed, 21 Oct 2026 10:00:00 +0200",
@@ -243,13 +250,6 @@
           "description": "",
           "relevant": false,
           "_skip_reason": "no_macro_keyword"
-        },
-        {
-          "title": "Results of the September 2026 survey on credit terms and conditions in euro-denominated securities financing and OTC derivatives markets (SESFOD)",
-          "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261007~6447350434.en.html",
-          "published": "Wed, 07 Oct 2026 10:00:00 +0200",
-          "description": "",
-          "relevant": true
         }
       ],
       "count": 10,
@@ -262,6 +262,13 @@
       "channel": "Bank of Japan：RSS",
       "description": "",
       "entries": [
+        {
+          "title": "Financial System Report (October 2026)",
+          "link": "http://www.boj.or.jp/en/research/brp/fsr/fsr261023.htm",
+          "published": "Fri, 23 Oct 2026 15:00:00 +0900",
+          "description": "",
+          "relevant": true
+        },
         {
           "title": "Japanese Government Bonds Held by the Bank of Japan",
           "link": "http://www.boj.or.jp/en/statistics/boj/other/mei/release/2026/mei261020.xlsx",
@@ -327,13 +334,6 @@
           "published": "Wed, 14 Oct 2026 20:00:00 +0900",
           "description": "",
           "relevant": true
-        },
-        {
-          "title": "Japanese Government Bonds Held by the Bank of Japan",
-          "link": "http://www.boj.or.jp/en/statistics/boj/other/mei/release/2026/mei261009.xlsx",
-          "published": "Wed, 14 Oct 2026 17:00:00 +0900",
-          "description": "",
-          "relevant": true
         }
       ],
       "count": 10,
@@ -352,6 +352,14 @@
           "published": "Thu, 22 Oct 2026 21:00:00 +0100",
           "description": "The number of financial services roles required to face enhanced checks from regulators will fall significantly under proposals that will support growth.",
           "relevant": true
+        },
+        {
+          "title": "Minutes of the Securities Lending Committee meeting – September 2026",
+          "link": "https://www.bankofengland.co.uk/minutes/2026/september/securities-lending-committee-meeting-september-2026",
+          "published": "Thu, 22 Oct 2026 16:35:53 +0100",
+          "description": "The Securities Lending Committee is a forum for market participants and authorities to discuss the UK securities lending market.",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
         },
         {
           "title": "Banknote imagery advisory group minutes – 15 July 2026",
@@ -409,18 +417,11 @@
           "published": "Wed, 07 Oct 2026 10:49:25 +0100",
           "description": "The Bank of England chairs the London Foreign Exchange Joint Standing Committee (FXJSC) Operations and Legal Sub-Committees. The FXJSC is made up of market participants, infrastructure providers and the UK financial regulators.",
           "relevant": true
-        },
-        {
-          "title": "Minutes of the London FXJSC Main Committee Meeting – 24 June 2026",
-          "link": "https://www.bankofengland.co.uk/minutes/2026/june/fxjsc-main-committee-meeting-24-june-2026",
-          "published": "Wed, 07 Oct 2026 10:08:40 +0100",
-          "description": "The Bank of England chairs the London Foreign Exchange Joint Standing Committee (FXJSC), which is a forum for discussion of the wholesale foreign exchange market. The FXJSC is made up of market participants, infrastructure providers and the UK financial regulators.",
-          "relevant": true
         }
       ],
       "count": 10,
       "domain": "Europe",
-      "relevant_count": 9
+      "relevant_count": 8
     },
     {
       "name": "CBO — Budget & Economic Outlook",
@@ -521,17 +522,17 @@
       "description": "",
       "entries": [
         {
+          "title": "News shocks and inflation:  theory and evidence from  large oil discoveries",
+          "link": "https://www.bis.org/publications/working-paper-1389-news-shocks-and-inflation-theory-and-evidence-from-large-oil-discoveries",
+          "published": "2026-10-23T00:00:00Z",
+          "description": "We study hownews shocks affect inflation in open economies, using large oil and gas discoveries with realized production lags of at least five years as observable news about future output. Panel local projections show that discoveries raise core consumer prices over the subsequent decade, with about half the increase occurring prior to extraction.",
+          "relevant": true
+        },
+        {
           "title": "Bank liquidity regulation and the growth of private credit",
           "link": "https://www.bis.org/publications/bank-liquidity-regulation-and-growth-private-credit",
           "published": "2026-10-20T00:00:00Z",
           "description": "We study the role of bank liquidity regulation in the growth of private credit. Following the introduction of the liquidity coverage ratio (LCR), private credit increases significantly more in U.S. counties with a larger footprint of banks subject to the LCR or of LCR banks with greater initial liquidity shortfalls.",
-          "relevant": true
-        },
-        {
-          "title": "Geoeconomic pressure",
-          "link": "https://www.bis.org/publications/working-paper-1386-geoeconomic-pressure",
-          "published": "2026-10-19T00:00:00Z",
-          "description": "The increasing use of geoeconomic pressure is reshaping the global economy.",
           "relevant": true
         },
         {
@@ -553,6 +554,13 @@
           "link": "https://www.bis.org/publications/working-paper-1385-competing-rails-crossborder-payments-banks-fintechs-and-stablecoins",
           "published": "2026-10-19T00:00:00Z",
           "description": "Cross-border payments remain slow and expensive despite significant improvements in digital financial infrastructure over the past several decades.",
+          "relevant": true
+        },
+        {
+          "title": "Geoeconomic pressure",
+          "link": "https://www.bis.org/publications/working-paper-1386-geoeconomic-pressure",
+          "published": "2026-10-19T00:00:00Z",
+          "description": "The increasing use of geoeconomic pressure is reshaping the global economy.",
           "relevant": true
         },
         {
@@ -581,13 +589,6 @@
           "link": "https://www.bis.org/publications/working-paper-1382-are-stablecoins-and-bank-deposits-substitutes",
           "published": "2026-10-13T00:00:00Z",
           "description": "We test whether stablecoins and bank deposits act as substitutes by estimating the semi-elasticity of stablecoin market capitalization with respect to deposit rate changes. Using local projections fit to weekly U.S. data from January 2019 to June 2025, we find that deposit rate increases predict slower stablecoin growth. To address endogeneity, we exploit a nonlinearity in deposit rate pass-through.",
-          "relevant": true
-        },
-        {
-          "title": "Transformative AI and demand bottlenecks",
-          "link": "https://www.bis.org/publications/working-paper-1381-transformative-ai-and-demand-bottlenecks",
-          "published": "2026-10-12T00:00:00Z",
-          "description": "Transformative AI promises to accelerate growth through productivity enhancement and automation. Yet automation on such a scale would raise the share of investment in output, potentially starving AI innovation of returns from a shrinking consumer market.",
           "relevant": true
         }
       ],

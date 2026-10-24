@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T00:15:04.598012+00:00",
+  "generated_at": "2026-10-24T00:08:41.211933+00:00",
   "source": "podcast_rss",
   "feeds_count": 5,
   "total_episodes": 40,
@@ -99,6 +99,14 @@
       "description": "What’s driving this week’s market moves – and where are the biggest opportunities? Goldman Sachs traders discuss.",
       "episodes": [
         {
+          "title": "Why Investors Are Reducing AI Exposure",
+          "link": "",
+          "published": "Fri, 23 Oct 2026 13:20:00 -0000",
+          "description": "Markets are scrutinizing the&nbsp;crowded AI trade as investors reassess technology infrastructure spending plans and factor in rising capital costs, says Rich Privorotsky, head of European Equities Trading within Goldman Sachs FICC and Equities. Third-quarter earnings from mega-cap tech will be critical, Privorotsky says on The Markets podcast. Investors are not only watching hyperscaler investment plans but looking for evidence that the spending is translating into revenue growth. He also describes a “seismic shift” from a savings glut to a spending glut, which along with high energy prices is lowering investor risk appetite.&nbsp;&nbsp;\n\nRecorded on October 22, 2026.&nbsp;\n\nThe opinions and views expressed herein are as of the date of publication, subject to change without notice, and m",
+          "audio_url": "https://mgln.ai/e/1720/traffic.megaphone.fm/GLD5715934563.mp3",
+          "duration": "652"
+        },
+        {
           "title": "How Higher Rates and AI Issuance Are Affecting Credit Markets",
           "link": "",
           "published": "Fri, 16 Oct 2026 10:08:00 -0000",
@@ -169,14 +177,6 @@
           "description": "While artificial intelligence (AI) has been a key driver of US stocks, a&nbsp;wider range of sectors is starting to power the S&P 500, says&nbsp;Shawn Tuteja, head of ETF and Custom Basket Volatility Trading in Goldman Sachs FICC and Equities, on The Markets podcast.&nbsp;Tuteja also discusses the robust&nbsp;strength in earnings across 9 of 11 sectors in the S&P 500,&nbsp;elevated volatility among AI-related themes, and the interplay between oil prices, longer-maturity bond yields, and Federal Reserve policy. &nbsp;\n\n\nThe opinions and views expressed herein are as of the date of publication, subject to change without notice, and may not necessarily reflect the institutional views of Goldman Sachs or its affiliates. The material provided is intended for informational purposes only, and doe",
           "audio_url": "https://mgln.ai/e/1720/traffic.megaphone.fm/GLD2532093964.mp3",
           "duration": "753"
-        },
-        {
-          "title": "How Inflation and Fiscal Policy Are Driving US Treasury Markets",
-          "link": "",
-          "published": "Fri, 14 Aug 2026 04:00:00 -0000",
-          "description": "With a month to go until the Federal Reserve’s next rate decision, inflation is increasingly in focus for the US bond market, says Mike Mitchell, head of US Treasury and Inflation Trading in Goldman Sachs Global Banking & Markets. He explains why recent inflation data suggests the Fed could continue to hold rates steady in September, and how Treasury market supply, corporate credit issuance, and fiscal policy concerns are keeping pressure on longer-maturity Treasuries. \n\nThis episode was recorded on August 12, 2026.\n\nThe opinions and views expressed herein are as of the date of publication, subject to change without notice, and may not necessarily reflect the institutional views of Goldman Sachs or its affiliates. The material provided is intended for informational purposes only, and does",
-          "audio_url": "https://mgln.ai/e/1720/traffic.megaphone.fm/GLD9591427911.mp3",
-          "duration": "709"
         }
       ]
     },
