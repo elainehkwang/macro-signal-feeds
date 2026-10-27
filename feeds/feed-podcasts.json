@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T23:40:53.549336+00:00",
+  "generated_at": "2026-10-27T01:00:16.900514+00:00",
   "source": "podcast_rss",
   "feeds_count": 5,
   "total_episodes": 40,
@@ -10,6 +10,14 @@
       "domain": "US Fiscal",
       "description": "Allocator and asset management expert, Ted Seides, conducts in-depth interviews with leaders in the institutional investing industry. Guests include Chief Investment Officers from leading allocators, asset managers, strategists, thought leaders, and many more. Our mission is to learn, share, and help implement the process of premier investors. Learn more and join our community at capitalallocators.com.",
       "episodes": [
+        {
+          "title": "Continuation Vehicles from the LP Seat – Scott Ramsower (EP.523)",
+          "link": "https://tedseides.libsyn.com/continuation-vehicles-from-the-lp-seat-scott-ramsower-ep523",
+          "published": "Mon, 26 Oct 2026 08:00:00 +0000",
+          "description": "My guest on  today 's show is Scott Ramsower, Head of Private Equity Funds at the Teacher Retirement System of Texas, where a 27-person team manages $33 billion in private equity for the $250 billion pension plan. Scott started his LP career at AlpInvest and joined Texas Teachers sixteen years ago, when the private equity program was six people and $7 billion. He also chairs the board of ILPA.              Our conversation covers Scott's path from equity research to the LP seat and the growth of the Texas Teachers program. We then turn to continuation vehicles and the reasons LPs have grown wary of them, from conflicted pricing and misaligned economics to the loss of the right tail. We close with zombie funds, retail capital in private equity, and how a slower exit market is changing the w",
+          "audio_url": "https://traffic.libsyn.com/secure/tedseides/CA_-_EP.523_Scott_Ramsower_-_AUDIO_V1.2.mp3?dest-id=482814",
+          "duration": "48:08"
+        },
         {
           "title": "AI Tools for the Investment Firm – Ben Harrison (EP.522)",
           "link": "https://tedseides.libsyn.com/ai-in-the-investment-firm-ben-harrison-ep522",
@@ -35,7 +43,7 @@
           "duration": "52:19"
         },
         {
-          "title": "Senior Decision Makers: Erlina Yeo Terwelp, Columbia Investment Management Company (EP.520)",
+          "title": "From Generalist to Specialist at Columbia's Endowment – Erlina Yeo Terwelp (EP.520)",
           "link": "https://tedseides.libsyn.com/senior-decision-makers-erlina-yeo-terwelp-columbia-investment-management-ep520",
           "published": "Mon, 12 Oct 2026 08:00:00 +0000",
           "description": "Our next guest on the Senior Decision Makers series is Erlina Yeo Terwelp, a Managing Director at Columbia Investment Management Company, where she oversees the endowment's private markets portfolio.       Erlina's path spans investment banking, private equity, growth equity, and family office investing before she joined Columbia nearly a decade ago. Our conversation covers her evolution as an allocator, how she thinks about manager selection and portfolio construction, the growing role of leadership and team development in her seat, and her perspective on generalist versus specialist team models after working within both.       Erlina is candid, thoughtful, and funny — with a deep commitment to intellectual honesty, an openness to changing her mind, and a willingness to continually put he",
@@ -81,14 +89,6 @@
           "description": "André Perold, the Co-Managing Partner and Chief Investment Officer of HighVista Strategies, a $4B firm with roots in endowment-style investing that searches for inefficiencies across asset classes. André was the 2nd guest on the show, where we discussed his background as a renowned investment professor at HBS and the founding of HighVista.       Our second conversation covers the evolution of HighVista over the last few years. We discuss changes in the business and the firm's response by focusing on inefficient markets. We then dive into examples of opportunities in biotech, private credit and litigation finance, and close with a perspective on active management and private markets.     Learn Mo    re    Follow Ted on Twitter at  @tseides  or  LinkedIn    Subscribe to the  mailing list   A",
           "audio_url": "https://traffic.libsyn.com/secure/tedseides/REPLAY_9.21_-_EP.169_-_Andre_Perold_FINAL.mp3?dest-id=482814",
           "duration": "54:18"
-        },
-        {
-          "title": "[REPLAY] André Perold – Academic Practitioner (EP.02)",
-          "link": "https://tedseides.libsyn.com/replay-andr-perold-academic-practitioner-ep02",
-          "published": "Mon, 21 Sep 2026 07:40:00 +0000",
-          "description": "André Perold is the Chief Investment Officer and Co-Managing Partner at HighVista Strategies, where for the last dozen years he has sat at the helm of a now $3 billion fund that takes a multi-asset class, endowment-like approach emphasizing broad diversification and risk management.    Over this period, André has definitively rebuffed the cliché that those who can't do, teach. In his prior career, he spent over 30 years teaching at the HBS, where he is the George Gund Professor of Finance and Banking, Emeritus.    André had a distinguished career teaching investment management at Harvard and is a legendary master of the case study classroom. Just about everyone in the investment profession with Harvard Business School on their resume took a seat in his classroom at one point in time. André",
-          "audio_url": "https://traffic.libsyn.com/secure/tedseides/REPLAY_9.21_-_EP.02_-_Andre_Perold_FINAL.mp3?dest-id=482814",
-          "duration": "49:27"
         }
       ]
     },
@@ -275,6 +275,14 @@
       "description": "Hosted by David Beckworth of the Mercatus Center, Macro Musings pulls back the curtain on the important macroeconomic issues of the past, present, and future.",
       "episodes": [
         {
+          "title": "Patrick Harker on Real-Time Payments and the Future of the Federal Reserve",
+          "link": "https://macromusings.libsyn.com/patrick-harker-on-real-time-payments-and-the-future-of-the-federal-reserve",
+          "published": "Mon, 26 Oct 2026 09:00:00 +0000",
+          "description": "Patrick Harker is the Rowan Distinguished Professor, Professor of Operations, Information and Decisions at the Wharton School of the University of Pennsylvania, and the former president of the Philadelphia Federal Reserve Bank. He joins the program to discuss his time at the Fed, the FOMC, Amish banking, his amazing academic career, and much more.      Watch the   full length video   on our new YouTube Channel!    Check out the   transcript   for this week's episode, now with links.       Recorded on September 10th, 2026     Subscribe to David's Substack:  Macroeconomic Policy Nexus   Follow David Beckworth on X:  @DavidBeckworth   Follow the show on X:  @Macro_Musings    Check out our Macro Musings  merch!      Timestamps  00:00:00 - Intro  00:04:33 - Patrick's Career  00:21:32 - Amish Ba",
+          "audio_url": "https://traffic.libsyn.com/secure/macromusings/MM-566-PatrickHarker-Podcast.mp3?dest-id=865793",
+          "duration": "56:17"
+        },
+        {
           "title": "Christina Skinner on the Financial Stability Oversight Council and Central Bank Independence",
           "link": "https://macromusings.libsyn.com/christina-skinner-on",
           "published": "Mon, 19 Oct 2026 09:00:00 +0000",
@@ -345,14 +353,6 @@
           "description": "Ben Harris is vice president and director of economic studies at the Brookings Institution and previously served in senior economic policy roles at the Treasury Department and Council of Economic Advisers. Ben returns to the program to discuss why recent economic shocks have been less damaging than expected, the outlook for inflation and energy markets, whether AI can improve the U.S. fiscal outlook, why we should temper our AI optimism, how longer lifespans and higher interest rates could complicate the fiscal picture, and much more.   Watch the  full length video  on our new YouTube Channel!   Check out the  transcript  for this week's episode, now with links.    Recorded on July 20th, 2026    Subscribe to David's Substack:  Macroeconomic Policy Nexus    Follow David Beckworth on X:  @Da",
           "audio_url": "https://traffic.libsyn.com/secure/macromusings/MM-557-BenHarris-Podcast_mixdown.mp3?dest-id=865793",
           "duration": "57:09"
-        },
-        {
-          "title": "Bill Nelson on Shrinking the Fed's Balance Sheet and Reviving Interbank Markets",
-          "link": "https://macromusings.libsyn.com/bill-nelson-on-shrinking-the-feds-balance-sheet-and-reviving-interbank-markets",
-          "published": "Mon, 17 Aug 2026 09:00:00 +0000",
-          "description": "Bill Nelson is chief research officer and chief economist at the Bank Policy Institute and a former deputy director of the Division of Monetary Affairs at the Federal Reserve Board. In Bill's 11th appearance on the show, he discusses how central banks are rethinking their operating systems, the case for a smaller Fed balance sheet and more routine discount window borrowing, the revival of interbank markets, lessons from Silicon Valley Bank, and much more.   Watch the  full length video  on our new YouTube Channel!   Check out the  transcript  for this week's episode, now with links.    Recorded on July 20th, 2026    Subscribe to David's Substack:  Macroeconomic Policy Nexus    Follow David Beckworth on X:  @DavidBeckworth    Follow the show on X:  @Macro_Musings    Check out our Macro Musi",
-          "audio_url": "https://traffic.libsyn.com/secure/macromusings/MM-556-BillNelson-Podcast-auphonic.mp3?dest-id=865793",
-          "duration": "55:16"
         }
       ]
     },
