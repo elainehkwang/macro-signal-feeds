@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T01:00:16.900514+00:00",
+  "generated_at": "2026-10-28T00:49:32.197128+00:00",
   "source": "podcast_rss",
   "feeds_count": 5,
   "total_episodes": 40,
@@ -187,6 +187,14 @@
       "description": "Conversations with the best investors and business leaders in the world. We explore their ideas, methods, and stories to help you better invest your time and money. Hear stock market and boardroom insights you can't find anywhere else. If you're a professional investor, CEO, entrepreneur, or business strategist, this is for you. Explore all our episodes and learn more at https://www.colossus.com",
       "episodes": [
         {
+          "title": "Cliff Sosin - Owning the Complements to Intelligence - [Invest Like the Best, EP.497]",
+          "link": "https://colossus.com/episode/the-limits-of-intelligence/",
+          "published": "Tue, 27 Oct 2026 08:00:00 -0000",
+          "description": "Cliff Sosin is the founder of CAS Investment Partners, which he started in 2012. Roughly 80% of his portfolio is in Carvana.&nbsp;\n\nWe discuss why Cliff thinks there are hard limits to what even the smartest AI can predict, which businesses benefit as intelligence gets cheap, and what that means for Meta and the frontier labs.&nbsp;\n\nWe also cover why he avoids investing in the AI build-out, how AI agents will push customers to the lowest-cost provider, and why he is comfortable with 80% of his portfolio in one stock.&nbsp;\n\nPlease enjoy my conversation with Cliff Sosin.\n\nFor the full show notes, transcript, and links to mentioned content, check out the episode page here.\n\n-----\n\nBecome a Colossus member to get our quarterly print magazine and private audio experience, including exclusive",
+          "audio_url": "https://traffic.megaphone.fm/CLS5603610979.mp3",
+          "duration": "3649"
+        },
+        {
           "title": "Christina Cacioppo - Building an Enduring Software Company in the Age of AI - [Invest Like the Best, EP.496]",
           "link": "https://colossus.com/episode/becoming-a-category-winner/",
           "published": "Tue, 20 Oct 2026 08:00:00 -0000",
@@ -257,14 +265,6 @@
           "description": "My guest today is Neil Movva, founder of Sail. Sail is building what Neil calls a token factory, an inference company designed for a specific kind of future, one where AI agents run in the background for hours or days at a time rather than answering a human in real time.&nbsp;\n\nIn that world, latency matters less and cost matters more, and Neil has built the whole company around driving the cost of a token as low as it can possibly go.\n\nWhat makes this conversation special is that it is one of the most detailed tours I have ever done through the full stack of intelligence, the software, the chips, and the power, and how all three connect.&nbsp;\n\nAlong the way we cover the trade-off between speed and cost that lives inside every GPU, his scavenger strategy for buying the chips and power nob",
           "audio_url": "https://traffic.megaphone.fm/CLS1341199916.mp3",
           "duration": "4687"
-        },
-        {
-          "title": "Ben Thompson on Big Tech, China, and the AI Boom Running Out of Money - [Invest Like the Best, EP.487]",
-          "link": "https://colossus.com/episode/winners-losers-ai-era/",
-          "published": "Tue, 18 Aug 2026 08:00:00 -0000",
-          "description": "My guest today is Ben Thompson, the founder and author of Stratechery. Ben is one of my favorite business thinkers and I love talking to him about everything happening in markets and technology.&nbsp;\n\nWe go through every important company, including OpenAI, Nvidia, Intel, Apple, Microsoft, Google, and Amazon. We also discuss why he thinks it would be dangerous for the United States to win the AI race outright, what container shipping and the railroads of the 1870s tell us about the buildout, and why the binding constraint on all of this may be capital rather than compute.&nbsp;\n\nPlease enjoy my conversation with Ben Thompson.\n\nFor the full show notes, transcript, and links to mentioned content, check out the episode page ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠here⁠⁠⁠⁠⁠.&nbsp;\n\n-----\n\nBecome a Colossus member to",
-          "audio_url": "https://traffic.megaphone.fm/CLS4584299095.mp3",
-          "duration": "4576"
         }
       ]
     },
