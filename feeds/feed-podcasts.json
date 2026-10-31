@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T01:26:44.111216+00:00",
+  "generated_at": "2026-10-31T01:15:16.341307+00:00",
   "source": "podcast_rss",
   "feeds_count": 5,
   "total_episodes": 40,
@@ -99,6 +99,14 @@
       "description": "What’s driving this week’s market moves – and where are the biggest opportunities? Goldman Sachs traders discuss.",
       "episodes": [
         {
+          "title": "Bullish Options Trades Slow amid AI Uncertainty",
+          "link": "",
+          "published": "Fri, 30 Oct 2026 04:00:00 -0000",
+          "description": "Options markets are showing signs of increased nervousness about artificial intelligence (AI) as investors focus closely on earnings from large tech companies and try to separate likely winners from losers, says Lee Coppersmith from the Equity Derivative Sales team in Goldman Sachs FICC and Equities. Overall demand for AI stocks remains strong and the S&P has remained resilient, but put option buying has picked up in recent weeks while activity has waned in call options that would reward a jump in equities, he explains on The Markets podcast. \n\nThis episode was recorded on October 29, 2026.&nbsp;\n\n\nThe opinions and views expressed herein are as of the date of publication, subject to change without notice, and may not necessarily reflect the institutional views of Goldman Sachs or its affil",
+          "audio_url": "https://mgln.ai/e/1720/traffic.megaphone.fm/GLD7918815280.mp3",
+          "duration": "585"
+        },
+        {
           "title": "Why Investors Are Reducing AI Exposure",
           "link": "",
           "published": "Fri, 23 Oct 2026 13:20:00 -0000",
@@ -169,14 +177,6 @@
           "description": "Energy markets have been surprisingly resilient amid the disruption to shipping through the Strait of&nbsp;Hormuz. However, there are few signs of relief in markets for refined products such as diesel, gasoline, and jet fuel, says&nbsp;Nitin Jindal, head of Global Commodities in Goldman Sachs FICC and Equities, on The Markets podcast.&nbsp;Jindal also discusses China’s remarkable adjustment to the disruption in energy supplies and the outlook for natural gas prices in Europe as winter approaches. \n\nThe opinions and views expressed herein are as of the date of publication, subject to change without notice, and may not necessarily reflect the institutional views of Goldman Sachs or its affiliates. The material provided is intended for informational purposes only, and does not constitute inve",
           "audio_url": "https://mgln.ai/e/1720/traffic.megaphone.fm/GLD8684687449.mp3",
           "duration": "498"
-        },
-        {
-          "title": "Why US Equity Returns Are Broadening Beyond AI Stocks",
-          "link": "",
-          "published": "Fri, 21 Aug 2026 17:25:00 -0000",
-          "description": "While artificial intelligence (AI) has been a key driver of US stocks, a&nbsp;wider range of sectors is starting to power the S&P 500, says&nbsp;Shawn Tuteja, head of ETF and Custom Basket Volatility Trading in Goldman Sachs FICC and Equities, on The Markets podcast.&nbsp;Tuteja also discusses the robust&nbsp;strength in earnings across 9 of 11 sectors in the S&P 500,&nbsp;elevated volatility among AI-related themes, and the interplay between oil prices, longer-maturity bond yields, and Federal Reserve policy. &nbsp;\n\n\nThe opinions and views expressed herein are as of the date of publication, subject to change without notice, and may not necessarily reflect the institutional views of Goldman Sachs or its affiliates. The material provided is intended for informational purposes only, and doe",
-          "audio_url": "https://mgln.ai/e/1720/traffic.megaphone.fm/GLD2532093964.mp3",
-          "duration": "753"
         }
       ]
     },
