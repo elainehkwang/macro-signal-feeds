@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T00:33:57.807805+00:00",
+  "generated_at": "2026-11-02T01:07:55.592094+00:00",
   "source": "rss",
   "feeds_count": 17,
   "total_entries": 90,
@@ -547,13 +547,6 @@
           "relevant": true
         },
         {
-          "title": "Central banks and macro financial stability in a fragmented global economy",
-          "link": "https://www.bis.org/publications/paper-176-central-banks-and-macro-financial-stability-fragmented-global-economy",
-          "published": "2026-10-19T00:00:00Z",
-          "description": "The 25th BIS Annual Conference took place in Basel, Switzerland on 26 June 2026. The event brought together a distinguished group of central bank Governors, leading academics and former public officials to exchange views on the theme “Central banks and macro-financial stability in a fragmented global economy”.",
-          "relevant": true
-        },
-        {
           "title": "Inflation after the Iran war",
           "link": "https://www.bis.org/publications/working-paper-1384-inflation-after-iran-war",
           "published": "2026-10-19T00:00:00Z",
@@ -572,6 +565,13 @@
           "link": "https://www.bis.org/publications/working-paper-1386-geoeconomic-pressure",
           "published": "2026-10-19T00:00:00Z",
           "description": "The increasing use of geoeconomic pressure is reshaping the global economy.",
+          "relevant": true
+        },
+        {
+          "title": "Central banks and macro financial stability in a fragmented global economy",
+          "link": "https://www.bis.org/publications/paper-176-central-banks-and-macro-financial-stability-fragmented-global-economy",
+          "published": "2026-10-19T00:00:00Z",
+          "description": "The 25th BIS Annual Conference took place in Basel, Switzerland on 26 June 2026. The event brought together a distinguished group of central bank Governors, leading academics and former public officials to exchange views on the theme “Central banks and macro-financial stability in a fragmented global economy”.",
           "relevant": true
         },
         {
