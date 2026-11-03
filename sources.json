@@ -1,7 +1,8 @@
 {
   "description": "Macro Signal unified RSS source list — Tier 1 official feeds + Tier 2 analyst feeds + podcasts",
-  "version": "2.1.0",
-  "last_updated": "2026-07-10",
+  "version": "2.2.0",
+  "last_updated": "2026-11-03",
+  "default_max_age_days": 90,
 
   "rss_feeds": [
     {"name": "Fed FOMC — Monetary Policy",         "url": "https://www.federalreserve.gov/feeds/press_monetary.xml","domain": "US Fiscal",         "tier": 1},
@@ -10,16 +11,19 @@
     {"name": "BOJ — Monetary Policy Statements",    "url": "https://www.boj.or.jp/en/rss/whatsnew.xml",          "domain": "Japan",             "tier": 1},
     {"name": "BOE — News & MPC Minutes",            "url": "https://www.bankofengland.co.uk/rss/news",           "domain": "Europe",            "tier": 1},
     {"name": "CBO — Budget & Economic Outlook",     "url": "https://www.cbo.gov/publications/all/rss.xml",      "domain": "US Fiscal",         "tier": 1},
-    {"name": "BIS — All Publications",              "url": "https://www.bis.org/doclist/rss_all_categories.rss",  "domain": "Global Liquidity",  "tier": 1},
+    {"name": "BIS — Speeches",                      "url": "https://www.bis.org/doclist/cbspeeches.rss",         "domain": "Global Liquidity",  "tier": 1},
     {"name": "BIS — Research Papers",               "url": "https://www.bis.org/doclist/bis_fsi_publs.rss",      "domain": "Global Liquidity",  "tier": 1},
-    {"name": "Lyn Alden",                           "url": "https://www.lynalden.com/feed/",                     "domain": "US Fiscal",         "tier": 2},
+    {"name": "Lyn Alden",                           "url": "https://www.lynalden.com/feed/",                     "domain": "US Fiscal",         "tier": 2, "max_age_days": 180},
     {"name": "Doomberg — Substack",                 "url": "https://doomberg.substack.com/feed",                 "domain": "Energy",            "tier": 2},
     {"name": "Michael Howell — Capital Wars",       "url": "https://capitalwars.substack.com/feed",             "domain": "Global Liquidity",  "tier": 2},
     {"name": "Adam Tooze — Substack",               "url": "https://adamtooze.substack.com/feed",                "domain": "US Fiscal",         "tier": 2},
     {"name": "SemiAnalysis",                        "url": "https://semianalysis.substack.com/feed",             "domain": "AI CAPEX",          "tier": 2},
     {"name": "Commodity Context",                   "url": "https://commoditycontext.substack.com/feed",         "domain": "Energy",            "tier": 2},
-    {"name": "Bruegel — Research",                 "url": "https://www.bruegel.org/rss.xml",                     "domain": "Europe",            "tier": 2},
-    {"name": "CSIS — Center for Strategic Studies", "url": "https://www.csis.org/rss.xml",                       "domain": "Deglobalization",   "tier": 2},
+    {"name": "Net Interest — Marc Rubinstein",      "url": "https://www.netinterest.co/feed",                    "domain": "Global Liquidity",  "tier": 2},
+    {"name": "Interconnection",                     "url": "https://interconnect.substack.com/feed",             "domain": "AI CAPEX",          "tier": 2},
+    {"name": "ChinaTalk",                           "url": "https://www.chinatalk.media/feed",                   "domain": "Deglobalization",   "tier": 2},
+    {"name": "Bruegel — Research",                 "url": "https://www.bruegel.org/rss.xml",                     "domain": "Europe",            "tier": 2, "max_age_days": 120},
+    {"name": "Atlantic Council",                    "url": "https://www.atlanticcouncil.org/feed/",               "domain": "Deglobalization",   "tier": 2},
     {"name": "CSET — Georgetown AI Policy",        "url": "https://cset.georgetown.edu/feed/",                   "domain": "AI CAPEX",          "tier": 2}
   ],
 
@@ -28,7 +32,7 @@
     {"name": "Goldman Sachs Exchanges",    "url": "https://feeds.megaphone.fm/GLD9322922848",                  "domain": "US Fiscal"},
     {"name": "Invest Like the Best",        "url": "https://feeds.megaphone.fm/CLS2859450455",                   "domain": "US Fiscal"},
     {"name": "Macro Musings",               "url": "https://macromusings.libsyn.com/rss",                        "domain": "US Fiscal"},
-    {"name": "Macro Voices",               "url": "https://macropodcasts.com/?feed=podcast",                   "domain": "US Fiscal"}
+    {"name": "Forward Guidance",            "url": "https://feeds.megaphone.fm/forwardguidance",                 "domain": "Global Liquidity"}
   ],
 
   "transcription": {
@@ -46,9 +50,13 @@
   },
 
   "_removed": [
-    {"reason": "Gavekal — commercial research, RSS 404. Free feed no longer available."},
-    {"reason": "CFR Brad Setser — CFR removed RSS. Now primarily on X/Twitter."},
-    {"reason": "Lyn Alden Substack — 400. Switched to lynalden.com/feed (WordPress RSS)."},
-    {"reason": "PIIE / Chatham House / IISS — 403 blocked. Cloudflare/WAF prevents automated RSS access. Agent can use web_extract."}
+    {"date": "2026-11-03", "name": "BIS — All Publications", "url": "https://www.bis.org/doclist/rss_all_categories.rss", "reason": "HTTP 404。已试 all_categories.rss / rss/all_categories.rss / list/press_releases/index.rss 全部 404。替换为 BIS — Speeches (cbspeeches.rss, 实测 n=50 age=0)。"},
+    {"date": "2026-11-03", "name": "CSIS", "url": "https://www.csis.org/rss.xml", "reason": "返回 200 但最新条目 pubDate = 2016-03（age 3897 天）。关键词过滤不会拦截，会把十年前的评论当今日信号。替换为 Atlantic Council (n=100 age=0)。"},
+    {"date": "2026-11-03", "name": "Macro Voices", "url": "https://macropodcasts.com/?feed=podcast", "reason": "域名 DNS 不可用 (ConnectError)。替换为 Forward Guidance (n=634 age=3)。"},
+    {"date": "2026-07-10", "name": "Gavekal", "reason": "商业研究，RSS 404，无免费 feed。"},
+    {"date": "2026-07-10", "name": "CFR Brad Setser", "reason": "CFR 移除 RSS，主要发在 X。"},
+    {"date": "2026-07-10", "name": "Lyn Alden Substack", "reason": "400。改用 lynalden.com/feed（WordPress RSS）。"},
+    {"date": "2026-07-10", "name": "PIIE / Chatham House / IISS", "reason": "403 Cloudflare，需 web_extract。"},
+    {"date": "2026-11-03", "name": "候选人已测但未采用", "reason": "ECFR 403 / MERICS 404 / Carnegie 0 items / CFR 404 / Market Huddle 404 / PIIE 403 / Macro Compass stale 113d。OilPrice 可用 (n=15 age=0) 但质量偏低，暂不纳入。"}
   ]
 }

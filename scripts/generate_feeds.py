@@ -17,6 +17,7 @@ Output:
 
 import json, re, sys
 from datetime import datetime, timezone
+from email.utils import parsedate_to_datetime
 from pathlib import Path
 
 import httpx
@@ -32,6 +33,37 @@ OUTPUT_PODCASTS = FEEDS_DIR / "feed-podcasts.json"
 
 TIMEOUT = 30
 MAX_ENTRIES = 10
+DEFAULT_MAX_AGE_DAYS = 90
+
+
+def _parse_dt(raw):
+    """Parse RFC-822 (RSS) or ISO-8601 (Atom/RDF) date strings. Returns aware datetime or None."""
+    raw = (raw or "").strip()
+    if not raw:
+        return None
+    try:
+        dt = parsedate_to_datetime(raw)
+    except Exception:
+        try:
+            dt = datetime.fromisoformat(raw.replace("Z", "+00:00"))
+        except Exception:
+            return None
+    if dt.tzinfo is None:
+        dt = dt.replace(tzinfo=timezone.utc)
+    return dt
+
+
+def newest_age_days(entries):
+    """Days since the newest entry. None if no parseable dates.
+
+    This is the guard that would have caught CSIS: it returns HTTP 200 with
+    well-formed XML, but every item is dated 2016. HTTP status alone can't
+    detect that — only the newest timestamp can.
+    """
+    stamps = [dt for dt in (_parse_dt(e.get("published")) for e in entries) if dt]
+    if not stamps:
+        return None
+    return (datetime.now(timezone.utc) - max(stamps)).days
 
 NS = {
     "atom": "http://www.w3.org/2005/Atom",
@@ -167,12 +199,26 @@ def parse_feed(xml_text, feed_type="rss"):
     return entries[:MAX_ENTRIES], channel_title, channel_desc
 
 
-def fetch_feed(name, url, feed_type="rss"):
-    """Fetch and parse a single feed. Returns result dict."""
+def fetch_feed(name, url, feed_type="rss", max_age_days=DEFAULT_MAX_AGE_DAYS):
+    """Fetch and parse a single feed. Returns result dict with a health status.
+
+    status is one of: ok | stale | empty | error
+      - error : fetch/parse blew up
+      - empty : HTTP 200 but zero entries (dead or empty feed)
+      - stale : entries exist but newest is older than max_age_days (e.g. CSIS)
+      - ok    : entries exist and are recent
+    """
     try:
         resp = httpx.get(url, timeout=TIMEOUT, follow_redirects=True, headers=HEADERS)
         resp.raise_for_status()
         entries, channel, desc = parse_feed(resp.text, feed_type)
+        age = newest_age_days(entries)
+        if not entries:
+            status = "empty"
+        elif age is not None and age > max_age_days:
+            status = "stale"
+        else:
+            status = "ok"
         return {
             "name": name,
             "url": url,
@@ -180,6 +226,10 @@ def fetch_feed(name, url, feed_type="rss"):
             "description": desc,
             "entries": entries,
             "count": len(entries),
+            "newest_age_days": age,
+            "max_age_days": max_age_days,
+            "status": status,
+            "_stale": status in ("stale", "empty"),
         }
     except Exception as e:
         return {
@@ -188,6 +238,10 @@ def fetch_feed(name, url, feed_type="rss"):
             "channel": name,
             "entries": [],
             "count": 0,
+            "newest_age_days": None,
+            "max_age_days": max_age_days,
+            "status": "error",
+            "_stale": True,
             "_error": str(e),
         }
 
@@ -195,24 +249,52 @@ def fetch_feed(name, url, feed_type="rss"):
 def main():
     sources = json.loads(SOURCES_PATH.read_text())
     now = datetime.now(timezone.utc).isoformat()
+    default_age = sources.get("default_max_age_days", DEFAULT_MAX_AGE_DAYS)
+    failures = []
+
+    def report(kind, feed, result):
+        """Print one human-readable line + collect any unhealthy source."""
+        age = result.get("newest_age_days")
+        age_s = "?" if age is None else f"{age}d"
+        if result["status"] == "ok":
+            print(f"  {kind} {feed['name']}: {result['count']} entries (newest {age_s})")
+        elif result["status"] == "stale":
+            print(f"  {kind} {feed['name']}: STALE {result['count']} entries, newest {age_s} "
+                  f"> {result['max_age_days']}d  <<< 需替换")
+            failures.append((kind, feed["name"], f"stale {age_s}"))
+        elif result["status"] == "empty":
+            print(f"  {kind} {feed['name']}: EMPTY (0 entries)  <<< 需替换")
+            failures.append((kind, feed["name"], "empty"))
+        else:
+            print(f"  {kind} {feed['name']}: ERROR {result.get('_error', 'unknown')[:80]}  <<< 需替换")
+            failures.append((kind, feed["name"], result.get("_error", "error")[:80]))
 
     # ── RSS / Substack ────────────────────────────────────────────────
     rss_feeds = sources.get("rss_feeds", [])
     rss_results = []
     for feed in rss_feeds:
-        result = fetch_feed(feed["name"], feed["url"], "rss")
+        result = fetch_feed(
+            feed["name"], feed["url"], "rss",
+            max_age_days=feed.get("max_age_days", default_age),
+        )
         result["domain"] = feed.get("domain", "")
+        result["tier"] = feed.get("tier", 2)
         result["entries"] = tag_relevance(result["entries"])
         result["relevant_count"] = sum(1 for e in result["entries"] if e.get("relevant"))
         rss_results.append(result)
-        status = f"{result['count']} entries" if result["count"] > 0 else f"error: {result.get('_error', 'unknown')}"
-        print(f"  RSS {feed['name']}: {status}")
+        report("RSS", feed, result)
 
+    unhealthy = [r for r in rss_results if r["status"] != "ok"]
     rss_output = {
         "generated_at": now,
         "source": "rss",
         "feeds_count": len(rss_results),
         "total_entries": sum(r["count"] for r in rss_results),
+        "unhealthy_count": len(unhealthy),
+        "unhealthy": [
+            {"name": r["name"], "status": r["status"], "newest_age_days": r.get("newest_age_days")}
+            for r in unhealthy
+        ],
         "feeds": rss_results,
     }
     OUTPUT_RSS.write_text(json.dumps(rss_output, ensure_ascii=False, indent=2))
@@ -221,24 +303,28 @@ def main():
     pod_feeds = sources.get("podcast_feeds", [])
     pod_results = []
     for feed in pod_feeds:
-        result = fetch_feed(feed["name"], feed["url"], "podcast")
+        result = fetch_feed(
+            feed["name"], feed["url"], "podcast",
+            max_age_days=feed.get("max_age_days", default_age),
+        )
         result["domain"] = feed.get("domain", "")
-        # Add episodes with enclosure
         pod_results.append({
             "feed_name": feed["name"],
             "channel": result["channel"],
             "domain": feed.get("domain", ""),
             "description": result.get("description", ""),
+            "status": result["status"],
+            "newest_age_days": result.get("newest_age_days"),
             "episodes": result["entries"],
         })
-        status = f"{result['count']} episodes" if result["count"] > 0 else f"error: {result.get('_error', 'unknown')}"
-        print(f"  POD {feed['name']}: {status}")
+        report("POD", feed, result)
 
     pod_output = {
         "generated_at": now,
         "source": "podcast_rss",
         "feeds_count": len(pod_results),
         "total_episodes": sum(len(r["episodes"]) for r in pod_results),
+        "unhealthy": [r["feed_name"] for r in pod_results if r["status"] != "ok"],
         "podcasts": pod_results,
     }
     OUTPUT_PODCASTS.write_text(json.dumps(pod_output, ensure_ascii=False, indent=2))
@@ -250,6 +336,16 @@ def main():
     print(f"Podcasts: {pod_total} episodes from {len(pod_feeds)} feeds")
     print(f"Output: {OUTPUT_RSS}, {OUTPUT_PODCASTS}")
 
+    # ── Health gate: 死源/停更源必须显式失败，不能静默 ────────────────
+    if failures:
+        print(f"\n⚠️  {len(failures)} 个源不健康（stale/empty/error）：")
+        for kind, name, why in failures:
+            print(f"    - [{kind}] {name}: {why}")
+        print("    → 这些源在 digest 里必须标注缺口，并尽快替换（见 sources.json _removed）")
+        return 1
+    print("\n✅ 全部源健康")
+    return 0
+
 
 if __name__ == "__main__":
-    main()
+    sys.exit(main())
