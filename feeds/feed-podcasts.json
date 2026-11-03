@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T01:07:55.592094+00:00",
+  "generated_at": "2026-11-03T03:10:24.826025+00:00",
   "source": "podcast_rss",
   "feeds_count": 5,
   "total_episodes": 40,
@@ -10,6 +10,14 @@
       "domain": "US Fiscal",
       "description": "Allocator and asset management expert, Ted Seides, conducts in-depth interviews with leaders in the institutional investing industry. Guests include Chief Investment Officers from leading allocators, asset managers, strategists, thought leaders, and many more. Our mission is to learn, share, and help implement the process of premier investors. Learn more and join our community at capitalallocators.com.",
       "episodes": [
+        {
+          "title": "Dynamic Allocation and Concentrated Conviction – Zack McGuire (EP.524)",
+          "link": "https://tedseides.libsyn.com/dynamic-allocation-and-concentrated-conviction-zack-mcguire-ep524",
+          "published": "Mon, 02 Nov 2026 09:00:00 +0000",
+          "description": "Zack McGuire is Senior Managing Director of Investments at Children's Healthcare of Atlanta.       Zack's career spans Citigroup, Emory University, the University of Georgia Foundation, and the Maine Public Employees Retirement System before joining Children's three and a half years ago.       His responsibilities extend well beyond investing into team leadership, overseeing the investment process, and strategic initiatives across the broader healthcare system.       Our conversation covers how an institution's capital base shapes its investment strategy, CHOA's thematic approach to portfolio construction, empowering a team of generalists, and leveraging investment relationships to support the broader institution.       Zack brings humility, curiosity, and conviction to his work, grounded",
+          "audio_url": "https://traffic.libsyn.com/secure/tedseides/CA_-_EP.524_SDM_Zack_McGuire_-_AUDIO_V2.mp3?dest-id=482814",
+          "duration": "58:38"
+        },
         {
           "title": "Continuation Vehicles from the LP Seat – Scott Ramsower (EP.523)",
           "link": "https://tedseides.libsyn.com/continuation-vehicles-from-the-lp-seat-scott-ramsower-ep523",
@@ -81,14 +89,6 @@
           "description": "André Perold is the co-founder and CIO of HighVista Strategies, an alternative asset manager overseeing $14 billion that searches for alpha opportunities in structurally inefficient markets. André has twice been a past guest on the show, starting way back with episode #2 and both conversations are replayed on the feed.           This conversation starts with André's assessment of the most exciting and unusual investment environment he has experienced, alongside his thoughts on how to build capabilities and construct portfolios to navigate exponential change. We then turn to the beautifully inefficient markets where HighVista has built core capabilities across biotech, lower middle-market buyouts, early-stage venture, and specialty private credit.        Take our  audience survey . Tell us",
           "audio_url": "https://traffic.libsyn.com/secure/tedseides/CA_-_EP.516_Andre_Perold_-_AUDIO_V1.mp3?dest-id=482814",
           "duration": "48:19"
-        },
-        {
-          "title": "[REPLAY] André Perold – Pockets of Inefficiency at HighVista Strategies (EP.169)",
-          "link": "https://tedseides.libsyn.com/replay-andr-perold-pockets-of-inefficiency-at-highvista-strategies-ep169",
-          "published": "Mon, 21 Sep 2026 07:50:00 +0000",
-          "description": "André Perold, the Co-Managing Partner and Chief Investment Officer of HighVista Strategies, a $4B firm with roots in endowment-style investing that searches for inefficiencies across asset classes. André was the 2nd guest on the show, where we discussed his background as a renowned investment professor at HBS and the founding of HighVista.       Our second conversation covers the evolution of HighVista over the last few years. We discuss changes in the business and the firm's response by focusing on inefficient markets. We then dive into examples of opportunities in biotech, private credit and litigation finance, and close with a perspective on active management and private markets.     Learn Mo    re    Follow Ted on Twitter at  @tseides  or  LinkedIn    Subscribe to the  mailing list   A",
-          "audio_url": "https://traffic.libsyn.com/secure/tedseides/REPLAY_9.21_-_EP.169_-_Andre_Perold_FINAL.mp3?dest-id=482814",
-          "duration": "54:18"
         }
       ]
     },
@@ -275,6 +275,14 @@
       "description": "Hosted by David Beckworth of the Mercatus Center, Macro Musings pulls back the curtain on the important macroeconomic issues of the past, present, and future.",
       "episodes": [
         {
+          "title": "Darrell Duffie on the Fed's Balance Sheet and the Changing Financial System",
+          "link": "https://macromusings.libsyn.com/darrell-duffie-on-the-feds-balance-sheet-and-the-changing-financial-system",
+          "published": "Mon, 02 Nov 2026 09:00:00 +0000",
+          "description": "Darrell Duffie is the Adams Distinguished Professor of Management, Emeritus, and Professor of Finance, Emeritus, at the Stanford Graduate School of Business. He joins the program to discuss the challenges of shrinking the Federal Reserve's balance sheet, the future of payment-system design, the implications of tokenized finance, and much more.   Watch the  full length video  on our new YouTube Channel!   Check out the  transcript  for this week's episode, now with links.    Recorded on September 18th, 2026    Subscribe to David's Substack:  Macroeconomic Policy Nexus   Follow David Beckworth on X:  @DavidBeckworth   Follow Darrell Duffie on X:  @DuffieDarrell   Follow the show on X:  @Macro_Musings    Check out our Macro Musings  merch!    Timestamps  00:00:26 - Intro  00:00:48 - Historica",
+          "audio_url": "https://traffic.libsyn.com/secure/macromusings/Alex_Cut_MM-567-DarrellDuffie-Podcast.mp3?dest-id=865793",
+          "duration": "58:45"
+        },
+        {
           "title": "Patrick Harker on Real-Time Payments and the Future of the Federal Reserve",
           "link": "https://macromusings.libsyn.com/patrick-harker-on-real-time-payments-and-the-future-of-the-federal-reserve",
           "published": "Mon, 26 Oct 2026 09:00:00 +0000",
@@ -345,14 +353,6 @@
           "description": "Donald Kohn is a 40-year veteran of the Federal Reserve System and a senior fellow in the Economic Studies program at the Brookings Institution. Don returns to the program to discuss the lessons of the Greenspan Fed, how Kevin Warsh should think about communication and forward guidance, why inflation remains a concern, the Fed's new task forces, the future of its monetary policy tools, and much more.   Watch the  full length video  on our new YouTube Channel!   Check out the  transcript  for this week's episode, now with links.    Recorded on July 22nd, 2026    Subscribe to David's Substack:  Macroeconomic Policy Nexus    Follow David Beckworth on X:  @DavidBeckworth    Follow the show on X:  @Macro_Musings    Check out our Macro Musings  merch!    Timestamps   00:00:00 - Intro  00:01:25 -",
           "audio_url": "https://traffic.libsyn.com/secure/macromusings/MM-558-DonKohn-Podcast-auphonic.mp3?dest-id=865793",
           "duration": "01:09:02"
-        },
-        {
-          "title": "Ben Harris on AI, Fiscal Sustainability, and the Resilience of the U.S. Economy",
-          "link": "https://macromusings.libsyn.com/ben-harris-on-ai-fiscal-sustainability-and-the-resilience-of-the-us-economy",
-          "published": "Mon, 24 Aug 2026 09:00:00 +0000",
-          "description": "Ben Harris is vice president and director of economic studies at the Brookings Institution and previously served in senior economic policy roles at the Treasury Department and Council of Economic Advisers. Ben returns to the program to discuss why recent economic shocks have been less damaging than expected, the outlook for inflation and energy markets, whether AI can improve the U.S. fiscal outlook, why we should temper our AI optimism, how longer lifespans and higher interest rates could complicate the fiscal picture, and much more.   Watch the  full length video  on our new YouTube Channel!   Check out the  transcript  for this week's episode, now with links.    Recorded on July 20th, 2026    Subscribe to David's Substack:  Macroeconomic Policy Nexus    Follow David Beckworth on X:  @Da",
-          "audio_url": "https://traffic.libsyn.com/secure/macromusings/MM-557-BenHarris-Podcast_mixdown.mp3?dest-id=865793",
-          "duration": "57:09"
         }
       ]
     },
