@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-04T01:45:26.635442+00:00",
+  "generated_at": "2026-11-05T01:54:00.852581+00:00",
   "source": "rss",
   "feeds_count": 17,
-  "total_entries": 90,
+  "total_entries": 150,
   "feeds": [
     {
       "name": "Fed FOMC — Monetary Policy",
@@ -95,6 +95,13 @@
       "description": "Treasury Auction Results",
       "entries": [
         {
+          "title": "17-Week Bill Treasury Auction Results",
+          "link": "https://www.treasurydirect.gov/auctions/auction-results/",
+          "published": "Wed, 04 Nov 2026 16:33:01 GMT",
+          "description": "CUSIP:  912797XG7  Term and Type:  17-Week Bill  CMB:  No  High Rate:  4.090%  Investment Rate:  4.204%  Price:  $98.648028  Allotted at High:  94.88%  Total Tendered:  $249,625,678,900  Total Accepted:  $80,410,350,900  Auction Date:  11/04/2026  Issue Date:  11/10/2026  Maturity Date:  03/09/2027  CUSIP:  912797XG7  Term and Type:  17-Week Bill  CMB:  No  High Rate:  4.090%  Investment Rate:  4.204%  Price:  $98.648028  Allotted at High:  94.88%  Total Tendered:  $249,625,678,900  Total Accepted:  $80,410,350,900  Auction Date:  11/04/2026  Issue Date:  11/10/2026  Maturity Date:  03/09/2027  PDF  |  XML",
+          "relevant": true
+        },
+        {
           "title": "6-Week Bill Treasury Auction Results",
           "link": "https://www.treasurydirect.gov/auctions/auction-results/",
           "published": "Tue, 03 Nov 2026 16:33:10 GMT",
@@ -156,13 +163,6 @@
           "published": "Tue, 27 Oct 2026 17:04:04 GMT",
           "description": "CUSIP:  91282CRT0  Term and Type:  5-Year Note  Reopening:  No  Interest Rate:  4.750%  High Yield:  4.845%  Price:  $99.582397  Allotted at High:  98.60%  Total Tendered:  $170,532,179,100  Total Accepted:  $77,778,350,600  Auction Date:  10/27/2026  Issue Date:  11/02/2026  Maturity Date:  10/31/2031  CUSIP:  91282CRT0  Term and Type:  5-Year Note  Reopening:  No  Interest Rate:  4.750%  High Yield:  4.845%  Price:  $99.582397  Allotted at High:  98.60%  Total Tendered:  $170,532,179,100  Total Accepted:  $77,778,350,600  Auction Date:  10/27/2026  Issue Date:  11/02/2026  Maturity Date:  10/31/2031  PDF  |  XML",
           "relevant": true
-        },
-        {
-          "title": "6-Week Bill Treasury Auction Results",
-          "link": "https://www.treasurydirect.gov/auctions/auction-results/",
-          "published": "Tue, 27 Oct 2026 15:33:55 GMT",
-          "description": "CUSIP:  912797VG9  Term and Type:  6-Week Bill  CMB:  No  High Rate:  3.950%  Investment Rate:  4.023%  Price:  $99.539167  Allotted at High:  83.10%  Total Tendered:  $276,983,296,400  Total Accepted:  $103,453,371,400  Auction Date:  10/27/2026  Issue Date:  10/29/2026  Maturity Date:  12/10/2026  CUSIP:  912797VG9  Term and Type:  6-Week Bill  CMB:  No  High Rate:  3.950%  Investment Rate:  4.023%  Price:  $99.539167  Allotted at High:  83.10%  Total Tendered:  $276,983,296,400  Total Accepted:  $103,453,371,400  Auction Date:  10/27/2026  Issue Date:  10/29/2026  Maturity Date:  12/10/2026  PDF  |  XML",
-          "relevant": true
         }
       ],
       "count": 10,
@@ -175,6 +175,13 @@
       "channel": "ECB - European Central Bank",
       "description": "Latest releases on the ECB website - Press releases, speeches and interviews, press conferences.",
       "entries": [
+        {
+          "title": "ECB wage tracker suggests slightly higher wage growth in first three quarters of 2027 compared with the full year of 2026",
+          "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261104~caf181d7ac.en.html",
+          "published": "Wed, 04 Nov 2026 01:00:00 +0100",
+          "description": "",
+          "relevant": true
+        },
         {
           "title": "Boris Vujčić: Integrated, open and resilient: Europe’s strengths in a fragmenting world",
           "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp.261102~70003226e9.en.html",
@@ -237,19 +244,11 @@
           "published": "Tue, 27 Oct 2026 01:00:00 +0100",
           "description": "",
           "relevant": true
-        },
-        {
-          "title": "Survey on the Access to Finance of Enterprises: lending conditions tightened",
-          "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261026~bde7b6d11a.en.html",
-          "published": "Mon, 26 Oct 2026 10:00:00 +0100",
-          "description": "",
-          "relevant": false,
-          "_skip_reason": "no_macro_keyword"
         }
       ],
       "count": 10,
       "domain": "Europe",
-      "relevant_count": 9
+      "relevant_count": 10
     },
     {
       "name": "BOJ — Monetary Policy Statements",
@@ -258,15 +257,44 @@
       "description": "",
       "entries": [
         {
+          "title": "Sources of Changes in Current Account Balances (Projections for Nov.)",
+          "link": "http://www.boj.or.jp/en/statistics/boj/fm/juqp/juqp2611.xlsx",
+          "published": "Thu, 05 Nov 2026 08:50:00 +0900",
+          "description": "",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
+        },
+        {
+          "title": "Minutes of the Monetary Policy Meeting on September 17 and 18, 2026",
+          "link": "http://www.boj.or.jp/en/mopo/mpmsche_minu/minu_2026/g260918.pdf",
+          "published": "Thu, 05 Nov 2026 08:50:00 +0900",
+          "description": "",
+          "relevant": true
+        },
+        {
+          "title": "Japanese Government Bonds Held by the Bank of Japan",
+          "link": "http://www.boj.or.jp/en/statistics/boj/other/mei/release/2026/mei261030.xlsx",
+          "published": "Wed, 04 Nov 2026 17:00:00 +0900",
+          "description": "",
+          "relevant": true
+        },
+        {
+          "title": "Collateral Accepted by the Bank of Japan (End of  Oct.)",
+          "link": "http://www.boj.or.jp/en/statistics/boj/other/col/col2610.xlsx",
+          "published": "Wed, 04 Nov 2026 17:00:00 +0900",
+          "description": "",
+          "relevant": true
+        },
+        {
           "title": "Bank of Japan Accounts (October 31)",
-          "link": "https://www.boj.or.jp/en/statistics/boj/other/acmai/release/2026/ac261031.htm",
+          "link": "http://www.boj.or.jp/en/statistics/boj/other/acmai/release/2026/ac261031.htm",
           "published": "Wed, 04 Nov 2026 10:00:00 +0900",
           "description": "",
           "relevant": true
         },
         {
           "title": "Monetary Base (Oct.)",
-          "link": "https://www.boj.or.jp/en/statistics/boj/other/mb/mb.htm",
+          "link": "http://www.boj.or.jp/en/statistics/boj/other/mb/mb.htm",
           "published": "Wed, 04 Nov 2026 08:50:00 +0900",
           "description": "",
           "relevant": false,
@@ -274,7 +302,7 @@
         },
         {
           "title": "Outlook for Economic Activity and Prices (October 2026, full text)",
-          "link": "https://www.boj.or.jp/en/mopo/outlook/gor2610b.pdf",
+          "link": "http://www.boj.or.jp/en/mopo/outlook/gor2610b.pdf",
           "published": "Mon, 02 Nov 2026 14:00:00 +0900",
           "description": "",
           "relevant": false,
@@ -282,7 +310,7 @@
         },
         {
           "title": "Sources of Changes in Current Account Balances and Market Operations (Oct.)",
-          "link": "https://www.boj.or.jp/en/statistics/boj/fm/juqf/juqf10.xlsx",
+          "link": "http://www.boj.or.jp/en/statistics/boj/fm/juqf/juqf10.xlsx",
           "published": "Mon, 02 Nov 2026 13:00:00 +0900",
           "description": "",
           "relevant": false,
@@ -290,52 +318,22 @@
         },
         {
           "title": "Quarterly Schedule of Outright Purchases of Japanese Government Bonds (Competitive Auction Method) (October-December 2026) (Schedule Updates)",
-          "link": "https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/mpr261030c.pdf",
+          "link": "http://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/mpr261030c.pdf",
           "published": "Fri, 30 Oct 2026 17:00:00 +0900",
           "description": "",
           "relevant": true
         },
         {
           "title": "Timetable and Schedule of U.S. Dollar Funds-Supplying Operations  (November 2026-March 2027)",
-          "link": "https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/mpr261030b.pdf",
+          "link": "http://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/mpr261030b.pdf",
           "published": "Fri, 30 Oct 2026 17:00:00 +0900",
           "description": "",
           "relevant": true
-        },
-        {
-          "title": "Amendment to \"Basic Principles for Disposal of ETFs and J-REITs\"",
-          "link": "https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/mpr261030a.pdf",
-          "published": "Fri, 30 Oct 2026 14:00:00 +0900",
-          "description": "",
-          "relevant": false,
-          "_skip_reason": "no_macro_keyword"
-        },
-        {
-          "title": "Outlook for Economic Activity and Prices (October 2026, The Bank's View)",
-          "link": "https://www.boj.or.jp/en/mopo/outlook/gor2610a.pdf",
-          "published": "Fri, 30 Oct 2026 13:00:00 +0900",
-          "description": "",
-          "relevant": true
-        },
-        {
-          "title": "Statement on Monetary Policy",
-          "link": "https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/k261030a.pdf",
-          "published": "Fri, 30 Oct 2026 13:00:00 +0900",
-          "description": "",
-          "relevant": true
-        },
-        {
-          "title": "(Reference) Decisions regarding a Change in the Pace of Sales of ETFs (October 2026)",
-          "link": "https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/k261030c.pdf",
-          "published": "Fri, 30 Oct 2026 12:02:00 +0900",
-          "description": "",
-          "relevant": false,
-          "_skip_reason": "no_macro_keyword"
         }
       ],
       "count": 10,
       "domain": "Japan",
-      "relevant_count": 5
+      "relevant_count": 6
     },
     {
       "name": "BOE — News & MPC Minutes",
@@ -343,6 +341,14 @@
       "channel": "News",
       "description": "News",
       "entries": [
+        {
+          "title": "Summary of the RTGS CHAPS Industry Forum - 13 October 2026",
+          "link": "https://www.bankofengland.co.uk/minutes/2026/october/rtgs-chaps-industry-forum-13-october-2026",
+          "published": "Wed, 04 Nov 2026 14:51:45 Z",
+          "description": "The second meeting of the RTGS CHAPS Industry Forum",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
+        },
         {
           "title": "Regulators explore credit union reforms to support growth, innovation and better outcomes for members",
           "link": "https://www.bankofengland.co.uk/news/2026/november/regulators-explore-credit-union-reforms-to-support-growth-innovation-and-better-outcomes-for-members",
@@ -406,18 +412,11 @@
           "published": "Thu, 15 Oct 2026 09:27:59 +0100",
           "description": "The SONIA Stakeholder Advisory Group supports the Bank’s administration of SONIA by providing advice and technical input to the Bank and the SONIA Oversight Committee",
           "relevant": true
-        },
-        {
-          "title": "Minutes of the Money Market Committee meeting – September 2026",
-          "link": "https://www.bankofengland.co.uk/minutes/2026/september/money-markets-committee-minutes-september-2026",
-          "published": "Tue, 13 Oct 2026 16:04:27 +0100",
-          "description": "The Money Markets Committee is a forum for market participants and authorities to discuss the UK unsecured deposits and funding market and securities lending and repo markets.",
-          "relevant": true
         }
       ],
       "count": 10,
       "domain": "Europe",
-      "relevant_count": 9
+      "relevant_count": 8
     },
     {
       "name": "CBO — Budget & Economic Outlook",
@@ -425,6 +424,21 @@
       "channel": "CBO Publications",
       "description": "Nonpartisan budgetary and economic analysis for the U.S. Congress.",
       "entries": [
+        {
+          "title": "H.R. 8183, Modernizing Access to Talents, Credentials, and Hiring Act of 2026",
+          "link": "https://www.cbo.gov/publication/62902",
+          "published": "Wed, 04 Nov 2026 15:28:00 -0500",
+          "description": "H.R. 8183, Modernizing Access to Talents, Credentials, and Hiring Act of 2026",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
+        },
+        {
+          "title": "Legislation considered under suspension of the Rules of the House of Representatives during the week of November 9, 2026",
+          "link": "https://www.cbo.gov/publication/62590",
+          "published": "Wed, 04 Nov 2026 13:24:00 -0500",
+          "description": "The Majority Leader of the House of Representatives announces bills that will be considered under suspension of the rules in that chamber. CBO estimates the effects of those bills on direct spending and revenues.",
+          "relevant": true
+        },
         {
           "title": "H.R. 3937, Wabeno Economic Development Act",
           "link": "https://www.cbo.gov/publication/62897",
@@ -480,25 +494,11 @@
           "published": "Thu, 29 Oct 2026 16:25:00 -0400",
           "description": "As reported by the Senate Committee on Agriculture, Nutrition, and Forestry on October 27, 2025",
           "relevant": true
-        },
-        {
-          "title": "Information Sources for Policymakers: Congressional Budget Office 101",
-          "link": "https://www.cbo.gov/publication/62795",
-          "published": "Wed, 28 Oct 2026 09:30:00 -0400",
-          "description": "Presentation by Lara Robillard, an analyst in CBO's Budget Analysis Division, at AcademyHealth's 2026 Health Policy Orientation.",
-          "relevant": true
-        },
-        {
-          "title": "Estimated Budgetary Effects of S. 5526, the Agricultural Act of 2026",
-          "link": "https://www.cbo.gov/publication/62881",
-          "published": "Wed, 28 Oct 2026 08:01:00 -0400",
-          "description": "As ordered reported by the Senate Committee on Agriculture, Nutrition, and Forestry on September 16, 2026",
-          "relevant": true
         }
       ],
       "count": 10,
       "domain": "US Fiscal",
-      "relevant_count": 10
+      "relevant_count": 9
     },
     {
       "name": "BIS — All Publications",
@@ -516,6 +516,13 @@
       "channel": "BIS — Research Papers",
       "description": "",
       "entries": [
+        {
+          "title": "Scenarios for future banking: implications for profitability, liquidity and solvency",
+          "link": "https://www.bis.org/publications/scenarios-future-banking-implications-profitability-liquidity-and-solvency",
+          "published": "2026-11-04T00:00:00Z",
+          "description": "Who will perform banking’s core functions a decade from now, and how will risks and profitability evolve? Our framework structures expert judgement rather than forecasts.",
+          "relevant": true
+        },
         {
           "title": "Prewar US business cycles under uncertainty: reconstructing quarterly GDP before 1947",
           "link": "https://www.bis.org/publications/working-paper-1390-prewar-us-business-cycles-under-uncertainty-reconstructing-quarterly-gdp-1947",
@@ -552,13 +559,6 @@
           "relevant": true
         },
         {
-          "title": "Inflation after the Iran war",
-          "link": "https://www.bis.org/publications/working-paper-1384-inflation-after-iran-war",
-          "published": "2026-10-19T00:00:00Z",
-          "description": "An unexpected increase in energy costs raises inflation directly through flexibly-set prices. Whether that shock amplifies to a larger and persistent rise in inflation depends on its transmission through the economy.",
-          "relevant": true
-        },
-        {
           "title": "Competing rails for crossborder payments: banks, fintechs, and stablecoins",
           "link": "https://www.bis.org/publications/working-paper-1385-competing-rails-crossborder-payments-banks-fintechs-and-stablecoins",
           "published": "2026-10-19T00:00:00Z",
@@ -580,10 +580,10 @@
           "relevant": true
         },
         {
-          "title": "Offshore forwards and exchange rate transmission in emerging markets",
-          "link": "https://www.bis.org/publications/working-paper-1383-offshore-forwards-and-exchange-rate-transmission-emerging-markets",
-          "published": "2026-10-16T00:00:00Z",
-          "description": "We study how offshore non-deliverable forward (NDF) markets transmit exchange-rate pressures to domestic currency markets. Using unique transaction-level data on the universe of centrally cleared NDFs for ten emerging-market currencies over 2013–2025, we show that offshore NDF order flow moves both offshore forward and domestic spot exchange rates and widens the offshore–onshore forward spread.",
+          "title": "Inflation after the Iran war",
+          "link": "https://www.bis.org/publications/working-paper-1384-inflation-after-iran-war",
+          "published": "2026-10-19T00:00:00Z",
+          "description": "An unexpected increase in energy costs raises inflation directly through flexibly-set prices. Whether that shock amplifies to a larger and persistent rise in inflation depends on its transmission through the economy.",
           "relevant": true
         }
       ],
@@ -678,62 +678,505 @@
     {
       "name": "Doomberg — Substack",
       "url": "https://doomberg.substack.com/feed",
-      "channel": "Doomberg — Substack",
-      "entries": [],
-      "count": 0,
-      "_error": "Client error '403 Forbidden' for url 'https://doomberg.substack.com/feed'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
+      "channel": "Doomberg",
+      "description": "A lateral-thinking approach to energy, finance, and geopolitics | Subscribe below for free previews of new articles  | Click through to our About page for pricing and FAQ.",
+      "entries": [
+        {
+          "title": "Recycle Bin",
+          "link": "https://newsletter.doomberg.com/p/recycle-bin",
+          "published": "Wed, 04 Nov 2026 10:02:28 GMT",
+          "description": "Energy arbitrage is about to take flight.",
+          "relevant": true
+        },
+        {
+          "title": "Gating Functions",
+          "link": "https://newsletter.doomberg.com/p/gating-functions",
+          "published": "Sat, 31 Oct 2026 09:01:08 GMT",
+          "description": "Foundational lessons from Venezuela&#8217;s wild oil journey.",
+          "relevant": true
+        },
+        {
+          "title": "Tough Comp",
+          "link": "https://newsletter.doomberg.com/p/tough-comp",
+          "published": "Tue, 27 Oct 2026 09:01:13 GMT",
+          "description": "How formidable is Iran, really?",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
+        },
+        {
+          "title": "Margin Call",
+          "link": "https://newsletter.doomberg.com/p/margin-call",
+          "published": "Sat, 24 Oct 2026 09:02:02 GMT",
+          "description": "Will Brazil replicate Guyana&#8217;s magic in the Equatorial Atlantic?",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
+        },
+        {
+          "title": "Doomberg Academy: Refining",
+          "link": "https://newsletter.doomberg.com/p/doomberg-academy-refining",
+          "published": "Wed, 21 Oct 2026 13:13:56 GMT",
+          "description": "Pro Tier: October 2026 Doom Zoom",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
+        },
+        {
+          "title": "Diesel of Discontent",
+          "link": "https://newsletter.doomberg.com/p/diesel-of-discontent",
+          "published": "Wed, 14 Oct 2026 09:02:25 GMT",
+          "description": "The solution to the West&#8217;s self-inflicted pain is hidden in plain sight.",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
+        },
+        {
+          "title": "Jump Ball",
+          "link": "https://newsletter.doomberg.com/p/jump-ball",
+          "published": "Sun, 11 Oct 2026 09:02:05 GMT",
+          "description": "Why Indonesia&#8217;s plan for strategic ambiguity just might work.",
+          "relevant": true
+        },
+        {
+          "title": "Ties That Bind",
+          "link": "https://newsletter.doomberg.com/p/ties-that-bind",
+          "published": "Wed, 07 Oct 2026 09:01:29 GMT",
+          "description": "Carney stitches together Canadian unity using the thread of energy.",
+          "relevant": true
+        },
+        {
+          "title": "Straw Clutching",
+          "link": "https://newsletter.doomberg.com/p/straw-clutching",
+          "published": "Sun, 04 Oct 2026 09:00:53 GMT",
+          "description": "Diesel fallacies and other geopolitical musings.",
+          "relevant": true
+        },
+        {
+          "title": "Going With the Flow",
+          "link": "https://newsletter.doomberg.com/p/going-with-the-flow",
+          "published": "Tue, 29 Sep 2026 09:02:34 GMT",
+          "description": "London to Brussels: Hold our beer.",
+          "relevant": true
+        }
+      ],
+      "count": 10,
       "domain": "Energy",
-      "relevant_count": 0
+      "relevant_count": 6
     },
     {
       "name": "Michael Howell — Capital Wars",
       "url": "https://capitalwars.substack.com/feed",
-      "channel": "Michael Howell — Capital Wars",
-      "entries": [],
-      "count": 0,
-      "_error": "Client error '403 Forbidden' for url 'https://capitalwars.substack.com/feed'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
+      "channel": "Capital Wars",
+      "description": "Global Liquidity Insights",
+      "entries": [
+        {
+          "title": "Global Liquidity Watch: Weekly Update",
+          "link": "https://capitalwars.substack.com/p/global-liquidity-watch-weekly-update-e1f",
+          "published": "Tue, 03 Nov 2026 14:31:50 GMT",
+          "description": "Liquidity and Risk Appetite Weaken Further",
+          "relevant": true
+        },
+        {
+          "title": "Trillions and Trillions",
+          "link": "https://capitalwars.substack.com/p/trillions-and-trillions",
+          "published": "Mon, 02 Nov 2026 12:46:31 GMT",
+          "description": "Capital intensive industries are cyclical. And so is AI",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
+        },
+        {
+          "title": "The Fed’s ‘Third Way’",
+          "link": "https://capitalwars.substack.com/p/the-feds-third-way",
+          "published": "Fri, 30 Oct 2026 08:40:57 GMT",
+          "description": "Interest Rates No Longer Tell the Whole Story",
+          "relevant": true
+        },
+        {
+          "title": "Global Liquidity Watch: Weekly Update",
+          "link": "https://capitalwars.substack.com/p/global-liquidity-watch-weekly-update-0d4",
+          "published": "Tue, 27 Oct 2026 15:07:50 GMT",
+          "description": "Increasing Reliance on the Collateral Multiplier",
+          "relevant": true
+        },
+        {
+          "title": "Bitcoin, Gold and Capital Wars",
+          "link": "https://capitalwars.substack.com/p/bitcoin-gold-and-capital-wars",
+          "published": "Mon, 26 Oct 2026 10:30:52 GMT",
+          "description": "Is Bitcoin/Gold the New Scoreboard for America Versus China?",
+          "relevant": true
+        },
+        {
+          "title": "Phase Shift",
+          "link": "https://capitalwars.substack.com/p/phase-shift",
+          "published": "Sat, 24 Oct 2026 15:14:21 GMT",
+          "description": "From Speculation to Turbulence",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
+        },
+        {
+          "title": "David Lin Report",
+          "link": "https://capitalwars.substack.com/p/david-lin-report",
+          "published": "Fri, 23 Oct 2026 20:58:58 GMT",
+          "description": "Interview",
+          "relevant": true
+        },
+        {
+          "title": "Global Liquidity Watch: Weekly Update",
+          "link": "https://capitalwars.substack.com/p/global-liquidity-watch-weekly-update-e01",
+          "published": "Tue, 20 Oct 2026 10:25:15 GMT",
+          "description": "Liquidity Declines for Second Week",
+          "relevant": true
+        },
+        {
+          "title": "Understanding The Bond Sell-Off",
+          "link": "https://capitalwars.substack.com/p/understanding-the-bond-sell-off",
+          "published": "Mon, 19 Oct 2026 10:12:44 GMT",
+          "description": "The Post-COVID Madness Is Over",
+          "relevant": true
+        },
+        {
+          "title": "What Is Bitcoin Telling Us?",
+          "link": "https://capitalwars.substack.com/p/what-is-bitcoin-telling-us",
+          "published": "Fri, 16 Oct 2026 17:23:30 GMT",
+          "description": "Are Investors Approaching a 2027 Upturn in the Liquidity Cycle?",
+          "relevant": true
+        }
+      ],
+      "count": 10,
       "domain": "Global Liquidity",
-      "relevant_count": 0
+      "relevant_count": 8
     },
     {
       "name": "Adam Tooze — Substack",
       "url": "https://adamtooze.substack.com/feed",
-      "channel": "Adam Tooze — Substack",
-      "entries": [],
-      "count": 0,
-      "_error": "Client error '403 Forbidden' for url 'https://adamtooze.substack.com/feed'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
+      "channel": "Chartbook",
+      "description": "A newsletter on economics, geopolitics and history from Adam Tooze. More substantial than the twitter feed. More freewheeling than what you might read from me in FT, Foreign Policy, New Statesman.",
+      "entries": [
+        {
+          "title": "Chartbook 483 After the midterms: How does America come down from Trump’s “speedball economy”?",
+          "link": "https://adamtooze.substack.com/p/chartbook-483-after-the-midterms",
+          "published": "Wed, 04 Nov 2026 12:46:20 GMT",
+          "description": "The dramatic landslide for the Democrats in the 2026 midterms confirms the common sense amongst Trump&#8217;s critics that his economic policies made no sense in political terms.",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
+        },
+        {
+          "title": "Top Links 1275 AI and the great cashflow transfer. The mining boom that drove the Australian economy. Psychopatriarchy & the caesura in the movement of thought.",
+          "link": "https://adamtooze.substack.com/p/top-links-1275-ai-and-the-great-cashflow",
+          "published": "Wed, 04 Nov 2026 11:30:40 GMT",
+          "description": "Great links, images, and reading from Chartbook Newsletter by Adam Tooze",
+          "relevant": true
+        },
+        {
+          "title": "Top Links 1274 AI & recycled capex. Total social financing. Schacht-maxxing & the West Virginia coal wars.",
+          "link": "https://adamtooze.substack.com/p/top-links-1274-ai-and-recycled-capex",
+          "published": "Tue, 03 Nov 2026 11:31:41 GMT",
+          "description": "Great links, images, and reading from Chartbook Newsletter by Adam Tooze",
+          "relevant": true
+        },
+        {
+          "title": "Top Links 1273 AI price shock. A miserable decade in the UK. Harlan county KY & the tank - a German history.",
+          "link": "https://adamtooze.substack.com/p/top-links-1273-ai-price-shock-a-miserable",
+          "published": "Mon, 02 Nov 2026 11:31:46 GMT",
+          "description": "Great links, images, and reading from Chartbook Newsletter by Adam Tooze",
+          "relevant": true
+        },
+        {
+          "title": "Top Links 1272 The Shekel caught in Israel’s political impasse. The history of strikes. The Register of British Slave Traders & the first currency of communist China.",
+          "link": "https://adamtooze.substack.com/p/top-links-1272-the-shekel-caught",
+          "published": "Sun, 01 Nov 2026 11:45:45 GMT",
+          "description": "Great links, images, and reading from Chartbook Newsletter by Adam Tooze",
+          "relevant": true
+        },
+        {
+          "title": "Chartbook 482 China’s billionaires in the age of China Shock 2.0.",
+          "link": "https://adamtooze.substack.com/p/chartbook-482-chinas-billionaires",
+          "published": "Sat, 31 Oct 2026 14:47:22 GMT",
+          "description": "(Walled-in wealth #3)",
+          "relevant": true
+        },
+        {
+          "title": "Top Links 1271 The Trump org’s network. Marketizing compute. Sticky wages, brass bands throbbing in the parks & the future reign of happiness and peace.",
+          "link": "https://adamtooze.substack.com/p/top-links-1271-the-trump-orgs-network",
+          "published": "Sat, 31 Oct 2026 10:45:39 GMT",
+          "description": "Great links, images, and reading from Chartbook Newsletter by Adam Tooze",
+          "relevant": true
+        },
+        {
+          "title": "Top Links 1270 Anthropic IPO highlights. Saudi takes a hit. AI comes for Lao Gan Ma & the parody of passwords.",
+          "link": "https://adamtooze.substack.com/p/top-links-1270-anthropic-ipo-highlights",
+          "published": "Fri, 30 Oct 2026 10:50:43 GMT",
+          "description": "Great links, images, and reading from Chartbook Newsletter by Adam Tooze",
+          "relevant": true
+        },
+        {
+          "title": "Top Links 1269 Politics and money in Brazil. Solid electricity. What Brits do & Fatherland.",
+          "link": "https://adamtooze.substack.com/p/top-links-1269-politics-and-money",
+          "published": "Thu, 29 Oct 2026 10:29:32 GMT",
+          "description": "Great links, images, and reading from Chartbook Newsletter by Adam Tooze.",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
+        },
+        {
+          "title": "Chartbook 481 How stable is the profit dollar in an age of “speedball capitalism”?",
+          "link": "https://adamtooze.substack.com/p/chartbook-481-how-stable-is-the-profit",
+          "published": "Wed, 28 Oct 2026 15:45:24 GMT",
+          "description": "The dollar remains the central currency of the world economy, but the economic logic underpinning that status is subject to continuous metamorphosis. This constant change leaves us struggling to understand and predict what the behavior of the &#8220;dollar system&#8221; may be.",
+          "relevant": true
+        }
+      ],
+      "count": 10,
       "domain": "US Fiscal",
-      "relevant_count": 0
+      "relevant_count": 8
     },
     {
       "name": "SemiAnalysis",
       "url": "https://semianalysis.substack.com/feed",
       "channel": "SemiAnalysis",
-      "entries": [],
-      "count": 0,
-      "_error": "Client error '403 Forbidden' for url 'https://semianalysis.substack.com/feed'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
+      "description": "Bridging the gap between the world's most important industry, semiconductors, and business.",
+      "entries": [
+        {
+          "title": "Elon Is Doing It Again: SpaceX Will Be The World’s Biggest AI Cloud",
+          "link": "https://newsletter.semianalysis.com/p/elon-is-doing-it-again-spacex-will",
+          "published": "Tue, 03 Nov 2026 20:44:53 GMT",
+          "description": "Making 13GW in 1.5 Years A Reality, Repurposing Rocket Ship Campuses, A Datacenter at TeraFab?",
+          "relevant": true
+        },
+        {
+          "title": "GDPx: Measuring Frontier Model Capabilities Across the Most Valuable Domains",
+          "link": "https://newsletter.semianalysis.com/p/gdpx-measuring-frontier-model-capabilities",
+          "published": "Mon, 02 Nov 2026 01:51:42 GMT",
+          "description": "A frontier benchmark spanning RSI, hardware design, cyber, bio, finance, legal, quant trading, chip design, software engineering, materials science, and alignment",
+          "relevant": true
+        },
+        {
+          "title": "The Datacenter Backlash Goes Bipartisan: Next Week's Midterms and the 2028 Buildout",
+          "link": "https://newsletter.semianalysis.com/p/the-datacenter-backlash-goes-bipartisan",
+          "published": "Sun, 01 Nov 2026 18:40:45 GMT",
+          "description": "2027 is largely locked in. 2028 is less secure: a prolonged Texas permit freeze is now the biggest single risk to the US buildout, and both parties are running on tighter rules",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
+        },
+        {
+          "title": "Amazon’s Trainium Takes a Strike at the Training King",
+          "link": "https://newsletter.semianalysis.com/p/amazons-trainium-takes-a-strike-at",
+          "published": "Fri, 23 Oct 2026 19:06:44 GMT",
+          "description": "Trainium Best for Inference? But now good for Training too, Native Trainium PyTorch, High Quality CI, TorchTitan, GPU Impossible Profiler",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
+        },
+        {
+          "title": "The Huawei-DeepSeek Symbiosis",
+          "link": "https://newsletter.semianalysis.com/p/huawei-deepseek",
+          "published": "Wed, 21 Oct 2026 17:34:38 GMT",
+          "description": "Huawei Ascend 950PR Deep dive & &#181;benchmarks, DSv4.1 Flash Analysis, DeepSeek support for Ascend",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
+        },
+        {
+          "title": "Datacenters 2027: The Year of Acceleration, +50GW in a Single Year",
+          "link": "https://newsletter.semianalysis.com/p/datacenters-2027-the-year-of-acceleration",
+          "published": "Mon, 19 Oct 2026 05:39:38 GMT",
+          "description": "60GW Under Construction, SemiAnalysis Leading Indicators, 1.3T of Lease Contracts Signed YTD, The Shortage Could Move to Chips",
+          "relevant": true
+        },
+        {
+          "title": "ASML Is Building a Hybrid Bonding Tool!",
+          "link": "https://newsletter.semianalysis.com/p/asml-is-building-a-hybrid-bonding",
+          "published": "Thu, 15 Oct 2026 19:27:20 GMT",
+          "description": "ASML is building a hybrid bonding tool! The company has not announced anything yet, but its patent filings, a news report and its own roadmap all suggest so.",
+          "relevant": true
+        },
+        {
+          "title": "Beijing Will Not Pace the Frontier: China’s Speed-First AI Safety Regime",
+          "link": "https://newsletter.semianalysis.com/p/beijing-will-not-pace-the-frontier",
+          "published": "Thu, 08 Oct 2026 17:46:05 GMT",
+          "description": "AI safety is on fire.",
+          "relevant": true
+        },
+        {
+          "title": "Anthropic Subscriptions Offer 5x+ More Value Than OpenAI",
+          "link": "https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x",
+          "published": "Mon, 05 Oct 2026 20:01:09 GMT",
+          "description": "Limit testing every AI subscription plan from Anthropic, OpenAI, Meta, SpaceXSI, MiniMax, Moonshot, Z.ai, Cursor, and Cognition",
+          "relevant": true
+        },
+        {
+          "title": "How GLM5.3 Sparse Attention Affects HBM Memory Usage",
+          "link": "https://newsletter.semianalysis.com/p/sparse-savings-persistent-demand-inside-glm53",
+          "published": "Mon, 28 Sep 2026 19:26:41 GMT",
+          "description": "GLM-5.3, KV Cache Offloading, HiSparse, DeepSeek Sparse Attention, IndexShare, Single-rollout Asynchronous Optimization, Cybersecurity",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
+        }
+      ],
+      "count": 10,
       "domain": "AI CAPEX",
-      "relevant_count": 0
+      "relevant_count": 6
     },
     {
       "name": "Commodity Context",
       "url": "https://commoditycontext.substack.com/feed",
       "channel": "Commodity Context",
-      "entries": [],
-      "count": 0,
-      "_error": "Client error '403 Forbidden' for url 'https://commoditycontext.substack.com/feed'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
+      "description": "Data-centric, visualization-forward oil market research | Thematic deep-dives, monthly data reports, and a weekly market wrap-up every Friday",
+      "entries": [
+        {
+          "title": "North American Oil Data Deck (November 2026)",
+          "link": "https://www.commoditycontext.com/p/north-american-oil-data-deck-november-2026",
+          "published": "Tue, 03 Nov 2026 14:33:41 GMT",
+          "description": "Continental output slipped in August while demand weakened under the weight of high prices.",
+          "relevant": true
+        },
+        {
+          "title": "Oil Context Weekly (W44)",
+          "link": "https://www.commoditycontext.com/p/ocw44w26",
+          "published": "Fri, 30 Oct 2026 20:23:44 GMT",
+          "description": "Crude closes at its 3rd-highest level of the war as market braces for pre-or-post-midterm escalation, while timespreads are beginning to signal a pullback in immediate supply tightness.",
+          "relevant": true
+        },
+        {
+          "title": "Global Oil Data Deck (October 2026)",
+          "link": "https://www.commoditycontext.com/p/global-oil-data-deck-october-2026",
+          "published": "Wed, 28 Oct 2026 17:16:40 GMT",
+          "description": "Oil market re-tightened in August, continuing to aggressively draw global stocks and maintaining high prices despite the lurching, uneven, and at risk recovery in Middle Eastern exports.",
+          "relevant": true
+        },
+        {
+          "title": "Oil Context Weekly (W43)",
+          "link": "https://www.commoditycontext.com/p/ocw43w26",
+          "published": "Fri, 23 Oct 2026 20:22:04 GMT",
+          "description": "Political risk premium returns as crude prices rise toward Iran War highs and buyers grab what they can before a feared re-escalation; Chinese imports have tentatively recovered alongside Gulf exports",
+          "relevant": true
+        },
+        {
+          "title": "[PUBLIC] Donald Trump’s Diesel Desperation",
+          "link": "https://www.commoditycontext.com/p/public-donald-trumps-diesel-desperation",
+          "published": "Thu, 22 Oct 2026 13:42:46 GMT",
+          "description": "The White House scrambles to pull every conceivable policy lever to loosen fuel markets ahead of midterms.",
+          "relevant": true
+        },
+        {
+          "title": "Oil Context Weekly (W42)",
+          "link": "https://www.commoditycontext.com/p/ocw42w26",
+          "published": "Fri, 16 Oct 2026 20:45:01 GMT",
+          "description": "Brent futures hit $110 for 1st time since May and term structure strengthened amid rumours of damage to Saudi oil infrastructure and fears of escalation in both the US-Iran and Saudi-Houthi conflicts",
+          "relevant": true
+        },
+        {
+          "title": "OPEC+ Data Deck (October 2026)",
+          "link": "https://www.commoditycontext.com/p/opec-data-deck-october-2026",
+          "published": "Wed, 14 Oct 2026 14:51:08 GMT",
+          "description": "Middle Eastern crude production continued to rise through September as Hormuz flows reached a wartime high, driven by Saudi Arabia&#8217;s return to Gulf loadings and Iraq&#8217;s recovery to near-prewar exports.",
+          "relevant": true
+        },
+        {
+          "title": "Oil Context Weekly (W41)",
+          "link": "https://www.commoditycontext.com/p/ocw41w26",
+          "published": "Fri, 09 Oct 2026 20:54:24 GMT",
+          "description": "Crude rises as most intense pace of Iranian shipping strikes of the war reverses previous recovery in oil flowing through the Strait, while the White House grows ever-more desperate on diesel",
+          "relevant": true
+        },
+        {
+          "title": "North American Oil Data Deck (October 2026)",
+          "link": "https://www.commoditycontext.com/p/north-american-oil-data-deck-october-2026",
+          "published": "Fri, 09 Oct 2026 13:10:51 GMT",
+          "description": "US crude production set a fresh all-time high in July, though output growth continues to gradually decelerate, while refineries are running full tilt and high prices begin to take their toll on demand",
+          "relevant": true
+        },
+        {
+          "title": "Oil Context Weekly (W40)",
+          "link": "https://www.commoditycontext.com/p/ocw40w26",
+          "published": "Fri, 02 Oct 2026 21:08:40 GMT",
+          "description": "Crude prices pulled back on the recent recovery in Middle Eastern oil flows despite growing fears of an escalation in hostilities, while governments return to energy security interventions once again",
+          "relevant": true
+        }
+      ],
+      "count": 10,
       "domain": "Energy",
-      "relevant_count": 0
+      "relevant_count": 10
     },
     {
       "name": "Bruegel — Research",
       "url": "https://www.bruegel.org/rss.xml",
-      "channel": "Bruegel — Research",
-      "entries": [],
-      "count": 0,
-      "_error": "Client error '403 Forbidden' for url 'https://www.bruegel.org/rss.xml'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
+      "channel": "Bruegel | The Brussels-based economic think tank",
+      "description": "",
+      "entries": [
+        {
+          "title": "Session 5b: The path to Ukraine’s membership of the EU: conversation with Ambassador-designate Kachka",
+          "link": "https://www.bruegel.org/node/12486",
+          "published": "Wed, 19 Aug 2026 09:43:45 +0000",
+          "description": "Session 5b: The path to Ukraine’s membership of the EU: conversation with Ambassador-designate Kachka\nAnastasiia Zaitseva\nWed, 08/19/2026 - 11:43",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
+        },
+        {
+          "title": "Session 2a: Can the EU's better regulation agenda deliver competitiveness?",
+          "link": "https://www.bruegel.org/node/12451",
+          "published": "Thu, 23 Jul 2026 09:23:23 +0000",
+          "description": "Session 2a: Can the EU's better regulation agenda deliver competitiveness?\nChiara Montanaro\nThu, 07/23/2026 - 11:23",
+          "relevant": true
+        },
+        {
+          "title": "Lunch",
+          "link": "https://www.bruegel.org/node/12382",
+          "published": "Fri, 03 Jul 2026 09:24:08 +0000",
+          "description": "Lunch \nAnastasiia Zaitseva\nFri, 07/03/2026 - 11:24",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
+        },
+        {
+          "title": "Session 1b: Global monetary issues",
+          "link": "https://www.bruegel.org/node/12381",
+          "published": "Fri, 03 Jul 2026 09:23:49 +0000",
+          "description": "Session 1b: Global monetary issues\nAnastasiia Zaitseva\nFri, 07/03/2026 - 11:23",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
+        },
+        {
+          "title": "Session 2b: What would make the European Economy secure in 2030?",
+          "link": "https://www.bruegel.org/node/12380",
+          "published": "Fri, 03 Jul 2026 09:22:32 +0000",
+          "description": "Session 2b: What would make the European Economy secure in 2030? \nAnastasiia Zaitseva\nFri, 07/03/2026 - 11:22",
+          "relevant": true
+        },
+        {
+          "title": "Coffee break",
+          "link": "https://www.bruegel.org/node/12379",
+          "published": "Fri, 03 Jul 2026 09:21:33 +0000",
+          "description": "Coffee break\nAnastasiia Zaitseva\nFri, 07/03/2026 - 11:21",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
+        },
+        {
+          "title": "Session 1a: Europe's digital sovereignty: lessons from China's AI quest",
+          "link": "https://www.bruegel.org/node/12377",
+          "published": "Fri, 03 Jul 2026 09:19:55 +0000",
+          "description": "Session 1a: Europe's digital sovereignty: lessons from China's AI quest \nAnastasiia Zaitseva\nFri, 07/03/2026 - 11:19",
+          "relevant": true
+        },
+        {
+          "title": "Session 6b: Can Europe become more “Schumpeterian” and how?",
+          "link": "https://www.bruegel.org/node/12376",
+          "published": "Fri, 03 Jul 2026 09:15:28 +0000",
+          "description": "Session 6b: Can Europe become more “Schumpeterian” and how? \nAnastasiia Zaitseva\nFri, 07/03/2026 - 11:15",
+          "relevant": true
+        },
+        {
+          "title": "Session 6a: European trade policy beyond FTAs: what is feasible without the US and China?",
+          "link": "https://www.bruegel.org/node/12375",
+          "published": "Fri, 03 Jul 2026 09:14:28 +0000",
+          "description": "Session 6a: European trade policy beyond FTAs: what is feasible without the US and China?\nAnastasiia Zaitseva\nFri, 07/03/2026 - 11:14",
+          "relevant": true
+        },
+        {
+          "title": "Coffee break",
+          "link": "https://www.bruegel.org/node/12374",
+          "published": "Fri, 03 Jul 2026 09:13:11 +0000",
+          "description": "Coffee break\nAnastasiia Zaitseva\nFri, 07/03/2026 - 11:13",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
+        }
+      ],
+      "count": 10,
       "domain": "Europe",
-      "relevant_count": 0
+      "relevant_count": 5
     },
     {
       "name": "CSIS — Center for Strategic Studies",
