@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T01:54:00.852581+00:00",
+  "generated_at": "2026-11-06T01:55:49.315126+00:00",
   "source": "podcast_rss",
   "feeds_count": 5,
   "total_episodes": 40,
@@ -10,6 +10,14 @@
       "domain": "US Fiscal",
       "description": "Allocator and asset management expert, Ted Seides, conducts in-depth interviews with leaders in the institutional investing industry. Guests include Chief Investment Officers from leading allocators, asset managers, strategists, thought leaders, and many more. Our mission is to learn, share, and help implement the process of premier investors. Learn more and join our community at capitalallocators.com.",
       "episodes": [
+        {
+          "title": "Opportunistic Real Estate and Hard Asset Credit at Mavik – Vik Uppal (EP.525)",
+          "link": "https://tedseides.libsyn.com/opportunistic-real-estate-and-hard-asset-credit-at-mavik-vik-uppal-ep525",
+          "published": "Thu, 05 Nov 2026 09:00:00 +0000",
+          "description": "Vik Uppal is the Founder and CIO of Mavik Capital Management, a $2 billion flexible special situations investment firm grounded in commercial real estate and hard assets that operates through a credit lens. Vik began developing properties as a teenager and after a difficult experience during the financial crisis, moved to New York to begin a career as a professional investor.       Our conversation covers Vik's path from developer to distressed investor and the principles he built Mavik around: stable capital, alignment, flexibility, and finding opportunities where capital is scarce. We discuss filtering a wide funnel for ideas, creating downside protection, identifying opportunities in commercial real estate, avoiding the AI infrastructure boom, and growing an investment business without",
+          "audio_url": "https://traffic.libsyn.com/secure/tedseides/CA_-_EP.525_Vik_Uppal_-_AUDIO_V2.mp3?dest-id=482814",
+          "duration": "49:50"
+        },
         {
           "title": "Dynamic Allocation and Concentrated Conviction – Zack McGuire (EP.524)",
           "link": "https://tedseides.libsyn.com/dynamic-allocation-and-concentrated-conviction-zack-mcguire-ep524",
@@ -81,14 +89,6 @@
           "description": "Nancy Zimmerman is the co-founder and Managing Partner of Bracebridge Capital, a $13 billion alternative asset manager specializing in fixed income arbitrage that she founded over 30 years ago, in 1994, alongside Gabe Sunshine with capital from David Swensen at Yale.       Our conversation traces Nancy's evolution from pricing securities to investing and the enduring sources of inefficiency in fixed income markets. We discuss the nature of arbitrage opportunities and their persistence over time and then turn to hunting for mispricings today across developed market rates, structured credit, corporates, and emerging markets. Along the way, we cover Bracebridge's process for sourcing ideas, assessing relative value, determining position sizes, constructing a portfolio, and managing risk. We c",
           "audio_url": "https://traffic.libsyn.com/secure/tedseides/CA_-_EP.517_Nancy_Zimmerman_-_AUDIO_V1.2.mp3?dest-id=482814",
           "duration": "49:54"
-        },
-        {
-          "title": "André Perold – Investing Through Exponential Change (EP.516)",
-          "link": "https://tedseides.libsyn.com/andr-perold-investing-through-exponential-change-ep516",
-          "published": "Mon, 21 Sep 2026 08:00:00 +0000",
-          "description": "André Perold is the co-founder and CIO of HighVista Strategies, an alternative asset manager overseeing $14 billion that searches for alpha opportunities in structurally inefficient markets. André has twice been a past guest on the show, starting way back with episode #2 and both conversations are replayed on the feed.           This conversation starts with André's assessment of the most exciting and unusual investment environment he has experienced, alongside his thoughts on how to build capabilities and construct portfolios to navigate exponential change. We then turn to the beautifully inefficient markets where HighVista has built core capabilities across biotech, lower middle-market buyouts, early-stage venture, and specialty private credit.        Take our  audience survey . Tell us",
-          "audio_url": "https://traffic.libsyn.com/secure/tedseides/CA_-_EP.516_Andre_Perold_-_AUDIO_V1.mp3?dest-id=482814",
-          "duration": "48:19"
         }
       ]
     },
