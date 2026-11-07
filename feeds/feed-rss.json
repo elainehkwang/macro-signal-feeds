@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-06T01:55:49.315126+00:00",
+  "generated_at": "2026-11-07T01:27:28.027492+00:00",
   "source": "rss",
   "feeds_count": 17,
-  "total_entries": 90,
+  "total_entries": 100,
   "feeds": [
     {
       "name": "Fed FOMC — Monetary Policy",
@@ -176,6 +176,13 @@
       "description": "Latest releases on the ECB website - Press releases, speeches and interviews, press conferences.",
       "entries": [
         {
+          "title": "ECB publishes consolidated banking data for end-June 2026",
+          "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261106~356f2fc73a.en.html",
+          "published": "Fri, 06 Nov 2026 10:00:00 +0100",
+          "description": "",
+          "relevant": true
+        },
+        {
           "title": "Isabel Schnabel: Navigating stormy waters: reflections on monetary policy",
           "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261105_1~5e97d9d5a0.en.html",
           "published": "Thu, 05 Nov 2026 09:00:00 +0100",
@@ -238,13 +245,6 @@
           "published": "Thu, 29 Oct 2026 15:00:00 +0100",
           "description": "",
           "relevant": true
-        },
-        {
-          "title": "Monetary policy decisions",
-          "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.mp261029~9a493adf17.en.html",
-          "published": "Thu, 29 Oct 2026 14:15:00 +0100",
-          "description": "",
-          "relevant": true
         }
       ],
       "count": 10,
@@ -257,6 +257,28 @@
       "channel": "Bank of Japan：RSS",
       "description": "",
       "entries": [
+        {
+          "title": "Speech by Governor UEDA at the 2026 Michel Camdessus Central Banking Lecture, International Monetary Fund",
+          "link": "http://www.boj.or.jp/en/about/press/koen_2026/ko261107a.htm",
+          "published": "Sat, 07 Nov 2026 01:00:00 +0900",
+          "description": "",
+          "relevant": true
+        },
+        {
+          "title": "(IMES Newsletter) 2026 BoC - Philadelphia Fed - BOJ Joint Workshop",
+          "link": "http://www.boj.or.jp/en/about/release_2026/rel261106b.htm",
+          "published": "Fri, 06 Nov 2026 16:00:00 +0900",
+          "description": "",
+          "relevant": true
+        },
+        {
+          "title": "IMES Discussion Paper Series (2026)",
+          "link": "http://www.boj.or.jp/en/research/imes/dps/dps26.htm",
+          "published": "Fri, 06 Nov 2026 11:00:00 +0900",
+          "description": "",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
+        },
         {
           "title": "Holding the Twenty-fifth Round of the \"Bond Market Group\" Meetings",
           "link": "http://www.boj.or.jp/en/paym/bond/mbond_list/mbond261105.pdf",
@@ -307,34 +329,11 @@
           "description": "",
           "relevant": false,
           "_skip_reason": "no_macro_keyword"
-        },
-        {
-          "title": "Outlook for Economic Activity and Prices (October 2026, full text)",
-          "link": "http://www.boj.or.jp/en/mopo/outlook/gor2610b.pdf",
-          "published": "Mon, 02 Nov 2026 14:00:00 +0900",
-          "description": "",
-          "relevant": false,
-          "_skip_reason": "no_macro_keyword"
-        },
-        {
-          "title": "Sources of Changes in Current Account Balances and Market Operations (Oct.)",
-          "link": "http://www.boj.or.jp/en/statistics/boj/fm/juqf/juqf10.xlsx",
-          "published": "Mon, 02 Nov 2026 13:00:00 +0900",
-          "description": "",
-          "relevant": false,
-          "_skip_reason": "no_macro_keyword"
-        },
-        {
-          "title": "Quarterly Schedule of Outright Purchases of Japanese Government Bonds (Competitive Auction Method) (October-December 2026) (Schedule Updates)",
-          "link": "http://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/mpr261030c.pdf",
-          "published": "Fri, 30 Oct 2026 17:00:00 +0900",
-          "description": "",
-          "relevant": true
         }
       ],
       "count": 10,
       "domain": "Japan",
-      "relevant_count": 6
+      "relevant_count": 7
     },
     {
       "name": "BOE — News & MPC Minutes",
@@ -426,6 +425,13 @@
       "description": "Nonpartisan budgetary and economic analysis for the U.S. Congress.",
       "entries": [
         {
+          "title": "S. 3639, SAT Streamlining Act",
+          "link": "https://www.cbo.gov/publication/62903",
+          "published": "Fri, 06 Nov 2026 14:00:00 -0500",
+          "description": "As ordered reported by the Senate Committee on Commerce, Science, and Transportation on February 12, 2026",
+          "relevant": true
+        },
+        {
           "title": "H.R. 8183, Modernizing Access to Talents, Credentials, and Hiring Act of 2026",
           "link": "https://www.cbo.gov/publication/62902",
           "published": "Wed, 04 Nov 2026 15:28:00 -0500",
@@ -488,13 +494,6 @@
           "published": "Fri, 30 Oct 2026 15:34:00 -0400",
           "description": "As ordered reported by the Senate Committee on Energy and Natural Resources on September 30, 2026",
           "relevant": true
-        },
-        {
-          "title": "S. 1462, Fix Our Forests Act",
-          "link": "https://www.cbo.gov/publication/62893",
-          "published": "Thu, 29 Oct 2026 16:25:00 -0400",
-          "description": "As reported by the Senate Committee on Agriculture, Nutrition, and Forestry on October 27, 2025",
-          "relevant": true
         }
       ],
       "count": 10,
@@ -517,6 +516,13 @@
       "channel": "BIS — Research Papers",
       "description": "",
       "entries": [
+        {
+          "title": "Gaining (and losing) currency: a global database of currencies, 1850-2026",
+          "link": "https://www.bis.org/publications/working-paper-1392-gaining-and-losing-currency-global-database-currencies-1850-2026",
+          "published": "2026-11-06T00:00:00Z",
+          "description": "Over the past two centuries, officially issued currencies have become firmly en trenched as a nearly universal institution in economies around the world. But the path to this arrangement has not been smooth: currencies have come and gone, in line with political changes, periods of hyperinflation or currency reforms and, in some cases, entry into currency unions.",
+          "relevant": true
+        },
         {
           "title": "Scenarios for future banking: implications for profitability, liquidity and solvency",
           "link": "https://www.bis.org/publications/scenarios-future-banking-implications-profitability-liquidity-and-solvency",
@@ -557,13 +563,6 @@
           "link": "https://www.bis.org/publications/bank-liquidity-regulation-and-growth-private-credit",
           "published": "2026-10-20T00:00:00Z",
           "description": "We study the role of bank liquidity regulation in the growth of private credit. Following the introduction of the liquidity coverage ratio (LCR), private credit increases significantly more in U.S. counties with a larger footprint of banks subject to the LCR or of LCR banks with greater initial liquidity shortfalls.",
-          "relevant": true
-        },
-        {
-          "title": "Inflation after the Iran war",
-          "link": "https://www.bis.org/publications/working-paper-1384-inflation-after-iran-war",
-          "published": "2026-10-19T00:00:00Z",
-          "description": "An unexpected increase in energy costs raises inflation directly through flexibly-set prices. Whether that shock amplifies to a larger and persistent rise in inflation depends on its transmission through the economy.",
           "relevant": true
         },
         {
@@ -821,12 +820,83 @@
     {
       "name": "CSET — Georgetown AI Policy",
       "url": "https://cset.georgetown.edu/feed/",
-      "channel": "CSET — Georgetown AI Policy",
-      "entries": [],
-      "count": 0,
-      "_error": "Client error '403 Forbidden' for url 'https://cset.georgetown.edu/feed/'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
+      "channel": "Center for Security and Emerging Technology",
+      "description": "The place to find CSET's publications, reports, and people",
+      "entries": [
+        {
+          "title": "How Black-Box Distillation Works",
+          "link": "https://cset.georgetown.edu/article/how-black-box-distillation-works/",
+          "published": "Mon, 26 Oct 2026 13:41:00 +0000",
+          "description": "This piece overviews how black-box distillation works in practice to inform proposed legislation and ongoing policy debates around adversarial distillation. We consider how adversarial distillation from proprietary U.S. models may have occurred at each step of the process and highlight areas of uncertainty around the methods Chinese labs employed. We also consider the potential impact of that distillation on China’s AI development. \n The post  How Black-Box Distillation Works  appeared first on  Center for Security and Emerging Technology .",
+          "relevant": true
+        },
+        {
+          "title": "Pentagon AI oversight office struggles to keep pace with department’s ambitions, GAO finds",
+          "link": "https://cset.georgetown.edu/article/pentagon-ai-oversight-office-struggles-to-keep-pace-with-departments-ambitions-gao-finds/",
+          "published": "Wed, 21 Oct 2026 21:00:00 +0000",
+          "description": "CSET’s Owen J. Daniels shared his expert insight in an article published by Military Times. The article examines a Government Accountability Office report highlighting staffing shortages, incomplete initiatives, and oversight challenges as the Pentagon accelerates its adoption of artificial intelligence. \n The post  Pentagon AI oversight office struggles to keep pace with department’s ambitions, GAO finds  appeared first on  Center for Security and Emerging Technology .",
+          "relevant": true
+        },
+        {
+          "title": "China’s Next Frontier",
+          "link": "https://cset.georgetown.edu/article/chinas-next-frontier/",
+          "published": "Wed, 14 Oct 2026 21:00:00 +0000",
+          "description": "CSET’s Kathleen Curlee and Sam Bresnick shared their expert analysis in an op-ed published by Foreign Affairs. The article examines China’s rapidly expanding commercial space industry and military space capabilities, exploring how advances in reusable rockets, satellite constellations, and counterspace technologies are challenging U.S. space superiority.  \n The post  China’s Next Frontier  appeared first on  Center for Security and Emerging Technology .",
+          "relevant": true
+        },
+        {
+          "title": "AI & Tech Brief: Jay Clayton takes control",
+          "link": "https://cset.georgetown.edu/article/ai-tech-brief-jay-clayton-takes-control/",
+          "published": "Tue, 06 Oct 2026 21:00:00 +0000",
+          "description": "CSET’s Owen J. Daniels shared his expert insight in an newsletter published by The Washington Post’s WP Intelligence. The article examines President Donald Trump’s appointment of Director of National Intelligence Jay Clayton to lead the new “Super Intelligence Force” and its implications for U.S. AI policy. \n The post  AI &amp; Tech Brief: Jay Clayton takes control  appeared first on  Center for Security and Emerging Technology .",
+          "relevant": true
+        },
+        {
+          "title": "Should We Track AI Chips?",
+          "link": "https://cset.georgetown.edu/article/should-we-track-ai-chips/",
+          "published": "Tue, 06 Oct 2026 13:57:20 +0000",
+          "description": "CSET’s Jacob Feldgoise, Kyle Miller, and Hanna Dohmen dove deep into investigating how location verification methods can—and cannot—improve enforcement of export controls on powerful AI chips, culminating in their report. I sat down with Jacob to learn more about the issue, their findings, and what those findings mean for mitigating AI chip smuggling. \n The post  Should We Track AI Chips?  appeared first on  Center for Security and Emerging Technology .",
+          "relevant": true
+        },
+        {
+          "title": "The Triumph of Tech-Fueled Propaganda",
+          "link": "https://cset.georgetown.edu/article/the-triumph-of-tech-fueled-propaganda/",
+          "published": "Mon, 05 Oct 2026 16:00:00 +0000",
+          "description": "CSET’s Josh A. Goldstein co-authored an op-ed with Renée DiResta in Foreign Affairs. The article examines how foreign influence operations are evolving as governments combine traditional propaganda, social media, covert networks, influencers, and artificial intelligence to shape public opinion across multiple platforms. \n The post  The Triumph of Tech-Fueled Propaganda  appeared first on  Center for Security and Emerging Technology .",
+          "relevant": true
+        },
+        {
+          "title": "China has cracked down on AI relationships. Is it ahead of the game?",
+          "link": "https://cset.georgetown.edu/article/china-has-cracked-down-on-ai-relationships-is-it-ahead-of-the-game/",
+          "published": "Fri, 02 Oct 2026 16:57:24 +0000",
+          "description": "CSET’s Sam Bresnick shared his expert insight in an article published by BBC. The article examines China’s new regulations on AI companions and the country’s efforts to address concerns around emotional dependency, child safety, and the broader social effects of human-like AI systems. \n The post  China has cracked down on AI relationships. Is it ahead of the game?  appeared first on  Center for Security and Emerging Technology .",
+          "relevant": true
+        },
+        {
+          "title": "What America and China Fear Most About AI",
+          "link": "https://cset.georgetown.edu/article/what-america-and-china-fear-most-about-ai/",
+          "published": "Fri, 02 Oct 2026 16:44:28 +0000",
+          "description": "CSET’s Helen Toner joined Foreign Affairs for a discussion with Kyle Chan on U.S.-China competition and cooperation in artificial intelligence. \n The post  What America and China Fear Most About AI  appeared first on  Center for Security and Emerging Technology .",
+          "relevant": true
+        },
+        {
+          "title": "Will the AI accord have any meaningful impact? Panel weighs in",
+          "link": "https://cset.georgetown.edu/article/will-the-ai-accord-have-any-meaningful-impact-panel-weighs-in/",
+          "published": "Wed, 30 Sep 2026 21:00:00 +0000",
+          "description": "CSET’s Helen Toner shared her expert insight in an interview with NewsNation’s On Balance. The interview discussed a new binding agreement between President Trump and AI developers to regulate the development and use of artificial intelligence. \n The post  Will the AI accord have any meaningful impact? Panel weighs in  appeared first on  Center for Security and Emerging Technology .",
+          "relevant": true
+        },
+        {
+          "title": "Triumph or Procrastination? Experts Split on the Trump-Xi Summit",
+          "link": "https://cset.georgetown.edu/article/triumph-or-procrastination-experts-split-on-the-trump-xi-summit/",
+          "published": "Wed, 30 Sep 2026 21:00:00 +0000",
+          "description": "CSET’s Sam Bresnick shared his expert insight in an op-ed published by War on the Rocks. The article examines President Donald Trump’s three-day summit with Chinese President Xi Jinping in Washington, focusing on high-stakes issues including trade, artificial intelligence, and Taiwan. \n The post  Triumph or Procrastination? Experts Split on the Trump-Xi Summit  appeared first on  Center for Security and Emerging Technology .",
+          "relevant": true
+        }
+      ],
+      "count": 10,
       "domain": "AI CAPEX",
-      "relevant_count": 0
+      "relevant_count": 10
     }
   ]
 }

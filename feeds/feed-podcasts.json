@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T01:55:49.315126+00:00",
+  "generated_at": "2026-11-07T01:27:28.027492+00:00",
   "source": "podcast_rss",
   "feeds_count": 5,
   "total_episodes": 40,
@@ -99,6 +99,14 @@
       "description": "What’s driving this week’s market moves – and where are the biggest opportunities? Goldman Sachs traders discuss.",
       "episodes": [
         {
+          "title": "The US Midterms: Reshaping the Stock Market",
+          "link": "",
+          "published": "Fri, 06 Nov 2026 18:34:00 -0000",
+          "description": "The US midterm elections could strengthen the stock market rotation that was already underway, says Lou Miller, global head of Custom Basket Trading in Goldman Sachs FICC and Equities.&nbsp;Traditional defensive sectors such as consumer staples are expensive right now, but healthcare stocks may provide defense along with earnings acceleration, Miller explains on The Markets podcast.&nbsp;He also says that stocks related to the data-center buildout have fallen sharply, resetting valuations and lowering the bar for positive surprises. &nbsp;\n\nThis episode was recorded on November 5, 2026.&nbsp;\n\nThe opinions and views expressed herein are as of the date of publication, subject to change without notice, and may not necessarily reflect the institutional views of Goldman Sachs or its affiliates",
+          "audio_url": "https://mgln.ai/e/1720/traffic.megaphone.fm/GLD9759990577.mp3",
+          "duration": "403"
+        },
+        {
           "title": "Bullish Options Trades Slow amid AI Uncertainty",
           "link": "",
           "published": "Fri, 30 Oct 2026 04:00:00 -0000",
@@ -169,14 +177,6 @@
           "description": "Gold set a record high in January, but uncertainty about US interest rates and disruption from the Iran war have led to an “elongated pause” in the rally, according to Tony Kim, global head of Metals Trading in Goldman Sachs FICC and Equities. Ultimately, Kim expects strong central bank demand for the yellow metal to help drive gold to new highs, he says on The Markets podcast. Kim also discusses whether fiscal sustainability concerns could spur a rotation into gold, how reduced investment demand from Asia is impacting gold markets, and why silver has been volatile in 2026.\n\n\n\nThe opinions and views expressed herein are as of the date of publication, subject to change without notice, and may not necessarily reflect the institutional views of Goldman Sachs or its affiliates. The material pr",
           "audio_url": "https://mgln.ai/e/1720/traffic.megaphone.fm/GLD3864932103.mp3",
           "duration": "704"
-        },
-        {
-          "title": "What Is the Outlook for Diesel and Gasoline Supplies?",
-          "link": "",
-          "published": "Fri, 28 Aug 2026 04:00:00 -0000",
-          "description": "Energy markets have been surprisingly resilient amid the disruption to shipping through the Strait of&nbsp;Hormuz. However, there are few signs of relief in markets for refined products such as diesel, gasoline, and jet fuel, says&nbsp;Nitin Jindal, head of Global Commodities in Goldman Sachs FICC and Equities, on The Markets podcast.&nbsp;Jindal also discusses China’s remarkable adjustment to the disruption in energy supplies and the outlook for natural gas prices in Europe as winter approaches. \n\nThe opinions and views expressed herein are as of the date of publication, subject to change without notice, and may not necessarily reflect the institutional views of Goldman Sachs or its affiliates. The material provided is intended for informational purposes only, and does not constitute inve",
-          "audio_url": "https://mgln.ai/e/1720/traffic.megaphone.fm/GLD8684687449.mp3",
-          "duration": "498"
         }
       ]
     },
@@ -186,6 +186,14 @@
       "domain": "US Fiscal",
       "description": "Conversations with the best investors and business leaders in the world. We explore their ideas, methods, and stories to help you better invest your time and money. Hear stock market and boardroom insights you can't find anywhere else. If you're a professional investor, CEO, entrepreneur, or business strategist, this is for you. Explore all our episodes and learn more at https://www.colossus.com",
       "episodes": [
+        {
+          "title": "Ramtin Naimi - The State of Venture - [Invest Like the Best, EP.499]",
+          "link": "https://colossus.com/episode/trillion-dollar-goalposts/",
+          "published": "Fri, 06 Nov 2026 09:00:00 -0000",
+          "description": "My guest today is Ramtin Naimi, the founder of Abstract Ventures, back for our second conversation. Few people see as many companies as Ramtin and his firm, so this time we zoom in on what they’re seeing right now.\n\nThe question he keeps coming back to is whether this is 2019 or 2021: early in a run, or at the top of one. Hot rounds now come with a second, pricier tranche for the firms that lost the deal, and he’s seen more term sheets pulled or renegotiated in recent weeks than at any time since 2021.\n\nWe also get into the neolabs, one of which plans to spend $1 billion on a single training run, how the goalposts for a best-case outcome moved from $10 billion to a trillion dollars, and the biggest mistake he’s made building Abstract.\n\nPlease enjoy my conversation with Ramtin Naimi.\n\nFor t",
+          "audio_url": "https://traffic.megaphone.fm/CLS7293803007.mp3",
+          "duration": "2784"
+        },
         {
           "title": "Martin Casado on Frontier Model Economics, AI's Slowdown, and the Cursor Deal - [Invest Like the Best, EP.498]",
           "link": "https://colossus.com/episode/the-productive-investor/",
@@ -257,14 +265,6 @@
           "description": "My guest today is Walter Russell Mead. Walter is a columnist at the Wall Street Journal and the author of Special Providence and God and Gold, two of the best books written on American power.&nbsp;\n\nHe has spent decades studying how the United States came to dominate the world, and our conversation is about whether it can keep doing so.&nbsp;\n\nWalter lays out the five step playbook that carried the Dutch, then the British, then America to global leadership, and why the same pattern keeps beating centralized continental powers.&nbsp;\n\nWe discuss how Trump turned fame into power, the four schools of American foreign policy and the rise of the tech Hamiltonians, what the drone war in Ukraine means for the Pentagon, and why the erosion of deterrence is the deeper story in the Middle East.&nbsp",
           "audio_url": "https://traffic.megaphone.fm/CLS4316656997.mp3",
           "duration": "4688"
-        },
-        {
-          "title": "Sarah Guo - Funding the Frontier - [Invest Like the Best, EP.489]",
-          "link": "https://colossus.com/episode/no-priors-just-conviction/",
-          "published": "Tue, 01 Sep 2026 08:00:00 -0000",
-          "description": "My guest today is Sarah Guo, founder and managing partner of Conviction, the venture firm she built to back AI-native companies from their earliest days.&nbsp;\n\nSarah has become one of the most sought-after early-stage investors in AI, often the first check into the companies defining the frontier.&nbsp;\n\nIn this conversation, we go inside that frontier: what the small group of people actually building AI believe right now, why some of the field's best researchers are wrestling with their own sense of purpose, and how close we are to robots in the home and a genuine acceleration in scientific discovery.&nbsp;\n\nAt the center is Sarah's conviction that no single company will own the future of AI, and what that means for founders, investors, and anyone allocating their time and resources in a",
-          "audio_url": "https://traffic.megaphone.fm/CLS7890997457.mp3",
-          "duration": "3586"
         }
       ]
     },
