@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T01:27:28.027492+00:00",
+  "generated_at": "2026-11-08T00:58:34.915373+00:00",
   "source": "rss",
   "feeds_count": 17,
   "total_entries": 100,
@@ -176,6 +176,14 @@
       "description": "Latest releases on the ECB website - Press releases, speeches and interviews, press conferences.",
       "entries": [
         {
+          "title": "Christine Lagarde: Interview with Yomiuri Shimbun",
+          "link": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261107~e7b86fc4ce.en.html",
+          "published": "Sat, 07 Nov 2026 15:00:00 +0100",
+          "description": "",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
+        },
+        {
           "title": "ECB publishes consolidated banking data for end-June 2026",
           "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261106~356f2fc73a.en.html",
           "published": "Fri, 06 Nov 2026 10:00:00 +0100",
@@ -238,18 +246,11 @@
           "published": "Thu, 29 Oct 2026 16:50:00 +0100",
           "description": "",
           "relevant": true
-        },
-        {
-          "title": "Christine Lagarde, Boris Vujčić: Monetary policy statement (with Q&A)",
-          "link": "https://www.ecb.europa.eu//press/press_conference/monetary-policy-statement/2026/html/ecb.is261029~5c5ffe99e5.en.html",
-          "published": "Thu, 29 Oct 2026 15:00:00 +0100",
-          "description": "",
-          "relevant": true
         }
       ],
       "count": 10,
       "domain": "Europe",
-      "relevant_count": 9
+      "relevant_count": 8
     },
     {
       "name": "BOJ — Monetary Policy Statements",
@@ -566,24 +567,24 @@
           "relevant": true
         },
         {
-          "title": "Competing rails for crossborder payments: banks, fintechs, and stablecoins",
-          "link": "https://www.bis.org/publications/working-paper-1385-competing-rails-crossborder-payments-banks-fintechs-and-stablecoins",
-          "published": "2026-10-19T00:00:00Z",
-          "description": "Cross-border payments remain slow and expensive despite significant improvements in digital financial infrastructure over the past several decades.",
-          "relevant": true
-        },
-        {
-          "title": "Geoeconomic pressure",
-          "link": "https://www.bis.org/publications/working-paper-1386-geoeconomic-pressure",
-          "published": "2026-10-19T00:00:00Z",
-          "description": "The increasing use of geoeconomic pressure is reshaping the global economy.",
-          "relevant": true
-        },
-        {
           "title": "Central banks and macro financial stability in a fragmented global economy",
           "link": "https://www.bis.org/publications/paper-176-central-banks-and-macro-financial-stability-fragmented-global-economy",
           "published": "2026-10-19T00:00:00Z",
           "description": "The 25th BIS Annual Conference took place in Basel, Switzerland on 26 June 2026. The event brought together a distinguished group of central bank Governors, leading academics and former public officials to exchange views on the theme “Central banks and macro-financial stability in a fragmented global economy”.",
+          "relevant": true
+        },
+        {
+          "title": "Inflation after the Iran war",
+          "link": "https://www.bis.org/publications/working-paper-1384-inflation-after-iran-war",
+          "published": "2026-10-19T00:00:00Z",
+          "description": "An unexpected increase in energy costs raises inflation directly through flexibly-set prices. Whether that shock amplifies to a larger and persistent rise in inflation depends on its transmission through the economy.",
+          "relevant": true
+        },
+        {
+          "title": "Competing rails for crossborder payments: banks, fintechs, and stablecoins",
+          "link": "https://www.bis.org/publications/working-paper-1385-competing-rails-crossborder-payments-banks-fintechs-and-stablecoins",
+          "published": "2026-10-19T00:00:00Z",
+          "description": "Cross-border payments remain slow and expensive despite significant improvements in digital financial infrastructure over the past several decades.",
           "relevant": true
         }
       ],
