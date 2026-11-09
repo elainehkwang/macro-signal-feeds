@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T00:58:34.915373+00:00",
+  "generated_at": "2026-11-09T01:18:30.772676+00:00",
   "source": "rss",
   "feeds_count": 17,
   "total_entries": 100,
@@ -259,6 +259,27 @@
       "description": "",
       "entries": [
         {
+          "title": "Market Operations by the Bank of Japan (Oct.)",
+          "link": "http://www.boj.or.jp/en/statistics/boj/fm/ope/m_release/2026/ope2610.xlsx",
+          "published": "Mon, 09 Nov 2026 08:50:00 +0900",
+          "description": "",
+          "relevant": true
+        },
+        {
+          "title": "Monetary Base and the Bank of Japan's Transactions (Oct.)",
+          "link": "http://www.boj.or.jp/en/statistics/boj/other/mbt/mbt2610.pdf",
+          "published": "Mon, 09 Nov 2026 08:50:00 +0900",
+          "description": "",
+          "relevant": true
+        },
+        {
+          "title": "Bank of Japan's Transactions with the Government (Oct.)",
+          "link": "http://www.boj.or.jp/en/statistics/boj/other/tseifu/release/2026/seifu2610.pdf",
+          "published": "Mon, 09 Nov 2026 08:50:00 +0900",
+          "description": "",
+          "relevant": true
+        },
+        {
           "title": "Speech by Governor UEDA at the 2026 Michel Camdessus Central Banking Lecture, International Monetary Fund",
           "link": "http://www.boj.or.jp/en/about/press/koen_2026/ko261107a.htm",
           "published": "Sat, 07 Nov 2026 01:00:00 +0900",
@@ -308,33 +329,11 @@
           "published": "Wed, 04 Nov 2026 17:00:00 +0900",
           "description": "",
           "relevant": true
-        },
-        {
-          "title": "Collateral Accepted by the Bank of Japan (End of  Oct.)",
-          "link": "http://www.boj.or.jp/en/statistics/boj/other/col/col2610.xlsx",
-          "published": "Wed, 04 Nov 2026 17:00:00 +0900",
-          "description": "",
-          "relevant": true
-        },
-        {
-          "title": "Bank of Japan Accounts (October 31)",
-          "link": "http://www.boj.or.jp/en/statistics/boj/other/acmai/release/2026/ac261031.htm",
-          "published": "Wed, 04 Nov 2026 10:00:00 +0900",
-          "description": "",
-          "relevant": true
-        },
-        {
-          "title": "Monetary Base (Oct.)",
-          "link": "http://www.boj.or.jp/en/statistics/boj/other/mb/mb.htm",
-          "published": "Wed, 04 Nov 2026 08:50:00 +0900",
-          "description": "",
-          "relevant": false,
-          "_skip_reason": "no_macro_keyword"
         }
       ],
       "count": 10,
       "domain": "Japan",
-      "relevant_count": 7
+      "relevant_count": 8
     },
     {
       "name": "BOE — News & MPC Minutes",
@@ -567,13 +566,6 @@
           "relevant": true
         },
         {
-          "title": "Central banks and macro financial stability in a fragmented global economy",
-          "link": "https://www.bis.org/publications/paper-176-central-banks-and-macro-financial-stability-fragmented-global-economy",
-          "published": "2026-10-19T00:00:00Z",
-          "description": "The 25th BIS Annual Conference took place in Basel, Switzerland on 26 June 2026. The event brought together a distinguished group of central bank Governors, leading academics and former public officials to exchange views on the theme “Central banks and macro-financial stability in a fragmented global economy”.",
-          "relevant": true
-        },
-        {
           "title": "Inflation after the Iran war",
           "link": "https://www.bis.org/publications/working-paper-1384-inflation-after-iran-war",
           "published": "2026-10-19T00:00:00Z",
@@ -585,6 +577,13 @@
           "link": "https://www.bis.org/publications/working-paper-1385-competing-rails-crossborder-payments-banks-fintechs-and-stablecoins",
           "published": "2026-10-19T00:00:00Z",
           "description": "Cross-border payments remain slow and expensive despite significant improvements in digital financial infrastructure over the past several decades.",
+          "relevant": true
+        },
+        {
+          "title": "Geoeconomic pressure",
+          "link": "https://www.bis.org/publications/working-paper-1386-geoeconomic-pressure",
+          "published": "2026-10-19T00:00:00Z",
+          "description": "The increasing use of geoeconomic pressure is reshaping the global economy.",
           "relevant": true
         }
       ],
