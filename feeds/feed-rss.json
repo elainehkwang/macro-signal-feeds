@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T01:18:30.772676+00:00",
+  "generated_at": "2026-11-10T03:53:29.097869+00:00",
   "source": "rss",
   "feeds_count": 17,
   "total_entries": 100,
@@ -95,6 +95,34 @@
       "description": "Treasury Auction Results",
       "entries": [
         {
+          "title": "6-Week Bill Treasury Auction Results",
+          "link": "https://www.treasurydirect.gov/auctions/auction-results/",
+          "published": "Mon, 09 Nov 2026 18:11:41 GMT",
+          "description": "CUSIP:  912797TC1  Term and Type:  6-Week Bill  CMB:  No  High Rate:  3.990%  Investment Rate:  4.064%  Price:  $99.534500  Allotted at High:  21.32%  Total Tendered:  $265,860,793,100  Total Accepted:  $106,692,793,100  Auction Date:  11/09/2026  Issue Date:  11/12/2026  Maturity Date:  12/24/2026  CUSIP:  912797TC1  Term and Type:  6-Week Bill  CMB:  No  High Rate:  3.990%  Investment Rate:  4.064%  Price:  $99.534500  Allotted at High:  21.32%  Total Tendered:  $265,860,793,100  Total Accepted:  $106,692,793,100  Auction Date:  11/09/2026  Issue Date:  11/12/2026  Maturity Date:  12/24/2026  PDF  |  XML",
+          "relevant": true
+        },
+        {
+          "title": "3-Year Note Treasury Auction Results",
+          "link": "https://www.treasurydirect.gov/auctions/auction-results/",
+          "published": "Mon, 09 Nov 2026 18:04:16 GMT",
+          "description": "CUSIP:  91282CRW3  Term and Type:  3-Year Note  Reopening:  No  Interest Rate:  4.625%  High Yield:  4.627%  Price:  $99.994175  Allotted at High:  73.41%  Total Tendered:  $158,381,127,500  Total Accepted:  $69,765,106,500  Auction Date:  11/09/2026  Issue Date:  11/16/2026  Maturity Date:  11/15/2029  CUSIP:  91282CRW3  Term and Type:  3-Year Note  Reopening:  No  Interest Rate:  4.625%  High Yield:  4.627%  Price:  $99.994175  Allotted at High:  73.41%  Total Tendered:  $158,381,127,500  Total Accepted:  $69,765,106,500  Auction Date:  11/09/2026  Issue Date:  11/16/2026  Maturity Date:  11/15/2029  PDF  |  XML",
+          "relevant": true
+        },
+        {
+          "title": "26-Week Bill Treasury Auction Results",
+          "link": "https://www.treasurydirect.gov/auctions/auction-results/",
+          "published": "Mon, 09 Nov 2026 16:34:19 GMT",
+          "description": "CUSIP:  912797UX3  Term and Type:  26-Week Bill  CMB:  No  High Rate:  4.145%  Investment Rate:  4.293%  Price:  $97.904472  Allotted at High:  70.91%  Total Tendered:  $245,172,514,900  Total Accepted:  $87,488,471,900  Auction Date:  11/09/2026  Issue Date:  11/12/2026  Maturity Date:  05/13/2027  CUSIP:  912797UX3  Term and Type:  26-Week Bill  CMB:  No  High Rate:  4.145%  Investment Rate:  4.293%  Price:  $97.904472  Allotted at High:  70.91%  Total Tendered:  $245,172,514,900  Total Accepted:  $87,488,471,900  Auction Date:  11/09/2026  Issue Date:  11/12/2026  Maturity Date:  05/13/2027  PDF  |  XML",
+          "relevant": true
+        },
+        {
+          "title": "13-Week Bill Treasury Auction Results",
+          "link": "https://www.treasurydirect.gov/auctions/auction-results/",
+          "published": "Mon, 09 Nov 2026 16:33:35 GMT",
+          "description": "CUSIP:  912797WB9  Term and Type:  13-Week Bill  CMB:  No  High Rate:  4.060%  Investment Rate:  4.159%  Price:  $98.973722  Allotted at High:  79.03%  Total Tendered:  $260,428,556,300  Total Accepted:  $101,357,615,100  Auction Date:  11/09/2026  Issue Date:  11/12/2026  Maturity Date:  02/11/2027  CUSIP:  912797WB9  Term and Type:  13-Week Bill  CMB:  No  High Rate:  4.060%  Investment Rate:  4.159%  Price:  $98.973722  Allotted at High:  79.03%  Total Tendered:  $260,428,556,300  Total Accepted:  $101,357,615,100  Auction Date:  11/09/2026  Issue Date:  11/12/2026  Maturity Date:  02/11/2027  PDF  |  XML",
+          "relevant": true
+        },
+        {
           "title": "8-Week Bill Treasury Auction Results",
           "link": "https://www.treasurydirect.gov/auctions/auction-results/",
           "published": "Thu, 05 Nov 2026 16:34:14 GMT",
@@ -134,34 +162,6 @@
           "link": "https://www.treasurydirect.gov/auctions/auction-results/",
           "published": "Mon, 02 Nov 2026 16:33:17 GMT",
           "description": "CUSIP:  912797VV6  Term and Type:  13-Week Bill  CMB:  No  High Rate:  4.040%  Investment Rate:  4.138%  Price:  $98.978778  Allotted at High:  64.28%  Total Tendered:  $279,513,771,400  Total Accepted:  $100,913,494,600  Auction Date:  11/02/2026  Issue Date:  11/05/2026  Maturity Date:  02/04/2027  CUSIP:  912797VV6  Term and Type:  13-Week Bill  CMB:  No  High Rate:  4.040%  Investment Rate:  4.138%  Price:  $98.978778  Allotted at High:  64.28%  Total Tendered:  $279,513,771,400  Total Accepted:  $100,913,494,600  Auction Date:  11/02/2026  Issue Date:  11/05/2026  Maturity Date:  02/04/2027  PDF  |  XML",
-          "relevant": true
-        },
-        {
-          "title": "7-Year Note Treasury Auction Results",
-          "link": "https://www.treasurydirect.gov/auctions/auction-results/",
-          "published": "Thu, 29 Oct 2026 17:03:21 GMT",
-          "description": "CUSIP:  91282CRV5  Term and Type:  7-Year Note  Reopening:  No  Interest Rate:  4.875%  High Yield:  4.894%  Price:  $99.887964  Allotted at High:  63.94%  Total Tendered:  $113,332,412,600  Total Accepted:  $48,889,264,600  Auction Date:  10/29/2026  Issue Date:  11/02/2026  Maturity Date:  10/31/2033  CUSIP:  91282CRV5  Term and Type:  7-Year Note  Reopening:  No  Interest Rate:  4.875%  High Yield:  4.894%  Price:  $99.887964  Allotted at High:  63.94%  Total Tendered:  $113,332,412,600  Total Accepted:  $48,889,264,600  Auction Date:  10/29/2026  Issue Date:  11/02/2026  Maturity Date:  10/31/2033  PDF  |  XML",
-          "relevant": true
-        },
-        {
-          "title": "8-Week Bill Treasury Auction Results",
-          "link": "https://www.treasurydirect.gov/auctions/auction-results/",
-          "published": "Thu, 29 Oct 2026 15:34:10 GMT",
-          "description": "CUSIP:  912797WH6  Term and Type:  8-Week Bill  CMB:  No  High Rate:  4.020%  Investment Rate:  4.101%  Price:  $99.374667  Allotted at High:  66.20%  Total Tendered:  $295,235,394,100  Total Accepted:  $115,605,754,100  Auction Date:  10/29/2026  Issue Date:  11/03/2026  Maturity Date:  12/29/2026  CUSIP:  912797WH6  Term and Type:  8-Week Bill  CMB:  No  High Rate:  4.020%  Investment Rate:  4.101%  Price:  $99.374667  Allotted at High:  66.20%  Total Tendered:  $295,235,394,100  Total Accepted:  $115,605,754,100  Auction Date:  10/29/2026  Issue Date:  11/03/2026  Maturity Date:  12/29/2026  PDF  |  XML",
-          "relevant": true
-        },
-        {
-          "title": "4-Week Bill Treasury Auction Results",
-          "link": "https://www.treasurydirect.gov/auctions/auction-results/",
-          "published": "Thu, 29 Oct 2026 15:33:23 GMT",
-          "description": "CUSIP:  912797VZ7  Term and Type:  4-Week Bill  CMB:  No  High Rate:  3.910%  Investment Rate:  3.976%  Price:  $99.695889  Allotted at High:  16.96%  Total Tendered:  $362,286,591,900  Total Accepted:  $120,859,718,900  Auction Date:  10/29/2026  Issue Date:  11/03/2026  Maturity Date:  12/01/2026  CUSIP:  912797VZ7  Term and Type:  4-Week Bill  CMB:  No  High Rate:  3.910%  Investment Rate:  3.976%  Price:  $99.695889  Allotted at High:  16.96%  Total Tendered:  $362,286,591,900  Total Accepted:  $120,859,718,900  Auction Date:  10/29/2026  Issue Date:  11/03/2026  Maturity Date:  12/01/2026  PDF  |  XML",
-          "relevant": true
-        },
-        {
-          "title": "17-Week Bill Treasury Auction Results",
-          "link": "https://www.treasurydirect.gov/auctions/auction-results/",
-          "published": "Wed, 28 Oct 2026 15:33:48 GMT",
-          "description": "CUSIP:  912797XB8  Term and Type:  17-Week Bill  CMB:  No  High Rate:  4.140%  Investment Rate:  4.256%  Price:  $98.631500  Allotted at High:  35.48%  Total Tendered:  $235,153,993,000  Total Accepted:  $78,821,572,600  Auction Date:  10/28/2026  Issue Date:  11/03/2026  Maturity Date:  03/02/2027  CUSIP:  912797XB8  Term and Type:  17-Week Bill  CMB:  No  High Rate:  4.140%  Investment Rate:  4.256%  Price:  $98.631500  Allotted at High:  35.48%  Total Tendered:  $235,153,993,000  Total Accepted:  $78,821,572,600  Auction Date:  10/28/2026  Issue Date:  11/03/2026  Maturity Date:  03/02/2027  PDF  |  XML",
           "relevant": true
         }
       ],
@@ -259,6 +259,37 @@
       "description": "",
       "entries": [
         {
+          "title": "Principal Figures of Financial Institutions (Oct.)",
+          "link": "http://www.boj.or.jp/en/statistics/dl/depo/kashi/kasi2610.pdf",
+          "published": "Tue, 10 Nov 2026 08:50:00 +0900",
+          "description": "",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
+        },
+        {
+          "title": "Summary of Opinions at the Monetary Policy Meeting on October 29 and 30, 2026",
+          "link": "http://www.boj.or.jp/en/mopo/mpmsche_minu/opinion_2026/opi261030.pdf",
+          "published": "Tue, 10 Nov 2026 08:50:00 +0900",
+          "description": "",
+          "relevant": true
+        },
+        {
+          "title": "Amounts Outstanding in the Call Money Market (Oct.)",
+          "link": "http://www.boj.or.jp/en/statistics/market/short/call/call.xlsx",
+          "published": "Mon, 09 Nov 2026 15:00:00 +0900",
+          "description": "",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
+        },
+        {
+          "title": "Consumption Activity Index",
+          "link": "http://www.boj.or.jp/en/research/research_data/cai/index.htm",
+          "published": "Mon, 09 Nov 2026 14:00:00 +0900",
+          "description": "",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
+        },
+        {
           "title": "Market Operations by the Bank of Japan (Oct.)",
           "link": "http://www.boj.or.jp/en/statistics/boj/fm/ope/m_release/2026/ope2610.xlsx",
           "published": "Mon, 09 Nov 2026 08:50:00 +0900",
@@ -300,40 +331,11 @@
           "description": "",
           "relevant": false,
           "_skip_reason": "no_macro_keyword"
-        },
-        {
-          "title": "Holding the Twenty-fifth Round of the \"Bond Market Group\" Meetings",
-          "link": "http://www.boj.or.jp/en/paym/bond/mbond_list/mbond261105.pdf",
-          "published": "Thu, 05 Nov 2026 16:00:00 +0900",
-          "description": "",
-          "relevant": true
-        },
-        {
-          "title": "Sources of Changes in Current Account Balances (Projections for Nov.)",
-          "link": "http://www.boj.or.jp/en/statistics/boj/fm/juqp/juqp2611.xlsx",
-          "published": "Thu, 05 Nov 2026 08:50:00 +0900",
-          "description": "",
-          "relevant": false,
-          "_skip_reason": "no_macro_keyword"
-        },
-        {
-          "title": "Minutes of the Monetary Policy Meeting on September 17 and 18, 2026",
-          "link": "http://www.boj.or.jp/en/mopo/mpmsche_minu/minu_2026/g260918.pdf",
-          "published": "Thu, 05 Nov 2026 08:50:00 +0900",
-          "description": "",
-          "relevant": true
-        },
-        {
-          "title": "Japanese Government Bonds Held by the Bank of Japan",
-          "link": "http://www.boj.or.jp/en/statistics/boj/other/mei/release/2026/mei261030.xlsx",
-          "published": "Wed, 04 Nov 2026 17:00:00 +0900",
-          "description": "",
-          "relevant": true
         }
       ],
       "count": 10,
       "domain": "Japan",
-      "relevant_count": 8
+      "relevant_count": 6
     },
     {
       "name": "BOE — News & MPC Minutes",
@@ -425,6 +427,20 @@
       "description": "Nonpartisan budgetary and economic analysis for the U.S. Congress.",
       "entries": [
         {
+          "title": "Monthly Budget Review: Summary for Fiscal Year 2026",
+          "link": "https://www.cbo.gov/publication/61986",
+          "published": "Mon, 09 Nov 2026 14:00:00 -0500",
+          "description": "In fiscal year 2026, which ended on September 30, the federal budget deficit totaled $2.0 trillion—an increase of $217 billion (or 12 percent) from the deficit recorded in the previous year.",
+          "relevant": true
+        },
+        {
+          "title": "S. 3041, Tribal Warrant Fairness Act",
+          "link": "https://www.cbo.gov/publication/62906",
+          "published": "Mon, 09 Nov 2026 13:56:00 -0500",
+          "description": "As passed by the Senate on June 10, 2026",
+          "relevant": true
+        },
+        {
           "title": "S. 3639, SAT Streamlining Act",
           "link": "https://www.cbo.gov/publication/62903",
           "published": "Fri, 06 Nov 2026 14:00:00 -0500",
@@ -478,20 +494,6 @@
           "title": "H.R. 2306, Adams Memorial-Great American Heroes Act",
           "link": "https://www.cbo.gov/publication/62823",
           "published": "Fri, 30 Oct 2026 15:38:00 -0400",
-          "description": "As ordered reported by the Senate Committee on Energy and Natural Resources on September 30, 2026",
-          "relevant": true
-        },
-        {
-          "title": "S. 3371, National Museum of the Blind People’s Movement Act",
-          "link": "https://www.cbo.gov/publication/62894",
-          "published": "Fri, 30 Oct 2026 15:35:00 -0400",
-          "description": "As ordered reported by the Senate Committee on Energy and Natural Resources on September 30, 2026",
-          "relevant": true
-        },
-        {
-          "title": "H.R. 7618, American Battlefield Protection Program Amendments Act of 2026",
-          "link": "https://www.cbo.gov/publication/62895",
-          "published": "Fri, 30 Oct 2026 15:34:00 -0400",
           "description": "As ordered reported by the Senate Committee on Energy and Natural Resources on September 30, 2026",
           "relevant": true
         }
@@ -566,13 +568,6 @@
           "relevant": true
         },
         {
-          "title": "Inflation after the Iran war",
-          "link": "https://www.bis.org/publications/working-paper-1384-inflation-after-iran-war",
-          "published": "2026-10-19T00:00:00Z",
-          "description": "An unexpected increase in energy costs raises inflation directly through flexibly-set prices. Whether that shock amplifies to a larger and persistent rise in inflation depends on its transmission through the economy.",
-          "relevant": true
-        },
-        {
           "title": "Competing rails for crossborder payments: banks, fintechs, and stablecoins",
           "link": "https://www.bis.org/publications/working-paper-1385-competing-rails-crossborder-payments-banks-fintechs-and-stablecoins",
           "published": "2026-10-19T00:00:00Z",
@@ -584,6 +579,13 @@
           "link": "https://www.bis.org/publications/working-paper-1386-geoeconomic-pressure",
           "published": "2026-10-19T00:00:00Z",
           "description": "The increasing use of geoeconomic pressure is reshaping the global economy.",
+          "relevant": true
+        },
+        {
+          "title": "Central banks and macro financial stability in a fragmented global economy",
+          "link": "https://www.bis.org/publications/paper-176-central-banks-and-macro-financial-stability-fragmented-global-economy",
+          "published": "2026-10-19T00:00:00Z",
+          "description": "The 25th BIS Annual Conference took place in Basel, Switzerland on 26 June 2026. The event brought together a distinguished group of central bank Governors, leading academics and former public officials to exchange views on the theme “Central banks and macro-financial stability in a fragmented global economy”.",
           "relevant": true
         }
       ],
@@ -824,6 +826,13 @@
       "description": "The place to find CSET's publications, reports, and people",
       "entries": [
         {
+          "title": "The U.S.–China AI Competition: Two Paths to Artificial General Intelligence",
+          "link": "https://cset.georgetown.edu/article/the-u-s-china-ai-competition-two-paths-to-artificial-general-intelligence/",
+          "published": "Mon, 09 Nov 2026 15:00:28 +0000",
+          "description": "The United States leads the world in frontier AI models and computing, but China is pursuing broader paths toward artificial general intelligence, including robotics, “embodiment,” and brain-inspired systems. A forthcoming CSET study compares the two countries’ strengths and asks what U.S. policymakers may miss when they treat AI competition as a single race. \n The post  The U.S.–China AI Competition: Two Paths to Artificial General Intelligence  appeared first on  Center for Security and Emerging Technology .",
+          "relevant": true
+        },
+        {
           "title": "How Black-Box Distillation Works",
           "link": "https://cset.georgetown.edu/article/how-black-box-distillation-works/",
           "published": "Mon, 26 Oct 2026 13:41:00 +0000",
@@ -884,13 +893,6 @@
           "link": "https://cset.georgetown.edu/article/will-the-ai-accord-have-any-meaningful-impact-panel-weighs-in/",
           "published": "Wed, 30 Sep 2026 21:00:00 +0000",
           "description": "CSET’s Helen Toner shared her expert insight in an interview with NewsNation’s On Balance. The interview discussed a new binding agreement between President Trump and AI developers to regulate the development and use of artificial intelligence. \n The post  Will the AI accord have any meaningful impact? Panel weighs in  appeared first on  Center for Security and Emerging Technology .",
-          "relevant": true
-        },
-        {
-          "title": "Triumph or Procrastination? Experts Split on the Trump-Xi Summit",
-          "link": "https://cset.georgetown.edu/article/triumph-or-procrastination-experts-split-on-the-trump-xi-summit/",
-          "published": "Wed, 30 Sep 2026 21:00:00 +0000",
-          "description": "CSET’s Sam Bresnick shared his expert insight in an op-ed published by War on the Rocks. The article examines President Donald Trump’s three-day summit with Chinese President Xi Jinping in Washington, focusing on high-stakes issues including trade, artificial intelligence, and Taiwan. \n The post  Triumph or Procrastination? Experts Split on the Trump-Xi Summit  appeared first on  Center for Security and Emerging Technology .",
           "relevant": true
         }
       ],
