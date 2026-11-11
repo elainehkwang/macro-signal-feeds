@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T03:53:29.097869+00:00",
+  "generated_at": "2026-11-11T01:36:02.837054+00:00",
   "source": "rss",
   "feeds_count": 17,
   "total_entries": 100,
@@ -95,6 +95,13 @@
       "description": "Treasury Auction Results",
       "entries": [
         {
+          "title": "10-Year Note Treasury Auction Results",
+          "link": "https://www.treasurydirect.gov/auctions/auction-results/",
+          "published": "Tue, 10 Nov 2026 18:03:35 GMT",
+          "description": "CUSIP:  91282CRX1  Term and Type:  10-Year Note  Reopening:  No  Interest Rate:  5.000%  High Yield:  5.020%  Price:  $99.843952  Allotted at High:  95.17%  Total Tendered:  $111,822,237,500  Total Accepted:  $50,519,618,200  Auction Date:  11/10/2026  Issue Date:  11/16/2026  Maturity Date:  11/15/2036  CUSIP:  91282CRX1  Term and Type:  10-Year Note  Reopening:  No  Interest Rate:  5.000%  High Yield:  5.020%  Price:  $99.843952  Allotted at High:  95.17%  Total Tendered:  $111,822,237,500  Total Accepted:  $50,519,618,200  Auction Date:  11/10/2026  Issue Date:  11/16/2026  Maturity Date:  11/15/2036  PDF  |  XML",
+          "relevant": true
+        },
+        {
           "title": "6-Week Bill Treasury Auction Results",
           "link": "https://www.treasurydirect.gov/auctions/auction-results/",
           "published": "Mon, 09 Nov 2026 18:11:41 GMT",
@@ -156,13 +163,6 @@
           "published": "Mon, 02 Nov 2026 16:34:00 GMT",
           "description": "CUSIP:  912797WX1  Term and Type:  26-Week Bill  CMB:  No  High Rate:  4.150%  Investment Rate:  4.298%  Price:  $97.901944  Allotted at High:  49.23%  Total Tendered:  $242,094,481,100  Total Accepted:  $87,104,512,100  Auction Date:  11/02/2026  Issue Date:  11/05/2026  Maturity Date:  05/06/2027  CUSIP:  912797WX1  Term and Type:  26-Week Bill  CMB:  No  High Rate:  4.150%  Investment Rate:  4.298%  Price:  $97.901944  Allotted at High:  49.23%  Total Tendered:  $242,094,481,100  Total Accepted:  $87,104,512,100  Auction Date:  11/02/2026  Issue Date:  11/05/2026  Maturity Date:  05/06/2027  PDF  |  XML",
           "relevant": true
-        },
-        {
-          "title": "13-Week Bill Treasury Auction Results",
-          "link": "https://www.treasurydirect.gov/auctions/auction-results/",
-          "published": "Mon, 02 Nov 2026 16:33:17 GMT",
-          "description": "CUSIP:  912797VV6  Term and Type:  13-Week Bill  CMB:  No  High Rate:  4.040%  Investment Rate:  4.138%  Price:  $98.978778  Allotted at High:  64.28%  Total Tendered:  $279,513,771,400  Total Accepted:  $100,913,494,600  Auction Date:  11/02/2026  Issue Date:  11/05/2026  Maturity Date:  02/04/2027  CUSIP:  912797VV6  Term and Type:  13-Week Bill  CMB:  No  High Rate:  4.040%  Investment Rate:  4.138%  Price:  $98.978778  Allotted at High:  64.28%  Total Tendered:  $279,513,771,400  Total Accepted:  $100,913,494,600  Auction Date:  11/02/2026  Issue Date:  11/05/2026  Maturity Date:  02/04/2027  PDF  |  XML",
-          "relevant": true
         }
       ],
       "count": 10,
@@ -175,6 +175,20 @@
       "channel": "ECB - European Central Bank",
       "description": "Latest releases on the ECB website - Press releases, speeches and interviews, press conferences.",
       "entries": [
+        {
+          "title": "Philip R. Lane: The science and practice of monetary policy communication: the ECB experience",
+          "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261110_1~9725b7aa07.en.html",
+          "published": "Tue, 10 Nov 2026 17:45:00 +0100",
+          "description": "",
+          "relevant": true
+        },
+        {
+          "title": "Piero Cipollone: Cash and the digital euro: two sides of the same coin",
+          "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261110~9422461bad.en.html",
+          "published": "Tue, 10 Nov 2026 15:00:00 +0100",
+          "description": "",
+          "relevant": true
+        },
         {
           "title": "Christine Lagarde: Interview with Yomiuri Shimbun",
           "link": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261107~e7b86fc4ce.en.html",
@@ -232,20 +246,6 @@
           "published": "Fri, 30 Oct 2026 15:00:00 +0100",
           "description": "",
           "relevant": true
-        },
-        {
-          "title": "Results of the ECB Survey of Professional Forecasters for the fourth quarter of 2026",
-          "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261030~e92c3c838c.en.html",
-          "published": "Fri, 30 Oct 2026 10:00:00 +0100",
-          "description": "",
-          "relevant": true
-        },
-        {
-          "title": "Piero Cipollone: Next-day securities settlement, tokenisation and the transformation of Europe’s financial infrastructure",
-          "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261029~e9b57c3495.en.html",
-          "published": "Thu, 29 Oct 2026 16:50:00 +0100",
-          "description": "",
-          "relevant": true
         }
       ],
       "count": 10,
@@ -258,6 +258,14 @@
       "channel": "Bank of Japan：RSS",
       "description": "",
       "entries": [
+        {
+          "title": "Money Stock (Oct.)",
+          "link": "http://www.boj.or.jp/en/statistics/money/ms/ms2610.pdf",
+          "published": "Wed, 11 Nov 2026 08:50:00 +0900",
+          "description": "",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
+        },
         {
           "title": "Principal Figures of Financial Institutions (Oct.)",
           "link": "http://www.boj.or.jp/en/statistics/dl/depo/kashi/kasi2610.pdf",
@@ -323,14 +331,6 @@
           "published": "Fri, 06 Nov 2026 16:00:00 +0900",
           "description": "",
           "relevant": true
-        },
-        {
-          "title": "IMES Discussion Paper Series (2026)",
-          "link": "http://www.boj.or.jp/en/research/imes/dps/dps26.htm",
-          "published": "Fri, 06 Nov 2026 11:00:00 +0900",
-          "description": "",
-          "relevant": false,
-          "_skip_reason": "no_macro_keyword"
         }
       ],
       "count": 10,
@@ -343,6 +343,14 @@
       "channel": "News",
       "description": "News",
       "entries": [
+        {
+          "title": "Exchange of letters between the Governor and the Chancellor on the Asset Purchase Facility - November 2026",
+          "link": "https://www.bankofengland.co.uk/letter/2026/asset-purchase-facility-november-2026",
+          "published": "Tue, 10 Nov 2026 12:00:00 Z",
+          "description": "Exchange of letters between the Governor and the Chancellor",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
+        },
         {
           "title": "Bank rate increased to 4% - November 2026 Monetary Policy Summary and Minutes",
           "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/november-2026",
@@ -407,18 +415,11 @@
           "published": "Fri, 16 Oct 2026 12:00:00 +0100",
           "description": "Meeting held 15 July 2026",
           "relevant": true
-        },
-        {
-          "title": "David Roberts CV and questionnaire for the Treasury Select Committee",
-          "link": "https://www.bankofengland.co.uk/news/2026/october/david-roberts-tsc-reappointment",
-          "published": "Thu, 15 Oct 2026 10:52:41 +0100",
-          "description": "Published for the Treasury Select Committee",
-          "relevant": true
         }
       ],
       "count": 10,
       "domain": "Europe",
-      "relevant_count": 8
+      "relevant_count": 7
     },
     {
       "name": "CBO — Budget & Economic Outlook",
@@ -426,6 +427,13 @@
       "channel": "CBO Publications",
       "description": "Nonpartisan budgetary and economic analysis for the U.S. Congress.",
       "entries": [
+        {
+          "title": "H.R. 4936, TRAPS Act",
+          "link": "https://www.cbo.gov/publication/62907",
+          "published": "Tue, 10 Nov 2026 14:02:00 -0500",
+          "description": "As ordered reported by the House Committee on Financial Services on September 16, 2026",
+          "relevant": true
+        },
         {
           "title": "Monthly Budget Review: Summary for Fiscal Year 2026",
           "link": "https://www.cbo.gov/publication/61986",
@@ -489,13 +497,6 @@
           "published": "Fri, 30 Oct 2026 15:44:00 -0400",
           "description": "As reported by the House Committee on Natural Resources on October 29, 2026",
           "relevant": true
-        },
-        {
-          "title": "H.R. 2306, Adams Memorial-Great American Heroes Act",
-          "link": "https://www.cbo.gov/publication/62823",
-          "published": "Fri, 30 Oct 2026 15:38:00 -0400",
-          "description": "As ordered reported by the Senate Committee on Energy and Natural Resources on September 30, 2026",
-          "relevant": true
         }
       ],
       "count": 10,
@@ -518,6 +519,14 @@
       "channel": "BIS — Research Papers",
       "description": "",
       "entries": [
+        {
+          "title": "US monetary policy, macroeconomic news and the global secular decline of interest rates",
+          "link": "https://www.bis.org/publications/working-paper-1393-us-monetary-policy-macroeconomic-news-and-global-secular-decline-interest-rates",
+          "published": "2026-11-10T00:00:00Z",
+          "description": "The global secular decline in long-term interest rates since the 1990s has been largely driven by cumulative yield changes during U.S. monetary policy announcement windows (FOMC windows).",
+          "relevant": false,
+          "_skip_reason": "non_macro_pattern"
+        },
         {
           "title": "Gaining (and losing) currency: a global database of currencies, 1850-2026",
           "link": "https://www.bis.org/publications/working-paper-1392-gaining-and-losing-currency-global-database-currencies-1850-2026",
@@ -568,30 +577,23 @@
           "relevant": true
         },
         {
+          "title": "Inflation after the Iran war",
+          "link": "https://www.bis.org/publications/working-paper-1384-inflation-after-iran-war",
+          "published": "2026-10-19T00:00:00Z",
+          "description": "An unexpected increase in energy costs raises inflation directly through flexibly-set prices. Whether that shock amplifies to a larger and persistent rise in inflation depends on its transmission through the economy.",
+          "relevant": true
+        },
+        {
           "title": "Competing rails for crossborder payments: banks, fintechs, and stablecoins",
           "link": "https://www.bis.org/publications/working-paper-1385-competing-rails-crossborder-payments-banks-fintechs-and-stablecoins",
           "published": "2026-10-19T00:00:00Z",
           "description": "Cross-border payments remain slow and expensive despite significant improvements in digital financial infrastructure over the past several decades.",
           "relevant": true
-        },
-        {
-          "title": "Geoeconomic pressure",
-          "link": "https://www.bis.org/publications/working-paper-1386-geoeconomic-pressure",
-          "published": "2026-10-19T00:00:00Z",
-          "description": "The increasing use of geoeconomic pressure is reshaping the global economy.",
-          "relevant": true
-        },
-        {
-          "title": "Central banks and macro financial stability in a fragmented global economy",
-          "link": "https://www.bis.org/publications/paper-176-central-banks-and-macro-financial-stability-fragmented-global-economy",
-          "published": "2026-10-19T00:00:00Z",
-          "description": "The 25th BIS Annual Conference took place in Basel, Switzerland on 26 June 2026. The event brought together a distinguished group of central bank Governors, leading academics and former public officials to exchange views on the theme “Central banks and macro-financial stability in a fragmented global economy”.",
-          "relevant": true
         }
       ],
       "count": 10,
       "domain": "Global Liquidity",
-      "relevant_count": 10
+      "relevant_count": 9
     },
     {
       "name": "Lyn Alden",
