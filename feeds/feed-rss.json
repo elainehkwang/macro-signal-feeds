@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T01:36:02.837054+00:00",
+  "generated_at": "2026-11-12T02:36:19.833011+00:00",
   "source": "rss",
   "feeds_count": 17,
   "total_entries": 100,
@@ -259,6 +259,36 @@
       "description": "",
       "entries": [
         {
+          "title": "Speech by Board Member ASADA in Nagasaki (Economic Activity, Prices, and Monetary Policy in Japan)",
+          "link": "http://www.boj.or.jp/en/about/press/koen_2026/ko261112a.htm",
+          "published": "Thu, 12 Nov 2026 10:30:00 +0900",
+          "description": "",
+          "relevant": true
+        },
+        {
+          "title": "Bank of Japan Accounts (November 10)",
+          "link": "http://www.boj.or.jp/en/statistics/boj/other/acmai/release/2026/ac261110.htm",
+          "published": "Thu, 12 Nov 2026 10:00:00 +0900",
+          "description": "",
+          "relevant": true
+        },
+        {
+          "title": "Corporate Goods Price Index (Oct.)",
+          "link": "http://www.boj.or.jp/en/statistics/pi/cgpi_release/cgpi2610.pdf",
+          "published": "Thu, 12 Nov 2026 08:50:00 +0900",
+          "description": "",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
+        },
+        {
+          "title": "Release of Latest \"Amounts Outstanding of Deposits by Depositor\" Data",
+          "link": "http://www.boj.or.jp/en/statistics/outline/notice_2026/not261112a.htm",
+          "published": "Thu, 12 Nov 2026 08:50:00 +0900",
+          "description": "",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
+        },
+        {
           "title": "Money Stock (Oct.)",
           "link": "http://www.boj.or.jp/en/statistics/money/ms/ms2610.pdf",
           "published": "Wed, 11 Nov 2026 08:50:00 +0900",
@@ -303,39 +333,11 @@
           "published": "Mon, 09 Nov 2026 08:50:00 +0900",
           "description": "",
           "relevant": true
-        },
-        {
-          "title": "Monetary Base and the Bank of Japan's Transactions (Oct.)",
-          "link": "http://www.boj.or.jp/en/statistics/boj/other/mbt/mbt2610.pdf",
-          "published": "Mon, 09 Nov 2026 08:50:00 +0900",
-          "description": "",
-          "relevant": true
-        },
-        {
-          "title": "Bank of Japan's Transactions with the Government (Oct.)",
-          "link": "http://www.boj.or.jp/en/statistics/boj/other/tseifu/release/2026/seifu2610.pdf",
-          "published": "Mon, 09 Nov 2026 08:50:00 +0900",
-          "description": "",
-          "relevant": true
-        },
-        {
-          "title": "Speech by Governor UEDA at the 2026 Michel Camdessus Central Banking Lecture, International Monetary Fund",
-          "link": "http://www.boj.or.jp/en/about/press/koen_2026/ko261107a.htm",
-          "published": "Sat, 07 Nov 2026 01:00:00 +0900",
-          "description": "",
-          "relevant": true
-        },
-        {
-          "title": "(IMES Newsletter) 2026 BoC - Philadelphia Fed - BOJ Joint Workshop",
-          "link": "http://www.boj.or.jp/en/about/release_2026/rel261106b.htm",
-          "published": "Fri, 06 Nov 2026 16:00:00 +0900",
-          "description": "",
-          "relevant": true
         }
       ],
       "count": 10,
       "domain": "Japan",
-      "relevant_count": 6
+      "relevant_count": 4
     },
     {
       "name": "BOE — News & MPC Minutes",
@@ -520,6 +522,13 @@
       "description": "",
       "entries": [
         {
+          "title": "Ready-to-run  global  liquidity  stress tests for banks and banking  systems",
+          "link": "https://www.bis.org/publications/working-paper-1394-ready-to-run-global-liquidity-stress-tests-banks-and-banking-systems",
+          "published": "2026-11-11T00:00:00Z",
+          "description": "Liquidity risk remains a persistent threat to financial stability, as starkly demonstrated by the 2023 banking turmoil in the United States and Europe. Hence, the ability to quickly gauge banks’ liquidity risks could prove useful especially during periods of market stress, but also to assess differences in liquidity buffers across peer economies and banks.",
+          "relevant": true
+        },
+        {
           "title": "US monetary policy, macroeconomic news and the global secular decline of interest rates",
           "link": "https://www.bis.org/publications/working-paper-1393-us-monetary-policy-macroeconomic-news-and-global-secular-decline-interest-rates",
           "published": "2026-11-10T00:00:00Z",
@@ -577,17 +586,10 @@
           "relevant": true
         },
         {
-          "title": "Inflation after the Iran war",
-          "link": "https://www.bis.org/publications/working-paper-1384-inflation-after-iran-war",
+          "title": "Geoeconomic pressure",
+          "link": "https://www.bis.org/publications/working-paper-1386-geoeconomic-pressure",
           "published": "2026-10-19T00:00:00Z",
-          "description": "An unexpected increase in energy costs raises inflation directly through flexibly-set prices. Whether that shock amplifies to a larger and persistent rise in inflation depends on its transmission through the economy.",
-          "relevant": true
-        },
-        {
-          "title": "Competing rails for crossborder payments: banks, fintechs, and stablecoins",
-          "link": "https://www.bis.org/publications/working-paper-1385-competing-rails-crossborder-payments-banks-fintechs-and-stablecoins",
-          "published": "2026-10-19T00:00:00Z",
-          "description": "Cross-border payments remain slow and expensive despite significant improvements in digital financial infrastructure over the past several decades.",
+          "description": "The increasing use of geoeconomic pressure is reshaping the global economy.",
           "relevant": true
         }
       ],
@@ -828,6 +830,27 @@
       "description": "The place to find CSET's publications, reports, and people",
       "entries": [
         {
+          "title": "Espionage, AI, and the Risks of Strategic Overreaction",
+          "link": "https://cset.georgetown.edu/article/espionage-ai-and-the-risks-of-strategic-overreaction/",
+          "published": "Wed, 11 Nov 2026 13:09:00 +0000",
+          "description": "Allegations involving Nvidia’s chief executive have renewed scrutiny of Chinese intelligence collection and U.S. controls on advanced AI chips. Meanwhile, local resistance to data centers—a sentiment that’s been linked to PRC influence campaigns—raises a different challenge to the infrastructure supporting American AI leadership. Although these episodes are not evidence of a coordinated Chinese campaign, together they illustrate how external security threats and domestic policy choices can shape the U.S.–China AI competition—and why responses must be grounded in evidence. \n The post  Espionage, AI, and the Risks of Strategic Overreaction  appeared first on  Center for Security and Emerging Technology .",
+          "relevant": true
+        },
+        {
+          "title": "Spy scandal highlights contradictions at heart of Trump’s China policy",
+          "link": "https://cset.georgetown.edu/article/spy-scandal-highlights-contradictions-at-heart-of-trumps-china-policy/",
+          "published": "Wed, 11 Nov 2026 12:00:00 +0000",
+          "description": "CSET’s Sam Bresnick shared his expert insight in an article published by The Washington Post. The article examines how allegations of Chinese espionage involving Nvidia CEO Jensen Huang have raised questions about President Donald Trump’s approach to U.S.-China relations, semiconductor export controls, and national security. \n The post  Spy scandal highlights contradictions at heart of Trump’s China policy  appeared first on  Center for Security and Emerging Technology .",
+          "relevant": true
+        },
+        {
+          "title": "The phantom life of Alice Huang, alleged Chinese spy who had affair with Nvidia CEO",
+          "link": "https://cset.georgetown.edu/article/the-phantom-life-of-alice-huang-alleged-chinese-spy-who-had-affair-with-nvidia-ceo/",
+          "published": "Tue, 10 Nov 2026 22:00:00 +0000",
+          "description": "CSET’s Sam Bresnick shared his expert insight in an article published by The Washington Post. The article examines allegations of Chinese espionage involving Alice Huang, her relationship with Nvidia CEO Jensen Huang, and concerns over U.S. semiconductor export controls. \n The post  The phantom life of Alice Huang, alleged Chinese spy who had affair with Nvidia CEO  appeared first on  Center for Security and Emerging Technology .",
+          "relevant": true
+        },
+        {
           "title": "The U.S.–China AI Competition: Two Paths to Artificial General Intelligence",
           "link": "https://cset.georgetown.edu/article/the-u-s-china-ai-competition-two-paths-to-artificial-general-intelligence/",
           "published": "Mon, 09 Nov 2026 15:00:28 +0000",
@@ -874,27 +897,6 @@
           "link": "https://cset.georgetown.edu/article/the-triumph-of-tech-fueled-propaganda/",
           "published": "Mon, 05 Oct 2026 16:00:00 +0000",
           "description": "CSET’s Josh A. Goldstein co-authored an op-ed with Renée DiResta in Foreign Affairs. The article examines how foreign influence operations are evolving as governments combine traditional propaganda, social media, covert networks, influencers, and artificial intelligence to shape public opinion across multiple platforms. \n The post  The Triumph of Tech-Fueled Propaganda  appeared first on  Center for Security and Emerging Technology .",
-          "relevant": true
-        },
-        {
-          "title": "China has cracked down on AI relationships. Is it ahead of the game?",
-          "link": "https://cset.georgetown.edu/article/china-has-cracked-down-on-ai-relationships-is-it-ahead-of-the-game/",
-          "published": "Fri, 02 Oct 2026 16:57:24 +0000",
-          "description": "CSET’s Sam Bresnick shared his expert insight in an article published by BBC. The article examines China’s new regulations on AI companions and the country’s efforts to address concerns around emotional dependency, child safety, and the broader social effects of human-like AI systems. \n The post  China has cracked down on AI relationships. Is it ahead of the game?  appeared first on  Center for Security and Emerging Technology .",
-          "relevant": true
-        },
-        {
-          "title": "What America and China Fear Most About AI",
-          "link": "https://cset.georgetown.edu/article/what-america-and-china-fear-most-about-ai/",
-          "published": "Fri, 02 Oct 2026 16:44:28 +0000",
-          "description": "CSET’s Helen Toner joined Foreign Affairs for a discussion with Kyle Chan on U.S.-China competition and cooperation in artificial intelligence. \n The post  What America and China Fear Most About AI  appeared first on  Center for Security and Emerging Technology .",
-          "relevant": true
-        },
-        {
-          "title": "Will the AI accord have any meaningful impact? Panel weighs in",
-          "link": "https://cset.georgetown.edu/article/will-the-ai-accord-have-any-meaningful-impact-panel-weighs-in/",
-          "published": "Wed, 30 Sep 2026 21:00:00 +0000",
-          "description": "CSET’s Helen Toner shared her expert insight in an interview with NewsNation’s On Balance. The interview discussed a new binding agreement between President Trump and AI developers to regulate the development and use of artificial intelligence. \n The post  Will the AI accord have any meaningful impact? Panel weighs in  appeared first on  Center for Security and Emerging Technology .",
           "relevant": true
         }
       ],

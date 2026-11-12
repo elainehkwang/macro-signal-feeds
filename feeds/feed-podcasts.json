@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T01:36:02.837054+00:00",
+  "generated_at": "2026-11-12T02:36:19.833011+00:00",
   "source": "podcast_rss",
   "feeds_count": 5,
   "total_episodes": 40,
@@ -187,6 +187,14 @@
       "description": "Conversations with the best investors and business leaders in the world. We explore their ideas, methods, and stories to help you better invest your time and money. Hear stock market and boardroom insights you can't find anywhere else. If you're a professional investor, CEO, entrepreneur, or business strategist, this is for you. Explore all our episodes and learn more at https://www.colossus.com",
       "episodes": [
         {
+          "title": "Zach Reitano - Building Ro and Why Healthcare Should Be 50% of GDP - [Invest Like the Best, EP.500]",
+          "link": "https://colossus.com/episode/the-patient-revolution/",
+          "published": "Wed, 11 Nov 2026 09:00:00 -0000",
+          "description": "My guest today is Zach Reitano, the co-founder and CEO of Ro, the country’s leading provider of GLP-1s. In four years, Ro has grown from a $250 million run rate to over $3 billion, with fewer people than it had in 2021.\n\nThe heart of our conversation is what he sees as the central flaw in American healthcare, which is that the patient is not the customer. He points to GLP-1s and LASIK as examples of what’s possible when patients pay directly, and he thinks AI could bring healthcare down to the price of a Netflix subscription.\n\nBut to capture that opportunity, Zach first had to rebuild Ro's culture around high performance and a big heart. It shows in the stories Ro shares from people like Serena Williams, which help patients get past the stigma of seeking treatment. The inspiration behind i",
+          "audio_url": "https://traffic.megaphone.fm/CLS9826691790.mp3",
+          "duration": "4567"
+        },
+        {
           "title": "Ramtin Naimi - The State of Venture - [Invest Like the Best, EP.499]",
           "link": "https://colossus.com/episode/trillion-dollar-goalposts/",
           "published": "Fri, 06 Nov 2026 09:00:00 -0000",
@@ -257,14 +265,6 @@
           "description": "Michael Moritz led Sequoia Capital for nearly two decades and backed some of the defining companies of the internet era.&nbsp;\n\nIn his new memoir, Ausländer, he turns his attention to his own family, Jewish refugees who fled Nazi Germany and rebuilt their lives in Wales.&nbsp;\n\nWe discuss the imprint his parents left on him, the method he used for decades of asking founders about their childhoods and the Time profile that ended his relationship with Steve Jobs.&nbsp;\n\nWe also also cover Lee Iacocca, why Don Valentine hired him, Alex Ferguson's approach to managing players, Elon Musk, and why Mike still struggles to feel proud of anything he has done.\n\nPlease enjoy my conversation with Michael Moritz.\n\nFor the full show notes, transcript, and links to mentioned content, check out the episod",
           "audio_url": "https://traffic.megaphone.fm/CLS6587705018.mp3",
           "duration": "4348"
-        },
-        {
-          "title": "Walter Russell Mead - How America Keeps Winning - [Invest Like the Best, EP.490]",
-          "link": "https://colossus.com/episode/god-gold-silicon/",
-          "published": "Tue, 08 Sep 2026 08:00:00 -0000",
-          "description": "My guest today is Walter Russell Mead. Walter is a columnist at the Wall Street Journal and the author of Special Providence and God and Gold, two of the best books written on American power.&nbsp;\n\nHe has spent decades studying how the United States came to dominate the world, and our conversation is about whether it can keep doing so.&nbsp;\n\nWalter lays out the five step playbook that carried the Dutch, then the British, then America to global leadership, and why the same pattern keeps beating centralized continental powers.&nbsp;\n\nWe discuss how Trump turned fame into power, the four schools of American foreign policy and the rise of the tech Hamiltonians, what the drone war in Ukraine means for the Pentagon, and why the erosion of deterrence is the deeper story in the Middle East.&nbsp",
-          "audio_url": "https://traffic.megaphone.fm/CLS4316656997.mp3",
-          "duration": "4688"
         }
       ]
     },
