@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T02:36:19.833011+00:00",
+  "generated_at": "2026-11-13T02:17:01.458662+00:00",
   "source": "podcast_rss",
   "feeds_count": 5,
   "total_episodes": 40,
@@ -10,6 +10,14 @@
       "domain": "US Fiscal",
       "description": "Allocator and asset management expert, Ted Seides, conducts in-depth interviews with leaders in the institutional investing industry. Guests include Chief Investment Officers from leading allocators, asset managers, strategists, thought leaders, and many more. Our mission is to learn, share, and help implement the process of premier investors. Learn more and join our community at capitalallocators.com.",
       "episodes": [
+        {
+          "title": "WTT: You Can't See Everything",
+          "link": "https://tedseides.libsyn.com/wtt-you-cant-see-everything",
+          "published": "Thu, 12 Nov 2026 09:00:00 +0000",
+          "description": "The new documentary about Elizabeth Holmes and a candid conversation with a successful investment manager got me thinking about how we discover the truth. In this  What Ted's Thinking , You Can't See Everything, I explore how the questions allocators ask can shape the answers they receive, and how our search for certainty can get in the way of understanding.           Read Ted's blog   here .            Editing and post-production work for this episode was provided by The Podcast Consultant ( https://thepodcastconsultant. com )",
+          "audio_url": "https://traffic.libsyn.com/secure/tedseides/CA_WTT_-_You_Cant_See_Everything_-_AUDIO_V2.2_intro_music.mp3?dest-id=482814",
+          "duration": "06:27"
+        },
         {
           "title": "Chasing Demand in Early-Stage Venture at Felicis – Aydin Senkut (EP.526)",
           "link": "https://tedseides.libsyn.com/chasing-demand-in-early-stage-venture-at-felicis-aydin-senkut-ep526",
@@ -81,14 +89,6 @@
           "description": "Our next guest on the Senior Decision Makers series is Erlina Yeo Terwelp, a Managing Director at Columbia Investment Management Company, where she oversees the endowment's private markets portfolio.       Erlina's path spans investment banking, private equity, growth equity, and family office investing before she joined Columbia nearly a decade ago. Our conversation covers her evolution as an allocator, how she thinks about manager selection and portfolio construction, the growing role of leadership and team development in her seat, and her perspective on generalist versus specialist team models after working within both.       Erlina is candid, thoughtful, and funny — with a deep commitment to intellectual honesty, an openness to changing her mind, and a willingness to continually put he",
           "audio_url": "https://traffic.libsyn.com/secure/tedseides/CA_-_EP.520_SDM_Erlina_Yeo_Terwelp_-_AUDIO_V2.mp3?dest-id=482814",
           "duration": "51:29"
-        },
-        {
-          "title": "Real Estate Credit Over Yield at Invesco – Charlie Rose (EP.519)",
-          "link": "https://tedseides.libsyn.com/real-estate-credit-over-yield-at-invesco-charlie-rose-ep519",
-          "published": "Thu, 08 Oct 2026 08:00:00 +0000",
-          "description": "Charlie Rose is the Global Head of Real Estate Credit at Invesco, where he oversees an $85 billion global platform. Before joining Invesco, Charlie worked in real estate as an academic researcher, jack-of-all-trades through the financial crisis, and investor up and down the capital stack for eight years at Canyon Partners.       Our conversation covers Invesco's \"credit over yield\" approach, property-first underwriting, collaborative work inside the firm, and relationship-based focus. We discuss sourcing through repeat borrowers, risk management, portfolio construction, contrarian calls, including avoiding data centers and AI exposure, and \"sheds and beds\" theme of industrial and multifamily loans. We close with lessons from the 2022–23 real estate correction, managing troubled loans, and",
-          "audio_url": "https://traffic.libsyn.com/secure/tedseides/CA_-_EP.519_Charlie_Rose_-_AUDIO_V1.mp3?dest-id=482814",
-          "duration": "59:35"
         }
       ]
     },

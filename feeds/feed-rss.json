@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T02:36:19.833011+00:00",
+  "generated_at": "2026-11-13T02:17:01.458662+00:00",
   "source": "rss",
   "feeds_count": 17,
   "total_entries": 100,
@@ -10,6 +10,13 @@
       "channel": "FRB: Press Release - Monetary Policy",
       "description": "Press releases about monetary policy from the Federal Reserve Board",
       "entries": [
+        {
+          "title": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
+          "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm",
+          "published": "Thu, 12 Nov 2026 17:45:00 GMT",
+          "description": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
+          "relevant": true
+        },
         {
           "title": "Federal Reserve issues FOMC statement",
           "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
@@ -75,13 +82,6 @@
           "description": "Minutes of the Board&#39;s discount rate meetings on June 8 and June 17, 2026",
           "relevant": false,
           "_skip_reason": "no_macro_keyword"
-        },
-        {
-          "title": "Federal Reserve announces the leadership and objectives of its task forces to advance the conduct of monetary policy",
-          "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260709a.htm",
-          "published": "Thu, 9 Jul 2026 19:00:00 GMT",
-          "description": "Federal Reserve announces the leadership and objectives of its task forces to advance the conduct of monetary policy",
-          "relevant": true
         }
       ],
       "count": 10,
@@ -94,6 +94,34 @@
       "channel": "Treasury Auction Results",
       "description": "Treasury Auction Results",
       "entries": [
+        {
+          "title": "30-Year Bond Treasury Auction Results",
+          "link": "https://www.treasurydirect.gov/auctions/auction-results/",
+          "published": "Thu, 12 Nov 2026 18:04:21 GMT",
+          "description": "CUSIP:  912810UY2  Term and Type:  30-Year Bond  Reopening:  No  Interest Rate:  5.375%  High Yield:  5.441%  Price:  $99.028979  Allotted at High:  21.29%  Total Tendered:  $64,117,261,900  Total Accepted:  $30,071,177,500  Auction Date:  11/12/2026  Issue Date:  11/16/2026  Maturity Date:  11/15/2056  CUSIP:  912810UY2  Term and Type:  30-Year Bond  Reopening:  No  Interest Rate:  5.375%  High Yield:  5.441%  Price:  $99.028979  Allotted at High:  21.29%  Total Tendered:  $64,117,261,900  Total Accepted:  $30,071,177,500  Auction Date:  11/12/2026  Issue Date:  11/16/2026  Maturity Date:  11/15/2056  PDF  |  XML",
+          "relevant": true
+        },
+        {
+          "title": "17-Week Bill Treasury Auction Results",
+          "link": "https://www.treasurydirect.gov/auctions/auction-results/",
+          "published": "Thu, 12 Nov 2026 18:03:28 GMT",
+          "description": "CUSIP:  912797XH5  Term and Type:  17-Week Bill  CMB:  No  High Rate:  4.225%  Investment Rate:  4.344%  Price:  $98.603403  Allotted at High:  53.24%  Total Tendered:  $213,363,020,300  Total Accepted:  $80,006,060,300  Auction Date:  11/12/2026  Issue Date:  11/17/2026  Maturity Date:  03/16/2027  CUSIP:  912797XH5  Term and Type:  17-Week Bill  CMB:  No  High Rate:  4.225%  Investment Rate:  4.344%  Price:  $98.603403  Allotted at High:  53.24%  Total Tendered:  $213,363,020,300  Total Accepted:  $80,006,060,300  Auction Date:  11/12/2026  Issue Date:  11/17/2026  Maturity Date:  03/16/2027  PDF  |  XML",
+          "relevant": true
+        },
+        {
+          "title": "4-Week Bill Treasury Auction Results",
+          "link": "https://www.treasurydirect.gov/auctions/auction-results/",
+          "published": "Thu, 12 Nov 2026 16:34:20 GMT",
+          "description": "CUSIP:  912797WF0  Term and Type:  4-Week Bill  CMB:  No  High Rate:  3.955%  Investment Rate:  4.022%  Price:  $99.692389  Allotted at High:  26.54%  Total Tendered:  $345,602,105,100  Total Accepted:  $122,676,698,100  Auction Date:  11/12/2026  Issue Date:  11/17/2026  Maturity Date:  12/15/2026  CUSIP:  912797WF0  Term and Type:  4-Week Bill  CMB:  No  High Rate:  3.955%  Investment Rate:  4.022%  Price:  $99.692389  Allotted at High:  26.54%  Total Tendered:  $345,602,105,100  Total Accepted:  $122,676,698,100  Auction Date:  11/12/2026  Issue Date:  11/17/2026  Maturity Date:  12/15/2026  PDF  |  XML",
+          "relevant": true
+        },
+        {
+          "title": "8-Week Bill Treasury Auction Results",
+          "link": "https://www.treasurydirect.gov/auctions/auction-results/",
+          "published": "Thu, 12 Nov 2026 16:33:40 GMT",
+          "description": "CUSIP:  912797WP8  Term and Type:  8-Week Bill  CMB:  No  High Rate:  4.080%  Investment Rate:  4.163%  Price:  $99.365333  Allotted at High:  6.78%  Total Tendered:  $282,114,777,800  Total Accepted:  $117,342,937,800  Auction Date:  11/12/2026  Issue Date:  11/17/2026  Maturity Date:  01/12/2027  CUSIP:  912797WP8  Term and Type:  8-Week Bill  CMB:  No  High Rate:  4.080%  Investment Rate:  4.163%  Price:  $99.365333  Allotted at High:  6.78%  Total Tendered:  $282,114,777,800  Total Accepted:  $117,342,937,800  Auction Date:  11/12/2026  Issue Date:  11/17/2026  Maturity Date:  01/12/2027  PDF  |  XML",
+          "relevant": true
+        },
         {
           "title": "10-Year Note Treasury Auction Results",
           "link": "https://www.treasurydirect.gov/auctions/auction-results/",
@@ -134,34 +162,6 @@
           "link": "https://www.treasurydirect.gov/auctions/auction-results/",
           "published": "Thu, 05 Nov 2026 16:34:14 GMT",
           "description": "CUSIP:  912797WN3  Term and Type:  8-Week Bill  CMB:  No  High Rate:  3.975%  Investment Rate:  4.055%  Price:  $99.381667  Allotted at High:  93.38%  Total Tendered:  $302,545,437,100  Total Accepted:  $117,935,028,100  Auction Date:  11/05/2026  Issue Date:  11/10/2026  Maturity Date:  01/05/2027  CUSIP:  912797WN3  Term and Type:  8-Week Bill  CMB:  No  High Rate:  3.975%  Investment Rate:  4.055%  Price:  $99.381667  Allotted at High:  93.38%  Total Tendered:  $302,545,437,100  Total Accepted:  $117,935,028,100  Auction Date:  11/05/2026  Issue Date:  11/10/2026  Maturity Date:  01/05/2027  PDF  |  XML",
-          "relevant": true
-        },
-        {
-          "title": "4-Week Bill Treasury Auction Results",
-          "link": "https://www.treasurydirect.gov/auctions/auction-results/",
-          "published": "Thu, 05 Nov 2026 16:33:27 GMT",
-          "description": "CUSIP:  912797WE3  Term and Type:  4-Week Bill  CMB:  No  High Rate:  3.890%  Investment Rate:  3.956%  Price:  $99.697444  Allotted at High:  5.33%  Total Tendered:  $291,631,945,700  Total Accepted:  $123,295,885,700  Auction Date:  11/05/2026  Issue Date:  11/10/2026  Maturity Date:  12/08/2026  CUSIP:  912797WE3  Term and Type:  4-Week Bill  CMB:  No  High Rate:  3.890%  Investment Rate:  3.956%  Price:  $99.697444  Allotted at High:  5.33%  Total Tendered:  $291,631,945,700  Total Accepted:  $123,295,885,700  Auction Date:  11/05/2026  Issue Date:  11/10/2026  Maturity Date:  12/08/2026  PDF  |  XML",
-          "relevant": true
-        },
-        {
-          "title": "17-Week Bill Treasury Auction Results",
-          "link": "https://www.treasurydirect.gov/auctions/auction-results/",
-          "published": "Wed, 04 Nov 2026 16:33:01 GMT",
-          "description": "CUSIP:  912797XG7  Term and Type:  17-Week Bill  CMB:  No  High Rate:  4.090%  Investment Rate:  4.204%  Price:  $98.648028  Allotted at High:  94.88%  Total Tendered:  $249,625,678,900  Total Accepted:  $80,410,350,900  Auction Date:  11/04/2026  Issue Date:  11/10/2026  Maturity Date:  03/09/2027  CUSIP:  912797XG7  Term and Type:  17-Week Bill  CMB:  No  High Rate:  4.090%  Investment Rate:  4.204%  Price:  $98.648028  Allotted at High:  94.88%  Total Tendered:  $249,625,678,900  Total Accepted:  $80,410,350,900  Auction Date:  11/04/2026  Issue Date:  11/10/2026  Maturity Date:  03/09/2027  PDF  |  XML",
-          "relevant": true
-        },
-        {
-          "title": "6-Week Bill Treasury Auction Results",
-          "link": "https://www.treasurydirect.gov/auctions/auction-results/",
-          "published": "Tue, 03 Nov 2026 16:33:10 GMT",
-          "description": "CUSIP:  912797VH7  Term and Type:  6-Week Bill  CMB:  No  High Rate:  3.940%  Investment Rate:  4.013%  Price:  $99.540333  Allotted at High:  28.03%  Total Tendered:  $293,900,211,100  Total Accepted:  $106,224,817,400  Auction Date:  11/03/2026  Issue Date:  11/05/2026  Maturity Date:  12/17/2026  CUSIP:  912797VH7  Term and Type:  6-Week Bill  CMB:  No  High Rate:  3.940%  Investment Rate:  4.013%  Price:  $99.540333  Allotted at High:  28.03%  Total Tendered:  $293,900,211,100  Total Accepted:  $106,224,817,400  Auction Date:  11/03/2026  Issue Date:  11/05/2026  Maturity Date:  12/17/2026  PDF  |  XML",
-          "relevant": true
-        },
-        {
-          "title": "26-Week Bill Treasury Auction Results",
-          "link": "https://www.treasurydirect.gov/auctions/auction-results/",
-          "published": "Mon, 02 Nov 2026 16:34:00 GMT",
-          "description": "CUSIP:  912797WX1  Term and Type:  26-Week Bill  CMB:  No  High Rate:  4.150%  Investment Rate:  4.298%  Price:  $97.901944  Allotted at High:  49.23%  Total Tendered:  $242,094,481,100  Total Accepted:  $87,104,512,100  Auction Date:  11/02/2026  Issue Date:  11/05/2026  Maturity Date:  05/06/2027  CUSIP:  912797WX1  Term and Type:  26-Week Bill  CMB:  No  High Rate:  4.150%  Investment Rate:  4.298%  Price:  $97.901944  Allotted at High:  49.23%  Total Tendered:  $242,094,481,100  Total Accepted:  $87,104,512,100  Auction Date:  11/02/2026  Issue Date:  11/05/2026  Maturity Date:  05/06/2027  PDF  |  XML",
           "relevant": true
         }
       ],
@@ -259,6 +259,21 @@
       "description": "",
       "entries": [
         {
+          "title": "Japanese Government Bonds Held by the Bank of Japan",
+          "link": "http://www.boj.or.jp/en/statistics/boj/other/mei/release/2026/mei261110.xlsx",
+          "published": "Thu, 12 Nov 2026 17:00:00 +0900",
+          "description": "",
+          "relevant": true
+        },
+        {
+          "title": "Basic Figures on Fails (Oct.)",
+          "link": "http://www.boj.or.jp/en/statistics/set/bffail/sjgb2610.pdf",
+          "published": "Thu, 12 Nov 2026 16:30:00 +0900",
+          "description": "",
+          "relevant": false,
+          "_skip_reason": "no_macro_keyword"
+        },
+        {
           "title": "Speech by Board Member ASADA in Nagasaki (Economic Activity, Prices, and Monetary Policy in Japan)",
           "link": "http://www.boj.or.jp/en/about/press/koen_2026/ko261112a.htm",
           "published": "Thu, 12 Nov 2026 10:30:00 +0900",
@@ -318,21 +333,6 @@
           "description": "",
           "relevant": false,
           "_skip_reason": "no_macro_keyword"
-        },
-        {
-          "title": "Consumption Activity Index",
-          "link": "http://www.boj.or.jp/en/research/research_data/cai/index.htm",
-          "published": "Mon, 09 Nov 2026 14:00:00 +0900",
-          "description": "",
-          "relevant": false,
-          "_skip_reason": "no_macro_keyword"
-        },
-        {
-          "title": "Market Operations by the Bank of Japan (Oct.)",
-          "link": "http://www.boj.or.jp/en/statistics/boj/fm/ope/m_release/2026/ope2610.xlsx",
-          "published": "Mon, 09 Nov 2026 08:50:00 +0900",
-          "description": "",
-          "relevant": true
         }
       ],
       "count": 10,
@@ -522,6 +522,20 @@
       "description": "",
       "entries": [
         {
+          "title": "The gig economy and digital payments",
+          "link": "https://www.bis.org/publications/paper-177-gig-economy-and-digital-payments",
+          "published": "2026-11-12T00:00:00Z",
+          "description": "The growth of the “gig” economy could have far-reaching implications for payment systems. Gig work involves digital platforms that intermediate between workers and (retail or business) customers, in areas as diverse as ride-hailing and food delivery, freelance design and professional services, and customer service.",
+          "relevant": true
+        },
+        {
+          "title": "MaRCo@BIS: AI-agentic econometric analysis for central bankers",
+          "link": "https://www.bis.org/publications/working-paper-1395-marcobis-ai-agentic-econometric-analysis-central-bankers",
+          "published": "2026-11-12T00:00:00Z",
+          "description": "This paper introduces MaRCo@BIS, the MAcroeconometric Research Companion: a framework of plain-text workflow files, a verified dictionary of canonical model specifications and a tested reference library, read by an off-the-shelf agentic coding environment.",
+          "relevant": true
+        },
+        {
           "title": "Ready-to-run  global  liquidity  stress tests for banks and banking  systems",
           "link": "https://www.bis.org/publications/working-paper-1394-ready-to-run-global-liquidity-stress-tests-banks-and-banking-systems",
           "published": "2026-11-11T00:00:00Z",
@@ -576,20 +590,6 @@
           "link": "https://www.bis.org/publications/working-paper-1389-news-shocks-and-inflation-theory-and-evidence-from-large-oil-discoveries",
           "published": "2026-10-23T00:00:00Z",
           "description": "We study how news shocks affect inflation in open economies, using large oil and gas discoveries with realized production lags of at least five years as observable news about future output. Panel local projections show that discoveries raise core consumer prices over the subsequent decade, with about half the increase occurring prior to extraction.",
-          "relevant": true
-        },
-        {
-          "title": "Bank liquidity regulation and the growth of private credit",
-          "link": "https://www.bis.org/publications/bank-liquidity-regulation-and-growth-private-credit",
-          "published": "2026-10-20T00:00:00Z",
-          "description": "We study the role of bank liquidity regulation in the growth of private credit. Following the introduction of the liquidity coverage ratio (LCR), private credit increases significantly more in U.S. counties with a larger footprint of banks subject to the LCR or of LCR banks with greater initial liquidity shortfalls.",
-          "relevant": true
-        },
-        {
-          "title": "Geoeconomic pressure",
-          "link": "https://www.bis.org/publications/working-paper-1386-geoeconomic-pressure",
-          "published": "2026-10-19T00:00:00Z",
-          "description": "The increasing use of geoeconomic pressure is reshaping the global economy.",
           "relevant": true
         }
       ],
@@ -830,6 +830,13 @@
       "description": "The place to find CSET's publications, reports, and people",
       "entries": [
         {
+          "title": "AI Kill Switches: What Policymakers Should Know",
+          "link": "https://cset.georgetown.edu/article/ai-kill-switches-what-policymakers-should-know/",
+          "published": "Thu, 12 Nov 2026 17:11:52 +0000",
+          "description": "Policymakers have recently proposed requiring “AI kill switches” to quickly stop an AI system or limit the impact of a harmful or unwanted AI incident. This piece describes different potential implementations of AI kill switches at each layer of the AI stack and offers key takeaways for policymakers. \n The post  AI Kill Switches: What Policymakers Should Know  appeared first on  Center for Security and Emerging Technology .",
+          "relevant": true
+        },
+        {
           "title": "Espionage, AI, and the Risks of Strategic Overreaction",
           "link": "https://cset.georgetown.edu/article/espionage-ai-and-the-risks-of-strategic-overreaction/",
           "published": "Wed, 11 Nov 2026 13:09:00 +0000",
@@ -890,13 +897,6 @@
           "link": "https://cset.georgetown.edu/article/should-we-track-ai-chips/",
           "published": "Tue, 06 Oct 2026 13:57:20 +0000",
           "description": "CSET’s Jacob Feldgoise, Kyle Miller, and Hanna Dohmen dove deep into investigating how location verification methods can—and cannot—improve enforcement of export controls on powerful AI chips, culminating in their report. I sat down with Jacob to learn more about the issue, their findings, and what those findings mean for mitigating AI chip smuggling. \n The post  Should We Track AI Chips?  appeared first on  Center for Security and Emerging Technology .",
-          "relevant": true
-        },
-        {
-          "title": "The Triumph of Tech-Fueled Propaganda",
-          "link": "https://cset.georgetown.edu/article/the-triumph-of-tech-fueled-propaganda/",
-          "published": "Mon, 05 Oct 2026 16:00:00 +0000",
-          "description": "CSET’s Josh A. Goldstein co-authored an op-ed with Renée DiResta in Foreign Affairs. The article examines how foreign influence operations are evolving as governments combine traditional propaganda, social media, covert networks, influencers, and artificial intelligence to shape public opinion across multiple platforms. \n The post  The Triumph of Tech-Fueled Propaganda  appeared first on  Center for Security and Emerging Technology .",
           "relevant": true
         }
       ],
