@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T02:17:01.458662+00:00",
+  "generated_at": "2026-11-14T01:54:20.876053+00:00",
   "source": "podcast_rss",
   "feeds_count": 5,
   "total_episodes": 40,
@@ -99,6 +99,14 @@
       "description": "What’s driving this week’s market moves – and where are the biggest opportunities? Goldman Sachs traders discuss.",
       "episodes": [
         {
+          "title": "How Will Higher-than-Expected Inflation Data Impact the Fed's Next Rate Decisions?",
+          "link": "",
+          "published": "Fri, 13 Nov 2026 21:04:00 -0000",
+          "description": "While a smaller hike remains more likely, October’s hotter-than-expected inflation data may open the door to a 50-basis point rate hike at the Fed’s December meeting, says Muhammad Qubbaj, co-head of North America Interest Rate Product Sales and Trading in Goldman Sachs FICC and Equities. A recent drop in oil prices is unlikely to give the Fed cover to look past the CPI number without becoming more aggressive in the inflation fight, Qubbaj says on this episode of The Markets podcast. He also explains why his base case is for the 10-Year Treasury yield to remain below recent highs.&nbsp;&nbsp;This episode was recorded on November 12, 2026.&nbsp;\n\nThe opinions and views expressed herein are as of the date of publication, subject to change without notice, and may not necessarily reflect the i",
+          "audio_url": "https://mgln.ai/e/1720/traffic.megaphone.fm/GLD7615870516.mp3",
+          "duration": "667"
+        },
+        {
           "title": "The US Midterms: Reshaping the Stock Market",
           "link": "",
           "published": "Fri, 06 Nov 2026 18:34:00 -0000",
@@ -169,14 +177,6 @@
           "description": "Investors are pricing in a higher likelihood that the Federal Reserve will hike rates after core CPI inflation rose in August more than economists had estimated. However, a rate hike may not keep the US stock market from climbing higher, says Jonathan Shugar, head of Cross Asset Sales in Goldman Sachs FICC and Equities, on The Markets podcast. Companies reported strong earnings growth in the second quarter, and valuations near the 10-year average are not stretched, he explains. Shugar also discusses why a Fed hike may not restrain investment in artificial intelligence, the risks in longer-term interest rates, and the potential opportunity for investors in consumer experience stocks.  \n\n\nThis episode was recorded on September 11, 2026.\n\n\nThe opinions and views expressed herein are as of the",
           "audio_url": "https://mgln.ai/e/1720/traffic.megaphone.fm/GLD7341082792.mp3",
           "duration": "688"
-        },
-        {
-          "title": "Why Gold Is Expected to Rise to Record Highs",
-          "link": "",
-          "published": "Fri, 04 Sep 2026 18:56:00 -0000",
-          "description": "Gold set a record high in January, but uncertainty about US interest rates and disruption from the Iran war have led to an “elongated pause” in the rally, according to Tony Kim, global head of Metals Trading in Goldman Sachs FICC and Equities. Ultimately, Kim expects strong central bank demand for the yellow metal to help drive gold to new highs, he says on The Markets podcast. Kim also discusses whether fiscal sustainability concerns could spur a rotation into gold, how reduced investment demand from Asia is impacting gold markets, and why silver has been volatile in 2026.\n\n\n\nThe opinions and views expressed herein are as of the date of publication, subject to change without notice, and may not necessarily reflect the institutional views of Goldman Sachs or its affiliates. The material pr",
-          "audio_url": "https://mgln.ai/e/1720/traffic.megaphone.fm/GLD3864932103.mp3",
-          "duration": "704"
         }
       ]
     },
