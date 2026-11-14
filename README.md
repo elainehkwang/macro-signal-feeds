@@ -9,7 +9,7 @@ Built on the [AI Signal](https://github.com/Benboerba620/ai-signal) architecture
 ```
 sources.json              — Curated RSS + podcast source list
   ↓
-GitHub Action             — Daily 22:00 UTC (6 AM HKT)
+GitHub Action             — Weekly, Fri 22:00 UTC (Sat 6 AM HKT)
   ↓
 | `scripts/generate_feeds.py` | One script, RSS + podcasts |
 | `scripts/transcribe_podcasts.py` | OpenAI Whisper transcription (disabled by default) |

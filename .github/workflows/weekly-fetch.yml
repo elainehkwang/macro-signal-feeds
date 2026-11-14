@@ -1,8 +1,10 @@
-name: Daily Macro Feed Fetch
+name: Weekly Macro Feed Fetch
 
+# 每周六 06:00 HKT = 每周五 22:00 UTC（HKT 无夏令时，UTC+8 固定）
+# 2026-11-14 由每日改为每周：宏观信号改为周六 06:00 抓取 + 07:00 出周报
 on:
   schedule:
-    - cron: "0 22 * * *"   # 22:00 UTC = 6:00 AM HKT
+    - cron: "0 22 * * 5"   # Fri 22:00 UTC = Sat 06:00 HKT
   workflow_dispatch:
 
 permissions:
@@ -19,6 +21,8 @@ jobs:
         with:
           python-version: "3.11"
       - run: pip install httpx
+      # 注意：Substack 类源对 GitHub Actions 的 IP 会 403/空返回，
+      # 主通道是本地 Mac 跑（DSH 周六 06:00 任务）。这里是次级快照/兜底。
       - run: python scripts/generate_feeds.py
       - name: Commit & push
         run: |
@@ -28,6 +32,6 @@ jobs:
           if git diff --staged --quiet; then
             echo "No changes"
           else
-            git commit -m "auto: daily feed update $(date -u +%Y-%m-%d)"
+            git commit -m "auto: weekly feed update $(date -u +%Y-%m-%d)"
             git push
           fi
